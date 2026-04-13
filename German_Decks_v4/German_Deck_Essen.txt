@@ -1,0 +1,34 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::Essen
+{{c1::der Apfel::das Obst/die Frucht|die Frucht}}	Der Apfel schmeckt süß.	Essen;Nomen;A1
+{{c1::die Birne::das Obst/die Frucht|die Frucht}}	Die Birne ist reif.	Essen;Nomen;A1
+{{c1::die Orange::die Zitrusfrucht/der Apfelsine|der Apfelsine}}	Die Orange ist saftig.	Essen;Nomen;A1
+{{c1::die Banane::das Gelbe Obst/der Butterbanane|der Butterbanane}}	Die Banane ist reif.	Essen;Nomen;A1
+{{c1::die Erdbeere::die rote Frucht/die Waldbeere|die Waldbeere}}	Die Erdbeere ist süß.	Essen;Nomen;A1
+{{c1::die Weintraube::die Beere/der Wein|die Beere}}	Die Weintraube ist süß.	Essen;Nomen;A1
+{{c1::das Brot::das Backwerk/die Brotsorte|die Brotsorte}}	Das Brot ist frisch gebacken.	Essen;Nomen;A1
+{{c1::das Brötchen::die Semmel/das kleine Brot|die Semmel}}	Das Brötchen ist knusprig.	Essen;Nomen;A1
+{{c1::der Käse::der Schichtkäse/der Weichkäse|der Schichtkäse}}	Der Käse ist lecker.	Essen;Nomen;A1
+{{c1::die Milch::das Weiße/die Kuhmilch|die Kuhmilch}}	Die Milch ist frisch.	Essen;Nomen;A1
+{{c1::das Ei::das Hühnerei/das Eigelb|das Hühnerei}}	Das Ei ist gekocht.	Essen;Nomen;A1
+{{c1::der Schinken::der Speck/der Bacon|der Speck}}	Der Schinken schmeckt gut.	Essen;Nomen;A1
+{{c1::die Wurst::die Fleischware/die Salami|die Salami}}	Die Wurst ist gewürzt.	Essen;Nomen;A1
+{{c1::der Fisch::der Meeresfisch/der Seefisch|der Seefisch}}	Der Fisch ist gebraten.	Essen;Nomen;A1
+{{c1::das Fleisch::das Rindfleisch/das Schweinefleisch|das Rindfleisch}}	Das Fleisch ist zart.	Essen;Nomen;A1
+{{c1::der Reis::das Getreide/die Beilage|die Beilage}}	Der Reis ist gekocht.	Essen;Nomen;A1
+{{c1::die Kartoffel::die Erdäpfel/die Knolle|die Erdäpfel}}	Die Kartoffel ist gekocht.	Essen;Nomen;A1
+{{c1::die Nudel::die Teigware/die Pasta|die Pasta}}	Die Nudel ist lecker.	Essen;Nomen;A1
+{{c1::der Kaffee::das schwarze Getränk/der Wachmacher|der Wachmacher}}	Der Kaffee ist stark.	Essen;Nomen;A1
+{{c1::der Tee::das warme Getränk/der Aufguss|der Aufguss}}	Der Tee ist heiß.	Essen;Nomen;A1
+{{c1::das Wasser::das Nass/die Flüssigkeit|die Flüssigkeit}}	Das Wasser ist kalt.	Essen;Nomen;A1
+{{c1::der Saft::das Fruchtgetränk/der Fruchtsaft|der Fruchtsaft}}	Der Saft ist süß.	Essen;Nomen;A1
+{{c1::das Bier::das Gerstengetränk/der Gerstensaft|der Gerstensaft}}	Das Bier ist kalt.	Essen;Nomen;A1
+{{c1::der Wein::das Traubengetränk/der Rotwein|der Rotwein}}	Der Wein ist trocken.	Essen;Nomen;A1
+{{c1::der Zucker::das Süße/die Süßstoff|die Süßstoff}}	Der Zucker ist weiß.	Essen;Nomen;A1
+{{c1::das Salz::das Würzmittel/die Speisesalz|die Speisesalz}}	Das Salz ist gesalzen.	Essen;Nomen;A1
+{{c1::das Öl::das Pflanzenöl/das Speiseöl|das Speiseöl}}	Das Öl ist kaltgepresst.	Essen;Nomen;A1
+{{c1::die Butter::das Milchfett/der Rahm|der Rahm}}	Die Butter ist aus Milch.	Essen;Nomen;A1
+{{c1::die Marmelade::die Fruchtaufstrich/die Konfitüre|die Konfitüre}}	Die Marmelade ist süß.	Essen;Nomen;A1
+{{c1::der Honig::das Bienenprodukt/der Süßstoff|der Süßstoff}}	Der Honig ist aus dem Bienenstock.	Essen;Nomen;A1

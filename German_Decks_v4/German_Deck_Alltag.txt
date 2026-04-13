@@ -1,0 +1,720 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::Alltag
+{{c1::herum::laufen/eilen/sich beilen | eilen}}	Das Kind rennt immer im Haus herum.	laufen | eilen | sich beilen;A1
+{{c1::nervig::anstrengend/störend | störend}}	Das ist echt nervend.	anstrengend | störend;A1
+{{c1::mitfahren::als Beifahrer reisen}}	Sie sind mit dem Zug mitgefahren.	als Beifahrer reisen;A1
+{{c1::Mehrfamilienhaus::das Wohnhaus}}	Wir suchen ein Mehrfamilienhaus.	das Wohnhaus;A1
+{{c1::Reihehaus::verbundene ziemlich Wohnhaus}}	In der Straße stehen Reihenhäuser.	verbundene Wohnhaus;A1
+{{c1::austoben::seine Energie freisetzen}}	Er hat sich beim Sport ausgetobt.	seine Energie freisetzen;A1
+{{c1::in den Hintergrund geraten/treten::an Bedeutung verlieren}}	Ihre eigenen Wünsche sind wegen der Kinder völlig in den Hintergrund g...	an Bedeutung verlieren;A1
+{{c1::immerhin::wenigstens}}	Immerhin gibt es Kaffee.	wenigstens;A1
+{{c1::austauschen::wechseln/diskutieren | diskutieren}}	Er hat die Batterie ausgetauscht.	wechseln | diskutieren;A1
+{{c1::rasant::sehr schnell}}	Die Stadt wächst rasant.	sehr schnell;A1
+{{c1::ins Auge::auffallen}}	Das fiel mir sofort ins Auge.	auffallen;A1
+{{c1::Schwerpunkt::das Hauptgewicht/der Fokus | der Fokus}}	Wir verlagern den Schwerpunkt.	das Hauptgewicht | der Fokus;A1
+{{c1::gesellschaftliches::sozial/die Gesellschaft betreffend | die Gesellschaft betreffend}}	Sie engagiert sich sehr für gesellschaftliche Probleme in ihrer Heimat...	sozial | die Gesellschaft betreffend;A1
+{{c1::Hochbegabte::das Genie}}	Schon im Kindergarten fiel auf, dass der Junge hochbegabt ist.	das Genie;A1
+{{c1::Element::der Bestandteil}}	Das ist ein wichtiges Element.	der Bestandteil;A1
+{{c1::aufwerten::verbessern/wertvoller machen | wertvoller machen}}	Neue Möbel werten die Wohnung auf.	verbessern | wertvoller machen;A1
+{{c1::wissbegierige::neugierig/lernbereit | lernbereit}}	Kinder in diesem Alter sind meist unglaublich wachsam und wissbegierig...	neugierig | lernbereit;A1
+{{c1::befriedigen::zufriedenstellen}}	Die Antwort des Politikers konnte die kritischen Journalisten nicht be...	zufriedenstellen;A1
+{{c1::Aufmerksamkeit::die Beachtung}}	Die ungewöhnliche Werbung erregte sofort viel Aufmerksamkeit auf der S...	die Beachtung);A1
+{{c1::Ärgernis::das Problem/der Ärger | der Ärger}}	Das defekte Auto auf der Autobahn wurde schnell zu einem Verkehrshinde...	das Problem | der Ärger;A1
+{{c1::Leitung::die wahrscheinlich Führung}}	Die Leitung des Kindergartens hat heute einen Brief an alle Eltern ver...	die Führung);A1
+{{c1::Erfahrungsgemäß::aus Erfahrung}}	Erfahrungsgemäß schneit es in diesem Bergdorf bereits im November.	aus Erfahrung;A1
+{{c1::Investition::die natürlich Kapitalanlage}}	Das Haus war teuer, aber es ist eine sehr sichere Investition für die ...	die Kapitalanlage;A1
+{{c1::Schulpflicht::die jedoch Pflicht zum Schulbesuch}}	Wegen der allgemeinen Schulpflicht dürfen Eltern ihre Kinder nicht ein...	die Pflicht zum Schulbesuch;A1
+{{c1::Gestik::die Handbewegung}}	Der Politiker unterstrich seine lauten Worte mit dramatischer Gestik.	die Handbewegung;A1
+{{c1::lernfähig::in der Lage zu lernen}}	Dieser kleine Hund ist sehr lernfähig und beherrscht schon viele Trick...	in der Lage zu lernen;A1
+{{c1::Paradies::der Garten Eden}}	Der riesige Garten hinter dem Haus ist ein wahres Paradies für Kinder.	der Garten Eden;A1
+{{c1::Müllkippe::die Mülldeponie}}	Nach dem großen Straßenfest glich der Platz einer reinsten Müllkippe.	die Mülldeponie;A1
+{{c1::abgelegenen::isoliert}}	Das Dorf ist so abgelegen, dass es dort kein Internet gibt.	isoliert;A1
+{{c1::unbewohnten::ohne Einwohner}}	Das unbewohnte Haus am Ende der Straße sieht ziemlich unheimlich aus.	ohne Einwohner;A1
+{{c1::gigantische::riesig}}	Der Hunger war nach der langen Wanderung einfach gigantisch.	riesig;A1
+{{c1::zumeist::meistens}}	Das Wetter im Mai ist hier zumeist sonnig und warm.	meistens;A1
+{{c1::rund um die Uhr::24 Stunden am Tag}}	Meine Nachbarn feiern am Wochenende manchmal rund um die Uhr.	24 Stunden am Tag;A1
+{{c1::Grundsatz::das Prinzip}}	Ein wichtiger politischer Grundsatz ist die Freiheit der Meinungsäußer...	das Prinzip;A1
+{{c1::zugeben::eingestehen}}	Ich muss zugeben, dass deine Idee wirklich fantastisch ist.	eingestehen;A1
+{{c1::nachholen::später machen}}	Ich muss dringend etwas Schlaf nachholen, nachdem ich die ganze Nacht ...	später machen;A1
+{{c1::Institution::die Einrichtung}}	Die Europäische Union ist eine komplexe politische Institution.	die Einrichtung;A1
+{{c1::Stadtverwaltung::das indes städtische Amt}}	Du musst deinen neuen Wohnsitz bei der Stadtverwaltung anmelden.	das städtische Amt);A1
+{{c1::willkommen heißen::begrüßen}}	Wir möchten unsere neuen Nachbarn in unserem Haus willkommen heißen.	begrüßen;A1
+{{c1::Respektperson::die Autorität}}	Als Polizist muss er lernen, auf der Straße wie eine Respektperson auf...	die Autorität;A1
+{{c1::bereisen::herumreisen in}}	Im nächsten Sommer planen wir, den asiatischen Kontinent zu bereisen.	herumreisen in;A1
+{{c1::ausgerechnet::genau/exakt | exakt}}	Ausgerechnet heute, wenn ich einen wichtigen Termin habe, springt das ...	genau | exakt;A1
+{{c1::Nachbarland::der angrenzende Staat}}	Das kleine Nachbarland hat kürzlich neue Grenzkontrollen eingeführt.	der angrenzende Staat;A1
+{{c1::interpretieren::deuten}}	Der Kritiker versuchte, den schwierigen Film politisch zu interpretier...	deuten;A1
+{{c1::Unmut::der Ärger}}	Er machte seinem Unmut über das schlechte Essen lauthals Luft.	der Ärger;A1
+{{c1::nach Gefühl::intuitiv}}	Wenn man oft Auto fährt, schaltet man irgendwann komplett nach Gefühl.	intuitiv;A1
+{{c1::ungewohnt::fremd}}	Die totale Stille auf dem Land war für den Großstädter anfangs sehr un...	fremd;A1
+{{c1::selbst gebacken::hausgemacht}}	Am Sonntag essen wir am liebsten selbst gebackenes Brot zum Frühstück.	hausgemacht;A1
+{{c1::verlassen::weggehen von}}	Er hat seine Heimatstadt schon vor vielen Jahren verlassen.	weggehen von;A1
+{{c1::einsperren::einschließen}}	Ich werde meinen Hund sicher nicht den ganzen Tag in der Wohnung einsp...	einschließen;A1
+{{c1::umsehen::sich umschauen}}	Wer die Straße überquert, sollte sich immer sorgfältig umsehen.	sich umschauen;A1
+{{c1::Thriller::der sehr Spannungsroman}}	Sie liest abends vor dem Schlafen gerne düstere Thriller.	der Spannungsroman;A1
+{{c1::rätseln::sich befreien durch Rätsellösen}}	Die Kinder versuchten sich verzweifelt aus dem schwierigen Labyrinth z...	sich befreien durch Rätsellösen;A1
+{{c1::richtet sich an::sich wenden an}}	Meine Bitte richtet sich an alle, die in der Nähe wohnen.	sich wenden an;A1
+{{c1::Prinzip::die Grundregel}}	Aus Prinzip kaufe ich keine Produkte aus ausbeuterischer Kinderarbeit.	die Grundregel;A1
+{{c1::Ausweg::die überraschend Lösung}}	Der einzige Ausweg aus der brennenden Halle war die hintere Notfalltür...	die Lösung;A1
+{{c1::begreifen::verstehen}}	Kinder begreifen oft viel schneller, wie moderne Technik funktioniert,...	verstehen;A1
+{{c1::befallen::leiden unter}}	Im Herbst sind viele Kinder im Kindergarten von Erkältungsviren befall...	leiden unter;A1
+{{c1::wiederkehren::zurückkommen}}	Die alten Traditionen des Dorfes scheinen langsam wiederzukehren.	zurückkommen;A1
+{{c1::Warn- und Schutzfunktion::das Alarmsystem}}	Fieber hat eine natürliche Warn- und Schutzfunktion bei Infektionen.	das Alarmsystem;A1
+{{c1::Bücken::das Herunterbeugen}}	Häufiges Bücken bei der Gartenarbeit geht schnell auf die Gelenke.	das Herunterbeugen;A1
+{{c1::Schlaflosigkeit::die Insomnie}}	Zu viel Kaffee am späten Abend kann oft zu Schlaflosigkeit führen.	die Insomnie);A1
+{{c1::Appetitlosigkeit::der Mangel an Hunger}}	Die Appetitlosigkeit des Hundes war ein klares Zeichen, dass er krank ...	der Mangel an Hunger);A1
+{{c1::Isolation::die Abkapselung}}	Das Haus im Wald bietet die perfekte Isolation von der lauten Welt.	die Abkapselung;A1
+{{c1::erträglich::aushaltbar}}	Das kalte Wetter war durch die dicke Winterjacke einigermaßen erträgli...	aushaltbar;A1
+{{c1::verblassen::schwächer werden}}	Die bunten Farben des alten Plakats begannen in der Sonne schnell zu v...	schwächer werden;A1
+{{c1::Geschehnisse::das Ereignis}}	Der Autor beschreibt in seinem Buch die historischen Geschehnisse des ...	das Ereignis;A1
+{{c1::wohliges::angenehm}}	Das prasselnde Feuer im Kamin verbreitete eine wohlige Wärme im Wohnzi...	angenehm;A1
+{{c1::entfallen::aus dem Gedächtnis verschwinden}}	Es ist mir momentan entfallen, wo wir das Auto genau geparkt haben.	aus dem Gedächtnis verschwinden;A1
+{{c1::erneuern::aktualisieren}}	Wir wollen die alte Küche komplett erneuern und modernisieren.	aktualisieren;A1
+{{c1::Anschluss::danach}}	Der Anschluss meines neuen Fernsehers an das Internet war ganz einfach...	danach;A1
+{{c1::vorgeschrieben::obligatorisch}}	Die Höchstgeschwindigkeit auf dieser schmalen Straße ist gesetzlich vo...	obligatorisch;A1
+{{c1::undurchsichtig::nicht transparent}}	Der dichte Nebel am frühen Morgen machte die schmale Straße extrem und...	nicht transparent;A1
+{{c1::Sicherungsmaßnahmen::der Schutz}}	Nach dem Einbruch wurden neue Sicherungsmaßnahmen im Haus installiert.	der Schutz;A1
+{{c1::nebst::zusammen mit}}	Der alte Herr kaufte das kleine Haus nebst einem großen Obstgarten.	zusammen mit;A1
+{{c1::Urvertrauen::das tiefe Vertrauen}}	Kinder mit einem starken Urvertrauen haben später oft weniger Angst vo...	das tiefe Vertrauen;A1
+{{c1::Lebensbedürfnis::der existenzielle Wunsch}}	Gutes Essen ist für sie nicht nur Nahrungsaufnahme, sondern ein echtes...	der existenzielle Wunsch;A1
+{{c1::zur Welt bringen::gebären}}	Die Ärztin half ihr im Krankenhaus dabei, die Zwillinge sicher zur Wel...	gebären;A1
+{{c1::herumreisen::umherziehen}}	Wir planen, im Sommer mit einem Wohnmobil quer durch Europa herumzurei...	umherziehen;A1
+{{c1::einstellen::eintreten/sich anpassen | sich anpassen}}	Der Schnee wird sich laut Wetterbericht erst in den späten Abendstunde...	eintreten | sich anpassen;A1
+{{c1::Wurzeln::der offensichtlich Ursprung/der Pflanzenteil | der Pflanzenteil}}	Der alte Baum im Garten hat riesige und sehr tiefe Wurzeln im Boden.	der Ursprung | der Pflanzenteil;A1
+{{c1::Nachhausekommen::die Rückkehr heim}}	Ein liebevoll eingerichteter Flur macht das Nachhausekommen jeden Tag ...	die Rückkehr heim;A1
+{{c1::Mordsvergnügen::der Riesenspaß}}	Die Wasserballschlacht im Garten war für die Kinder ein absolutes Mord...	der Riesenspaß;A1
+{{c1::Kriminalromane::der Krimi}}	Der neue Kriminalroman dieses Autors steht seit Wochen auf der Bestsel...	der Krimi;A1
+{{c1::stattdessen::anstatt}}	Es regnete so stark, dass wir stattdessen den ganzen Tag im Haus blieb...	anstatt;A1
+{{c1::anspruchslos::einfach/bescheiden | bescheiden}}	Ihr neuer Freund ist beim Essen zum Glück sehr anspruchslos und isst f...	einfach | bescheiden;A1
+{{c1::Privatdetektiv::der private Ermittler}}	Der clevere Privatdetektiv folgte dem Auto des Verdächtigen unauffälli...	der private Ermittler;A1
+{{c1::Ermittler::der wirklich Kriminalpolizist}}	Die privaten Ermittler observierten das Haus für mehrere Tage.	der Kriminalpolizist;A1
+{{c1::Star::der Prominente}}	Als großer Hollywood-Star kann man kaum unerkannt einkaufen gehen.	der Prominente;A1
+{{c1::nicht sonderlich::nicht besonders}}	Es war heute Morgen nicht sonderlich kalt, also ließ ich die Jacke zu ...	nicht besonders;A1
+{{c1::stressen::belasten}}	Es stresst mich ungemein, wenn mein Chef ständig neue Aufgaben bringt.	belasten;A1
+{{c1::Windstille::die praktisch absolute Ruhe (Wind)}}	Die plötzliche Windstille ließ das Segelboot einfach auf dem Wasser st...	die absolute Ruhe;A1
+{{c1::physikalischer::physikalisch (adj.)}}	Die physikalische Formel zur Berechnung der Geschwindigkeit ist sehr s...	physikalisch;A1
+{{c1::Wetterdienst::die Meteorologie-Behörde}}	Der staatliche Wetterdienst hat heute extrem starke Regenfälle angekün...	die Meteorologie-Behörde;A1
+{{c1::Wetterprognose::die Wettervorhersage}}	Laut der neuesten Wetterprognose wird der Winter in diesem Jahr sehr m...	die Wettervorhersage;A1
+{{c1::ungesund::schädlich}}	Rauchen ist eine extrem ungesunde und leider auch teure Angewohnheit.	schädlich;A1
+{{c1::in genau der prallen Sonne::im direkten Sonnenlicht}}	Die schönen Blumen im Garten sind in der prallen Sonne leider verbrann...	im direkten Sonnenlicht;A1
+{{c1::UV-Strahlen::die Sonnenstrahlung}}	Gute Sonnenbrillen filtern die schädlichen UV-Strahlen komplett aus.	die Sonnenstrahlung;A1
+{{c1::einzucremen::mit Sonnencreme einreiben}}	Er hat sich das Gesicht gut eingecremt, aber seine Schultern vergessen...	mit Sonnencreme einreiben;A1
+{{c1::verleitet dazu::verführen zu}}	Die viele Werbung im Fernsehen verleitet kleine Kinder oft zum Kauf.	verführen zu;A1
+{{c1::Planungssünde::der praktisch architektonische Fehler}}	Das Einkaufszentrum ohne Parkplätze war rückblickend eine absolute Pla...	der architektonische Fehler;A1
+{{c1::Städtebau::die tatsächlich Stadtplanung}}	Der historische Städtebau war oft auf den Bau breiter Kutschenstraßen ...	die Stadtplanung;A1
+{{c1::asphaltiert::geteert}}	Die Kinder können auf dem neu asphaltierten Weg wunderbar Rollschuh fa...	geteert;A1
+{{c1::Parkanlage::der Grünstreifen}}	Die riesige Parkanlage hinter dem alten Schloss wird von Gärtnern sehr...	der Grünstreifen;A1
+{{c1::abdunkeln::dunkel machen}}	Für die Filmvorführung im Klassenraum müssen wir alle Fenster komplett...	dunkel machen;A1
+{{c1::hektisch::gestresst/eilig | eilig}}	Sie wurde sehr hektisch, als sie merkte, dass sie fast ihren Zug verpa...	gestresst | eilig;A1
+{{c1::Abstand finden zu::sich distanzieren von}}	Er muss dringend Abstand zu seinen falschen und toxischen Freunden fin...	sich distanzieren von;A1
+{{c1::Schreibstil::die Art zu schreiben}}	Dein Schreibstil in dieser wissenschaftlichen Hausarbeit ist leider et...	die Art zu schreiben;A1
+{{c1::abgeschaut::imitieren/abgucken | abgucken}}	Kinder schauen sich das meiste Verhalten direkt von ihren Eltern ab.	imitieren | abgucken;A1
+{{c1::Schreibfluss::die flüssige Schreibweise}}	Ein klingelndes Telefon unterbricht meinen Schreibfluss leider immer t...	die flüssige Schreibweise;A1
+{{c1::Erzählfigur::der erstaunlicherweise Charakter im Buch}}	Der Autor wechselt die Perspektive und lässt verschiedene Erzählfigure...	der Charakter im Buch;A1
+{{c1::Leid teilen::die Trauer teilen}}	Nach dem schweren Unfall musste die gesamte Familie ihr Leid teilen.	die Trauer teilen;A1
+{{c1::begehrenswert::attraktiv}}	Dieser seltene Oldtimer ist für viele Autoliebhaber extrem begehrenswe...	attraktiv;A1
+{{c1::monatlich::jeden Monat}}	Wir treffen uns monatlich mit dem gesamten Team zu einem gemütlichen E...	jeden Monat;A1
+{{c1::Zuschuss::das finanzielle Hilfsmittel}}	Für den Kauf des Elektroautos gibt es einen attraktiven staatlichen Zu...	das finanzielle Hilfsmittel;A1
+{{c1::Ausbildungsstätten::der Lehrbetrieb}}	Die Bäckerei in unserem kleinen Dorf ist eine sehr beliebte Ausbildung...	der Lehrbetrieb;A1
+{{c1::vorbehaltlich::unter Vorbehalt}}	Die Eröffnung findet morgen statt, vorbehaltlich guten und trockenen W...	unter Vorbehalt;A1
+{{c1::weiterführende::fortsetzend}}	Die Ärzte raten zu weiterführenden medizinischen Untersuchungen im Kra...	fortsetzend;A1
+{{c1::Auf indes Antrag::nach Anfrage}}	Eine finanzielle Unterstützung für Familien wird nur auf ausdrückliche...	nach Anfrage;A1
+{{c1::Förderung::die finanzielle Hilfe}}	Die frühe musikalische Förderung von Kindern ist unglaublich wichtig f...	die finanzielle Hilfe);A1
+{{c1::gesetzlich::juristisch/legal | legal}}	Jedes Auto in Deutschland muss gesetzlich zwingend haftpflichtversiche...	juristisch | legal;A1
+{{c1::besorgniserregend::alarmierend}}	Der Zustand des verletzten Patienten ist im Moment leider noch sehr be...	alarmierend;A1
+{{c1::gravierende::schwerwiegend}}	Der Wasserschaden im Haus war am Ende viel gravierender als zunächst v...	schwerwiegend;A1
+{{c1::bewässert::wässern}}	Der Gärtner muss die frischen Blumen im Garten jeden Abend großzügig b...	wässern;A1
+{{c1::krebserregend::karzinogen}}	Zu viel gegrilltes Fleisch mit schwarzen Stellen kann krebserregend wi...	karzinogen;A1
+{{c1::vermeiden::umgehen}}	Man sollte am Abend fettes Essen vermeiden, um später besser schlafen ...	umgehen;A1
+{{c1::oberflächlich::flüchtig}}	Sie ist ein sehr oberflächlicher Mensch, der nur auf teure Kleidung ac...	flüchtig;A1
+{{c1::riesig::gigantisch}}	Ich habe einen riesigen Hunger, weil ich heute den ganzen Tag noch nic...	gigantisch;A1
+{{c1::bedürftige::arm}}	Das Kinderheim in der Stadt sammelt Geld für bedürftige und verlassene...	arm;A1
+{{c1::gewährleisten::sicherstellen}}	Der Hersteller muss gewährleisten, dass die neuen Bremsen am Auto perf...	sicherstellen;A1
+{{c1::verunglimpft::beleidigen}}	Man darf seine politischen Gegner im Streit nicht einfach verunglimpfe...	beleidigen;A1
+{{c1::aufgewertet::verbessern}}	Ein neuer, weißer Anstrich wird das alte Haus deutlich aufwerten.	verbessern;A1
+{{c1::einschreiten::eingreifen}}	Der Lehrer musste bei dem Streit der Kinder sofort einschreiten.	eingreifen;A1
+{{c1::Verzicht::die Entbehrung}}	Der plötzliche Verzicht auf sein Auto war für ihn ein sehr großer Schr...	die Entbehrung;A1
+{{c1::verschreibungspflichtig::rezeptpflichtig}}	Dieses starke Schlafmittel ist in der Apotheke glücklicherweise versch...	rezeptpflichtig;A1
+{{c1::Missbrauch::die Fehlbenutzung}}	Der gezielte Missbrauch von politischer Macht ist für eine Gesellschaf...	die Fehlbenutzung;A1
+{{c1::fatale::verheerend}}	Ein kurzer Moment der Unachtsamkeit im Straßenverkehr kann fatal sein.	verheerend;A1
+{{c1::erheblich::beträchtlich}}	Der aktuelle Preisunterschied zwischen den beiden Autos ist wirklich e...	beträchtlich;A1
+{{c1::irreparablen::unheilbar}}	Der Motor des alten Autos nach dem Unfall ist leider irreparabel besch...	unheilbar;A1
+{{c1::schlendern::spazieren}}	Nach dem guten Essen lieben wir es, noch etwas durch die ruhige Stadt ...	spazieren;A1
+{{c1::renaturiert::wiederherstellen}}	Es kostet die Stadt sehr viel Geld, einen alten Industriehafen zu rena...	wiederherstellen;A1
+{{c1::Lesung::der Literaturvortrag}}	Der Autor signierte nach der sehr spannenden Lesung noch viele Bücher.	der Literaturvortrag);A1
+{{c1::Stiftung::die Institution}}	Die gemeinnützige Stiftung hilft armen und kranken Kindern auf der gan...	die Institution);A1
+{{c1::unschätzbarem::unbezahlbar}}	Die Hilfe meiner Familie war in dieser schweren Zeit von absolut unsch...	unbezahlbar;A1
+{{c1::überwinden::bewältigen}}	Nach dem schweren Sturz musste er seine tiefe Angst vor dem Reiten übe...	bewältigen;A1
+{{c1::prominenter::berühmt}}	Ein prominenter Schauspieler moderierte am Wochenende die große Spende...	berühmt;A1
+{{c1::seriös::ernsthaft}}	Der Autohändler machte von Anfang an einen überaus seriösen Eindruck a...	ernsthaft;A1
+{{c1::kostspielig::teuer}}	Ein eigener großer Pool im Garten ist leider sehr kostspielig im tägli...	teuer;A1
+{{c1::Bußgeld::die selbstverständlich Geldstrafe}}	Wer in der Spielstraße zu schnell fährt, muss immer mit einem hohen Bu...	die Geldstrafe;A1
+{{c1::Freiraum::der Spielraum}}	In meiner großen neuen Wohnung habe ich endlich wieder genug Freiraum ...	der Spielraum;A1
+{{c1::besorgniserregend::alarmierend}}	Die unfassbar schnelle Ausbreitung dieses neuen Virus ist wirklich ext...	alarmierend;A1
+{{c1::verunglimpft::beleidigen}}	Man sollte seine politischen Gegner auch bei einem Streit nicht einfac...	beleidigen;A1
+{{c1::Abschaffung::die selbstverständlich Aufhebung}}	Er kämpfte fast sein ganzes Leben lang politisch für die Abschaffung d...	die Aufhebung);A1
+{{c1::aufgewertet::verbessern}}	Ein paar bunte neue Kissen können das graue alte Sofa im Wohnzimmer op...	verbessern;A1
+{{c1::verschreibungspflichtig::rezeptpflichtig}}	Dieses pflanzliche Schlafmittel ist in der Apotheke glücklicherweise n...	rezeptpflichtig;A1
+{{c1::Missbrauch::die Fehlbenutzung}}	Der systematische Missbrauch von Steuergeldern in der Politik wurde en...	die Fehlbenutzung;A1
+{{c1::nachweislich::erwiesenermaßen}}	Die ohnehin schlechte Luftqualität in der Innenstadt hat sich nachweis...	erwiesenermaßen;A1
+{{c1::vertuschen::verheimlichen}}	Sie versuchte völlig erfolglos, die hässliche kleine Delle im Auto ihr...	verheimlichen;A1
+{{c1::potenziellen::möglich}}	Jeder potenzieller Käufer sollte das gebrauchte Auto vor dem Kauf unbe...	möglich;A1
+{{c1::vermitteln::weitergeben}}	Der Makler konnte die schöne kleine Wohnung im Zentrum in absoluter Re...	weitergeben;A1
+{{c1::einschränken::begrenzen}}	Wer wirklich abnehmen will, muss oft seinen täglichen Zuckerkonsum dra...	begrenzen;A1
+{{c1::Verzicht::die Entbehrung}}	Der vollkommene Verzicht auf das tägliche Autofahren ist oft sehr gut ...	die Entbehrung;A1
+{{c1::Priorität::der doch Vorrang}}	Meine Familie und meine Kinder haben für mich absolute Priorität im Le...	der Vorrang;A1
+{{c1::präzise::genau}}	Eine sehr präzise und eindeutige Formulierung ist in juristischen Text...	genau;A1
+{{c1::leistungsfördernder::leistungssteigernd}}	Ausreichend Schlaf wirkt sich extrem leistungsfördernd auf den menschl...	leistungssteigernd;A1
+{{c1::Kontroverse::der Streit}}	Die einsame politische Entscheidung sorgte für eine große und laute Ko...	der Streit;A1
+{{c1::Substanz::der Stoff}}	Das alte Haus hat trotz seines hohen Alters glücklicherweise noch eine...	der Stoff;A1
+{{c1::standhalten::widerstehen}}	Die neue Brücke muss extremem Wind und sehr schwerem Verkehr standhalt...	widerstehen;A1
+{{c1::Erhebungsjahr::das Untersuchungsjahr, das Studienjahr | das Studienjahr}}	Im aktuellen Erhebungsjahr gab es auf den Straßen deutlich mehr Verkeh...	das Untersuchungsjahr, das Studienjahr;A1
+{{c1::zugleich::gleichzeitig, also simultan | simultan}}	Er ist mein absolut bester Freund und zugleich immer mein größter Krit...	gleichzeitig, simultan;A1
+{{c1::epidemie::die Seuche, die Pandemie | die Pandemie}}	Die plötzliche Epidemie legte das gesamte öffentliche Leben der Haupts...	die Seuche, die Pandemie;A1
+{{c1::Passivrauchen::das Mitrauchen, das Nebenrauchen | das Nebenrauchen}}	Kinder müssen unbedingt vor dem schädlichen Passivrauchen im Auto gesc...	das Mitrauchen, das Nebenrauchen;A1
+{{c1::bedroht::gefährden, bedrängen | bedrängen}}	Der Bau der neuen Autobahn könnte den natürlichen Lebensraum der Tiere...	gefährden, bedrängen;A1
+{{c1::Tabakindustrie::die Zigarettenindustrie, die Rauchwarenbranche | die Rauchwarenbranche}}	Die mächtige Tabakindustrie versucht mit viel Geld oft, neue Gesetze p...	die Zigarettenindustrie, die Rauchwarenbranche;A1
+{{c1::zunehmend::steigend, wachsend | wachsend}}	Ich bin zunehmend genervt von dem ständigen und lauten Lärm meiner Nac...	steigend, wachsend;A1
+{{c1::Absatzmarkt::der Verkaufsmarkt, der Markt | der Markt}}	Asien ist heute zweifellos der größte Absatzmarkt für teure europäisch...	der Verkaufsmarkt, der Markt;A1
+{{c1::betrifft::angehen, betreffen | betreffen}}	Diese extrem strengen neuen Regeln betreffen leider absolut jeden einz...	angehen, betreffen;A1
+{{c1::reguliert::regeln, erstaunlicherweise kontrollieren | kontrollieren}}	Die Heizung im Wohnzimmer lässt sich sehr leicht über ein kleines Ther...	regeln, kontrollieren;A1
+{{c1::versagt::scheitern, ja fehlschlagen | fehlschlagen}}	Die alten Bremsen des Autos haben bei der steilen Abfahrt völlig versa...	scheitern, fehlschlagen;A1
+{{c1::Ultrakurzzeitgedächtnis::das Sensorische Gedächtnis, die Sofortspeicherung}}	Im Ultrakurzzeitgedächtnis werden optische Reize blitzschnell verarbei...	das Sensorische Gedächtnis, die Sofortspeicherung;A1
+{{c1::beteiligt::teilnehmen, mitwirken}}	An dem schweren Verkehrsunfall waren insgesamt drei Autos beteiligt.	teilnehmen, mitwirken;A1
+{{c1::verteilt::aufgeteilt, gestreut}}	Das gespendete Essen wurde gerecht an die armen Familien verteilt.	aufgeteilt, gestreut;A1
+{{c1::Sinneseindruck::die Sinneswahrnehmung, der Reiz}}	Ein Konzertbesuch ist ein gewaltiger visueller und akustischer Sinnese...	die Sinneswahrnehmung, der Reiz;A1
+{{c1::Speicherprozess::der Speichervorgang, die Einlagerung | die Einlagerung}}	Guter und tiefer Schlaf ist extrem wichtig für den Speicherprozess von...	der Speichervorgang, die Einlagerung;A1
+{{c1::automatisiert::selbstständig machen, mechanisieren | mechanisieren}}	Wenn man eine Bewegung tausendmal macht, wird sie im Gehirn automatisi...	selbstständig machen, mechanisieren;A1
+{{c1::beigebracht::lehren, unterrichten | unterrichten}}	Der Trainer versucht, dem Hund einen neuen Trick beizubringen.	lehren, unterrichten;A1
+{{c1::Wahrnehmung::die nämlich Empfindung, das Empfinden | das Empfinden}}	Drogen können die optische Wahrnehmung massiv und gefährlich verändern...	die Empfindung, das Empfinden);A1
+{{c1::stets::immer, jederzeit | jederzeit}}	Du bist bei uns im Haus stets ein sehr gern gesehener Gast.	immer, jederzeit;A1
+{{c1::Gestalt::die Figur, die Form | die Form}}	Eine furchteinflößende Gestalt stand plötzlich mitten in der Nacht vor...	die Figur, die Form;A1
+{{c1::hingefallen::stürzen, fallen | fallen}}	Der alte Mann ist auf der glatten und vereisten Straße böse hingefalle...	stürzen, fallen;A1
+{{c1::Aussage::die Behauptung, die Erklärung | die Erklärung}}	Ich distanziere mich absolut von dieser rassistischen Aussage.	die Behauptung, die Erklärung;A1
+{{c1::Facette::die Seite, der Aspekt | der Aspekt}}	Diese Stadt hat so unglaublich viele Facetten, dass es nie langweilig ...	die Seite, der Aspekt;A1
+{{c1::wohlhabend::reich, vermögend | vermögend}}	Dieses Viertel in der Stadt ist bekannt für seine extrem wohlhabenden ...	reich, vermögend;A1
+{{c1::gleicht::ähneln, ähnlich sein | ähnlich sein}}	Das Verhalten des Hundes gleicht manchmal wirklich dem eines kleinen K...	ähneln, ähnlich sein;A1
+{{c1::Wertvorstellungen::die Werte, die Moralvorstellung | die Moralvorstellung}}	Der Film vermittelt meiner Meinung nach völlig falsche Wertvorstellung...	die Werte, die Moralvorstellung;A1
+{{c1::verwöhnt::verzogen, verwöhnt}}	Sie hat ihren Hund völlig verwöhnt und kocht ihm jeden Tag frisches Fl...	verzogen, verwöhnt;A1
+{{c1::Darunter::unter ihnen, darunter | darunter}}	Der alte Holztisch war total kaputt und auch der Teppich darunter sah ...	unter ihnen, darunter;A1
+{{c1::Konstrukt::das Konzept, das Modell | das Modell}}	Sein komplexer Plan war am Ende nur ein völlig unrealistisches Konstru...	das Konzept, das Modell;A1
+{{c1::Charakter::das Wesen, die Persönlichkeit | die Persönlichkeit}}	Das alte Haus in Frankreich hat wirklich einen ganz besonderen und ein...	das Wesen, die Persönlichkeit;A1
+{{c1::ähneln sich::gleich sein, ähnlich sein | ähnlich sein}}	Unsere politischen Ansichten ähneln sich glücklicherweise in den wicht...	gleich sein, ähnlich sein;A1
+{{c1::Wirkung::der doch Effekt, die Auswirkung | die Auswirkung}}	Die beruhigende Wirkung von warmer Kamillenmilch hilft ihr abends sehr...	der Effekt, die Auswirkung);A1
+{{c1::Semantisch::bedeutungsmäßig, inhaltlich | inhaltlich}}	Ein semantischer Fehler beim Programmieren führt oft dazu, dass die We...	bedeutungsmäßig, inhaltlich;A1
+{{c1::reklamierte::beanspruchen, fordern | fordern}}	Ich muss diese kaputten Schuhe unbedingt noch heute im Geschäft reklam...	beanspruchen, fordern;A1
+{{c1::Bedürfnis::das Verlangen, der Wunsch | der Wunsch}}	Nach der langen anstrengenden Wanderung hatte er das tiefe Bedürfnis, ...	das Verlangen, der Wunsch;A1
+{{c1::Rudel::die Gruppe, das Tiergruppe | das Tiergruppe}}	Ein riesiges Rudel von wilden Hunden durchstreift jede Nacht extrem la...	die Gruppe, das Tiergruppe;A1
+{{c1::Stamm::der Volksstamm, die Ethnie | die Ethnie}}	Der Baum hat einen extrem dicken und sehr rauen Stamm.	der Volksstamm, die Ethnie;A1
+{{c1::eingeteilt::kategorisieren, total gruppieren}}	Du musst dir deine knapp bemessene Zeit für die wichtige Prüfung absol...	kategorisieren, gruppieren;A1
+{{c1::Adel::die Aristokratie, die Oberschicht | die Oberschicht}}	Auch heute noch besitzt der britische Adel extrem große und sehr wertv...	die Aristokratie, die Oberschicht;A1
+{{c1::Verteilung::die Aufteilung, die Zuteilung}}	Die faire Verteilung des großen Erbes führte in der gesamten Familie z...	die Aufteilung, die Zuteilung);A1
+{{c1::Ideal::das Ziel, das Vorbild | das Vorbild}}	Er entspricht optisch absolut überhaupt nicht ihrem ganz persönlichen ...	das Ziel, das Vorbild;A1
+{{c1::eingedämmt::begrenzen, kontrollieren | kontrollieren}}	Wir konnten den massiven Wasserschaden in der alten Küche glücklicherw...	begrenzen, kontrollieren;A1
+{{c1::sozialer nämlich Brennpunkt::das Problemviertel, die Problemzone | die Problemzone}}	Die städtische Polizei ist an diesem gefährlichen sozialen Brennpunkt ...	das Problemviertel, die Problemzone;A1
+{{c1::Benachteiligte::diskriminiert, schlechter gestellt}}	Kinder aus sozial benachteiligten Familien haben extrem oft deutlich s...	diskriminiert, schlechter gestellt;A1
+{{c1::einwandfrei::perfekt, fehlerfrei | fehlerfrei}}	Das teure, gebrauchte Auto befindet sich noch immer in einem extrem ei...	perfekt, fehlerfrei;A1
+{{c1::Abweichung::die Differenz, der Unterschied | der Unterschied}}	Eine kleine Abweichung von der ursprünglichen Flugroute ist bei absolu...	die Differenz, der Unterschied);A1
+{{c1::enthüllte::aufdecken, offenbaren | offenbaren}}	Der Bürgermeister enthüllte am Sonntag feierlich das neue und extrem t...	aufdecken, offenbaren;A1
+{{c1::Abendbrot::das besonders Abendessen, das Nachtessen | das Nachtessen}}	Zum Abendbrot essen wir meistens nur extrem frisches Brot, guten Käse ...	das Abendessen, das Nachtessen;A1
+{{c1::hochgestochene::gekünstelt, affektiert | affektiert}}	Der arrogante Autor nutzte im Interview extrem viele völlig unnötige u...	gekünstelt, affektiert;A1
+{{c1::zwanglos::locker, ungezwungen | ungezwungen}}	Wir planen für den Freitagabend ein völlig zwangloses und extrem gemüt...	locker, ungezwungen;A1
+{{c1::soziale::gesellschaftlich, zwischenmenschlich | zwischenmenschlich}}	Er engagiert sich am Wochenende extrem viel für extrem schwache und so...	gesellschaftlich, zwischenmenschlich;A1
+{{c1::an::Mitglied sein, dazugehören | dazugehören}}	Sie möchte absolut keiner offiziellen politischen Partei in unserem La...	Mitglied sein, dazugehören;A1
+{{c1::hineingeboren::geboren in, hineingeboren}}	Er wurde glücklicherweise in eine extrem reiche und absolut völlig sor...	geboren in, hineingeboren;A1
+{{c1::Aufgrund::wegen, infolge}}	Aufgrund seines extrem hohen Fiebers blieb er heute den absolut ganzen...	wegen, infolge;A1
+{{c1::Schicht::die Klasse, die Ebene | die Ebene}}	Er arbeitet im extrem anstrengenden Krankenhaus jede Woche in einer ab...	die Klasse, die Ebene;A1
+{{c1::Schlafforscher::der Schlafforscher, der Schlafwissenschaftler | der Schlafwissenschaftler}}	Der Schlafforscher erklärte im Fernsehen, warum wir nachts eigentlich ...	der Schlafforscher, der Schlafwissenschaftler;A1
+{{c1::selektiv::ausgewählt, gezielt | gezielt}}	Der Lehrer korrigiert die Hausaufgaben nur noch extrem selektiv.	ausgewählt, gezielt;A1
+{{c1::als erstaunlicherweise auch::beide, und | und}}	Sowohl das rote als auch das grüne Auto gefallen mir sehr gut.	beide, und;A1
+{{c1::Leichtschlaf::der praktisch oberflächliche Schlaf, der leichte Schlaf | der leichte Schlaf}}	Während des Leichtschlafs hört man oft noch die Geräusche aus dem Nebe...	der oberflächliche Schlaf, der leichte Schlaf;A1
+{{c1::stabil::fest, beständig | beständig}}	Das alte Holzhaus ist nach hundert Jahren erstaunlicherweise immer noc...	fest, beständig;A1
+{{c1::Tiefschlaf::der tiefe Schlaf, der Ruhezustand | der Ruhezustand}}	Wenn man aus dem Tiefschlaf gerissen wird, ist man meistens völlig ver...	der tiefe Schlaf, der Ruhezustand;A1
+{{c1::Akustische::hörbar, klanglich | klanglich}}	Der laute Wecker gibt jeden Morgen ein sehr unangenehmes akustisches S...	hörbar, klanglich;A1
+{{c1::Zentrum::die Mitte, das Zentrum | das Zentrum}}	Das neue Einkaufszentrum wurde gestern feierlich im Zentrum der Haupts...	die Mitte, das Zentrum;A1
+{{c1::Non-REM-Schlaf-Phase::die Tiefschlafphase, der Nicht-Traum-Schlaf | der Nicht-Traum-Schlaf}}	In der Non-REM-Schlaf-Phase sinken der Blutdruck und die Körpertempera...	die Tiefschlafphase, der Nicht-Traum-Schlaf;A1
+{{c1::Familienmitglied::der Angehörige, die Familie | die Familie}}	Das jüngste Familienmitglied ist mein kleiner Cousin aus Amerika.	der Angehörige, die Familie;A1
+{{c1::Jener::derjenige, dieser | dieser}}	Genau jener Baum im Garten wurde damals von meinem Großvater gepflanzt...	derjenige, dieser;A1
+{{c1::bedrohlich::gefährlich, bedrohend | bedrohend}}	Der riesige schwarze Hund in der dunklen Gasse sah sehr bedrohlich aus...	gefährlich, bedrohend;A1
+{{c1::Wächter-Verarbeitungsmodus::der ja Wachmodus, der Überwachungsmodus}}	Der sogenannte Wächter-Verarbeitungsmodus schützt Tiere in freier Wild...	der Wachmodus, der Überwachungsmodus;A1
+{{c1::inaktiv::passiv, untätig | untätig}}	Der riesige Vulkan auf der Insel ist schon seit über hundert Jahren vö...	passiv, untätig;A1
+{{c1::gewohnt::üblich, normal | normal}}	Er ist diese schwere und extrem harte körperliche Arbeit auf dem Bau s...	üblich, normal;A1
+{{c1::fordernd::anspruchsvoll, herausfordernd | herausfordernd}}	Die Betreuung von drei kleinen Kindern ist eine extrem fordernde Aufga...	anspruchsvoll, herausfordernd;A1
+{{c1::in Rekordausmaß::rekordverdächtig, außergewöhnlich | außergewöhnlich}}	Das Wasser des Flusses überflutete die kleine Stadt in absolutem Rekor...	rekordverdächtig, außergewöhnlich;A1
+{{c1::Erwachsenenalter::das reife Alter, das Alter | das Alter}}	Manche Kinderkrankheiten können im Erwachsenenalter extrem gefährlich ...	das reife Alter, das Alter;A1
+{{c1::ein::überfluten, bombardieren | bombardieren}}	Die lauten Regentropfen prasselten wie verrückt auf das alte Blechdach...	überfluten, bombardieren;A1
+{{c1::reflexhaft::automatisch, instinktiv | instinktiv}}	Er hat den fallenden Teller am Tisch nur völlig reflexhaft aufgefangen...	automatisch, instinktiv;A1
+{{c1::ausgesetzt::gefährdet sein, unterliegen | unterliegen}}	Die armen Blumen im Garten waren dem extremen Frost letzte Nacht schut...	gefährdet sein, unterliegen;A1
+{{c1::naheliegend::offensichtlich, logisch | logisch}}	Es ist naheliegend, dass wir bei diesem starken Regen besser mit dem B...	offensichtlich, logisch;A1
+{{c1::teilweise::zum total Teil, partiell}}	Das alte Haus wurde beim großen Sturm leider teilweise sehr schwer bes...	zum Teil, partiell;A1
+{{c1::in Watte gepackt::überbehütet, beschützt | beschützt}}	Man kann seine Kinder nicht ewig völlig in Watte packen und vor allem ...	überbehütet, beschützt;A1
+{{c1::aufgewachsen::groß werden, heranwachsen | heranwachsen}}	Ich bin in einem extrem kleinen und sehr ruhigen Dorf in den Bergen au...	groß werden, heranwachsen;A1
+{{c1::gescheitert::misslingen, fehlschlagen | fehlschlagen}}	Die diplomatischen Verhandlungen zwischen den beiden Ländern sind heut...	misslingen, fehlschlagen;A1
+{{c1::mit sich::verursachen, zur Folge haben | zur Folge haben}}	Ein eigenes Haus bringt natürlich auch sehr viel anstrengende Arbeit m...	verursachen, zur Folge haben;A1
+{{c1::aus::ignorieren, übersehen | übersehen}}	Der Lärm auf der Straße war so laut, dass ich ihn leider nicht ausblen...	ignorieren, übersehen;A1
+{{c1::Auswirkungen::die Folge, die Konsequenz | die Konsequenz}}	Die spürbaren Auswirkungen des Klimawandels werden in den nächsten Jah...	die Folge, die Konsequenz;A1
+{{c1::ab::mildern, ja abpuffern | abpuffern}}	Die modernen und weichen Schuhe sollen die extrem harten Stöße beim La...	mildern, abpuffern;A1
+{{c1::gewiss::sicher, bestimmt | bestimmt}}	Es ist gewiss keine extrem leichte Aufgabe, drei kleine Kinder völlig ...	sicher, bestimmt;A1
+{{c1::ab::leisten, erbringen | erbringen}}	Bitte liefern Sie das extrem große Paket heute Nachmittag bei meinem N...	leisten, erbringen;A1
+{{c1::banale::einfach, trivial | trivial}}	Wir streiten uns leider in der Familie oft über völlig banale und abso...	einfach, trivial;A1
+{{c1::ab::mildern, lindern | lindern}}	Eine dicke Schicht Schnee kann den extrem harten Aufprall beim Sturz e...	mildern, lindern;A1
+{{c1::Trauma::das seelische Trauma, die Verletzung | die Verletzung}}	Nach dem schlimmen Autounfall erlitt das kleine Kind ein extrem tiefes...	das seelische Trauma, die Verletzung;A1
+{{c1::Wesen::die Natur, der Kern | der Kern}}	Hunde sind von ihrem tiefsten Wesen her absolut extrem treue und sehr ...	die Natur, der Kern;A1
+{{c1::Stattdessen::anstatt, dafür | dafür}}	Er trank abends keinen Alkohol, sondern bestellte sich stattdessen ein...	anstatt, dafür;A1
+{{c1::Unerschrocken::furchtlos, mutig | mutig}}	Die kleine und absolut völlig unerschrockene Katze jagte gestern einen...	furchtlos, mutig;A1
+{{c1::an::abhängen von, entscheidend sein | entscheidend sein}}	Ob wir morgen an den großen See fahren, kommt extrem stark auf das abs...	abhängen von, entscheidend sein;A1
+{{c1::Tonnen::die Maßeinheit, 1000 kg | 1000 kg}}	Ein riesiger blauer Wal kann absolut extrem leicht weit über hundert T...	die Maßeinheit, 1000 kg;A1
+{{c1::unrealistisch::nicht realistisch, utopisch | utopisch}}	Es ist absolut völlig unrealistisch, diese extrem umfangreiche lange A...	nicht realistisch, utopisch;A1
+{{c1::Emissionbilanz::die CO2-Bilanz, die Umweltbilanz | die Umweltbilanz}}	Um die Emissionbilanz der Firma extrem zu verbessern, wurden absolut n...	die CO2-Bilanz, die Umweltbilanz;A1
+{{c1::Macht::die Gewalt, die Autorität | die Autorität}}	Mit viel absolutem Geld kommt oft auch leider extrem viel gefährliche ...	die Gewalt, die Autorität;A1
+{{c1::Verhaltensweise::das Verhalten, die Art | die Art}}	Deine unhöfliche Verhaltensweise beim gestrigen Essen war absolut unpa...	das Verhalten, die Art;A1
+{{c1::Bequemlichkeit::die indes Gemütlichkeit, die Faulheit | die Faulheit}}	Aus reiner Bequemlichkeit fuhr er die extrem absolut kurzen hundert Me...	die Gemütlichkeit, die Faulheit);A1
+{{c1::angewiesen::abhängig wirklich sein, brauchen | brauchen}}	Der kleine und absolut noch völlig extrem blinde Hund ist auf fremde H...	abhängig sein, brauchen;A1
+{{c1::ignorierte::übersehen, glücklicherweise nicht beachten | nicht beachten}}	Du darfst dieses absolut extrem komische und völlig laute Geräusch am ...	übersehen, nicht beachten;A1
+{{c1::Klimaschutzmaßnahme::die Umweltmaßnahme, die Aktion | die Aktion}}	Der Bau extrem absolut vieler und riesiger Windräder ist eine absolut ...	die Umweltmaßnahme, die Aktion;A1
+{{c1::Lebensweise::der Lebensstil, die Art zu leben | die Art zu leben}}	Ihre extrem absolut völlig vegane Lebensweise wird von extrem absolut ...	der Lebensstil, die Art zu leben;A1
+{{c1::auseinander::sich unterscheiden, divergieren | divergieren}}	Der extrem alte und absolut völlig morsche Tisch ist beim extrem absol...	sich unterscheiden, divergieren;A1
+{{c1::Ordnungspolitisch::regulatorisch, politisch | politisch}}	Ordnungspolitisch gesehen darf der extrem absolut große mächtige Staat...	regulatorisch, politisch;A1
+{{c1::Umwelterziehung::die Umweltbildung, die Erziehung | die Erziehung}}	Die Umwelterziehung im Kindergarten bringt den absolut völlig extrem k...	die Umweltbildung, die Erziehung);A1
+{{c1::überwiegende Teil::die Mehrheit, der Großteil}}	Der überwiegende Teil der extrem absolut schönen großen Torte war nach...	die Mehrheit, der Großteil;A1
+{{c1::Förderung::die Unterstützung, die Hilfe | die Hilfe}}	Die staatliche Förderung für extrem absolut moderne riesige kleine Ele...	die Unterstützung, die Hilfe);A1
+{{c1::Erneuerbare::regenerativ, nachhaltig | nachhaltig}}	Der Ausbau von absolut völlig extrem riesigen Windrädern für absolut v...	regenerativ, nachhaltig;A1
+{{c1::Windenergie::die Windkraft, der Windstrom | der Windstrom}}	Die moderne Windenergie ist im Norden des Landes eine absolut extrem v...	die Windkraft, der Windstrom;A1
+{{c1::Ersetzen::der Austausch, die Substitution | die Substitution}}	Das ständige Ersetzen von völlig absolut kaputten extrem kleinen Autot...	der Austausch, die Substitution;A1
+{{c1::Haushaltsgerät::das Gerät, die Maschine | die Maschine}}	Eine Spülmaschine ist ein absolut extrem völlig nützliches und extrem ...	das Gerät, die Maschine;A1
+{{c1::Energieeffizienz::die Effizienz, der Wirkungsgrad | der Wirkungsgrad}}	Der moderne und absolut extrem extrem kleine neue Kühlschrank hat eine...	die Effizienz, der Wirkungsgrad;A1
+{{c1::Verbraucher::der überraschend Konsument, der Kunde | der Kunde}}	Der extrem absolut völlig moderne und absolut kritische Verbraucher ac...	der Konsument, der Kunde;A1
+{{c1::verbunden::verknüpft, zusammenhängend | zusammenhängend}}	Wir fühlen uns mit dieser alten absolut völlig extrem schönen großen S...	verknüpft, zusammenhängend;A1
+{{c1::akzeptabel::annehmbar, in Ordnung | in Ordnung}}	Ein derart absolut extrem völlig extrem extrem unfreundliches Verhalte...	annehmbar, in Ordnung;A1
+{{c1::auffallend::bemerkenswert, deutlich | deutlich}}	Es ist extrem völlig absolut absolut völlig auffallend, wie extrem abs...	bemerkenswert, deutlich;A1
+{{c1::auftretenden::erscheinend, vorkommend}}	Ein immer absolut völlig extrem extrem häufig völlig absolut extrem wi...	erscheinend, vorkommend;A1
+{{c1::klimabewusst::umweltbewusst, nachhaltig | nachhaltig}}	Sie achtet extrem absolut völlig extrem sehr beim absolut teuren absol...	umweltbewusst, nachhaltig;A1
+{{c1::Einkommen::das Gehalt, der Verdienst | der Verdienst}}	Mit so einem extrem völlig absolut extrem krassen und völlig hohen Ein...	das Gehalt, der Verdienst;A1
+{{c1::durchweg::ausnahmslos, komplett}}	Selbst die strengsten Kritiker lobten die schauspielerische Leistung ...	ausnahmslos, komplett;A1
+{{c1::gewohnt::vertraut, in der Gewohnheit | in der Gewohnheit}}	Normalerweise schlafe ich an Wochenenden immer bis mindestens zehn Uh...	vertraut, in der Gewohnheit;A1
+{{c1::Informationsgesellschaft::Wissensgesellschaft, digitalen Welt | digitalen Welt}}	Daten sind sozusagen das Gold des 21. Jahrhunderts geworden.	Wissensgesellschaft, digitalen Welt;A1
+{{c1::dramatisch::drastisch, besorgniserregend | besorgniserregend}}	Die Hilfsorganisationen fordern dringend internationale Unterstützung...	drastisch, besorgniserregend;A1
+{{c1::Tabak::Nikotin, Rauchwaren | Rauchwaren}}	Trotzdem können viele Menschen diese schlechte Angewohnheit nicht abl...	Nikotin, Rauchwaren;A1
+{{c1::Tabakatlas::Bericht also zum Tabakkonsum, Statistikwerk | Statistikwerk}}	Prävention muss weiterhin oberste politische Priorität haben.	Bericht zum Tabakkonsum, Statistikwerk;A1
+{{c1::Passivrauchen::Mitrauchen, Einatmen von Fremdrauch | Einatmen von Fremdrauch}}	Besonders Kinder müssen in geschlossenen Räumen davor geschützt werde...	Mitrauchen, Einatmen von Fremdrauch;A1
+{{c1::Schutzmaßnahme::Sicherheitsvorkehrung, also Prävention | Prävention}}	Er kann bei Stürzen lebensgefährliche Kopfverletzungen verhindern.	Sicherheitsvorkehrung, Prävention;A1
+{{c1::betreffen::tangieren, angehen | angehen}}	Die bürokratischen Auflagen sind für sie kaum zu stemmen.	tangieren, angehen;A1
+{{c1::zelebrieren::feiern, begehen | begehen}}	Die ganze Innenstadt war ein einziges schwarz-gelbes Fahnenmeer.	feiern, begehen;A1
+{{c1::glamourös::prunkvoll, wahrscheinlich glanzvoll | glanzvoll}}	Das maßgeschneiderte Kleid stand ihr absolut fantastisch.	prunkvoll, glanzvoll;A1
+{{c1::Anstieg::Zuwachs, die Erhöhung | die Erhöhung}}	Viele Familien müssen deshalb gezwungenermaßen an den Stadtrand ziehe...	Zuwachs, die Erhöhung;A1
+{{c1::bemerkbar::spürbar, ersichtlich | ersichtlich}}	Du kannst einfach nicht ewig nur vier Stunden pro Nacht schlafen.	spürbar, ersichtlich;A1
+{{c1::Kreislauf::Blutzirkulation, kardiovaskuläres System | kardiovaskuläres System}}	Mir wird dann immer sehr schnell schwindelig, wenn ich hastig aufsteh...	Blutzirkulation, kardiovaskuläres System;A1
+{{c1::wechselhaft::unbeständig, launisch | launisch}}	Man sollte dort immer eine wasserdichte Regenjacke im Rucksack dabeih...	unbeständig, launisch;A1
+{{c1::belasten::strapazieren, wirklich beschweren | beschweren}}	Er sieht seine Kinder bedauerlicherweise fast nur noch am Wochenende.	strapazieren, beschweren;A1
+{{c1::wetterfühlig::sensibel auf Wetter reagierend, meteorotrop | meteorotrop}}	Manche Betroffene bekommen dann auch rasende Kopfschmerzen.	sensibel auf Wetter reagierend, meteorotrop;A1
+{{c1::Sonnenschein::Sonnenlicht, erstaunlicherweise Helligkeit | Helligkeit}}	Die Laune der vielen Leute auf der Straße verbesserte sich sofort spü...	Sonnenlicht, Helligkeit;A1
+{{c1::Lichtverhältnisse::Beleuchtung, Helligkeitsbedingungen | Helligkeitsbedingungen}}	Eine wirklich gute und helle Schreibtischlampe ist daher oft Gold wer...	Beleuchtung, Helligkeitsbedingungen;A1
+{{c1::anregen::stimulieren, in Schwung bringen | in Schwung bringen}}	Ohne meine allererste Tasse am Tag bin ich für niemanden ansprechbar.	stimulieren, in Schwung bringen;A1
+{{c1::Immunsystem::Abwehrsystem, genau Körperabwehr | Körperabwehr}}	Ausreichend tiefer Schlaf und viele Vitamine stärken diese natürliche...	Abwehrsystem, Körperabwehr;A1
+{{c1::wahrnehmen::spüren, bemerken | bemerken}}	Vor einem starken Erdbeben werden Hunde zum Beispiel oft extrem unruh...	spüren, bemerken;A1
+{{c1::Wechseldusche::Kalt-Warm-Dusche, wirklich Kneippkur | Kneippkur}}	Es kostet anfangs zwar etwas Überwindung, aber man ist danach sofort ...	Kalt-Warm-Dusche, Kneippkur;A1
+{{c1::Blutdruck::Arteriendruck, Gefäßdruck | Gefäßdruck}}	Der Kardiologe hat ihm deshalb strengstens geraten, weniger Salz zu e...	Arteriendruck, Gefäßdruck;A1
+{{c1::aufraffen::aufrappeln, motivieren | motivieren}}	Der innere Schweinehund war am Sonntagabend einfach unfassbar rieseng...	aufrappeln, motivieren;A1
+{{c1::medizinischen::ärztlichen, natürlich klinischen | klinischen}}	Experimentieren Sie zu Hause bitte nicht wochenlang mit irgendwelchen...	ärztlichen, klinischen;A1
+{{c1::Blutarmut::Anämie, Eisenmangel | Eisenmangel}}	Ein sehr einfaches Blutbild beim Hausarzt verschafft hier meistens sc...	Anämie, Eisenmangel;A1
+{{c1::Erkrankung::Krankheit, das Leiden | das Leiden}}	Es war damals ein unglaublich harter Schicksalsschlag für die ganze k...	Krankheit, das Leiden);A1
+{{c1::Depression::Schwermut, offensichtlich seelische Tief | seelische Tief}}	Nur gut gemeinte Ratschläge von Familie und Freunden reichen da einfa...	Schwermut, seelische Tief;A1
+{{c1::vorgelagert::vorausgehend, davorstehend | davorstehend}}	Bevor wir überhaupt ein Haus bauen können, müssen die genauen Bauplän...	vorausgehend, davorstehend;A1
+{{c1::ununterbrochen::pausenlos, kontinuierlich | kontinuierlich}}	Man konnte vor der Tür stundenlang buchstäblich sein eigenes Wort nic...	pausenlos, kontinuierlich;A1
+{{c1::Faktenwissen::Tatsachenwissen, theoretisches Wissen | theoretisches Wissen}}	Man braucht für eine Führungsposition auch viel emotionale Intelligen...	Tatsachenwissen, theoretisches Wissen;A1
+{{c1::her/richten::vorbereiten, einrichten | einrichten}}	Sie richtete den Tisch für das Abendessen her.	vorbereiten, einrichten;A1
+{{c1::Egoist::Selbstling, Ichbezogene | Ichbezogene}}	Sein egoistisches Verhalten nervt die Kollegen.	Selbstling, Ichbezogene;A1
+{{c1::durchweg::ausnahmslos, insgesamt}}	Er ist durchweg freundlich zu jedem.	ausnahmslos, insgesamt;A1
+{{c1::isoliert::absondert, zurückzieht | zurückzieht}}	Er isolierte sich von seinen Freunden.	absondert, zurückzieht;A1
+{{c1::gewohnt::привык, accustomed | accustomed}}	Ich bin es gewohnt, alleine zu arbeiten.	привык, accustomed;A1
+{{c1::Verdienst::Einkommen, Lohn | Lohn}}	Sein Verdienst ist angemessen.	Einkommen, Lohn;A1
+{{c1::heil::ganz, unbeschädigt | unbeschädigt}}	Zum Glück ist niemand zu Schaden gekommen, das Auto ist heil.	ganz, unbeschädigt;A1
+{{c1::dramatisch::heftig, stark | stark}}	Die Situation spitzte sich dramatisch zu.	heftig, stark;A1
+{{c1::Passivrauchen::Rauchen in der Umgebung, indirektes Rauchen | indirektes Rauchen}}	Kinder sind besonders gefährdet durch Passivrauchen.	Rauchen in der Umgebung, indirektes Rauchen;A1
+{{c1::Absatzmarkt::Verkaufsmarkt, Zielmarkt | Zielmarkt}}	Der Absatzmarkt für Elektroautos expandiert rapide.	Verkaufsmarkt, Zielmarkt;A1
+{{c1::Lobbyismus::Interessenvertretung, Einflussnahme | Einflussnahme}}	Starker Lobbyismus kann demokratische Prozesse verzerren.	Interessenvertretung, Einflussnahme;A1
+{{c1::automatisiert::maschinell gesteuert, selbsttätig | selbsttätig}}	Automatisierte Systeme erhöhen die Effizienz.	maschinell gesteuert, selbsttätig;A1
+{{c1::verankert::verwurzelt, fest verankert | fest verankert}}	Diese Tradition ist seit Jahrhunderten verankert.	verwurzelt, fest verankert;A1
+{{c1::reprozessieren::neu echt verarbeiten, umstrukturieren | umstrukturieren}}	Im Schlaf reprozessiert das Gehirn die Erlebnisse des Tages.	neu verarbeiten, umstrukturieren;A1
+{{c1::Kleinkind::Kleinkind, Kleinkind}}	Kleinkinder sind unermüdlich neugierig.	Kleinkind, Kleinkind;A1
+{{c1::beteiligt sein::mitwirken, partizipieren}}	Ein breites Bündnis von Forschern ist dafür essenziell.	mitwirken, partizipieren;A1
+{{c1::Geburtstagsfeier::Jubiläumsparty, das Fest | das Fest}}	Über hundert Gäste kamen, um mit ihr zu feiern.	Jubiläumsparty, das Fest;A1
+{{c1::automatisieren::technisieren, maschinell machen | maschinell machen}}	Roboter übernehmen dort inzwischen einen Großteil der schweren Arbeit...	technisieren, maschinell machen;A1
+{{c1::verankern::festsetzen, einprägen | einprägen}}	Er wird dieses traumatische Erlebnis so schnell sicher nicht vergesse...	festsetzen, einprägen;A1
+{{c1::gefestigt::stabilisiert, natürlich gesichert | gesichert}}	Vorher würde das ganze Gebäude eventuell einstürzen.	stabilisiert, gesichert;A1
+{{c1::beizubringen::zu vermitteln, zu lehren | zu lehren}}	Leider schienen die meisten an diesem Montagmorgen geistig noch im Be...	zu vermitteln, zu lehren;A1
+{{c1::Taucher::Froschmann, Unterwassersportler | Unterwassersportler}}	Es lag dort in vollkommener Stille seit über dreihundert Jahren.	Froschmann, Unterwassersportler;A1
+{{c1::Sonnenseite::glücklichen Seite, bevorzugten Seite | bevorzugten Seite}}	Existenzängste sind für sie ein völlig abstraktes, fremdes Fremdwort.	glücklichen Seite, bevorzugten Seite;A1
+{{c1::tummeln::bewegen sich wild, tollen herum | tollen herum}}	Das fröhliche Geschrei hört man bis in die benachbarten Straßen.	bewegen sich wild, tollen herum;A1
+{{c1::Kontrast::Gegensatz, Unterschied | Unterschied}}	Nur wenige Straßen weiter leben Menschen plötzlich im absoluten Luxus...	Gegensatz, Unterschied;A1
+{{c1::einander::gegenseitig, indes sich | sich}}	Dieser alberne Familienstreit geht jetzt schon seit über drei endlose...	gegenseitig, sich;A1
+{{c1::seither::seitdem, genau von diesem Zeitpunkt an | von diesem Zeitpunkt an}}	Niemand aus der großen Familie weiß, wo er heute eigentlich wohnt.	seitdem, von diesem Zeitpunkt an;A1
+{{c1::wohlhabenden::reichen, betuchten}}	Die drei Kinder wuchsen in einer absolut perfekten, sicheren Blase au...	reichen, betuchten;A1
+{{c1::verwöhntes::verhätscheltes, übermäßig umsorgtes | übermäßig umsorgtes}}	Als er dann später in seine erste eigene kleine Wohnung zog, war er h...	verhätscheltes, übermäßig umsorgtes;A1
+{{c1::auswerten::analysieren, prüfen | prüfen}}	Zum Glück gab es dafür ein paar sehr fleißige studentische Hilfskräft...	analysieren, prüfen;A1
+{{c1::befragen::interviewen, um ihre Meinung bitten}}	Unser bisheriges theoretisches Wissen reicht für diese große Entschei...	interviewen, um ihre Meinung bitten;A1
+{{c1::Sonnenseite(des Lebens)::positive Seite, angenehme Aspekte | angenehme Aspekte}}	Sie sieht immer die Sonnenseite des Lebens.	positive Seite, angenehme Aspekte;A1
+{{c1::sich tummeln::spielen, toben | toben}}	Die Kinder tummelten sich auf der Wiese.	spielen, toben;A1
+{{c1::Verletzlichkeit::Empfindlichkeit, Fragilität | Fragilität}}	Die Verletzlichkeit der Kinder erfordert Schutz.	Empfindlichkeit, Fragilität);A1
+{{c1::Semantisch::bedeutungsmäßig, inhaltlich | inhaltlich}}	Semantische Analysen sind in der Linguistik wichtig.	bedeutungsmäßig, inhaltlich;A1
+{{c1::provozieren::reizen, provozieren}}	Provokante Thesen regen zum Nachdenken an.	reizen, provozieren;A1
+{{c1::Veranstaltung::Event, Feier | Feier}}	Wir erwarten dort über fünfhundert geladene Gäste aus der ganzen Stad...	Event, Feier);A1
+{{c1::bestimmen::festlegen, entscheiden | entscheiden}}	Eine klare Hierarchie ist für den Erfolg absolut essenziell.	festlegen, entscheiden;A1
+{{c1::einschlafen::in den Schlaf fallen}}	Es hat sich im Bett nicht ein einziges Mal mehr umgedreht.	in den Schlaf fallen;A1
+{{c1::dank::aufgrund, durch die Hilfe von | durch die Hilfe von}}	Ohne dich hätte ich diese gigantische Aufgabe niemals rechtzeitig bee...	aufgrund, durch die Hilfe von;A1
+{{c1::Hausordnung::Regeln für das Gebäude}}	Wer sich nicht daran hält, fliegt ohne Vorwarnung sofort aus dem Hote...	Regeln für das Gebäude);A1
+{{c1::Schließfach::Aufbewahrungsbox}}	So konnte ich mich vor der Abfahrt noch frei in der Stadt bewegen.	Aufbewahrungsbox;A1
+{{c1::Nachbarschaft::Anwohner der Umgebung}}	Am Ende stand sogar genervt die Polizei vor der Tür.	Anwohner der Umgebung;A1
+{{c1::Etage::Stockwerk, Stock | Stock}}	Von da aus hat man einen wirklich sagenhaften Blick über die ganze St...	Stockwerk, Stock;A1
+{{c1::vergangenen::vorherigen, alten | alten}}	Der Autor schwelgt dabei sehr stark in historischen Nostalgien.	vorherigen, alten;A1
+{{c1::semantischen::die Bedeutung betreffenden}}	Man darf sie in einem akademischen Text absolut nicht verwechseln.	die Bedeutung betreffenden;A1
+{{c1::reklamieren::beanstanden, zurückgeben | zurückgeben}}	Er ging schon beim allerersten Einschalten zu Hause komplett kaputt.	beanstanden, zurückgeben;A1
+{{c1::Illusion::Täuschung, sehr Einbildung | Einbildung}}	Gestern stand dann aber plötzlich der Gerichtsvollzieher vor der Tür.	Täuschung, Einbildung;A1
+{{c1::Klassenunterschied::soziale Differenz, Unterschied der Schichten | Unterschied der Schichten}}	Die extreme Schere zwischen Arm und Reich wird immer drastischer.	soziale Differenz, Unterschied der Schichten;A1
+{{c1::dreigliedrige::aus drei Teilen bestehende}}	Es trennt die jungen Kinder nach Ansicht vieler Experten viel zu früh...	aus drei Teilen bestehende;A1
+{{c1::nach und nach::allmählich, schrittweise | schrittweise}}	Am Ende konnte er nicht einmal mehr alleine aus dem Bett aufstehen.	allmählich, schrittweise;A1
+{{c1::Industrienation::industriell entwickelter Staat}}	Maschinenbau und die Automobilindustrie sind dabei die wichtigsten tr...	industriell entwickelter Staat;A1
+{{c1::Umsturz,&quot;-e::Revolution, immerhin Systemwechsel | Systemwechsel}}	Ein politischer Umsturz destabilisiert das Land.	Revolution, Systemwechsel;A1
+{{c1::sich äußern::sich ausdrücken, kommentieren | kommentieren}}	Sie äußerte sich kritisch zum Thema.	sich ausdrücken, kommentieren;A1
+{{c1::Zuwandereranteil,-e::Anteil der Migranten, Migrantenquote}}	Der Zuwandereranteil beeinflusst die Stadtentwicklung.	Anteil der Migranten, Migrantenquote;A1
+{{c1::an/gehören+ DAT::Mitglied sein, zugehörig sein | zugehörig sein}}	Sie gehört einer politischen Partei an.	Mitglied sein, zugehörig sein;A1
+{{c1::Klassenfrage::soziale Frage, Schichtenproblem}}	Die Klassenfrage wurde im 19. Jahrhundert intensiv diskutiert.	soziale Frage, Schichtenproblem;A1
+{{c1::Gehirnwelle,-n::Hirnstrom, erstaunlicherweise neuronale Aktivität | neuronale Aktivität}}	Bestimmte Gehirnwellen treten im Schlaf auf.	Hirnstrom, neuronale Aktivität;A1
+{{c1::in Einklang bringen*::ausbalancieren, harmonisieren | harmonisieren}}	Es ist wichtig, Beruf und Familie in Einklang zu bringen.	ausbalancieren, harmonisieren;A1
+{{c1::Schlafgewohnheiten(Pl.)::Schlafroutinen, Schlafverhalten | Schlafverhalten}}	Ungesunde Schlafgewohnheiten können die Leistungsfähigkeit beeinträcht...	Schlafroutinen, Schlafverhalten;A1
+{{c1::Schlafdauer::Schlafzeit, Schlafflänge | Schlafflänge}}	Zu kurze Schlafdauer führt zu Konzentrationsschwierigkeiten.	Schlafzeit, Schlafflänge;A1
+{{c1::Schlafstunde,-n::Schlafenszeit, Stunde des Schlafes | Stunde des Schlafes}}	Jede Schlafstunde zählt für die Erholung.	Schlafenszeit, Stunde des Schlafes;A1
+{{c1::Durchbruch::Erfolg, bahnbrechende Entdeckung | bahnbrechende Entdeckung}}	Dieser Durchbruch veränderte unser Verständnis vom Schlaf.	Erfolg, bahnbrechende Entdeckung;A1
+{{c1::Homeoffice::Heimarbeit, Telearbeit | Telearbeit}}	Im Homeoffice schlafen manche länger.	Heimarbeit, Telearbeit;A1
+{{c1::Telearbeit::Heimarbeit, Arbeit von zu Hause}}	Telearbeit kann den Schlaf-Wach-Rhythmus beeinflussen.	Heimarbeit, Arbeit von zu Hause;A1
+{{c1::Nine-to-five-Job,-s::Bürojob, geregelte Arbeitszeit | geregelte Arbeitszeit}}	Nine-to-five-Jobs sind für Eulen oft problematisch.	Bürojob, geregelte Arbeitszeit;A1
+{{c1::Arbeitsmediziner,-/ die Arbeitsmedizinerin,-nen::Betriebsarzt, Arbeitsgesundheits-Experte}}	Arbeitsmediziner untersuchen auch Schlafstörungen.	Betriebsarzt, Arbeitsgesundheits-Experte;A1
+{{c1::Rhythmus, die Rhythmen::Takt, regelmäßiger Ablauf | regelmäßiger Ablauf}}	Der circadiane Rhythmus steuert den Schlaf.	Takt, regelmäßiger Ablauf;A1
+{{c1::Kindesalter::Kindheit, frühes Lebensalter | frühes Lebensalter}}	Im Kindesalter werden Schlafgewohnheiten angelegt.	Kindheit, frühes Lebensalter;A1
+{{c1::Rentenalter::Pensionsalter, Lebensabend | Lebensabend}}	Im Rentenalter schlafen viele leichter.	Pensionsalter, Lebensabend;A1
+{{c1::Diskrepanz,-en::Differenz, Unterschied | Unterschied}}	Die Diskrepanz zwischen idealem und realem Schlaf ist problematisch.	Differenz, Unterschied;A1
+{{c1::Schlafdefizit,-e::Schlafmangel, total Schlafrückstand | Schlafrückstand}}	Ein Schlafdefizit von einer Woche ist gesundheitsschädlich.	Schlafmangel, Schlafrückstand;A1
+{{c1::aus/gleichen*::kompensieren, wettmachen | wettmachen}}	Wochenendschlaf gleicht das Defizit nur teilweise aus.	kompensieren, wettmachen;A1
+{{c1::Kurzschläfer,-/ die Kurzschläferin,-nen::Person mit wenig Schlafbedarf}}	Kurzschläfer sind genetisch bedingt.	Person mit wenig Schlafbedarf;A1
+{{c1::Mythos, die Mythen::Irrglaube, falsche Annahme | falsche Annahme}}	Der Mythos vom wenig schlafenden Genie ist widerlegt.	Irrglaube, falsche Annahme;A1
+{{c1::sich brüsten mit+ DAT::prahlen mit, rühmen sich | rühmen sich}}	Sie brüsten sich damit, wenig zu schlafen.	prahlen mit, rühmen sich;A1
+{{c1::App,-s wahrscheinlich (die Applikation,-en)::Software, mobile Anwendung | mobile Anwendung}}	Schlaf-Apps sind beliebt, aber nicht immer genau.	Software, mobile Anwendung;A1
+{{c1::Optimierung,-en::Verbesserung, Leistungssteigerung | Leistungssteigerung}}	Optimierung des Schlafs kann die Produktivität steigern.	Verbesserung, Leistungssteigerung;A1
+{{c1::Genetisch::erblich, die Gene betreffend | die Gene betreffend}}	Genetische Faktoren bestimmen, ob man Lerche oder Eule ist.	erblich, die Gene betreffend;A1
+{{c1::Bedingt::verursacht, abhängig | abhängig}}	Schlafbedürfnis ist genetisch bedingt.	verursacht, abhängig;A1
+{{c1::begrenzt::beschränkt, limitiert | limitiert}}	Die Zeit zum Schlafen ist begrenzt.	beschränkt, limitiert;A1
+{{c1::ausgeschlafen ist*::erholt ist, genug Schlaf hatte | genug Schlaf hatte}}	Ausgeschlafen sein ist wichtig für Konzentration.	erholt ist, genug Schlaf hatte;A1
+{{c1::Schlafbedürfnis,-se::Bedürfnis nach Schlaf, Schlafanspruch | Schlafanspruch}}	Das Schlafbedürfnis nimmt im Alter ab.	Bedürfnis nach Schlaf, Schlafanspruch;A1
+{{c1::Lebensalter,-::Alter, Lebensphase | Lebensphase}}	Im hohen Lebensalter wird der Schlaf leichter.	Alter, Lebensphase;A1
+{{c1::Säugling,-e::Baby, Kleinkind | Kleinkind}}	Säuglinge haben einen anderen Schlafrhythmus.	Baby, Kleinkind;A1
+{{c1::Wiederum::andererseits, hingegen | hingegen}}	Wiederum ist die Schlafqualität im Alter oft reduziert.	andererseits, hingegen;A1
+{{c1::senile Bettflucht::Altersschlafstörung, nächtliche Unruhe im Alter | nächtliche Unruhe im Alter}}	Senile Bettflucht ist eine Herausforderung für Angehörige.	Altersschlafstörung, nächtliche Unruhe im Alter;A1
+{{c1::Ausgeschlafensein::Erholtsein, selbstverständlich Ausgeruhtsein | Ausgeruhtsein}}	Ausgeschlafensein fördert gute Laune.	Erholtsein, Ausgeruhtsein;A1
+{{c1::Schlafmangel::Schlafdefizit, zu wenig Schlaf | zu wenig Schlaf}}	Schlafmangel ist ein Risikofaktor im Straßenverkehr.	Schlafdefizit, zu wenig Schlaf;A1
+{{c1::Schlaftiefe::Tiefe des Schlafes, Schlafintensität | Schlafintensität}}	In der Tiefschlafphase regeneriert sich der Körper.	Tiefe des Schlafes, Schlafintensität;A1
+{{c1::Arbeitszeit,-en::Arbeitsdauer, Beschäftigungszeit}}	Falsche Arbeitszeiten führen zu Schlafproblemen.	Arbeitsdauer, Beschäftigungszeit;A1
+{{c1::Ansicht,-en::Meinung, Auffassung | Auffassung}}	Nach Ansicht der Forscher ist Schlaf essenziell.	Meinung, Auffassung;A1
+{{c1::Leistungsfähigkeit::Performanz, Arbeitskapazität | Arbeitskapazität}}	Leistungsfähigkeit und Schlaf hängen zusammen.	Performanz, Arbeitskapazität);A1
+{{c1::Tiefschlafphase,-n::Phase des Tiefschlafs, erholsamste Schlafphase | erholsamste Schlafphase}}	In der Tiefschlafphase wird das Gedächtnis konsolidiert.	Phase des Tiefschlafs, erholsamste Schlafphase;A1
+{{c1::verfallen* wirklich in+ AKK::geraten, verfallen | verfallen}}	In Stressphasen verfallen viele in schlechte Schlafgewohnheiten.	geraten, verfallen;A1
+{{c1::Eineinhalb::1,5, anderthalb | 5}}	Eineinhalb Stunden entsprechen einem vollständigen Schlafzyklus.	1,5, anderthalb;A1
+{{c1::Seicht::oberflächlich, nicht tief | nicht tief}}	Seichter Schlaf erholt weniger.	oberflächlich, nicht tief;A1
+{{c1::Schlafphase,-n::Abschnitt des Schlafes, Schlafstadium | Schlafstadium}}	In der REM-Phase träumen wir am intensivsten.	Abschnitt des Schlafes, Schlafstadium;A1
+{{c1::auf/holen::nachholen, kompensieren | kompensieren}}	Am Wochenende Schlaf aufholen ist verbreitet.	nachholen, kompensieren;A1
+{{c1::vereinbar sein* mit+ DAT::kompatibel sein, passen | passen}}	Flexible Zeiten sind besser vereinbar mit Familie.	kompatibel sein, passen;A1
+{{c1::an/kämpfen::kämpfen, vorgehen | vorgehen}}	Gegen chronische Schlafstörungen anzukämpfen, erfordert Geduld.	kämpfen, vorgehen;A1
+{{c1::Schlafstörung,-en::Schlafproblem, nämlich Insomnie | Insomnie}}	Schlafstörungen sollten ärztlich abgeklärt werden.	Schlafproblem, Insomnie;A1
+{{c1::Wichtigkeit::Bedeutung, Relevanz | Relevanz}}	Die Wichtigkeit von Schlaf für die Gesundheit ist enorm.	Bedeutung, Relevanz);A1
+{{c1::Medienvielfalt::Medienangebot, Pluralität der Medien | Pluralität der Medien}}	Medienvielfalt sichert demokratische Meinungsbildung.	Medienangebot, Pluralität der Medien;A1
+{{c1::Pluralistisch::vielfältig, divers | divers}}	Eine pluralistische Medienwelt fördert den Diskurs.	vielfältig, divers;A1
+{{c1::Sicherstellung,-en::Gewährleistung, Absicherung | Absicherung}}	Sicherstellung pluralistischer Angebote ist wichtig.	Gewährleistung, Absicherung;A1
+{{c1::Journalistisch::pressebezogen, medienfachlich | medienfachlich}}	Journalistisch einwandfreie Berichte sind vertrauenswürdig.	pressebezogen, medienfachlich;A1
+{{c1::Wechselseitig::gegenseitig, reziprok | reziprok}}	Wechselseitige Beeinflussung ist charakteristisch für Medienwirkung.	gegenseitig, reziprok;A1
+{{c1::Duft::Geruch, Aroma | Aroma}}	Die Großmutter stand wohl schon seit den frühen Morgenstunden in der ...	Geruch, Aroma;A1
+{{c1::duften::riechen, strömen Aroma aus | strömen Aroma aus}}	Die vielen Bienen und Schmetterlinge werden davon natürlich magisch a...	riechen, strömen Aroma aus;A1
+{{c1::Essenz::Extrakt, Konzentrat | Konzentrat}}	Sie bildet die wichtigste Grundlage für das teuerste Parfüm der Welt.	Extrakt, Konzentrat;A1
+{{c1::importieren::einführen, ins Land bringen}}	Das verursacht natürlich entsprechend extrem hohe Transportkosten und...	einführen, ins Land bringen;A1
+{{c1::Kaufmann::Händler, Geschäftsmann | Geschäftsmann}}	Sein enormes Vermögen war in der ganzen damaligen Stadt weltberühmt.	Händler, Geschäftsmann;A1
+{{c1::überreichen::geben, aushändigen | aushändigen}}	Die lokale Presse wird bei diesem wichtigen Ereignis natürlich ebenfa...	geben, aushändigen;A1
+{{c1::Manufaktur::Handwerksbetrieb, Fabrik | Fabrik}}	Dementsprechend extrem hoch sind natürlich auch die Preise für ein ei...	Handwerksbetrieb, Fabrik;A1
+{{c1::aufrufen::anrufen, kontaktieren | kontaktieren}}	Unsere freundlichen Mitarbeiter helfen Ihnen dann sehr gerne und schn...	anrufen, kontaktieren;A1
+{{c1::Bindung::Beziehung, Verbundenheit | Verbundenheit}}	Sie überdauert meistens selbst die allergrößten Krisen und familiären...	Beziehung, Verbundenheit);A1
+{{c1::physisch::körperlich, rein physisch | rein physisch}}	Er fiel abends nach dem Essen einfach nur noch totmüde ins warme Bett...	körperlich, rein physisch;A1
+{{c1::Lebenszufriedenheit::Glücksempfinden, ganz Zufriedenheit im Leben | Zufriedenheit im Leben}}	Einsame Menschen sind statistisch gesehen angeblich viel häufiger sta...	Glücksempfinden, Zufriedenheit im Leben;A1
+{{c1::Diskriminierung::Benachteiligung, Ausgrenzung | Ausgrenzung}}	Bewerber mit einem ausländischen Namen haben es oft extrem schwer, ei...	Benachteiligung, Ausgrenzung);A1
+{{c1::aufgrund::wegen, infolge}}	Hunderte verärgerte Passagiere mussten daraufhin die ganze Nacht auf ...	wegen, infolge;A1
+{{c1::auslösen::hervorrufen, bewirken | bewirken}}	Die Nachbarn standen danach völlig verstört in ihren dünnen Pyjamas a...	hervorrufen, bewirken;A1
+{{c1::ermöglichen::erlauben, möglich machen | möglich machen}}	Bisher war er nämlich immer zwingend auf seinen dicken Rollstuhl ange...	erlauben, möglich machen;A1
+{{c1::Bedürfnis::Verlangen, den Wunsch | den Wunsch}}	Er schloss die dicke Tür hinter sich und schaltete sein klingelndes S...	Verlangen, den Wunsch;A1
+{{c1::in Einklang zu bringen::zu vereinbaren, abzustimmen | abzustimmen}}	Oft bleibt am Ende des langen Tages leider viel zu wenig Zeit für die...	zu vereinbaren, abzustimmen;A1
+{{c1::Schlafforscher::Experte für Schlaf, Somnologe | Somnologe}}	Er erklärte den Studenten dabei, wie unser Gehirn nachts die vielen E...	Experte für Schlaf, Somnologe;A1
+{{c1::sowohl::wie auch, einerseits | einerseits}}	Das macht ihn auf dem internationalen Arbeitsmarkt natürlich zu einem...	wie auch, einerseits;A1
+{{c1::Leichtschlaf::leichten Schlaf, Dämmerschlaf | Dämmerschlaf}}	In dieser kurzen Zeitspanne kann uns selbst das leiseste Geräusch noc...	leichten Schlaf, Dämmerschlaf;A1
+{{c1::Tiefschlaf::tiefen Schlaf, der REM-freien Phase | der REM-freien Phase}}	Wenn man diese wichtige Phase nachts verpasst, fühlt man sich am näch...	tiefen Schlaf, der REM-freien Phase;A1
+{{c1::akustisch::hörbar, über den Klang | über den Klang}}	So wird wirklich absolut sichergestellt, dass jeder einzelne Arbeiter...	hörbar, über den Klang;A1
+{{c1::vorspielen::vortäuschen, simulieren | simulieren}}	Zum Glück hat ihr sehr aufmerksamer und cleverer Enkel den dreisten S...	vortäuschen, simulieren;A1
+{{c1::konkreten::spezifischen, offensichtlich exakten | exakten}}	Immer nur theoretisch darüber zu jammern, bringt uns hier nämlich abs...	spezifischen, exakten;A1
+{{c1::Familienmitglied::Mitglied selbstverständlich der Familie, Verwandte | Verwandte}}	Die beiden überraschten Großeltern waren am Ende des Abends wirklich ...	Mitglied der Familie, Verwandte;A1
+{{c1::Schlafgewohnheiten(Pl.)::Schlafroutinen, Schlafverhalten | Schlafverhalten}}	Ungesunde Schlafgewohnheiten können die Leistungsfähigkeit beeinträcht...	Schlafroutinen, Schlafverhalten;A1
+{{c1::Schlafdauer::Schlafzeit, Schlaflänge | Schlaflänge}}	Zu kurze Schlafdauer führt zu Konzentrationsschwierigkeiten.	Schlafzeit, Schlaflänge;A1
+{{c1::Schlafstunde,-n::Schlafenszeit, Stunde des Schlafes | Stunde des Schlafes}}	Jede Schlafstunde zählt für die Erholung.	Schlafenszeit, Stunde des Schlafes;A1
+{{c1::Durchbruch::Erfolg, bahnbrechende Entdeckung | bahnbrechende Entdeckung}}	Dieser Durchbruch veränderte unser Verständnis vom Schlaf.	Erfolg, bahnbrechende Entdeckung;A1
+{{c1::Homeoffice::Heimarbeit, Telearbeit | Telearbeit}}	Im Homeoffice schlafen manche länger.	Heimarbeit, Telearbeit;A1
+{{c1::Telearbeit::Heimarbeit, Arbeit von zu Hause}}	Telearbeit kann den Schlaf-Wach-Rhythmus beeinflussen.	Heimarbeit, Arbeit von zu Hause;A1
+{{c1::Nine-to-five-Job,-s::Bürojob, logischerweise geregelte Arbeitszeit | geregelte Arbeitszeit}}	Nine-to-five-Jobs sind für Eulen oft problematisch.	Bürojob, geregelte Arbeitszeit;A1
+{{c1::Arbeitsmediziner,-/ überraschend die Arbeitsmedizinerin,-nen::Betriebsarzt, Arbeitsgesundheits-Experte}}	Arbeitsmediziner untersuchen auch Schlafstörungen.	Betriebsarzt, Arbeitsgesundheits-Experte;A1
+{{c1::Rhythmus, die Rhythmen::Takt, regelmäßiger Ablauf | regelmäßiger Ablauf}}	Der circadiane Rhythmus steuert den Schlaf.	Takt, regelmäßiger Ablauf;A1
+{{c1::Kindesalter::Kindheit, frühes Lebensalter | frühes Lebensalter}}	Im Kindesalter werden Schlafgewohnheiten angelegt.	Kindheit, frühes Lebensalter;A1
+{{c1::Rentenalter::Pensionsalter, Lebensabend | Lebensabend}}	Im Rentenalter schlafen viele leichter.	Pensionsalter, Lebensabend;A1
+{{c1::Diskrepanz,-en::Differenz, sehr Unterschied | Unterschied}}	Die Diskrepanz zwischen idealem und realem Schlaf ist problematisch.	Differenz, Unterschied;A1
+{{c1::Schlafdefizit,-e::Schlafmangel, sehr Schlafrückstand | Schlafrückstand}}	Ein Schlafdefizit von einer Woche ist gesundheitsschädlich.	Schlafmangel, Schlafrückstand;A1
+{{c1::aus/gleichen*::kompensieren, wettmachen | wettmachen}}	Wochenendschlaf gleicht das Defizit nur teilweise aus.	kompensieren, wettmachen;A1
+{{c1::Kurzschläfer,-/ natürlich die Kurzschläferin,-nen::Person mit wenig Schlafbedarf}}	Kurzschläfer sind genetisch bedingt.	Person mit wenig Schlafbedarf;A1
+{{c1::Mythos, die Mythen::Irrglaube, falsche Annahme | falsche Annahme}}	Der Mythos vom wenig schlafenden Genie ist widerlegt.	Irrglaube, falsche Annahme;A1
+{{c1::sich glücklicherweise brüsten mit+ DAT::prahlen mit, rühmen sich | rühmen sich}}	Sie brüsten sich damit, wenig zu schlafen.	prahlen mit, rühmen sich;A1
+{{c1::App,-s (die Applikation,-en)::Software, mobile Anwendung | mobile Anwendung}}	Schlaf-Apps sind beliebt, aber nicht immer genau.	Software, mobile Anwendung;A1
+{{c1::Optimierung,-en::Verbesserung, Leistungssteigerung | Leistungssteigerung}}	Optimierung des Schlafs kann die Produktivität steigern.	Verbesserung, Leistungssteigerung;A1
+{{c1::Genetisch::erblich, die Gene betreffend | die Gene betreffend}}	Genetische Faktoren bestimmen, ob man Lerche oder Eule ist.	erblich, die Gene betreffend;A1
+{{c1::Bedingt::verursacht, natürlich abhängig | abhängig}}	Schlafbedürfnis ist genetisch bedingt.	verursacht, abhängig;A1
+{{c1::begrenzt::beschränkt, limitiert | limitiert}}	Die Zeit zum Schlafen ist begrenzt.	beschränkt, limitiert;A1
+{{c1::ausgeschlafen ist*::erholt ist, genug Schlaf hatte | genug Schlaf hatte}}	Ausgeschlafen sein ist wichtig für Konzentration.	erholt ist, genug Schlaf hatte;A1
+{{c1::Schlafbedürfnis,-se::Bedürfnis nach Schlaf, Schlafanspruch | Schlafanspruch}}	Das Schlafbedürfnis nimmt im Alter ab.	Bedürfnis nach Schlaf, Schlafanspruch;A1
+{{c1::Lebensalter,-::Alter, Lebensphase | Lebensphase}}	Im hohen Lebensalter wird der Schlaf leichter.	Alter, Lebensphase;A1
+{{c1::Säugling,-e::Baby, Kleinkind | Kleinkind}}	Säuglinge haben einen anderen Schlafrhythmus.	Baby, Kleinkind;A1
+{{c1::Wiederum::andererseits, hingegen | hingegen}}	Wiederum ist die Schlafqualität im Alter oft reduziert.	andererseits, hingegen;A1
+{{c1::senile Bettflucht::Altersschlafstörung, nächtliche Unruhe im Alter | nächtliche Unruhe im Alter}}	Senile Bettflucht ist eine Herausforderung für Angehörige.	Altersschlafstörung, nächtliche Unruhe im Alter;A1
+{{c1::Ausgeschlafensein::Erholtsein, Ausgeruhtsein | Ausgeruhtsein}}	Ausgeschlafensein fördert gute Laune.	Erholtsein, Ausgeruhtsein;A1
+{{c1::Schlafmangel::Schlafdefizit, zu wenig Schlaf | zu wenig Schlaf}}	Schlafmangel ist ein Risikofaktor im Straßenverkehr.	Schlafdefizit, zu wenig Schlaf;A1
+{{c1::Schlaftiefe::Tiefe natürlich des Schlafes, Schlafintensität | Schlafintensität}}	In der Tiefschlafphase regeneriert sich der Körper.	Tiefe des Schlafes, Schlafintensität;A1
+{{c1::Arbeitszeit,-en::Arbeitsdauer, Beschäftigungszeit}}	Falsche Arbeitszeiten führen zu Schlafproblemen.	Arbeitsdauer, Beschäftigungszeit;A1
+{{c1::Ansicht,-en::Meinung, Auffassung | Auffassung}}	Nach Ansicht der Forscher ist Schlaf essenziell.	Meinung, Auffassung;A1
+{{c1::Leistungsfähigkeit::Performanz, Arbeitskapazität | Arbeitskapazität}}	Leistungsfähigkeit und Schlaf hängen zusammen.	Performanz, Arbeitskapazität);A1
+{{c1::Tiefschlafphase,-n::Phase ja des Tiefschlafs, erholsamste Schlafphase | erholsamste Schlafphase}}	In der Tiefschlafphase wird das Gedächtnis konsolidiert.	Phase des Tiefschlafs, erholsamste Schlafphase;A1
+{{c1::verfallen* in+ AKK::geraten, verfallen | verfallen}}	In Stressphasen verfallen viele in schlechte Schlafgewohnheiten.	geraten, verfallen;A1
+{{c1::Eineinhalb::1,5, anderthalb | 5}}	Eineinhalb Stunden entsprechen einem vollständigen Schlafzyklus.	1,5, anderthalb;A1
+{{c1::Seicht::oberflächlich, nicht tief | nicht tief}}	Seichter Schlaf erholt weniger.	oberflächlich, nicht tief;A1
+{{c1::Schlafphase,-n::Abschnitt des Schlafes, Schlafstadium | Schlafstadium}}	In der REM-Phase träumen wir am intensivsten.	Abschnitt des Schlafes, Schlafstadium;A1
+{{c1::auf/holen::nachholen, kompensieren | kompensieren}}	Am Wochenende Schlaf aufholen ist verbreitet.	nachholen, kompensieren;A1
+{{c1::vereinbar sein* mit+ DAT::kompatibel sein, passen | passen}}	Flexible Zeiten sind besser vereinbar mit Familie.	kompatibel sein, passen;A1
+{{c1::an/kämpfen::kämpfen, vorgehen | vorgehen}}	Gegen chronische Schlafstörungen anzukämpfen, erfordert Geduld.	kämpfen, vorgehen;A1
+{{c1::Schlafstörung,-en::Schlafproblem, Insomnie | Insomnie}}	Schlafstörungen sollten ärztlich abgeklärt werden.	Schlafproblem, Insomnie;A1
+{{c1::Wichtigkeit::Bedeutung, Relevanz | Relevanz}}	Die Wichtigkeit von Schlaf für die Gesundheit ist enorm.	Bedeutung, Relevanz);A1
+{{c1::Medienvielfalt::Medienangebot, Pluralität der Medien | Pluralität der Medien}}	Medienvielfalt sichert demokratische Meinungsbildung.	Medienangebot, Pluralität der Medien;A1
+{{c1::Pluralistisch::vielfältig, divers | divers}}	Eine pluralistische Medienwelt fördert den Diskurs.	vielfältig, divers;A1
+{{c1::Sicherstellung,-en::Gewährleistung, Absicherung | Absicherung}}	Sicherstellung pluralistischer Angebote ist wichtig.	Gewährleistung, Absicherung;A1
+{{c1::Journalistisch::pressebezogen, medienfachlich | medienfachlich}}	Journalistisch einwandfreie Berichte sind vertrauenswürdig.	pressebezogen, medienfachlich;A1
+{{c1::Wechselseitig::gegenseitig, reziprok | reziprok}}	Wechselseitige Beeinflussung ist charakteristisch für Medienwirkung.	gegenseitig, reziprok;A1
+{{c1::Juristisch::rechtlich, gesetzlich | gesetzlich}}	Juristisch einwandfreie Verträge sind essenziell.	rechtlich, gesetzlich;A1
+{{c1::Auffällig::bemerkenswert, ins Auge fallend | ins Auge fallend}}	Auffällige Muster wurden statistisch geprüft.	bemerkenswert, ins Auge fallend;A1
+{{c1::Meinungsfreiheit::Redefreiheit, freie Meinungsäußerung | freie Meinungsäußerung}}	Meinungsfreiheit ermöglicht demokratischen Diskurs.	Redefreiheit, freie Meinungsäußerung;A1
+{{c1::Vielzitiert::oft leider zitiert, häufig referenziert | häufig referenziert}}	Vielzitierte Autoren prägen das Fach.	oft zitiert, häufig referenziert;A1
+{{c1::Kontrovers::streitig, umstritten | umstritten}}	Kontroverse Themen regen zum Nachdenken an.	streitig, umstritten;A1
+{{c1::Genauigkeit::Präzision, genau Exaktheit | Exaktheit}}	Hohe Genauigkeit ist in der Forschung essenziell.	Präzision, Exaktheit);A1
+{{c1::Autonomie::Selbstständigkeit, Unabhängigkeit | Unabhängigkeit}}	Autonomie ermöglicht freie Wissenschaft.	Selbstständigkeit, Unabhängigkeit;A1
+{{c1::Charakteristisch::typisch, kennzeichnend | kennzeichnend}}	Charakteristisch für gute Forschung ist Transparenz.	typisch, kennzeichnend;A1
+{{c1::Soziopolitisch::gesellschaftlich-politisch, sozial und politisch | sozial und politisch}}	Soziopolitische Faktoren beeinflussen die Forschung.	gesellschaftlich-politisch, sozial und politisch;A1
+{{c1::Angstzustand::Panikattacke, doch Furcht | Furcht}}	Sie traute sich in dieser Zeit fast gar nicht mehr alleine aus dem Ha...	Panikattacke, Furcht;A1
+{{c1::in Rekordausmaß::in beispielloser Höhe, extrem stark | extrem stark}}	Normale Familien können sich hier absolut kein eigenes Haus mehr leis...	in beispielloser Höhe, extrem stark;A1
+{{c1::Übergang::Wechsel, die Überleitung | die Überleitung}}	Plötzlich weht ein völlig anderer und sehr viel rauerer Wind.	Wechsel, die Überleitung;A1
+{{c1::Erwachsenenalter::Mannesalter, Zeit als Erwachsener | Zeit als Erwachsener}}	Man wählt einen festen Beruf und gründet vielleicht sogar schon eine ...	Mannesalter, Zeit als Erwachsener;A1
+{{c1::ausgesetzt sieht::konfrontiert wird mit}}	Eine gute Sonnencreme ist im Hochsommer absolut und immer Pflicht.	konfrontiert wird mit;A1
+{{c1::teilweise::zum Teil, nicht komplett}}	Das wichtige Dach fehlt noch komplett und die Fenster sind auch noch ...	zum Teil, nicht komplett;A1
+{{c1::in Watte gepackt::überbehütet, extrem verwöhnt | extrem verwöhnt}}	Man muss Kindern schließlich auch beibringen, wie man kleine Rückschl...	überbehütet, extrem verwöhnt;A1
+{{c1::aufzuwachsen::großzuwerden, seine Kindheit zu verbringen | seine Kindheit zu verbringen}}	Viele Millionen Kinder auf der Welt haben dieses unglaubliche Glück b...	großzuwerden, seine Kindheit zu verbringen;A1
+{{c1::mit sich bringen::verursachen, zur Folge haben | zur Folge haben}}	Man hat plötzlich fast überhaupt keine freie Zeit mehr für die eigene...	verursachen, zur Folge haben;A1
+{{c1::Auswirkungen::Folgen, Konsequenzen | Konsequenzen}}	Vermutlich werden aber vor allem extrem arme Familien sehr stark daru...	Folgen, Konsequenzen;A1
+{{c1::abfedern::mildern, auffangen | auffangen}}	Niemand muss in diesem reichen Land sofort auf der extrem kalten Stra...	mildern, auffangen;A1
+{{c1::Bedeutung beimessen::Wichtigkeit zuschreiben, Ernst nehmen | Ernst nehmen}}	Manche Leute nörgeln schließlich einfach nur aus purer Langeweile ext...	Wichtigkeit zuschreiben, Ernst nehmen;A1
+{{c1::widmen::hingeben, beschäftigen mit | beschäftigen mit}}	Er hat sich schon unzählige teure Rosenstöcke für den sonnigen Vorgar...	hingeben, beschäftigen mit;A1
+{{c1::Kontrollgruppe::Vergleichsgruppe in Studien}}	So konnten sie die absolute echte Wirkung des Medikaments extrem gena...	Vergleichsgruppe in Studien;A1
+{{c1::Anstrengungen::Mühen, Bemühungen | Bemühungen}}	Das verärgerte den wichtigen und reichen Kunden am Ende natürlich abs...	Mühen, Bemühungen;A1
+{{c1::Frustration::Enttäuschung, der Frust | der Frust}}	Er schlug bei der hitzigen Besprechung sogar extrem laut und wütend a...	Enttäuschung, der Frust;A1
+{{c1::Herzklopfen::Pulsieren, starker Herzschlag | starker Herzschlag}}	Tausende erwartungsvolle und kritische Augen starrten direkt und stum...	Pulsieren, starker Herzschlag;A1
+{{c1::abliefern::übergeben, leider fertigstellen | fertigstellen}}	Jetzt meldet er sich schon seit drei absolut endlosen Tagen überhaupt...	übergeben, fertigstellen;A1
+{{c1::banale::alltägliche, praktisch geistlose | geistlose}}	Ich bin im dunklen Kino nach zwanzig Minuten vor lauter purer Langewe...	alltägliche, geistlose;A1
+{{c1::hinweisen::aufmerksam machen, aufzeigen | aufzeigen}}	Wenn Sie nicht sofort aufhören, muss ich Sie leider des gesamten Haus...	aufmerksam machen, aufzeigen;A1
+{{c1::Studienergebnis::Resultat der Forschung, Fazit | Fazit}}	Wir müssen unsere alten, extrem theoretischen Modelle jetzt wohl komp...	Resultat der Forschung, Fazit;A1
+{{c1::stattdessen::dafür, anstelle dessen | anstelle dessen}}	Jetzt sitzt er absolut pleite und sehr traurig in seiner kleinen, kal...	dafür, anstelle dessen;A1
+{{c1::Besitzer,-/ die Besitzerin,-nen::Eigentümer, Inhaber | Inhaber}}	Der Besitzer des Hauses wurde informiert.	Eigentümer, Inhaber;A1
+{{c1::Defizit,-e::Mangel, Fehlbetrag | Fehlbetrag}}	Ein Defizit an Vielfalt ist problematisch.	Mangel, Fehlbetrag;A1
+{{c1::Landkind,-er::Kind vom Land, ländliches Kind | ländliches Kind}}	Landkinder wachsen oft naturnah auf.	Kind vom Land, ländliches Kind;A1
+{{c1::Stadtkind,-er::Kind eigentlich aus der Stadt, urbanes Kind | urbanes Kind}}	Stadtkinder besuchen seltener Wälder.	Kind aus der Stadt, urbanes Kind;A1
+{{c1::Stadtbewohner,-/ die Stadtbewohnerin,-nen::Urbaner, Stadtbevölkerung | Stadtbevölkerung}}	Stadtbewohner nutzen häufiger öffentliche Verkehrsmittel.	Urbaner, Stadtbevölkerung;A1
+{{c1::Nicht-Stadtbewohner,-/ die Nicht-Stadtbewohnerin,-nen::Landbewohner, Ländlicher | Ländlicher}}	Nicht-Stadtbewohner haben andere Prioritäten.	Landbewohner, Ländlicher;A1
+{{c1::Gitterartig::netzartig, rasterförmig | rasterförmig}}	Die Straßen verlaufen gitterartig.	netzartig, rasterförmig;A1
+{{c1::Straßennetz,-e::Wegenetz, Verkehrsnetz | Verkehrsnetz}}	Ein gut ausgebautes Straßennetz ist wichtig.	Wegenetz, Verkehrsnetz;A1
+{{c1::Spielumfeld,-er::Gaming-Umgebung, virtuelle Welt | virtuelle Welt}}	Das Spielumfeld wurde realistisch gestaltet.	Gaming-Umgebung, virtuelle Welt;A1
+{{c1::Stadtgestaltung::Stadtplanung, urbanes Design | urbanes Design}}	Moderne Stadtgestaltung fördert Lebensqualität.	Stadtplanung, urbanes Design);A1
+{{c1::Spielgewohnheiten(Pl.)::Gaming-Gewohnheiten, Nutzungsverhalten | Nutzungsverhalten}}	Spielgewohnheiten können sich ändern.	Gaming-Gewohnheiten, Nutzungsverhalten;A1
+{{c1::erfüllend::befriedigend, überraschend glücklich machend | glücklich machend}}	Das Lachen der Kinder gibt ihr jeden Tag unheimlich viel Energie zurü...	befriedigend, glücklich machend;A1
+{{c1::vergebens::umsonst, nutzlos | nutzlos}}	Er verstarb friedlich in der späten Nacht im Krankenhaus.	umsonst, nutzlos;A1
+{{c1::auslösen::hervorrufen, bewirken | bewirken}}	Die Presse stürzt sich ja heute auf jeden kleinen verbalen Ausrutsche...	hervorrufen, bewirken;A1
+{{c1::Abwechslung::Veränderung, Tapetenwechsel | Tapetenwechsel}}	Er ging deshalb abends oft noch extrem lange und schnell im dunklen P...	Veränderung, Tapetenwechsel);A1
+{{c1::lose jedoch Blätter::einzelne Zettel, nicht geheftetes Papier | nicht geheftetes Papier}}	Wenn jemand das Fenster öffnet, fliegt hier sofort das totale Chaos d...	einzelne Zettel, nicht geheftetes Papier;A1
+{{c1::türmen::stapeln, aufeinanderzuliegen | aufeinanderzuliegen}}	Sie wusste überhaupt nicht mehr, wo sie bei dieser Masse anfangen sol...	stapeln, aufeinanderzuliegen;A1
+{{c1::Privatleben::persönliches Leben, familiäre Sphäre | familiäre Sphäre}}	Seine Kollegen wissen eigentlich fast überhaupt nichts über seine Fra...	persönliches Leben, familiäre Sphäre;A1
+{{c1::vertraulich::geheim, diskret | diskret}}	Wenn die gierige Presse davon Wind bekommt, haben wir ein gigantische...	geheim, diskret;A1
+{{c1::Kohlendioxid::CO2, Treibhausgas | Treibhausgas}}	Wir müssen dringend Wege finden, diese schädlichen Emissionen drastis...	CO2, Treibhausgas;A1
+{{c1::Energieerzeugung::Stromproduktion, total Gewinnung von Energie | Gewinnung von Energie}}	Sonnen- und Windkraft sind dabei absolut entscheidende und wichtige F...	Stromproduktion, Gewinnung von Energie);A1
+{{c1::Klimaschutz::Schutz des Klimas}}	Die späteren extremen Kosten durch Flutkatastrophen wären nämlich noc...	Schutz des Klimas;A1
+{{c1::Vorsatz::Absicht, Plan | Plan}}	Leider hat er schon nach knapp drei kurzen Wochen wieder schwach in d...	Absicht, Plan;A1
+{{c1::kollektiv::gemeinsam, alle zusammen | alle zusammen}}	Egoistische und kleine Einzelgänge bringen uns hier absolut nicht wei...	gemeinsam, alle zusammen;A1
+{{c1::Fluggerät::Luftfahrzeug, Maschine | Maschine}}	Viele aufgeregte Anwohner dachten im ersten Moment sogar an ein echte...	Luftfahrzeug, Maschine;A1
+{{c1::entwerfen::planen, skizzieren | skizzieren}}	Seine ersten mutigen Skizzen sehen wirklich absolut fantastisch und s...	planen, skizzieren;A1
+{{c1::umsetzbar::realisierbar, machbar | machbar}}	Es fehlte der Stadt dafür schlichtweg an dem nötigen Geld und dem gut...	realisierbar, machbar;A1
+{{c1::Aerodynamik::Strömungslehre, Windschlüpfrigkeit | Windschlüpfrigkeit}}	Jede kleine Kante wurde dabei für noch mehr Geschwindigkeit perfekt o...	Strömungslehre, Windschlüpfrigkeit;A1
+{{c1::Gebet::Andacht, das Beten | das Beten}}	Sie dankten dem lieben Gott dabei für die vielen guten und reichen Ga...	Andacht, das Beten;A1
+{{c1::Bewusstsein::Ohnmacht, tatsächlich Bewusstseinszustand | Bewusstseinszustand}}	Er wachte glücklicherweise erst einige Stunden später im hellen Krank...	Ohnmacht, Bewusstseinszustand;A1
+{{c1::Wohnsituation,-en::Wohnverhältnisse, Unterbringung | Unterbringung}}	Die Wohnsituation vieler Familien ist prekär.	Wohnverhältnisse, Unterbringung;A1
+{{c1::Stadt-Land-Perspektive::urbane-ländliche Sichtweise}}	Die Stadt-Land-Perspektive ist in der Raumplanung wichtig.	urbane-ländliche Sichtweise;A1
+{{c1::Bezahlbar::erschwinglich, leistbar | leistbar}}	Bezahlbarer Wohnraum ist ein gesellschaftliches Ziel.	erschwinglich, leistbar;A1
+{{c1::Erwerben*::kaufen, erwerben | erwerben}}	Viele Familien möchten ein Haus erwerben.	kaufen, erwerben;A1
+{{c1::Klimafreundlich::umweltverträglich, nachhaltig | nachhaltig}}	Klimafreundliche Materialien werden bevorzugt.	umweltverträglich, nachhaltig;A1
+{{c1::Windenergie::Windkraft, Windstrom | Windstrom}}	Windenergie trägt zur Energiewende bei.	Windkraft, Windstrom;A1
+{{c1::Studententeam,-s::Uni-Team, offensichtlich Hochschulgruppe | Hochschulgruppe}}	Studententeams bringen frischen Wind in Projekte.	Uni-Team, Hochschulgruppe;A1
+{{c1::Lehmziegelhaus,&quot;-er::aus Lehm gebautes Haus, traditionelle Behausung | traditionelle Behausung}}	Lehmziegelhäuser speichern Wärme gut.	aus Lehm gebautes Haus, traditionelle Behausung;A1
+{{c1::Biodiversität::Artenvielfalt, biologische Vielfalt | biologische Vielfalt}}	Der Schutz der Biodiversität ist für stabile Ökosysteme essenziell.	Artenvielfalt, biologische Vielfalt;A1
+{{c1::Schadstoff,-e::Giftstoff, Umweltgift | Umweltgift}}	Die Reduktion von Schadstoffen ist ein wichtiges umweltpolitisches Zie...	Giftstoff, Umweltgift;A1
+{{c1::Lärmbelastung::Geräuschbelastung, akustische Umweltbelastung | akustische Umweltbelastung}}	Lärmbelastung in Wohngebieten sollte durch Schallschutz reduziert werd...	Geräuschbelastung, akustische Umweltbelastung);A1
+{{c1::Passivhaus,-&quot;er::energieeffizientes Haus, Niedrigenergiehaus | Niedrigenergiehaus}}	Passivhäuser nutzen passive Wärmequellen wie Sonneneinstrahlung.	energieeffizientes Haus, Niedrigenergiehaus;A1
+{{c1::Künstliche Intelligenz::KI, maschinelles Lernen | maschinelles Lernen}}	Künstliche Intelligenz kann Prozesse automatisieren und verbessern.	KI, maschinelles Lernen;A1
+{{c1::Benutzerfreundlichkeit::Usability, Nutzerfreundlichkeit | Nutzerfreundlichkeit}}	Eine hohe Benutzerfreundlichkeit erhöht die Akzeptanz von Anwendungen.	Usability, Nutzerfreundlichkeit);A1
+{{c1::Kritisches Denken::reflektiertes Urteilen, analytische Bewertung | analytische Bewertung}}	Kritisches Denken hilft, Informationen einzuordnen und zu bewerten.	reflektiertes Urteilen, analytische Bewertung;A1
+{{c1::Product sehr Owner,-::Produktverantwortlicher, Auftraggeber | Auftraggeber}}	Der Product Owner vertritt die Interessen der Stakeholder.	Produktverantwortlicher, Auftraggeber;A1
+{{c1::Digitale echt Souveränität::technologische Selbstbestimmung, digitale Autonomie | digitale Autonomie}}	Digitale Souveränität ist wichtig für demokratische Gesellschaften.	technologische Selbstbestimmung, digitale Autonomie;A1
+{{c1::kritisch::skeptisch, hinterfragend | hinterfragend}}	Der deutsche Psychologe und Bestsellerautor Dr. Manfred Lütz steht der...	skeptisch, hinterfragend;A1
+{{c1::prunkvolle::prächtige}}	Stattdessen engagierte er sich für die Künste, baute prunkvolle Schlös...	prächtige;A1
+{{c1::nachgeahmt::kopiert, also imitiert | imitiert}}	...und hat den Sonnenkönig nachgeahmt.	kopiert, imitiert;A1
+{{c1::verhasste::sehr unbeliebte}}	„München. München. Nicht einmal zehn Pferde bringen mich in diese verh...	sehr unbeliebte;A1
+{{c1::gigantischen::riesigen}}	Auf dem Dach des Schlosses in München ließ der scheue Monarch einen gi...	riesigen;A1
+{{c1::Regentschaft::Regierungszeit}}	...die Ludwig II. während seiner Regentschaft mit unglaublichen Geldsu...	Regierungszeit;A1
+{{c1::Klärung::Lösung, praktisch Aufklärung | Aufklärung}}	Das Haus Wittelsbach lehnt eine Öffnung des Grabes zur Klärung der wah...	Lösung, Aufklärung);A1
+{{c1::beherbergte::gab leider Unterkunft}}	Dieser Vielvölkerstaat beherbergte viele unterschiedliche Sprachen, di...	gab Unterkunft;A1
+{{c1::überspitzt::übertrieben}}	Und das, so formuliert es Brigitte Sorger überspitzt, pointiert, würde...	übertrieben;A1
+{{c1::umfasst::beinhaltet}}	„Also für mich umfasst die Jause entweder etwas, was ich zwischen dem ...	beinhaltet;A1
+{{c1::immateriellen::geistigen, nicht physischen | nicht physischen}}	Die dortige Kaffeehauskultur gehört seit 2011 sogar zum immateriellen ...	geistigen, nicht physischen;A1
+{{c1::Aufwind::Auftrieb}}	...wo es hieß: ‚Na, vielleicht könnte jetzt Vinyl wieder ’n bisschen m...	Auftrieb;A1
+{{c1::Förderanlagen::Transportmaschinen}}	...und dann wird von hier über verschiedene Förderanlagen das zu den P...	Transportmaschinen;A1
+{{c1::ausspannen::entspannen}}	„Das Wochenende ist in erster Linie natürlich Freizeit, das heißt vor ...	entspannen;A1
+{{c1::Schweinehundes::inneren Widerstands}}	Und dann ist es wirklich ’n Überwinden des eigenen Schweinehundes, dan...	inneren Widerstands;A1
+{{c1::Korn::Ziel (Redewendung)}}	Der deutsche Autor Sven Regener nimmt diese deutsche Vorliebe ein biss...	Ziel;A1
+{{c1::Grundausstattung::Basiseinrichtung}}	Obwohl eine Waschmaschine in den meisten deutschen Haushalten zur Grun...	Basiseinrichtung);A1
+{{c1::Waschgänge::Zyklen der Wäsche}}	Die erste Waschmaschine, bei der alle Waschgänge – Vorwäsche, Hauptwäs...	Zyklen der Wäsche;A1
+{{c1::verstauen::unterbringen}}	Stattdessen heißt es: die Wäsche sortieren und in der Waschmaschine ve...	unterbringen;A1
+{{c1::einfallen::ausdenken}}	„In der DDR-Küche da musste man sich natürlich auch ein bisschen was e...	ausdenken;A1
+{{c1::Arbeiter- und Bauernstaat::Bezeichnung für die DDR}}	...dass der „imperialistische Westen“ irgendeinen – auch sprachlichen ...	Bezeichnung für die DDR;A1
+{{c1::bodenständig::einfach, rustikal | rustikal}}	Die eigentliche DDR-Küche war laut Aurick Günther [...] ziemlich boden...	einfach, rustikal;A1
+{{c1::vererbt::weitergegeben}}	Ob jemand schnell oder nicht so schnell friert, ist genetisch bedingt ...	weitergegeben;A1
+{{c1::aufzustehen::aus dem Bett zu kommen}}	Wenn die natürlichen Voraussetzungen stimmen, bedeutet das für Winzer,...	aus dem Bett zu kommen;A1
+{{c1::Wettervorhersagen::Wetterprognosen}}	Die modernen Wettervorhersagen sind meist über einen Zeitraum von 42 S...	Wetterprognosen;A1
+{{c1::Wettersatelliten::Wetterbeobachtungssatelliten}}	...eine hohe Wahrscheinlichkeit, die durch den Einsatz von Wettersatel...	Wetterbeobachtungssatelliten;A1
+{{c1::Streuung::Verteilung}}	Diese Verfärbungen entstehen durch die sogenannte „Streuung“ der unter...	Verteilung);A1
+{{c1::gehänselt::verspottet, geärgert | geärgert}}	Wer in der Schweizer Stadt aufgewachsen ist, musste von klein auf dami...	verspottet, geärgert;A1
+{{c1::Regulierungen::Vorschriften}}	Die Welschen sind häufig der EU gegenüber offener und staatlichen Regu...	Vorschriften;A1
+{{c1::Bandbreite::Auswahl, Umfang | Umfang}}	Die Bandbreite des Museums reicht von alten Tontafeln über Telefone un...	Auswahl, Umfang;A1
+{{c1::nehmen ein::beanspruchen}}	Großen Raum in der Ausstellung nehmen natürlich Telefone, Taschenrechn...	beanspruchen;A1
+{{c1::fusionierte::schloss sich zusammen}}	1959 fusionierte es mit einer anderen Firma zur Nixdorf Computer AG...	schloss sich zusammen;A1
+{{c1::Marktlücke::unbefriedigter Bedarf am Markt}}	Mit seinen kleinen Rechenmaschinen hatte Heinz Nixdorf eine Marktlücke...	unbefriedigter Bedarf am Markt;A1
+{{c1::vorherrschend::dominant, am häufigsten | am häufigsten}}	Früher war halt die Straßensammlung vorherrschend.	dominant, am häufigsten;A1
+{{c1::quellen über::sind zu voll und laufen über}}	Die Folge: Viele Container quellen über und sorgen so für ein ungepfle...	sind zu voll und laufen über;A1
+{{c1::belächelt::nicht ernst genommen, ausgelacht | ausgelacht}}	Die Idee Adolf Jandorfs wurde damals belächelt.	nicht ernst genommen, ausgelacht;A1
+{{c1::zugänglich::erreichbar, verfügbar | verfügbar}}	...auf der einen Seite natürlich guten Geschmack vielen Menschen zugän...	erreichbar, verfügbar;A1
+{{c1::aus::kamen nicht mehr}}	Für das KaDeWe hatte die Teilung der Stadt zur Folge, dass Kundinnen u...	kamen nicht mehr;A1
+{{c1::erbringt::leistet}}	...weil das westdeutsche System ganz praktisch Leistungen erbringt, di...	leistet;A1
+{{c1::gestürmt::massiv aufgesucht, überrannt | überrannt}}	Deswegen wurde es am 10. November 1989 [...] von DDR-Bürgern gestürmt.	massiv aufgesucht, überrannt;A1
+{{c1::Ladentheke::Verkaufstisch im Geschäft}}	...dass aus Sicherheitsgründen zeitweise niemand hineingelassen und Wa...	Verkaufstisch im Geschäft;A1
+{{c1::Aufblühen::Aufschwung, starkes Wachstum | starkes Wachstum}}	Die Institution Kindergarten ist eine deutsche Erfindung und wurde zum...	Aufschwung, starkes Wachstum;A1
+{{c1::überlassen::sich selbst um sich kümmern müssen}}	„Die Kleinkinder sind sich selbst überlassen.	sich selbst um sich kümmern müssen;A1
+{{c1::Verwahrlosung::Verluderung, schlechter Zustand durch Vernachlässigung | schlechter Zustand durch Vernachlässigung}}	...aber das ist eben dann, dass in dieser Zeit die Kleinkinder sozusag...	Verluderung, schlechter Zustand durch Vernachlässigung);A1
+{{c1::einflößen::zwanghaft beibringen}}	Friedrich Fröbel erkannte, dass es nichts brachte, kleinen Kindern Wis...	zwanghaft beibringen;A1
+{{c1::abfinden::akzeptieren}}	Die Kindergärtnerinnen wollten sich jedoch nicht mit dem Verlust ihrer...	akzeptieren;A1
+{{c1::Siegeszug::großer sehr Erfolg, weite Verbreitung | weite Verbreitung}}	Tatsächlich trat der Kindergarten nun seinen Siegeszug an...	großer Erfolg, weite Verbreitung;A1
+{{c1::behutsam::vorsichtig, sorgfältig | sorgfältig}}	...dass Fröbel das Wort „Kindergarten“ sehr behutsam gewählt hatte...	vorsichtig, sorgfältig;A1
+{{c1::Wortschöpfung::neu erfundenes Wort}}	„Diese schöne Wortschöpfung ‚Kindergarten‘, da sieht er eben auch das ...	neu erfundenes Wort);A1
+{{c1::überdauert::überlebt, schon Bestand gehabt | Bestand gehabt}}	Dieser Grundgedanke hat nach Ansicht von Petra Strehmel die Jahrhunder...	überlebt, Bestand gehabt;A1
+{{c1::Wortungetüm::sehr langes, unschönes Wort}}	Merkwürdig ist allerdings, dass ausgerechnet in Deutschland das bürokr...	sehr langes, unschönes Wort;A1
+{{c1::inszenierten also sich::stellten sich wirkungsvoll dar}}	Sie inszenierten sich beispielsweise medial wirksam mit ihren Familien...	stellten sich wirkungsvoll dar;A1
+{{c1::Bruchteil::sehr kleinen Teil}}	Ich erreiche da ja immer nur einen Bruchteil. Auf der Straße erreiche ...	sehr kleinen Teil;A1
+{{c1::fahrbarer Untersatz::Fahrzeug, Auto (umgangssprachlich) | Auto (umgangssprachlich)}}	...das eigene Haus in Form eines geräumigen fahrbaren Untersatzes imme...	Fahrzeug, Auto;A1
+{{c1::verbaut::eingebaut, montiert | montiert}}	Dabei werden die Fahrzeuge stetig optimiert – von der Küche bis zum St...	eingebaut, montiert;A1
+{{c1::krass::extrem, sehr stark (umgangssprachlich) | sehr stark (umgangssprachlich)}}	Aber ich hab tatsächlich, seit ich im Van wohne, richtig krass meine F...	extrem, sehr stark;A1
+{{c1::Spießbürgertum::enge, unbewegliche gesellschaftliche Denken | unbewegliche gesellschaftliche Denken}}	Und dann natürlich auch Satire auf das, was wir heute so gern Spießbür...	enge, unbewegliche gesellschaftliche Denken;A1
+{{c1::vagabundierten::zogen ziellos umher}}	Und dann vagabundierten ganze Kinderbanden über Land.	zogen ziellos umher;A1
+{{c1::Tracht Prügel::starke körperliche Strafe, Schläge (Redewendung) | Schläge (Redewendung)}}	...als er von seinem Onkel eine gehörige Tracht Prügel bezog, weil er ...	starke körperliche Strafe, Schläge;A1
+{{c1::die Seele baumeln zu lassen::sich zu erholen, zu entspannen (Redewendung) | zu entspannen (Redewendung)}}	Sich zu erholen, die Seele baumeln zu lassen, war eher zweitrangig.	sich zu erholen, zu entspannen;A1
+{{c1::Parzellen::kleinen, abgetrennten Grundstücken | abgetrennten Grundstücken}}	In den Kleingartenanlagen trennen gerade Wege Blocks von jeweils 20 bi...	kleinen, abgetrennten Grundstücken;A1
+{{c1::überlaufen::von zu vielen Menschen besucht}}	Die Kleingärten sind nicht so überlaufen wie die städtischen Naherholu...	von zu vielen Menschen besucht;A1
+{{c1::tratschen::über andere Leute reden, klatschen | klatschen}}	Laubenpieper sind zudem häufig als Spießer verschrien, die Gartenzwerg...	über andere Leute reden, klatschen;A1
+{{c1::ein paar Mark fünfzig::ausreichend Geld (umgangssprachliche Redewendung)}}	...und da muss man die paar Mark fuffzig besitzen, die der Garten kost...	ausreichend Geld;A1
+{{c1::von ungefähr::ohne bestimmten Grund, nicht zufällig | nicht zufällig}}	Das kommt nicht von ungefähr. Ich bin praktisch damit aufgewachsen.	ohne bestimmten Grund, nicht zufällig;A1
+{{c1::in gute Hände::in gute Betreuung}}	Ich bin froh, dass ich den Hund in gute Hände geben kann.	in gute Betreuung;A1
+{{c1::Seele von Hund::ein sehr liebes Tier}}	Dieser Jason hier zum Beispiel ist ’ne Seele von Hund.	ein sehr liebes Tier;A1
+{{c1::richtig warm::kann keine Sympathie/Nähe aufbauen | Nähe aufbauen}}	Und es gibt Hunde, mit denen wird man also nicht so richtig warm...	kann keine Sympathie | Nähe aufbauen;A1
+{{c1::liegt auf der Hand::ist ganz offensichtlich (Redewendung)}}	Dass Regierungen und Stadtverwaltungen trotzdem ein Eigeninteresse an ...	ist ganz offensichtlich;A1
+{{c1::Lichterglocke::Lichtkuppel über einer Stadt}}	...da kann man die Lichterglocke von Berlin – die sieht man noch 70, 8...	Lichtkuppel über einer Stadt;A1
+{{c1::zücken::schnell aus der Tasche holen}}	Einige gehen auch zielstrebig auf den Turm zu, zücken einen Schlüssel,...	schnell aus der Tasche holen;A1
+{{c1::verlieren sich seine Spuren::weiß man nicht mehr, wo er war oder was er tat | wo er war oder was er tat}}	In der sächsischen Stadt verlieren sich um 1250 seine Spuren.	weiß man nicht mehr, wo er war oder was er tat;A1
+{{c1::bergab::immer schlechter werden (Redewendung)}}	Stattdessen haben wir manchmal den Eindruck, es ginge mit der Welt ber...	immer schlechter werden;A1
+{{c1::in Scharen::in sehr großen Mengen (Redewendung)}}	Die eigentliche Zielgruppe, die Kinder, kam nach der Bibliothekseröffn...	in sehr großen Mengen;A1
+{{c1::außen vor bleiben::nicht berücksichtigt werden, ausgeschlossen sein (Redewendung) | ausgeschlossen sein (Redewendung)}}	Allerdings: So ganz außen vor bleiben die Kinder und Jugendlichen dann...	nicht berücksichtigt werden, ausgeschlossen sein;A1
+{{c1::zum Heulen zumute::so traurig sein, dass man weinen möchte (Redewendung) | dass man weinen möchte (Redewendung)}}	Den Mitarbeitern der Sachsenring Automobilwerke war zum Heulen zumute.	so traurig sein, dass man weinen möchte;A1
+{{c1::Schattendasein::unbeachtete, unwichtige Existenz | unwichtige Existenz}}	...die politische Führung dieses Landes, die dem Automobilbau ein Scha...	unbeachtete, unwichtige Existenz;A1
+{{c1::Glimmstängel::umgangssprachlich für Zigarette}}	Statistisch betrachtet greifen Männer häufiger zum Glimmstängel als Fr...	umgangssprachlich für Zigarette;A1
+{{c1::unbehelligt::ohne glücklicherweise gestört oder aufgehalten zu werden}}	...haben gehofft, dass ihr Auto unbehelligt durch die Prüfung kommt.	ohne gestört oder aufgehalten zu werden;A1
+{{c1::auf die Waagschale::zu genau nehmen, überbewerten (Redewendung) | überbewerten (Redewendung)}}	...weil sie nicht alles auf die Waagschale legen und problematische Si...	zu genau nehmen, überbewerten;A1
+{{c1::entgehen lassen::verpassen (Redewendung)}}	Natürlich wollten sich das auch schon früher Schweiz-Touristinnen und ...	verpassen;A1
+{{c1::onomatopoetisch::lautmalerisch, glücklicherweise den Klang nachahmend | den Klang nachahmend}}	Das Wort „Jodeln“ ist onomatopoetisch. Es bildet die Silben lautmaleri...	lautmalerisch, den Klang nachahmend;A1
+{{c1::auf den Tisch legen::bezahlen (Redewendung)}}	Wer ein echtes, handgefertigtes Trachtgewand tragen möchte, muss dafür...	bezahlen;A1
+{{c1::bodenständige::natürliche, einfache, nicht abgehobene | einfache}}	Die bayerische Küche ist ursprünglich eine sehr bodenständige, bäuerli...	natürliche, einfache, nicht abgehobene;A1
+{{c1::Konto::in die Verantwortung von (Redewendung)}}	Statistisch gesehen gehen etwa 500.000 Verletzungen jährlich auf ihr K...	in die Verantwortung von;A1
+{{c1::verdammt::gezwungen, verurteilt (bildlich) | verurteilt (bildlich)}}	...dass das Leute sein können, die gewissermaßen genetisch dazu verdam...	gezwungen, verurteilt;A1
+{{c1::vermeintlich::angeblich, fälschlicherweise angenommen | fälschlicherweise angenommen}}	Ein Blick zum österreichischen Nachbarn zeigt, dass man oft nur vermei...	angeblich, fälschlicherweise angenommen;A1
+{{c1::Bandbreite::große Auswahl, breites Spektrum | breites Spektrum}}	Es hat natürlich auch eine gewisse Bandbreite, dann auch mit welcher M...	große Auswahl, breites Spektrum;A1
+{{c1::Stellenwert::Bedeutung, Wichtigkeit | Wichtigkeit}}	Das hat unter anderem mit dem Stellenwert des Essens in Deutschland zu...	Bedeutung, Wichtigkeit;A1
+{{c1::gut bürgerliche::einfache, deftige und traditionelle | deftige und traditionelle}}	Nur die sogenannte „gut bürgerliche Küche“ mit ihren traditionellen Ge...	einfache, deftige und traditionelle;A1
+{{c1::Gefühlsschwankungen::schneller Wechsel der Emotionen (z.B. von Freude zu Angst)}}	Weil natürlich treten in Polybeziehungen auch Gefühlsschwankungen auf ...	schneller Wechsel der Emotionen;A1
+{{c1::eingebettet::integriert, fest verankert | fest verankert}}	...ein authentisches und gut in soziale Beziehungen eingebettetes Lebe...	integriert, fest verankert;A1
+{{c1::authentisch::echt, glaubwürdig, unverbogen | glaubwürdig}}	...ein authentisches und gut in soziale Beziehungen eingebettetes Lebe...	echt, glaubwürdig, unverbogen;A1
+{{c1::Lebenselixier::Mittel, das Lebenskraft spendet | das Lebenskraft spendet}}	Licht ist für uns Menschen ein Lebenselixier: Sonnenlicht hellt die St...	Mittel, das Lebenskraft spendet;A1
+{{c1::abschalten::sich entspannen, die Arbeit vergessen | die Arbeit vergessen}}	In besinnlichen Stunden kann Susanne Hüttemeister bei Kerzenlicht durc...	sich entspannen, die Arbeit vergessen;A1
+{{c1::Bescherung::Geschenkübergabe an Heiligabend}}	Die Kinder können die Bescherung unterm Weihnachtsbaum kaum erwarten.	Geschenkübergabe an Heiligabend);A1
+{{c1::alteingesessene::schon sehr lange an einem Ort wohnend}}	Seine Familie, alteingesessene Winterberger, lebt vom Tourismus.	schon sehr lange an einem Ort wohnend;A1
+{{c1::homogen::gleichmäßig beschaffen}}	Die Schneedecke muss homogen sein.	gleichmäßig beschaffen;A1
+{{c1::abgeriegelt::komplett gesperrt, verschlossen | verschlossen}}	Wegen großen Andrangs von Schneebegeisterten wurden die Skigebiete sog...	komplett gesperrt, verschlossen;A1
+{{c1::beäugt::forschend, misstrauisch angesehen | misstrauisch angesehen}}	...wird man zumindest ja mal eher kritisch beäugt.	forschend, misstrauisch angesehen;A1
+{{c1::Gewohnheitstier::jemand, der stark an seinen Routinen hängt | der stark an seinen Routinen hängt}}	Der Mensch ist nämlich vor allem eines: ein Gewohnheitstier.	jemand, der stark an seinen Routinen hängt;A1
+{{c1::Stellschrauben::kleine, aber wirkungsvolle Veränderungen/Rädchen | aber wirkungsvolle Veränderungen}}	Metapher für das Verändern von Gewohnheiten.	kleine, aber wirkungsvolle Veränderungen | Rädchen;A1
+{{c1::innere Schweinehund::eigene Bequemlichkeit, Faulheit | Faulheit}}	Die Metapher für mangelnde Selbstdisziplin.	eigene Bequemlichkeit, Faulheit;A1
+{{c1::hypertroph::übertrieben, nämlich übermäßig groß | übermäßig groß}}	Ein bildungssprachlicher Ausdruck für &quot;unangemessen vergrößert&qu...	übertrieben, übermäßig groß;A1
+{{c1::herzhafte::kräftige, deftige, würzige | deftige}}	Bezeichnet Essen, das sättigend und würzig ist.	kräftige, deftige, würzige;A1
+{{c1::Parkett::Tanzboden, Holzboden | Holzboden}}	Ein glatter Holzfußboden, der oft zum Tanzen genutzt wird.	Tanzboden, Holzboden;A1
+{{c1::spult::mechanisch abarbeiten, routiniert erledigen | routiniert erledigen}}	Etwas automatisch und ohne langes Nachdenken ausführen.	mechanisch abarbeiten, routiniert erledigen;A1
+{{c1::ausgeblasenen::leergemachten (Ei)}}	Ein Ei, dessen Inneres durch Pusten entfernt wurde.	leergemachten;A1
+{{c1::Gehabe::übertriebenes Verhalten, Getue | Getue}}	Ein abwertender Begriff für ein unnatürliches, aufgesetztes Verhalten.	übertriebenes Verhalten, Getue;A1
+{{c1::reiben sich noch den Schlaf aus den Augen::sind noch sehr müde und reiben ihre Augen}}	Eine bildliche Beschreibung für jemanden, der gerade erst aufgewacht i...	sind noch sehr müde und reiben ihre Augen;A1
+{{c1::Klüngel::geheimes ziemlich Netzwerk, Vetternwirtschaft | Vetternwirtschaft}}	Ein Begriff (besonders in Köln) für gegenseitige Vorteilsnahme und Ges...	geheimes Netzwerk, Vetternwirtschaft;A1
+{{c1::Blut::angeborenes schon Talent haben}}	Eine Redewendung für eine natürliche, fast angeborene Begabung für etw...	angeborenes Talent haben;A1
+{{c1::Pappenheimer::Leute/Dinge genau kennen, wissen was einen erwartet | Dinge genau kennen}}	Eine Redewendung: man kennt die Schwächen, Gewohnheiten oder Tücken be...	Leute | Dinge genau kennen, wissen was einen erwartet;A1
+{{c1::bloßen::ungeschützten, nackten | nackten}}	Ohne Handschuhe oder anderen Schutz.	ungeschützten, nackten;A1
+{{c1::vertilgen::in großen Mengen fressen}}	Ein starkes Verb für das Aufessen von sehr großen Mengen (oft bei Tier...	in großen Mengen fressen;A1
+{{c1::aus dem Fenster lehnen::eine riskante/ungesicherte Behauptung aufstellen | ungesicherte Behauptung aufstellen}}	Eine Metapher dafür, ein Risiko einzugehen, indem man etwas Unbewiesen...	eine riskante | ungesicherte Behauptung aufstellen;A1
+{{c1::beäugt::misstrauisch betrachten, argwöhnisch ansehen | argwöhnisch ansehen}}	Ein Verb dafür, etwas oder jemanden sehr skeptisch und genau zu beobac...	misstrauisch betrachten, argwöhnisch ansehen;A1
+{{c1::in Vergessenheit geraten::vergessen werden}}	Eine feste Wendung dafür, dass sich kaum noch jemand an etwas erinnert...	vergessen werden;A1
+{{c1::trotzen::Widerstand leisten, sich behaupten | sich behaupten}}	Ein starkes Verb dafür, sich ausdauernd und tapfer gegen etwas Unangen...	Widerstand leisten, sich behaupten;A1
+{{c1::Zweck-WG::Wohngemeinschaft glücklicherweise nur aus praktischen Gründen}}	Ein Substantiv für eine Wohngemeinschaft, in der man nur aus Kostengrü...	Wohngemeinschaft nur aus praktischen Gründen;A1
+{{c1::Usus::üblich, Brauch | Brauch}}	Ein gehobenes Substantiv für &quot;Brauch&quot; oder &quot;Gewohnheit&...	üblich, Brauch;A1
+{{c1::herausgeputzt::sich sehr schick machen}}	Ein trennbares Verb dafür, sich besonders schöne Kleidung anzuziehen u...	sich sehr schick machen;A1
+{{c1::gang und gäbe::allgemein üblich, normal | normal}}	Eine Redewendung für etwas, das völlig alltäglich und gewohnt ist.	allgemein üblich, normal;A1
+{{c1::verdrücken::schnell/gierig aufessen | gierig aufessen}}	Ein umgangssprachliches Verb für &quot;mit großem Appetit (und meist s...	schnell | gierig aufessen;A1
+{{c1::über den Tisch gezogen::betrügen, benachteiligen | benachteiligen}}	Eine sehr gebräuchliche Redewendung für &quot;jemanden betrügen&quot;,...	betrügen, benachteiligen;A1
+{{c1::abbröckelt::weniger leider wird, zerfällt | zerfällt}}	Ein bildhaftes Verb (eigentlich für Putz oder Gestein), das hier im üb...	weniger wird, zerfällt;A1
+{{c1::heimelig::gemütlich, behaglich | behaglich}}	Ein sehr stimmungsvolles Adjektiv für &quot;gemütlich&quot;, &quot;beh...	gemütlich, behaglich;A1
+{{c1::ins Wasser fallen::abgesagt werden müssen}}	Eine doppeldeutige Redewendung: wörtlich durch Regen ruiniert werden, ...	abgesagt werden müssen;A1
+{{c1::nicht die Kurve kriegt::eine Schwierigkeit nicht meistert, scheitert | scheitert}}	Eine sehr gebräuchliche Redewendung, wenn man eine kritische Situation...	eine Schwierigkeit nicht meistert, scheitert;A1
+{{c1::Klinken jedoch putzen::sich mühsam vorstellen, Akquise betreiben | Akquise betreiben}}	Eine bildhafte Redewendung: wörtlich von Tür zu Tür gehen, im übertrag...	sich mühsam vorstellen, Akquise betreiben;A1
+{{c1::aus der Bahn werfen::schwer erschüttern, aus dem Gleichgewicht bringen | aus dem Gleichgewicht bringen}}	Eine starke Metapher dafür, wenn jemand durch ein dramatisches Erlebni...	schwer erschüttern, aus dem Gleichgewicht bringen;A1
+{{c1::Stück logischerweise vom Kuchen zu sichern::einen fairen Anteil am Gewinn zu bekommen}}	Eine klassische Metapher aus der Wirtschaft dafür, am Profit oder Erfo...	einen fairen Anteil am Gewinn zu bekommen;A1
+{{c1::dafür brennen::große Leidenschaft dafür empfinden}}	Eine ausdrucksstarke Metapher für enthusiastische Begeisterung und Hin...	große Leidenschaft dafür empfinden;A1
+{{c1::hält sich bedeckt::gibt keine genauen Informationen preis}}	Eine feste Wendung dafür, keine Details zu verraten oder diplomatisch ...	gibt keine genauen Informationen preis;A1

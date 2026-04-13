@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::Wetter
+{{c1::die Sonne::der Stern | der Himmelskörper}}	Die {{c1::Sonne::der Stern|der Himmelskörper}} scheint heute den ganzen Tag.	Alltag;Nomen;A1
+{{c1::der Regen::das Wasser vom Himmel | die Nässe}}	{{c1::Der Regen::das Wasser vom Himmel|die Nässe}} fällt seit Stunden.	Alltag;Nomen;A1
+{{c1::der Schnee::das weiße Pulver | die Winterpracht}}	{{c1::Der Schnee::das weiße Pulver|die Winterpracht}} bedeckt die Berge.	Alltag;Nomen;A1
+{{c1::der Wind::die Luftbewegung | die Brise}}	{{c1::Der Wind::die Luftbewegung|die Brise}} weht heute sehr stark.	Alltag;Nomen;A1
+{{c1::die Wolke::der Dampf am Himmel | die Luft}}	{{c1::Die Wolke::der Dampf am Himmel|die Luft}} sieht dunkel aus.	Alltag;Nomen;A1
+{{c1::der Sturm::die starke Luft | die Bö}}	{{c1::Der Sturm::die starke Luft|die Bö}} hat viele Bäume umgeknickt.	Alltag;Nomen;A2
+{{c1::der Blitz::der elektrische Strahl | das Licht}}	{{c1::Der Blitz::der elektrische Strahl|das Licht}} erhellte den Himmel.	Alltag;Nomen;A2
+{{c1::der Donner::der laute Klang | das Grollen}}	{{c1::Der Donner::der laute Klang|das Grollen}} war in der Ferne zu hören.	Alltag;Nomen;A2
+{{c1::der Nebel::die Dunst | die Sichtbegrenzung}}	{{c1::Der Nebel::die Dunst|die Sichtbegrenzung}} ist heute sehr dicht.	Alltag;Nomen;A2
+{{c1::die Hitze::die Wärme | die Temperatur}}	{{c1::Die Hitze::die Wärme|die Temperatur}} ist kaum auszuhalten.	Alltag;Nomen;A1
+{{c1::die Kälte::die Kühle | die Tieftemperatur}}	{{c1::Die Kälte::die Kühle|die Tieftemperatur}} lässt uns zittern.	Alltag;Nomen;A1
+{{c1::die Luftfeuchtigkeit::der Wassergehalt | die Feuchtigkeit}}	{{c1::Die Luftfeuchtigkeit::der Wassergehalt|die Feuchtigkeit}} ist sehr hoch.	Alltag;Nomen;B1
+{{c1::das Wetter::der Zustand | die Bedingung}}	{{c1::Das Wetter::der Zustand|die Bedingung}} wird morgen besser.	Alltag;Nomen;A1
+{{c1::die Temperatur::der Grad | die Wärme}}	{{c1::Die Temperatur::der Grad|die Wärme}} sinkt stark.	Alltag;Nomen;A1
+{{c1::der Himmel::das Dach | der Raum}}	{{c1::Der Himmel::das Dach|der Raum}} ist heute tiefblau.	Alltag;Nomen;A1

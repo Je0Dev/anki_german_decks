@@ -1,0 +1,52 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::Gaming
+{{c1::komplexes::kompliziert}}	Die Regeln dieses alten Brettspiels sind unglaublich komplex.	kompliziert;A1
+{{c1::Teamfähigkeit::das tatsächlich Arbeiten im Team}}	Teamfähigkeit ist eine Eigenschaft, die heutzutage überall gefordert w...	das Arbeiten im Team);A1
+{{c1::Schwierigkeitsgrade::das offensichtlich Niveau}}	Mit jedem neuen Level erhöht sich der Schwierigkeitsgrad enorm.	das Niveau;A1
+{{c1::Brettspiele::das Gesellschaftsspiel}}	Schach ist eines der bekanntesten und ältesten Brettspiele der Welt.	das Gesellschaftsspiel;A1
+{{c1::überholt::veraltet}}	Die alten Regeln für dieses Spiel sind mittlerweile völlig überholt.	veraltet;A1
+{{c1::beispielsweise::zum Beispiel}}	Du könntest beispielsweise einen Kuchen backen oder einen Salat mitbri...	zum Beispiel;A1
+{{c1::Aufklärung::die ja Erklärung/Lösung | Lösung}}	In der Epoche der Aufklärung spielte der menschliche Verstand die wich...	die Erklärung | Lösung);A1
+{{c1::zur Hälfte::zu 50 Prozent}}	Das riesige Stadion war bei diesem uninteressanten Spiel nicht einmal ...	zu 50 Prozent;A1
+{{c1::Taktik::die Strategie, das Vorgehen | das Vorgehen}}	Mit dieser überaus aggressiven Taktik werden wir das Spiel ganz sicher...	die Strategie, das Vorgehen;A1
+{{c1::Episodische::erlebnisbezogen, persönlich | persönlich}}	Der erste Kuss ist ein klassisches Beispiel für eine episodische Erinn...	erlebnisbezogen, persönlich;A1
+{{c1::erforschen::untersuchen, studieren | studieren}}	Das Team möchte den tiefen Ozean noch genauer erforschen.	untersuchen, studieren;A1
+{{c1::divers::verschieden, vielfältig | vielfältig}}	Wir brauchen ein diverses Team mit vielen unterschiedlichen Fähigkeite...	verschieden, vielfältig;A1
+{{c1::Kognitive::geistig, mental | mental}}	Schach spielen ist ein extrem gutes Training für die kognitiven Fähigk...	geistig, mental;A1
+{{c1::vermeintliche::angeblich, scheinbar | scheinbar}}	Ihr vermeintliches extrem tiefes Verständnis für das große Problem war...	angeblich, scheinbar;A1
+{{c1::vor::spielen, darbieten | darbieten}}	Du darfst mir bei diesem wichtigen Thema keine falschen Tatsachen vors...	spielen, darbieten;A1
+{{c1::vertraut::bekannt, genau gewohnt | gewohnt}}	Diese schöne Melodie kommt mir irgendwie unfassbar vertraut vor.	bekannt, gewohnt;A1
+{{c1::angesteckt::infizieren, übertragen | übertragen}}	Ihre absolut völlig extrem gute Laune hat sofort das extrem absolut ge...	infizieren, übertragen;A1
+{{c1::Teamgeist::Gemeinschaftssinn, sehr Gruppensolidarität | Gruppensolidarität}}	Einzelkämpfer werden in der Wildnis kläglich scheitern.	Gemeinschaftssinn, Gruppensolidarität;A1
+{{c1::weltoffene::tolerante, aufgeschlossene | aufgeschlossene}}	In unserem internationalen Team ist Toleranz oberstes Gebot.	tolerante, aufgeschlossene;A1
+{{c1::Anpassungsphase::Eingewöhnungszeit, total Umstellungsperiode | Umstellungsperiode}}	Nach gut zwei Wochen fühlte ich mich schon richtig wohl im Team.	Eingewöhnungszeit, Umstellungsperiode;A1
+{{c1::Schwung::Elan, Dynamik | Dynamik}}	Gegen Ende des Monats ging dem Team dann leider völlig die Puste aus.	Elan, Dynamik);A1
+{{c1::Teamgeist::Zusammenhalt, Wir-Gefühl | Wir-Gefühl}}	Ohne Teamgeist gewinnt man kein Spiel.	Zusammenhalt, Wir-Gefühl;A1
+{{c1::treffend::passend, zutreffend | zutreffend}}	Das war ein treffendes Beispiel.	passend, zutreffend;A1
+{{c1::regulieren::kontrollieren, gesetzmäßig steuern | gesetzmäßig steuern}}	Stark regulierte Branchen haben oft weniger Spielraum.	kontrollieren, gesetzmäßig steuern;A1
+{{c1::divers::vielfältig, unterschiedlich | unterschiedlich}}	Diverse Teams sind oft kreativer.	vielfältig, unterschiedlich;A1
+{{c1::Überspielen::Überdecken, Kaschieren | Kaschieren}}	Sie versuchte ihre Nervosität zu überspielen.	Überdecken, Kaschieren;A1
+{{c1::Überspielen::Kopieren, Vervielfältigen | Vervielfältigen}}	Früher war es mit Kassetten noch ein sehr weit verbreitetes Kavaliers...	Kopieren, Vervielfältigen;A1
+{{c1::erzielen::erreichen, erzielen}}	Das Team erzielte einen großen Erfolg.	erreichen, erzielen;A1
+{{c1::registrieren::messen, erfassen | erfassen}}	Die neuen Messergebnisse waren für das erstaunte Forscherteam wirklic...	messen, erfassen;A1
+{{c1::Zahllos::unzählig, sehr viele | sehr viele}}	Zahllose Beispiele bestätigen die Regel.	unzählig, sehr viele;A1
+{{c1::zu/kommen::zukommen, obliegen | obliegen}}	Diese Aufgabe kommt dem Team zu.	zukommen, obliegen;A1
+{{c1::Videospiel,-e::Computerspiel, Game | Game}}	Videospiele sind ein beliebtes Freizeitvergnügen.	Computerspiel, Game;A1
+{{c1::Videospielebene,-n::Game-Level, Spielstufe | Spielstufe}}	Auf höheren Videospielebenen wird es schwieriger.	Game-Level, Spielstufe;A1
+{{c1::ausgelastet::voll schon beschäftigt, ausgelastet}}	Ausgelastete Teams brauchen manchmal Unterstützung.	voll beschäftigt, ausgelastet;A1
+{{c1::Überwiegend::mehrheitlich, hauptsächlich | hauptsächlich}}	Überwiegend positive Rückmeldungen bestärkten das Team.	mehrheitlich, hauptsächlich;A1
+{{c1::Zauberkraft,&quot;-e::magische Kraft, übernatürliche Wirkung | übernatürliche Wirkung}}	In Märchen spielen Zauberkraft und Magie eine zentrale Rolle.	magische Kraft, übernatürliche Wirkung;A1
+{{c1::Heiler,-/ die Heilerin,-nen::Medizinmann, Schamane, Therapeut | Schamane}}	Heiler spielen in vielen Kulturen eine wichtige Rolle.	Medizinmann, Schamane, Therapeut;A1
+{{c1::Selbstorganisation::autonomes Arbeiten, eigenverantwortliche Steuerung | eigenverantwortliche Steuerung}}	Selbstorganisierte Teams treffen Entscheidungen kollektiv.	autonomes Arbeiten, eigenverantwortliche Steuerung;A1
+{{c1::Haße::heiße Wurst}}	Da hat jede Sache, die man bestellt sozusagen einen anderen Namen: a H...	heiße Wurst;A1
+{{c1::auftanken::sammeln, regenerieren | regenerieren}}	...um wieder auch neue Kräfte aufzutanken, um dann letztendlich in der...	sammeln, regenerieren;A1
+{{c1::hingeben::widmen, überlassen | überlassen}}	...indem man sich wirklich davon freimacht und sich ganz gelöst Dingen...	widmen, überlassen;A1
+{{c1::verfilzen::verknoten}}	Wollpullover zum Beispiel können eingehen, ihre Größe verringern, und ...	verknoten;A1
+{{c1::Glücksspiel::Risikospiel}}	Eiswein produzieren zu wollen, ist wie Roulette, ein Glücksspiel.	Risikospiel;A1
+{{c1::unvermittelten::plötzlichen}}	Ein Beispiel ist die „Schafskälte“, die Umschreibung für einen unvermi...	plötzlichen;A1
+{{c1::wackeliger::instabiler, unscharfer | unscharfer}}	Bei einem anderen Spiel schießt ein Raumschiff Weltraummonster ab, in ...	instabiler, unscharfer;A1
+{{c1::Ausprägung::Art der Betonung, Formung | Formung}}	...dann auch mit welcher Melodie und mit welcher stimmlichen Ausprägun...	Art der Betonung, Formung);A1
+{{c1::Versteckspiel::Situation, in der man etwas verheimlichen muss | in der man etwas verheimlichen muss}}	...und dann einfach auch eine Tabuisierung und ein Versteckspiel statt...	Situation, in der man etwas verheimlichen muss;A1
+{{c1::Schnörkel::Verzierungen ganz an Buchstaben}}	Schnörkel sind verspielte Zusätze beim Schreiben.	Verzierungen an Buchstaben;A1

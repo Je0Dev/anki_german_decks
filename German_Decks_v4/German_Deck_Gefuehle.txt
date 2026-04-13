@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::Gefühle
+{{c1::glücklich::freude/zufrieden|freude}}	Ich bin so glücklich heute.	Gefühle;Adjektiv;A1
+{{c1::traurig::betrübt/niedergeschlagen|niedergeschlagen}}	Er ist total traurig wegen der Nachricht.	Gefühle;Adjektiv;A1
+{{c1::wütend::zornig/aggressiv|aggressiv}}	Sie ist wütend geworden.	Gefühle;Adjektiv;A1
+{{c1::ängstlich::furchtsam/scheu|scheu}}	Das Kind ist sehr ängstlich.	Gefühle;Adjektiv;A1
+{{c1::aufgeregt::nervös/erregt|erregt}}	Ich bin total aufgeregt wegen morgen.	Gefühle;Adjektiv;A1
+{{c1::müde::erschöpft/matt|matt}}	Nach dem Sport bin ich müde.	Gefühle;Adjektiv;A1
+{{c1::gespannt::neugierig/gespannt|neugierig}}	Ich bin gespannt auf das Ergebnis.	Gefühle;Adjektiv;A1
+{{c1::erleichtert::entspannt/erlöst|erlöst}}	Ich bin so erleichtert.	Gefühle;Adjektiv;A1
+{{c1::-enttäuscht::entmutigt/frustriert|frustriert}}	Ich bin wirklich enttäuscht.	Gefühle;Adjektiv;A2
+{{c1::verliebt::verknallt/angeschossen|angeschossen}}	Er ist total verliebt.	Gefühle;Adjektiv;A1
+{{c1::eifersüchtig::neidisch/gespielt|gespielt}}	Sie ist immer eifersüchtig.	Gefühle;Adjektiv;A2
+{{c1::schüchtern::unsicher/gehemmt|gehemmt}}	Das Kind ist sehr schüchtern.	Gefühle;Adjektiv;A1
+{{c1::mutig::tapfer/courage|courage}}	Er war sehr mutig.	Gefühle;Adjektiv;A1
+{{c1::sorgenfrei::entspannt/r sorglos|r sorglos}}	Endlich kann ich sorgenfrei sein.	Gefühle;Adjektiv;A2
+{{c1::fröhlich::heiter/lustig|lustig}}	Die Kinder sind so fröhlich.	Gefühle;Adjektiv;A1

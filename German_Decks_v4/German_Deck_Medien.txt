@@ -1,0 +1,17 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::Medien
+{{c1::befremdlich::seltsam/irritierend | irritierend}}	Ihre kalte Reaktion auf die gute Nachricht wirkte sehr befremdlich.	seltsam | irritierend;A1
+{{c1::erfahren::erleben}}	Wir haben erst gestern durch die Zeitung von diesem Unfall erfahren.	erleben;A1
+{{c1::schlucken::herunterschlucken/einnehmen | einnehmen}}	Er musste bei der schlechten Nachricht erst einmal schwer schlucken.	herunterschlucken | einnehmen;A1
+{{c1::renommierten::angesehen}}	Er wurde gestern von einem überaus renommierten Magazin für sein Foto ...	angesehen;A1
+{{c1::Standardsprache::die Hochsprache, die Normsprache | die Normsprache}}	Im offiziellen Fernsehen wird eigentlich fast immer nur die völlig rei...	die Hochsprache, die Normsprache;A1
+{{c1::Objekt::Gegenstand, Ding | Ding}}	Manche Boulevardzeitungen sprachen sofort von einem außerirdischen Ra...	Gegenstand, Ding;A1
+{{c1::Produzent,-en/ die Produzentin,-nen::Hersteller, Erzeuger | Erzeuger}}	Produzenten von Nachrichten müssen objektiv bleiben.	Hersteller, Erzeuger;A1
+{{c1::Produzent,-en/ die Produzentin,-nen::Hersteller, Erzeuger | Erzeuger}}	Produzenten von Nachrichten müssen objektiv bleiben.	Hersteller, Erzeuger;A1
+{{c1::Fernsehsender,-/ der Radiosender,-::TV-Station, Rundfunkstation}}	Der Sender hat sein Programm erweitert.	TV-Station, Rundfunkstation;A1
+{{c1::Dauerschleife::ständige, endlose Wiederholung | endlose Wiederholung}}	Schlechte Nachrichten in Dauerschleife: Überschwemmungen, Unglücke, Bo...	ständige, endlose Wiederholung;A1
+{{c1::omnipräsent::allgegenwärtig, überall vorhanden | überall vorhanden}}	Man sieht das ja omnipräsent im Fernsehen, dass irgendwelche Köche irg...	allgegenwärtig, überall vorhanden;A1
+{{c1::die Runde gemacht::sich schnell verbreiten, bekannt werden | bekannt werden}}	Eine Redewendung dafür, dass eine Nachricht, ein Lied oder ein Gerücht...	sich schnell verbreiten, bekannt werden;A1
+{{c1::geistert::spukt/kursiert | kursiert}}	Ein tolles Verb, um zu beschreiben, dass ein Thema (oft ein Gerücht od...	spukt | kursiert;A1

@@ -1,0 +1,106 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::Natur
+{{c1::Drang besonders nach::das starke Bedürfnis nach}}	Sie verspürte plötzlich den Drang, nach draußen in die Natur zu gehen.	das starke Bedürfnis nach;A1
+{{c1::Brand::das Feuer}}	Wegen der extremen Trockenheit kam es im Wald schnell zu einem Brand.	das Feuer;A1
+{{c1::investieren::Geld anlegen in}}	Es ist wichtig, etwas Zeit in eine gute Planung zu investieren.	Geld anlegen in;A1
+{{c1::seelische::psychisch}}	Die schlimmen Nachrichten waren eine große seelische Belastung für ihn...	psychisch;A1
+{{c1::entkommen::fliehen}}	Die Tiere sind wegen eines kaputten Zauns aus dem Gehege entkommen.	fliehen;A1
+{{c1::orientieren uns an::sich richten nach}}	Man sollte sich bei moralischen Entscheidungen an seinen eigenen Werte...	sich richten nach;A1
+{{c1::wagt nämlich sich::sich trauen}}	Kaum jemand wagt sich im Winter ins eiskalte Wasser des Sees.	sich trauen;A1
+{{c1::heilen::gesund machen}}	Die Zeit heilt angeblich alle Wunden, auch die seelischen.	gesund machen;A1
+{{c1::Diktiergerät::der erstaunlicherweise Audiorekorder}}	Er sprach seine spontanen Ideen sofort in sein kleines Diktiergerät ei...	der Audiorekorder;A1
+{{c1::Rettungsschwimmen::das Schwimmen zur Rettung}}	Die DLRG bietet an diesem See jeden Sommer Kurse im Rettungsschwimmen ...	das Schwimmen zur Rettung;A1
+{{c1::Zertifizierung::die Beglaubigung}}	Diese Bio-Zertifizierung garantiert, dass die Produkte völlig pestizid...	die Beglaubigung);A1
+{{c1::Doppelmord::die zweifache Tötung}}	Die Polizei fand im Wald die Opfer von dem schrecklichen Doppelmord.	die zweifache Tötung;A1
+{{c1::Hintergrund::die Basis/die Geschichte dahinter}}	Auf dem Foto kann man im Hintergrund ganz schwach die Berge erkennen.	die Basis | die Geschichte dahinter;A1
+{{c1::Koffein::der Wachmacher}}	Kaffee und schwarzer Tee enthalten von Natur aus viel Koffein.	der Wachmacher;A1
+{{c1::konfrontiert::gegenüberstellen}}	Die Polizei konfrontierte den Tatverdächtigen direkt mit den eindeutig...	gegenüberstellen;A1
+{{c1::Unterfangen::das Vorhaben}}	Die winterliche Bergbesteigung ist ein absolut riskantes Unterfangen.	das Vorhaben;A1
+{{c1::Auenlandschaft::das Feuchtgebiet}}	Eine intakte Auenlandschaft ist ein tolles Paradies für viele seltene ...	das Feuchtgebiet;A1
+{{c1::Gemeinde::die Kommune}}	Die kleine Gemeinde am See veranstaltet jedes Jahr ein großes Sommerfe...	die Kommune;A1
+{{c1::eindämmen::reduzieren}}	Die Feuerwehr konnte den großen Waldbrand glücklicherweise noch sehr s...	reduzieren;A1
+{{c1::respektvoller::höflich}}	Wir sollten als Gesellschaft immer sehr respektvoll mit der Natur und ...	höflich;A1
+{{c1::Diesjährig::heurig, dieses Jahr | dieses Jahr}}	Unser diesjähriger Urlaub am Mittelmeer war unglaublich warm und entsp...	heurig, dieses Jahr;A1
+{{c1::Todesfall::der Sterbefall, der Tod | der Tod}}	Nach diesem tragischen Todesfall im Wald trauerte die ganze kleine Gem...	der Sterbefall, der Tod;A1
+{{c1::vorgelagerte::vorherig, erstaunlicherweise vorangehend | vorangehend}}	Die der Küste vorgelagerte Insel ist ein echtes Paradies für Vögel.	vorherig, vorangehend;A1
+{{c1::Langzeitgedächtnis::die Dauerspeicherung, das Dauerhafte Gedächtnis}}	Vokabeln müssen durch viel Wiederholung unbedingt ins Langzeitgedächtn...	die Dauerspeicherung, das Dauerhafte Gedächtnis;A1
+{{c1::Vielfalt::die Diversität, die Mannigfaltigkeit | die Mannigfaltigkeit}}	Der alte Wald beeindruckt Biologen durch seine enorme Vielfalt an selt...	die Diversität, die Mannigfaltigkeit;A1
+{{c1::verwerflich::verachtenswert, unmoralisch | unmoralisch}}	Es ist moralisch extrem verwerflich, kleine Tiere aus purem Spaß zu qu...	verachtenswert, unmoralisch;A1
+{{c1::Rohstoff::der Grundstoff, das Material | das Material}}	Das rohstoffarme Land muss fast jeden wichtigen Rohstoff teuer aus dem...	der Grundstoff, das Material;A1
+{{c1::Kapitalismus::das Wirtschaftssystem, die Marktwirtschaft | die Marktwirtschaft}}	Kritiker sagen oft, dass der Kapitalismus rücksichtslos die Natur und ...	das Wirtschaftssystem, die Marktwirtschaft;A1
+{{c1::unbekannt::nicht ganz bekannt, anonym | anonym}}	Dieses mysteriöse Tier aus der Tiefsee ist der Wissenschaft noch völli...	nicht bekannt, anonym;A1
+{{c1::in Einklang bringen::harmonisieren, ausbalancieren | ausbalancieren}}	Es ist schwer, den Naturschutz und die Wirtschaft perfekt in Einklang ...	harmonisieren, ausbalancieren;A1
+{{c1::Erholung::die überraschend Entspannung, die Regeneration | die Regeneration}}	Der Kurzurlaub am Meer brachte uns endlich die dringend nötige Erholun...	die Entspannung, die Regeneration);A1
+{{c1::Übergang::der leider Wechsel, die Veränderung | die Veränderung}}	Der Übergang vom Herbst zum harten Winter passierte dieses Jahr völlig...	der Wechsel, die Veränderung;A1
+{{c1::Kohlendioxid::CO2, das Gas | das Gas}}	Pflanzen nehmen Kohlendioxid aus der absolut reinen Luft auf und produ...	CO2, das Gas;A1
+{{c1::Verhaltensforscher::der Ethologe, der Forscher | der Forscher}}	Als Verhaltensforscher lebt sie oft monatelang absolut völlig allein t...	der Ethologe, der Forscher;A1
+{{c1::Anstrengung::Mühe, Einsatz | Einsatz}}	Du hast einfach zu wenig Zeit in die Vorbereitung investiert.	Mühe, Einsatz);A1
+{{c1::Hantieren::Umgehen, Arbeiten | Arbeiten}}	Man sollte immer konzentriert bleiben, wenn man kocht.	Umgehen, Arbeiten;A1
+{{c1::garantiert::mit Sicherheit, bestimmt | bestimmt}}	Nimm dir unbedingt mal ein paar Tage frei, um dich zu erholen.	mit Sicherheit, bestimmt;A1
+{{c1::Übergangszeit::Wechselperiode, glücklicherweise Zwischenzeit}}	Früh am Tag ist es eiskalt und nachmittags wird es dann richtig warm.	Wechselperiode, Zwischenzeit;A1
+{{c1::existieren::gibt es, bestehen | bestehen}}	Das Existieren von Fehlern ist menschlich.	gibt es, bestehen;A1
+{{c1::Hantieren::Umgang, Arbeiten | Arbeiten}}	Er hantierte geschickt mit dem Messer.	Umgang, Arbeiten;A1
+{{c1::garantiert::sicher, zugesichert | zugesichert}}	Das ist garantiert die beste Lösung.	sicher, zugesichert;A1
+{{c1::derzeitige::aktuelle, jetzige}}	Der derzeitige Stand ist dokumentiert.	aktuelle, jetzige;A1
+{{c1::neuronale Netzwerk::Nervenzellengeflecht, Gehirnvernetzung | Gehirnvernetzung}}	Künstliche neuronale Netzwerke imitieren das Gehirn.	Nervenzellengeflecht, Gehirnvernetzung;A1
+{{c1::radelten los::fuhren mit dem Rad los, starteten ihre Radtour | starteten ihre Radtour}}	Frisch gestärkt radelten sie zum See.	fuhren mit dem Rad los, starteten ihre Radtour;A1
+{{c1::Neocortex::Großhirnrinde, höheres Denkzentrum}}	Der Neocortex unterscheidet den Menschen von vielen Tieren.	Großhirnrinde, höheres Denkzentrum;A1
+{{c1::erforschen::untersuchen, studieren | studieren}}	Bisher kennen wir erst einen winzigen Bruchteil der Tiefsee.	untersuchen, studieren;A1
+{{c1::physiologische::körperliche, biologische | biologische}}	Es ist ein uralter Schutzmechanismus der menschlichen Natur.	körperliche, biologische;A1
+{{c1::lebhafte::sehr genaue, lebendige | lebendige}}	Sie kann sogar heute noch den salzigen Geruch des Meeres förmlich rie...	sehr genaue, lebendige;A1
+{{c1::schlummerndes::verborgenes, noch nicht erwachtes | noch nicht erwachtes}}	Sie müsste einfach nur mal öfter einen feinen Pinsel in die Hand nehm...	verborgenes, noch nicht erwachtes;A1
+{{c1::Zitat,-e::wörtliche Übernahme, Ausspruch | Ausspruch}}	Er zitierte ein bekanntes Zitat.	wörtliche Übernahme, Ausspruch;A1
+{{c1::Emotion,-en::Gefühl, Regung | Regung}}	Emotionen beeinflussen Entscheidungen.	Gefühl, Regung;A1
+{{c1::erlaubt sein::gestattet sein, zulässig sein | zulässig sein}}	Wir bitten Sie daher, Ihr Tier draußen anzubinden.	gestattet sein, zulässig sein;A1
+{{c1::Reiz,-e::Stimulus, Anreiz | Anreiz}}	Äußere Reize beeinflussen unser Verhalten.	Stimulus, Anreiz;A1
+{{c1::Gesamtbevölkerung::Bevölkerung insgesamt, alle Einwohner | alle Einwohner}}	Die Gesamtbevölkerung profitiert von freiem Medienzugang.	Bevölkerung insgesamt, alle Einwohner);A1
+{{c1::Verteiler,-/ die Verteilerin,-nen::Verteilungsinstanz, Distributor}}	Verteiler wie Soziale Medien beeinflussen, was gesehen wird.	Verteilungsinstanz, Distributor;A1
+{{c1::Medienpolitisch::die Medienpolitik betreffend, medienbezogen | medienbezogen}}	Medienpolitische Entscheidungen beeinflussen die Medienlandschaft.	die Medienpolitik betreffend, medienbezogen;A1
+{{c1::Gesamtbevölkerung::Bevölkerung insgesamt, alle Einwohner | alle Einwohner}}	Die Gesamtbevölkerung profitiert von freiem Medienzugang.	Bevölkerung insgesamt, alle Einwohner);A1
+{{c1::Verteiler,-/ die Verteilerin,-nen::Verteilungsinstanz, Distributor}}	Verteiler wie Soziale Medien beeinflussen, was gesehen wird.	Verteilungsinstanz, Distributor;A1
+{{c1::Medienpolitisch::die Medienpolitik betreffend, medienbezogen | medienbezogen}}	Medienpolitische Entscheidungen beeinflussen die Medienlandschaft.	die Medienpolitik betreffend, medienbezogen;A1
+{{c1::Leidenschaftlich::mit Leidenschaft, begeistert | begeistert}}	Sie diskutierte leidenschaftlich über das Thema.	mit Leidenschaft, begeistert;A1
+{{c1::dokumentieren::festhalten, aufzeichnen | aufzeichnen}}	Die Ergebnisse wurden sorgfältig dokumentiert.	festhalten, aufzeichnen;A1
+{{c1::Meinungsäußerung::Stellungnahme, natürlich Äußerung | Äußerung}}	Jede Meinungsäußerung sollte respektiert werden.	Stellungnahme, Äußerung);A1
+{{c1::Einflussnahme::Beeinflussung, Einwirkung | Einwirkung}}	Einflussnahme auf Forschungsergebnisse ist unethisch.	Beeinflussung, Einwirkung;A1
+{{c1::selektieren::auswählen, filtern | filtern}}	Nicht alle Quellen sind gleichwertig, man muss selektieren.	auswählen, filtern;A1
+{{c1::Gewinnorientiert::auf Profit ausgerichtet, kommerziell | kommerziell}}	Gewinnorientiertes Handeln steht manchmal im Konflikt mit Qualität.	auf Profit ausgerichtet, kommerziell;A1
+{{c1::orientieren::zurechtfinden, den Weg finden | den Weg finden}}	Sich in unbekannten Situationen zu orientieren, ist wichtig.	zurechtfinden, den Weg finden;A1
+{{c1::Studienergebnis,-se::Forschungsergebnis, Untersuchungsergebnis | Untersuchungsergebnis}}	Wichtige Studienergebnisse werden diskutiert.	Forschungsergebnis, Untersuchungsergebnis;A1
+{{c1::gebildete::belesene, studierte | studierte}}	Man kann stundenlang mit ihr über Geschichte und Philosophie diskutie...	belesene, studierte;A1
+{{c1::pubertierenden::heranwachsenden, in der Pubertät befindlichen}}	Sie hörten auf ihren Handys laute Musik und schrien wild durcheinande...	heranwachsenden, in der Pubertät befindlichen;A1
+{{c1::Sprecher,-/ die Sprecherin,-nen::Redner, Wortführer | Wortführer}}	Der Sprecher des Teams präsentierte die Ergebnisse.	Redner, Wortführer;A1
+{{c1::Bezeichnenderweise::charakteristischerweise, typischerweise}}	Bezeichnenderweise wird das Thema erst jetzt diskutiert.	charakteristischerweise, typischerweise;A1
+{{c1::Südamerika::der südamerikanische Kontinent}}	Südamerika beherbergt den Amazonas-Regenwald.	der südamerikanische Kontinent;A1
+{{c1::Respektiert::geachtet, anerkannt, geschätzt | anerkannt}}	Respektierte Persönlichkeiten haben oft Vorbildfunktion.	geachtet, anerkannt, geschätzt;A1
+{{c1::Artenschutz::Spezies-Schutz, Erhalt der Arten | Erhalt der Arten}}	Artenschutzprogramme helfen bedrohten Tier- und Pflanzenarten.	Spezies-Schutz, Erhalt der Arten;A1
+{{c1::Filterblase::informatorische Isolation, personalisierte Informationswelt | personalisierte Informationswelt}}	In einer Filterblase werden Nutzer vorwiegend mit bestätigenden Inhalt...	informatorische Isolation, personalisierte Informationswelt;A1
+{{c1::Selbstwirksamkeit::eigene tatsächlich Handlungskompetenz, Glaube an die eigene Wirksamkeit | Glaube an die eigene Wirksamkeit}}	Selbstwirksamkeitserwartung beeinflusst, ob Menschen Herausforderungen...	eigene Handlungskompetenz, Glaube an die eigene Wirksamkeit);A1
+{{c1::Konflikt,-e::Auseinandersetzung, Meinungsverschiedenheit | Meinungsverschiedenheit}}	Konfliktmanagement zielt auf lösungsorientierte Kommunikation ab.	Auseinandersetzung, Meinungsverschiedenheit;A1
+{{c1::Lernkultur::Lernumgebung, pädagogisches Klima | pädagogisches Klima}}	Eine positive Lernkultur fördert Neugier und Experimentierfreude.	Lernumgebung, pädagogisches Klima;A1
+{{c1::verunsichert::unsicher gemacht}}	...dass viele Menschen verunsichert sind und sich eine neue Orientieru...	unsicher gemacht;A1
+{{c1::Verwüstung::Zerstörung}}	Ein starker Orkan „schlägt“ beispielsweise „eine Schneise der Verwüstu...	Zerstörung);A1
+{{c1::Vielvölkerstaat::Staat mit vielen Ethnien}}	Dieser Vielvölkerstaat beherbergte viele unterschiedliche Sprachen...	Staat mit vielen Ethnien;A1
+{{c1::Laune::Willkür, offensichtlich Stimmung | Stimmung}}	Das heißt: Hier ist allein schon durch die Laune der Natur, wenn man s...	Willkür, Stimmung;A1
+{{c1::angewiesen::abhängig von}}	„Die Bauern waren mehr oder weniger auf Beobachtungen der Natur angewi...	abhängig von;A1
+{{c1::Etatismus::starker Staatseinfluss}}	...die Welschen, die sind orientiert am französischen Etatismus...	starker Staatseinfluss;A1
+{{c1::eigenverantwortlich::für sich selbst verantwortlich}}	...und die Deutschschweizer sind eher eigenverantwortlich orientiert.....	für sich selbst verantwortlich;A1
+{{c1::Vielfältigkeit::Diversität}}	Gleichzeitig loben die Helvetier den „Graben“ aber als Symbol der kult...	Diversität);A1
+{{c1::eine Seele::eine sehr enge Einheit (Redewendung)}}	Weil wir sind ein Team und ein Herz und eine Seele.	eine sehr enge Einheit;A1
+{{c1::verschwimmen::unklar werden, ineinander übergehen | ineinander übergehen}}	Wenn aber die Grenzen zwischen Tag und Nacht verschwimmen, hat das Fol...	unklar werden, ineinander übergehen;A1
+{{c1::anno dazumal::damals, in der guten alten Zeit | in der guten alten Zeit}}	Die Lok schnauft gemütlich durch die Natur und vermittelt ein Fahrgefü...	damals, in der guten alten Zeit;A1
+{{c1::tunlichst::unbedingt (verstärkendes Adverb, oft als Warnung) | oft als Warnung)}}	...und man eigentlich tunlichst nichts an den Felsen und der Landschaf...	unbedingt;A1
+{{c1::Meeresspiegel::Normalnull, Höhe der Meeresoberfläche | Höhe der Meeresoberfläche}}	Mit rund 670 Metern über dem Meeresspiegel liegt Winterberg in durchsc...	Normalnull, Höhe der Meeresoberfläche;A1
+{{c1::Unikalen::Einmaligen, Unersetzlichen | Unersetzlichen}}	Ein Fremdwort für etwas, das nur ein einziges Mal existiert.	Einmaligen, Unersetzlichen;A1
+{{c1::deportiert::zwangsweise verschleppt}}	Der Begriff für die staatliche Zwangsverschleppung von Menschen.	zwangsweise verschleppt;A1
+{{c1::Kulisse::Hintergrund, Landschaftsbild | Landschaftsbild}}	Eine Kulisse beschreibt hier die landschaftliche Umgebung.	Hintergrund, Landschaftsbild;A1
+{{c1::stehenlassen::hinnehmen, unkommentiert akzeptieren | unkommentiert akzeptieren}}	Eine Situation oder Aussage nicht einfach akzeptieren.	hinnehmen, unkommentiert akzeptieren;A1
+{{c1::Aushängeschild::Repräsentationsobjekt, Vorzeigeprojekt | Vorzeigeprojekt}}	Etwas, womit man sich repräsentiert und worauf man stolz ist.	Repräsentationsobjekt, Vorzeigeprojekt;A1
+{{c1::geflügelten Worten::bekannte, oft zitierte Sprüche}}	Ein Begriff für Zitate oder Redensarten, die in den allgemeinen Sprach...	bekannte, oft zitierte Sprüche;A1
+{{c1::zuhauf::in schon großen Mengen, massenhaft | massenhaft}}	Ein gehobenes Wort für „sehr viel“ oder „in Überfluss“.	in großen Mengen, massenhaft;A1
+{{c1::Frust von der Seele zu reden::über ihre Sorgen und Enttäuschungen zu sprechen, um sich zu erleichtern | um sich zu erleichtern}}	Eine Metapher dafür, belastende Gedanken durch Reden loszuwerden.	über ihre Sorgen und Enttäuschungen zu sprechen, um sich zu erleichtern;A1
+{{c1::Sand am Meer::in unzähliger Menge}}	Eine Metapher für etwas, das in unbegrenzter, riesiger Menge vorhanden...	in unzähliger Menge;A1
+{{c1::Wogen geglättet::sich beruhigen, ein Konflikt lässt nach | ein Konflikt lässt nach}}	Eine Metapher aus der Seefahrt dafür, dass sich ein Streit, Ärger oder...	sich beruhigen, ein Konflikt lässt nach;A1
+{{c1::anhänglich::sehr liebesbedürftig, suchen ständig Nähe | suchen ständig Nähe}}	Ein Adjektiv für Tiere (oder Menschen), die stark an jemanden gebunden...	sehr liebesbedürftig, suchen ständig Nähe;A1

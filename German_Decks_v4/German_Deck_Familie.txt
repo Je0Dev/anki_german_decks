@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::Familie
+{{c1::die Mutter::die Mama/die Erzeugerin|die Mama}}	Meine Mutter arbeitet viel.	Familie;Nomen;A1
+{{c1::der Vater::der Papa/die Erzeuger|der Papa}}	Mein Vater ist zu Hause.	Familie;Nomen;A1
+{{c1::das Kind::der Junge/das Mädchen|der Junge}}	Das Kind spielt draußen.	Familie;Nomen;A1
+{{c1::die Eltern::die Mutter und der Vater|die Mutter und der Vater}}	Meine Eltern wohnen in Berlin.	Familie;Nomen;A1
+{{c1::der Bruder::der Geschwister/die männliche Geschwister|der Geschwister}}	Mein Bruder ist älter.	Familie;Nomen;A1
+{{c1::die Schwester::die Weiblich Geschwister|die Weiblich Geschwister}}	Meine Schwester studiert.	Familie;Nomen;A1
+{{c1::die Oma::die Großmutter/die Omi|die Omi}}	Meine Oma macht Kuchen.	Familie;Nomen;A1
+{{c1::der Opa::der Großvater/die Opi|der Opi}}	Mein Opa liest die Zeitung.	Familie;Nomen;A1
+{{c1::der Onkel::der Bruder der Mutter|der Bruder der Mutter}}	Der Onkel kommt zu Besuch.	Familie;Nomen;A1
+{{c1::die Tante::die Schwester der Mutter|die Schwester der Mutter}}	Die Tante wohnt in Hamburg.	Familie;Nomen;A1
+{{c1::der Cousin::der Vetter/der Verwandte|der Vetter}}	Mein cousin kommt am Wochenende.	Familie;Nomen;A1
+{{c1::die Cousine::die Base/die Verwandte|die Base}}	Die Cousine studiert Medizin.	Familie;Nomen;A1
+{{c1::der Neffe::der Sohn vom Bruder|der Sohn vom Bruder}}	Der Neffe ist fünf Jahre alt.	Familie;Nomen;A1
+{{c1::die Nichte::die Tochter von der Schwester|die Tochter von der Schwester}}	Die Nichte geht zur Schule.	Familie;Nomen;A1
+{{c1::der Enkel::der Enkelkind/der Nachkomme|der Enkelkind}}	Der Enkel besucht die Großeltern.	Familie;Nomen;A2

@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::Emotionen
+{{c1::die Freude::das Glück | die Heiterkeit}}	Ich empfinde große {{c1::Freude::das Glück|die Heiterkeit}} über dein Geschenk.	Emotionen;Nomen;A1
+{{c1::die Trauer::der Kummer | das Leid}}	Nach dem Verlust empfindet sie tiefe {{c1::Trauer::der Kummer|das Leid}}.	Emotionen;Nomen;A1
+{{c1::die Angst::die Furcht | die Sorge}}	Er hat große {{c1::Angst::die Furcht|die Sorge}} vor der Prüfung.	Emotionen;Nomen;A1
+{{c1::der Zorn::die Wut | der Ärger}}	Sein {{c1::Zorn::die Wut|der Ärger}} war kaum zu bändigen.	Emotionen;Nomen;A2
+{{c1::die Liebe::das Gefühl | die Zuneigung}}	Unsere {{c1::Liebe::das Gefühl|die Zuneigung}} wächst jeden Tag.	Emotionen;Nomen;A1
+{{c1::der Hass::die Abneigung | der Groll}}	Sein {{c1::Hass::die Abneigung|der Groll}} war unbegründet.	Emotionen;Nomen;A2
+{{c1::die Hoffnung::die Zuversicht | der Glaube}}	Ich habe noch {{c1::Hoffnung::die Zuversicht|der Glaube}} auf bessere Zeiten.	Emotionen;Nomen;A1
+{{c1::die Enttäuschung::die Frustration | der Ärger}}	Meine {{c1::Enttäuschung::die Frustration|der Ärger}} war groß.	Emotionen;Nomen;A2
+{{c1::die Freude::die Fröhlichkeit | das Vergnügen}}	Die {{c1::Freude::die Fröhlichkeit|das Vergnügen}} war grenzenlos.	Emotionen;Nomen;A1
+{{c1::der Neid::die Eifersucht | die Missgunst}}	Sein {{c1::Neid::die Eifersucht|die Missgunst}} war offensichtlich.	Emotionen;Nomen;A2
+{{c1::die Verzweiflung::die Hoffnungslosigkeit | die Ausweglosigkeit}}	Er gab sich der {{c1::Verzweiflung::die Hoffnungslosigkeit|die Ausweglosigkeit}} hin.	Emotionen;Nomen;B1
+{{c1::die Dankbarkeit::die Erkenntlichkeit | die Wertschätzung}}	Ich empfinde tiefere {{c1::Dankbarkeit::die Erkenntlichkeit|die Wertschätzung}}.	Emotionen;Nomen;A2
+{{c1::der Stolz::der Hochmut | die Würde}}	Er empfindet großen {{c1::Stolz::der Hochmut|die Würde}} auf seine Arbeit.	Emotionen;Nomen;A2
+{{c1::die Scham::die Peinlichkeit | die Verlegenheit}}	Seine {{c1::Scham::die Peinlichkeit|die Verlegenheit}} war ihm anzusehen.	Emotionen;Nomen;A2
+{{c1::die Langeweile::die Eintönigkeit | die Monotonie}}	Die {{c1::Langeweile::die Eintönigkeit|die Monotonie}} war kaum zu ertragen.	Emotionen;Nomen;A1

@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::Tiere
+{{c1::der Hund::der Vierbeiner/das Haustier|der Vierbeiner}}	Der Hund läuft im Park.	Tiere;Nomen;A1
+{{c1::die Katze::die Samtpfote/die Miezekatze|die Samtpfote}}	Die Katze schläft auf dem Sofa.	Tiere;Nomen;A1
+{{c1::der Vogel::der Federträger/der Flieger|der Flieger}}	Der Vogel fliegt am Himmel.	Tiere;Nomen;A1
+{{c1::das Pferd::der Gaul/das Reittier|der Gaul}}	Das Pferd läuft auf der Wiese.	Tiere;Nomen;A1
+{{c1::die Kuh::das Rindvieh/das Milchtier|das Rindvieh}}	Die Kuh grast im Feld.	Tiere;Nomen;A1
+{{c1::das Schaf::das Wollvieh/das Nutztier|das Wollvieh}}	Die Schafe sind auf der Weide.	Tiere;Nomen;A1
+{{c1::die Ziege::die Geiß/das Kleinvieh|die Geiß}}	Die Ziege klettert auf den Berg.	Tiere;Nomen;A1
+{{c1::das Schwein::das Borstenvieh/das Masttier|das Borstenvieh}}	Das Schwein liegt im Schlamm.	Tiere;Nomen;A1
+{{c1::das Huhn::das Federvieh/das Mastgeflügel|das Federvieh}}	Das Huhn legt Eier.	Tiere;Nomen;A1
+{{c1::die Ente::der Wasservogel/der Schwimmvogel|der Schwimmvogel}}	Die Ente schwimmt auf dem See.	Tiere;Nomen;A1
+{{c1::der Fisch::der Schwimmer/der Meeresbewohner|der Schwimmer}}	Der Fisch schwimmt im Aquarium.	Tiere;Nomen;A1
+{{c1::die Maus::das Nager/tier/das Mäuschen|das Nager}}	Die Maus läuft durchs Loch.	Tiere;Nomen;A1
+{{c1::der Hase::das Langohr/das Kaninchen|das Langohr}}	Der Hase hüpft über das Feld.	Tiere;Nomen;A1
+{{c1::das Kaninchen::der Hase/das Langohr|der Hase}}	Das Kaninchen hopped im Garten.	Tiere;Nomen;A1
+{{c1::der Fuchs::der Rotpelz/die Wildkatze|der Rotpelz}}	Der Fuchs läuft durch den Wald.	Tiere;Nomen;A2

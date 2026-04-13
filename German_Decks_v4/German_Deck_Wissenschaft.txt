@@ -1,0 +1,27 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::Wissenschaft
+{{c1::fundamentale::grundlegend}}	Es gibt einen fundamentalen Unterschied zwischen diesen beiden Theorie...	grundlegend;A1
+{{c1::umstritten::kontrovers}}	Seine philosophischen Theorien sind in der Wissenschaft immer noch seh...	kontrovers;A1
+{{c1::Chemiker::der also Chemieexperte, der Wissenschaftler | der Wissenschaftler}}	Als Chemiker muss man bei Experimenten mit Säure immer sehr gut aufpas...	der Chemieexperte, der Wissenschaftler;A1
+{{c1::Akademikerpaar::das gebildete Paar, die Akademiker | die Akademiker}}	Das Akademikerpaar diskutierte am Abend extrem lange über die neueste ...	das gebildete Paar, die Akademiker;A1
+{{c1::Testperson::der Proband, der Teilnehmer | der Teilnehmer}}	Jede Testperson wurde vor dem extrem schweren und absolut gefährlichen...	der Proband, der Teilnehmer;A1
+{{c1::Kommunikationswissenschaften::Medienwissenschaften, Publizistik | Publizistik}}	Der Studiengang gilt allerdings als sehr theoriegeleitet.	Medienwissenschaften, Publizistik;A1
+{{c1::Kontexteffekt::Zusammenhangseffekt, Kontexteinfluss | Kontexteinfluss}}	Der Kontexteffekt ist in der Sprachforschung relevant.	Zusammenhangseffekt, Kontexteinfluss;A1
+{{c1::schlussfolgern::folgern, schließen | schließen}}	Daraus lässt sich schlussfolgern, dass die Hypothese stimmt.	folgern, schließen;A1
+{{c1::Wissenschaftsfreiheit::akademische Freiheit, Forschungsfreiheit | Forschungsfreiheit}}	Wissenschaftsfreiheit ermöglicht unvoreingenommene Forschung.	akademische Freiheit, Forschungsfreiheit;A1
+{{c1::Forschungsansatz,&quot;-e::Untersuchungsansatz, methodischer Zugang | methodischer Zugang}}	Neue Forschungsansätze öffnen neue Perspektiven.	Untersuchungsansatz, methodischer Zugang;A1
+{{c1::Hypothese,-n::Annahme, Vermutung | Vermutung}}	Eine gute Hypothese ist testbar.	Annahme, Vermutung;A1
+{{c1::gefährden::in Gefahr bringen, riskieren | riskieren}}	Unethische Forschung gefährdet das Vertrauen.	in Gefahr bringen, riskieren;A1
+{{c1::Erkenntnisbezogen::auf Wissen gerichtet, wissensorientiert | wissensorientiert}}	Erkenntnisbezogene Forschung dient dem Fortschritt.	auf Wissen gerichtet, wissensorientiert;A1
+{{c1::Gefördert::unterstützt, finanziell gefördert | finanziell gefördert}}	Geförderte Forschung hat oft höhere Sichtbarkeit.	unterstützt, finanziell gefördert;A1
+{{c1::Gütekriterium,-kriterien::Qualitätsmerkmal, Bewertungsmaßstab | Bewertungsmaßstab}}	Gütekriterien sichern die Validität von Forschung.	Qualitätsmerkmal, Bewertungsmaßstab;A1
+{{c1::Forschungstätigkeit,-en::wissenschaftliche Arbeit, Forschungsarbeit | Forschungsarbeit}}	Forschungstätigkeiten unterliegen ethischen Richtlinien.	wissenschaftliche Arbeit, Forschungsarbeit;A1
+{{c1::Unabhängigkeit::Autonomie, jedoch Neutralität | Neutralität}}	Unabhängige Forschung genießt mehr Vertrauen.	Autonomie, Neutralität);A1
+{{c1::Tugend,-en::Eigenschaft, positive Charaktereigenschaft | positive Charaktereigenschaft}}	Tugenden wie Geduld sind in der Forschung wichtig.	Eigenschaft, positive Charaktereigenschaft;A1
+{{c1::Band,-e::Reihe, Serie | Serie}}	Wissenschaftliche Bände dokumentieren den Forschungsstand.	Reihe, Serie;A1
+{{c1::bestehen in::liegen in, sich gründen auf | sich gründen auf}}	Die reine Theorie auf dem Papier sieht nämlich immer extrem einfach a...	liegen in, sich gründen auf;A1
+{{c1::ausgestattet::eingerichtet, ganz versehen | versehen}}	Wir können dort jetzt absolut bahnbrechende und sehr komplexe neue Fo...	eingerichtet, versehen;A1
+{{c1::Innovation,-en::Neuerung, bahnbrechende Idee | bahnbrechende Idee}}	Innovationsprozesse benötigen Raum für Kreativität und Experimente.	Neuerung, bahnbrechende Idee;A1
+{{c1::in ein Wespennest sticht::für große Aufregung/Ärger sorgen | Ärger sorgen}}	Eine Metapher dafür, durch Nachforschungen heftige, unangenehme und un...	für große Aufregung | Ärger sorgen;A1
