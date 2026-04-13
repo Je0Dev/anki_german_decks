@@ -1,0 +1,206 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::A2
+{{c1::die Miete::der Mietpreis/der Wohnungspreis|der Wohnungspreis}}	Die Miete ist dieses Monat gestiegen.	A2;Nomen;A2
+{{c1::der Vermieter::der Hausbesitzer/der Landlord|der Hausbesitzer}}	Der Vermieter wohnt nebenan.	A2;Nomen;A2
+{{c1::der Mieter::der Wohnungsmieter/der Pächter|der Pächter}}	Der Mieter zahlt jeden Ersten.	A2;Nomen;A2
+{{c1::die Kaution::die Sicherheit/der Betrag|der Betrag}}	Die Kaution beträgt drei Monatsmieten.	A2;Nomen;A2
+{{c1::der Strom::die Elektrizität/die electricity|die Elektrizität}}	Der Strom ist ausgefallen.	A2;Nomen;A2
+{{c1::das Gas::die Heizung/die Wärme|die Wärme}}	Das Gas wird teurer.	A2;Nomen;A2
+{{c1::die Heizung::der Ofen/die Wärmequelle|die Wärmequelle}}	Die Heizung funktioniert nicht.	A2;Nomen;A2
+{{c1::die Nebenkosten::die Betriebskosten/die Extra Kosten|die Extra Kosten}}	Die Nebenkosten sind inklusive.	A2;Nomen;A2
+{{c1::die Versicherung::der Schutz/die Absicherung|die Absicherung}}	Die Versicherung deckt alles.	A2;Nomen;A2
+{{c1::der Vertrag::der Kontrakt/die Vereinbarung|die Vereinbarung}}	Der Vertrag läuft bald ab.	A2;Nomen;A2
+{{c1::kündigen::beenden/aufhören|aufhören}}	Ich muss die Wohnung kündigen.	A2;Verb;A2
+{{c1::ummelden::anzeigen/registrieren|registrieren}}	Ich muss mich beim Amt ummelden.	A2;Verb;A2
+{{c1::anziehen::bekleiden/sich anziehen|sich anziehen}}	Ich ziehe mich warm an.	A2;Verb;A2
+{{c1::ausziehen::wegziehen/aus der Wohnung gehen|aus der Wohnung gehen}}	Ich plane auszuziehen.	A2;Verb;A2
+{{c1::einziehen::reinziehen/ziehen in|ziehen in}}	Ich ziehe nächsten Monat ein.	A2;Verb;A2
+{{c1::reparieren::flicken/ausbessern|ausbessern}}	Kannst du das reparieren?	A2;Verb;A2
+{{c1::ersetzen::tauschen/auswechseln|auswechseln}}	Ich muss die Scheibe ersetzen.	A2;Verb;A2
+{{c1::beschädigen::kaputt machen/zerstören|zerstören}}	Das hat das Gerät beschädigt.	A2;Verb;A2
+{{c1::versichern::absichern/garantieren|garantieren}}	Ich bin versichert.	A2;Verb;A2
+{{c1::beanstanden::reklamieren/bemängeln|bemängeln}}	Ich muss dieWare beanstanden.	A2;Verb;A2
+{{c1::der Reklamation::die Beschwerde/die Beanstandung|die Beanstandung}}	Die Reklamation wurde bearbeitet.	A2;Nomen;A2
+{{c1::der Umtausch::der Austausch/der Wechsel|der Wechsel}}	Der Umtausch ist möglich.	A2;Nomen;A2
+{{c1::die Garantie::die Gewährleistung/die Sicherheit|die Sicherheit}}	Die Garantie gilt zwei Jahre.	A2;Nomen;A2
+{{c1::der Kassenzettel::der Beleg/die Quittung|die Quittung}}	Bewahren Sie den Kassenbon auf.	A2;Nomen;A2
+{{c1::die Quittung::der Beleg/der Empfangsbeleg|der Empfangsbeleg}}	Bitte geben Sie mir eine Quittung.	A2;Nomen;A2
+{{c1::das Angebot::die Offerte/die Werbung|die Werbung}}	Das Angebot ist begrenzt.	A2;Nomen;A2
+{{c1::der Preis::die Kosten/der Betrag|der Betrag}}	Der Preis ist fair.	A2;Nomen;A2
+{{c1::der Rabatt::der Nachlass/die Ermäßigung|die Ermäßigung}}	Gibt es einen Rabatt?	A2;Nomen;A2
+{{c1::der Einkauf::der Kauf/das Shopping|das Shopping}}	Der Einkauf macht Spaß.	A2;Nomen;A2
+{{c1::das Angebot::die Offerte/die Werbung|die Werbung}}	Heute gibt es ein Sonderangebot.	A2;Nomen;A2
+{{c1::die Sonderaktion::die Aktion/der Sale|der Sale}}	Die Sonderaktion endet bald.	A2;Nomen;A2
+{{c1::billig::günstig/preiswert|preiswert}}	Das ist wirklich billig.	A2;Adjektiv;A2
+{{c1::teuer::kostspielig/expensive|expensive}}	Das ist mir zu teuer.	A2;Adjektiv;A2
+{{c1::ausverkauft::vergriffen/nicht mehr da|nicht mehr da}}	Das Produkt ist ausverkauft.	A2;Adjektiv;A2
+{{c1::vorrätig::verfügbar/lieferbar|lieferbar}}	Ist das vorrätig?	A2;Adjektiv;A2
+{{c1::bestellen::ordern/anfordern|anfordern}}	Ich möchte das bestellen.	A2;Verb;A2
+{{c1::liefern::bringen/liefen|liefen}}	Die Lieferung kommt morgen.	A2;Verb;A2
+{{c1::bezahlen::zahlen/aufkommen|aufkommen}}	Ich muss bar bezahlen.	A2;Verb;A2
+{{c1::sparen::sparten/sparen|sparen}}	Ich spare monatlich.	A2;Verb;A2
+{{c1::ausgeben::ausgeben für/ausgeben für|ausgeben für}}	Wie viel geben Sie aus?	A2;Verb;A2
+{{c1::einkaufen::kaufen/shoppen|shoppen}}	Ich gehe einkaufen.	A2;Verb;A2
+{{c1::der Geldautomat::der Bankomat/die Geldausgabe|die Geldausgabe}}	Der Geldautomat ist dort drüben.	A2;Nomen;A2
+{{c1::die Bank::das Geldinstitut/die Sparkasse|die Sparkasse}}	Die Bank hat geöffnet.	A2;Nomen;A2
+{{c1::das Konto::das Bankkonto/die Kontoverbindung|die Kontoverbindung}}	Das Konto ist leer.	A2;Nomen;A2
+{{c1::die Überweisung::der Transfer/die Geldüberweisung|die Geldüberweisung}}	Die Überweisung dauert drei Tage.	A2;Nomen;A2
+{{c1::der Dauerauftrag::die自動化 Zahlung/die regelmäßige Zahlung|die regelmäßige Zahlung}}	Ich richte einen Dauerauftrag ein.	A2;Nomen;A2
+{{c1::die Lastschrift::dasLastschriftverfahren/das Debitverfahren|das Debitverfahren}}	Die Lastschrift geht automatisch.	A2;Nomen;A2
+{{c1::die EC-Karte::die Bankkarte/die Debitkarte|die Debitkarte}}	Ich zahle mit der Karte.	A2;Nomen;A2
+{{c1::die Kreditkarte::die Mastercard/die Visakarte|die Visakarte}}	Die Kreditkarte wird akzeptiert.	A2;Nomen;A2
+{{c1::der PIN::der Code/die Geheimnummer|die Geheimnummer}}	Merken Sie sich den PIN.	A2;Nomen;A2
+{{c1::die Geheimnummer::der PIN/das Passwort|das Passwort}}	Die Geheimnummer ist vierstellig.	A2;Nomen;A2
+{{c1::die TAN::der Code/die Transaktionsnummer|die Transaktionsnummer}}	Ich brauche eine TAN.	A2;Nomen;A2
+{{c1::das Onlinebanking::das Electronic Banking/das Homebanking|das Homebanking}}	Ich nutze Onlinebanking.	A2;Nomen;A2
+{{c1::das Passwort::das Kennwort/der Code|der Code}}	Das Passwort ist unsicher.	A2;Nomen;A2
+{{c1::der Username::der Benutzername/der Loginname|der Loginname}}	Der Username ist schon vergeben.	A2;Nomen;A2
+{{c1::der Kontostand::der Saldo/die Kontogröße|die Kontogröße}}	Der Kontostand ist negativ.	A2;Nomen;A2
+{{c1::der Dispokredit::der Überziehungsrahmen/die Kontoüberziehung|die Kontoüberziehung}}	Der Dispo ist zu hoch.	A2;Nomen;A2
+{{c1::die Mahnung::die Zahlungserinnerung/das Schreiben|das Schreiben}}	Ich habe eine Mahnung bekommen.	A2;Nomen;A2
+{{c1::die Ratenzahlung::die Teilzahlung/die monatliche Zahlung|die monatliche Zahlung}}	Ratenzahlung ist möglich.	A2;Nomen;A2
+{{c1::die Zinsen::der Ertrag/die Gewinne|die Gewinne}}	Die Zinsen sind niedrig.	A2;Nomen;A2
+{{c1::der Sparkonto::das Sparkonto/die Spareinlage|die Spareinlage}}	Das Sparkonto bringt wenig.	A2;Nomen;A2
+{{c1::das Festgeld::die Termineinlage/die Anlage|die Anlage}}	Das Festgeld hat bessere Zinsen.	A2;Nomen;A2
+{{c1::das Tagesgeld::das Tagesgeldkonto/die tägliche Anlage|die tägliche Anlage}}	Tagesgeld ist flexibel.	A2;Nomen;A2
+{{c1::die Geldanlage::die Investition/die Kapitalanlage|die Kapitalanlage}}	Die Geldanlage ist riskant.	A2;Nomen;A2
+{{c1::der Fond::der Investmentfond/der Anteilschein|der Anteilschein}}	Der Fond performt gut.	A2;Nomen;A2
+{{c1::die Aktie::der Anteilschein/das Wertpapier|das Wertpapier}}	Aktien sind gestiegen.	A2;Nomen;A2
+{{c1::der Kurs::der Preis/der Stand|der Stand}}	Der Kurs ist gefallen.	A2;Nomen;A2
+{{c1::die Börse::die Wertpapierbörse/der Markt|der Markt}}	Die Börse ist geschlossen.	A2;Nomen;A2
+{{c1::der Gewinn::der Profit/der Erlös|der Erlös}}	Der Gewinn ist höher.	A2;Nomen;A2
+{{c1::der Verlust::der Minus/das Defizit|das Defizit}}	Der Verlust ist groß.	A2;Nomen;A2
+{{c1::die Steuer::die Abgabe/die Gebühr|die Gebühr}}	Die Steuer ist zu hoch.	A2;Nomen;A2
+{{c1::der Steuersatz::der Steuersatz/die Prozent|die Prozent}}	Der Steuersatz beträgt 19%.	A2;Nomen;A2
+{{c1::die Einkommensteuer::die Lohnsteuer/die Steuer|die Steuer}}	Die Einkommensteuer wird abgezogen.	A2;Nomen;A2
+{{c1::die Umsatzsteuer::die Mehrwertsteuer/die MwSt|die MwSt}}	Die Umsatzsteuer beträgt 19%.	A2;Nomen;A2
+{{c1::absetzen::abziehen/anrechnen|anrechnen}}	Ich kann das absetzen.	A2;Verb;A2
+{{c1::deklarieren::angeben/erklären|erklären}}	Ich muss alles deklarieren.	A2;Verb;A2
+{{c1::versteuern::versteuern/Steuer zahlen|Steuer zahlen}}	Das muss versteuert werden.	A2;Verb;A2
+{{c1::der Arbeitsplatz::der Job/die Stelle|die Stelle}}	Der Arbeitsplatz ist sicher.	A2;Nomen;A2
+{{c1::die Bewerbung::die Candidatur/die Bewerbung|die Bewerbung}}	Die Bewerbung ist abgeschickt.	A2;Nomen;A2
+{{c1::der Lebenslauf::der CV/die Vita|die Vita}}	Der Lebenslauf ist wichtig.	A2;Nomen;A2
+{{c1::das Anschreiben::das Coverletter/der Brief|der Brief}}	Das Anschreiben ist kurz.	A2;Nomen;A2
+{{c1::der Zeugnis::das Dokument/die Bescheinigung|die Bescheinigung}}	Das Zeugnis ist gut.	A2;Nomen;A2
+{{c1::die Referenz::die Empfehlung/die Quelle|die Quelle}}	Er braucht Referenzen.	A2;Nomen;A2
+{{c1::das Vorstellungsgespräch::das Interview/das Bewerbungsgespräch|das Bewerbungsgespräch}}	Das Vorstellungsgespräch war gut.	A2;Nomen;A2
+{{c1::einladen::ein bestellen|ein bestellen|ein bestellen}}	Sie werden eingeladen.	A2;Verb;A2
+{{c1::einstellen::anstellen/聘請|聘請}}	Sie stellen neue Mitarbeiter ein.	A2;Verb;A2
+{{c1::kündigen::entlassen/rausschmeißen|rausschmeißen}}	Der Chef muss kündigen.	A2;Verb;A2
+{{c1::bewerben::sich bewerben/sich bewerben um|sich bewerben um}}	Ich bewerbe mich um den Job.	A2;Verb;A2
+{{c1::arbeitslos::arbeitsuchend/ohne Job|ohne Job}}	Er ist arbeitslos.	A2;Adjektiv;A2
+{{c1::selbstständig::frei/freelancer|freelancer}}	Ich bin selbstständig.	A2;Adjektiv;A2
+{{c1::der Teilzeitjob::der Halbtagsjob/die Teilzeitstelle|die Teilzeitstelle}}	Der Teilzeitjob passt.	A2;Nomen;A2
+{{c1::der Vollzeitjob::der Ganztagsjob/die Vollzeitstelle|die Vollzeitstelle}}	Der Vollzeitjob ist anstrengend.	A2;Nomen;A2
+{{c1::der Nebenjob::der Zusatzjob/der Extrajob|der Extrajob}}	Der Nebenjob bringt Geld.	A2;Nomen;A2
+{{c1::der Praktikant::der Azubi/die Auszubildende|die Auszubildende}}	Der Praktikant lernt viel.	A2;Nomen;A2
+{{c1::der Auszubildende::der Azubi/die lernende Kraft|die lernende Kraft}}	Der Auszubildende arbeitet fleißig.	A2;Nomen;A2
+{{c1::der Lehrling::der Azubi/der Apprentice|der Apprentice}}	Der Lehrling macht eine Ausbildung.	A2;Nomen;A2
+{{c1::der Meister::der Fachmann/der Experte|der Experte}}	Der Meister lehrt alles.	A2;Nomen;A2
+{{c1::der Geselle::der Facharbeiter/der qualifizierte Arbeiter|der qualifizierte Arbeiter}}	Der Geselle hat bestanden.	A2;Nomen;A2
+{{c1::die Gehaltserhöhung::die Lohnerhöhung/die Gehaltserhöhung|die Gehaltserhöhung}}	Ich bekomme eine Gehaltserhöhung.	A2;Nomen;A2
+{{c1::die Gehaltskürzung::die Lohnkürzung/die Lohnkürzung|die Lohnkürzung}}	Die Gehaltskürzung tut weh.	A2;Nomen;A2
+{{c1::der Bonus::die Prämie/die Sonderzahlung|die Sonderzahlung}}	Der Bonus ist verdient.	A2;Nomen;A2
+{{c1::die Gewinnbeteiligung::der Gewinnanteil/der Profitanteil|der Profitanteil}}	Die Gewinnbeteiligung wird gezahlt.	A2;Nomen;A2
+{{c1::das Urlaubsgeld::der Ferienzuschuss/der Urlaubszuschuss|der Urlaubszuschuss}}	Das Urlaubsgeld ist eingetroffen.	A2;Nomen;A2
+{{c1::der Weihnachtsbonus::der Weihnachtszuschuss/der Holidaybonus|der Holidaybonus}}	Der Weihnachtsbonus kommt.	A2;Nomen;A2
+{{c1::die Betriebsrente::die Firmenrente/die Firmenpension|die Firmenpension}}	Die Betriebsrente ist sicher.	A2;Nomen;A2
+{{c1::die Krankenversicherung::die Krankenkasse/die health insurance|die health insurance}}	Die Krankenversicherung kostet viel.	A2;Nomen;A2
+{{c1::die Rentenversicherung::die Pensionskasse/die Altersvorsorge|die Altersvorsorge}}	Die Rentenversicherung ist wichtig.	A2;Nomen;A2
+{{c1::die Arbeitslosenversicherung::die Arbeitslosenkasse/die unemployment insurance|die unemployment insurance}}	Die Beitrag wird abgezogen.	A2;Nomen;A2
+{{c1::die Pflegeversicherung::die Pflegekasse/die long-term care insurance|die long-term care insurance}}	Die Pflegeversicherung greift.	A2;Nomen;A2
+{{c1::der Beitrag::der Mitgliedsbeitrag/der monatlicher Beitrag|der monatliche Beitrag}}	Der Beitrag ist fällig.	A2;Nomen;A2
+{{c1::die Prämie::die Versicherungsprämie/die Zahlung|die Zahlung}}	Die Prämie steigt.	A2;Nomen;A2
+{{c1::die Leistung::die Zahlung/der Benefit|der Benefit}}	Die Leistung wird gezahlt.	A2;Nomen;A2
+{{c1::der Schaden::der Defekt/der Verlust|der Verlust}}	Der Schaden ist groß.	A2;Nomen;A2
+{{c1::der Unfall::der Crash/der Vorfall|der Vorfall}}	Der Unfall war schwer.	A2;Nomen;A2
+{{c1::die Police::der Versicherungsschein/das Zertifikat|das Zertifikat}}	Die Police ist gültig.	A2;Nomen;A2
+{{c1::die Schadensregulierung::die Schadensabwicklung/die Schadensbearbeitung|die Schadensbearbeitung}}	Die Regulierung dauert.	A2;Nomen;A2
+{{c1::der Sachschaden::der Materialsachen/der Vermögensschaden|der Vermögensschaden}}	Der Sachschaden wird ersetzt.	A2;Nomen;A2
+{{c1::der Personenschaden::der Personenschaden/der Körperschaden|der Körperschaden}}	Der Personenschaden ist schlimm.	A2;Nomen;A2
+{{c1::das Eigentum::der Besitz/der Besitzstand|der Besitzstand}}	Das Eigentum ist geschützt.	A2;Nomen;A2
+{{c1::der Besitzer::der Eigentümer/der Eigner|der Eigner}}	Der Besitzer haftet.	A2;Nomen;A2
+{{c1::derMieter::der Pächter/der Nutzer|der Nutzer}}	Der Mieter zahlt pünktlich.	A2;Nomen;A2
+{{c1::der Vermieter::der Verpächter/der Bereitsteller|der Bereitsteller}}	Der Vermieter erhöht die Miete.	A2;Nomen;A2
+{{c1::die Nebenkosten::die Betriebskosten/die laufenden Kosten|die laufenden Kosten}}	Die Nebenkosten steigen.	A2;Nomen;A2
+{{c1::der Mietvertrag::der Pachtvertrag/der Mietkontrakt|der Mietkontrakt}}	Der Mietvertrag läuft ab.	A2;Nomen;A2
+{{c1::die Wohnung::die Bleibe/das Apartment|das Apartment}}	Die Wohnung ist groß.	A2;Nomen;A2
+{{c1::das Zimmer::der Raum/das Schlafzimmer|das Schlafzimmer}}	Das Zimmer hat Fenster.	A2;Nomen;A2
+{{c1::die Küche::die Pantry/die Kochnische|die Kochnische}}	Die Küche ist neu.	A2;Nomen;A2
+{{c1::das Bad::das Badezimmer/die Dusche|die Dusche}}	Das Bad ist klein.	A2;Nomen;A2
+{{c1::der Balkon::die Terrasse/die Loggia|die Loggia}}	Der Balkon hat Blick.	A2;Nomen;A2
+{{c1::der Keller::der Fundament/der Lagerraum|der Lagerraum}}	Der Keller ist dunkel.	A2;Nomen;A2
+{{c1::der Dachboden::der Speicher/der Boden|der Boden}}	Der Dachboden ist voll.	A2;Nomen;A2
+{{c1::die Etage::die Stockwerk/das Stockwerk|das Stockwerk}}	Die Etage ist hoch.	A2;Nomen;A2
+{{c1::der Aufzug::der Lift/die Aufzugmaschine|die Aufzugmaschine}}	Der Aufzug funktioniert.	A2;Nomen;A2
+{{c1::die Treppe::die Stufen/die Treppen|die Treppen}}	Die Treppe ist steil.	A2;Nomen;A2
+{{c1::der Eingang::die Tür/das Portal|das Portal}}	Der Eingang ist hinten.	A2;Nomen;A2
+{{c1::der Ausgang::der Exit/die Ausgangs|die Ausgangs}}	Der Ausgang ist links.	A2;Nomen;A2
+{{c1::der Flur::der Gang/die Diele|die Diele}}	Der Flur ist lang.	A2;Nomen;A2
+{{c1::der Korridor::der Gang/der Durchgang|der Durchgang}}	Der Korridor ist eng.	A2;Nomen;A2
+{{c1::die Haustür::die Eingangstür/die Haustür|die Haustür}}	Die Haustür ist zu.	A2;Nomen;A2
+{{c1::die Klingel::der Summer/der Gong|der Gong}}	Die Klingel ist kaputt.	A2;Nomen;A2
+{{c1::der Briefkasten::der Postkasten/die mailbox|die mailbox}}	Der Briefkasten ist voll.	A2;Nomen;A2
+{{c1::die Mülltonne::der Mülleimer/der Container|der Container}}	Die Mülltonne ist voll.	A2;Nomen;A2
+{{c1::der Hausmüll::der Restmüll/der Hausabfall|der Hausabfall}}	Der Hausmüll wird abgeholt.	A2;Nomen;A2
+{{c1::das Altpapier::das Papier/die Papiertonne|die Papiertonne}}	Altpapier kommt in die Tonne.	A2;Nomen;A2
+{{c1::der Gelbe Sack::der Wertstoffsack/der Recyclingbeutel|der Recyclingbeutel}}	Der Gelbe Sack ist voll.	A2;Nomen;A2
+{{c1::der Glascontainer::der Glasmüll/der Glasbehälter|der Glasbehälter}}	Der Glascontainer ist unten.	A2;Nomen;A2
+{{c1::die Sperrmüll::der Großmüll/der sperriger Müll|der sperrige Müll}}	Der Sperrmüll wird abgeholt.	A2;Nomen;A2
+{{c1::der Umweltzonen::die Umweltzone/die green zone|die green zone}}	Die Umweltzonen ändern sich.	A2;Nomen;A2
+{{c1::die autofreie Zone::die Auto-free Zone/der autofreie Bereich|der autofreie Bereich}}	Die autofreie Zone gilt.	A2;Nomen;A2
+{{c1::die Parkscheibe::die Parkscheibe/dieparkscheibe|dieparkscheibe}}	Die Parkscheibe ist wichtig.	A2;Nomen;A2
+{{c1::das Parksystem::das Parkleitsystem/der Parkautomat|der Parkautomat}}	Das Parksystem ist teuer.	A2;Nomen;A2
+{{c1::die Parkgebühr::die Parkgebühr/die Parkkosten|die Parkkosten}}	Die Parkgebühr ist fällig.	A2;Nomen;A2
+{{c1::der Parksuchverkehr::der Parksuchverkehr/der Parkverkehr|der Parkverkehr}}	Der Parksuchverkehr ist stark.	A2;Nomen;A2
+{{c1::die Fahrgemeinschaft::die carpool/der shared ride|der shared ride}}	Die Fahrgemeinschaft spart Geld.	A2;Nomen;A2
+{{c1::das Carsharing::das Autoteilen/der car sharing|der car sharing}}	Das Carsharing wächst.	A2;Nomen;A2
+{{c1::das Elektroauto::das E-Auto/der Elektrowagen|der Elektrowagen}}	Das Elektroauto ist leise.	A2;Nomen;A2
+{{c1::die Ladestation::die Tankstelle/die Aufladestation|die Aufladestation}}	Die Ladestation ist besetzt.	A2;Nomen;A2
+{{c1::der Wasserstoffantrieb::der Brennstoffzellenantrieb/der H2-Antrieb|der H2-Antrieb}}	Der Wasserstoffantrieb ist neu.	A2;Nomen;A2
+{{c1::der Hybride::das Hybridauto/derHybridantrieb|derHybridantrieb}}	Der Hybride spart Benzin.	A2;Nomen;A2
+{{c1::das E-Bike::das Elektrofahrrad/der E-Rad|der E-Rad}}	Das E-Bike ist beliebt.	A2;Nomen;A2
+{{c1::der roller::der Roller/der SCOOTER|der SCOOTER}}	Der Roller ist praktisch.	A2;Nomen;A2
+{{c1::die E-Scooter::der Elektroscooter/der E-Roller|der E-Roller}}	Die E-Scooter stehen überall.	A2;Nomen;A2
+{{c1::die Mitfahrgelegenheit::die Mitfahrt/der Mitfahrer|der Mitfahrer}}	Die Mitfahrgelegenheit ist günstig.	A2;Nomen;A2
+{{c1::der Fernbus::der Reisebus/der Überlandbus|der Überlandbus}}	Der Fernbus ist billig.	A2;Nomen;A2
+{{c1::der Linienbus::der Stadtbus/der Nahverkehrsbus|der Nahverkehrsbus}}	Der Linienbus kommt pünktlich.	A2;Nomen;A2
+{{c1::die U-Bahn::die Untergrundbahn/der Metro|der Metro}}	Die U-Bahn ist schnell.	A2;Nomen;A2
+{{c1::die S-Bahn::die Stadtschnellbahn/der Regionalzug|der Regionalzug}}	Die S-Bahn fährt durch.	A2;Nomen;A2
+{{c1::die Tram::die Straßenbahn/der Stadtbahn|der Stadtbahn}}	Die Tram ist alt.	A2;Nomen;A2
+{{c1::das Taxi::der Mietwagen/der gelbe Wagen|der gelbe Wagen}}	Das Taxi wartet.	A2;Nomen;A2
+{{c1::der Fahrer::der Lenker/der Chauffeur|der Chauffeur}}	Der Fahrer ist freundlich.	A2;Nomen;A2
+{{c1::der Beifahrer::der Mitfahrer/der neben sitzende|der neben sitzende}}	Der Beifahrer schläft.	A2;Nomen;A2
+{{c1::der Führerschein::der Fahrausweis/der License|der License}}	Der Führerschein ist neu.	A2;Nomen;A2
+{{c1::die Fahrerlaubnis::die Erlaubnis/der Fahrschein|der Fahrschein}}	Die Fahrerlaubnis ist da.	A2;Nomen;A2
+{{c1::der Streifenwagen::der Streifenwagen/der police car|der police car}}	Der Streifenwagen kommt.	A2;Nomen;A2
+{{c1::der Rettungswagen::der Krankenwagen/der Ambulanz|der Ambulanz}}	Der Rettungswagen ist schnell.	A2;Nomen;A2
+{{c1::die Feuerwehr::die Brandwehr/die fire department|die fire department}}	Die Feuerwehr löscht.	A2;Nomen;A2
+{{c1::der Polizeiwagen::der Streifenwagen/der patrol car|der patrol car}}	Der Polizeiwagen folgt.	A2;Nomen;A2
+{{c1::die Notruf::der Emergency Call/der SOS|der SOS}}	Der Notruf geht durch.	A2;Nomen;A2
+{{c1::die Unfallstelle::die Unfallstelle/die Unfallstelle|die Unfallstelle}}	Die Unfallstelle ist gesichert.	A2;Nomen;A2
+{{c1::der Stau::der Verkehrsstau/der Autostau|der Autostau}}	Der Stau ist lang.	A2;Nomen;A2
+{{c1::der Umleitungen::die Umleitung/die redirection|die redirection}}	Die Umleitung ist ausgeschildert.	A2;Nomen;A2
+{{c1::die Baustelle::die Bauarbeiten/der Baustellen|der Baustellen}}	Die Baustelle blockiert.	A2;Nomen;A2
+{{c1::das Schlagloch::der Loch/der Straßenschaden|der Straßenschaden}}	Das Schlagloch ist gefährlich.	A2;Nomen;A2
+{{c1::die Parksperre::die Sperre/die blockierte Zone|die blockierte Zone}}	Die Parksperre gilt.	A2;Nomen;A2
+{{c1::der Durchgangsverkehr::der Durchgangsverkehr/der through traffic|der through traffic}}	Der Durchgangsverkehr ist verboten.	A2;Nomen;A2
+{{c1::die Tempo-30-Zone::die Geschwindigkeitszone/die 30er-Zone|die 30er-Zone}}	Die Tempo-30-Zone gilt.	A2;Nomen;A2
+{{c1 verkehrsberuhigt::die verkehrsberuhigte Zone/die calmed zone|die calmed zone}}	Hier ist verkehrsberuhigt.	A2;Adjektiv;A2
+{{c1::geparkt::abgestellt/abgestellt|abgestellt}}	Das Auto ist falsch geparkt.	A2;Adjektiv;A2
+{{c1::angeliefert::geliefert/ankommen|ankommen}}	Die Ware ist angeliefert.	A2;Adjektiv;A2
+{{c1::abgemeldet::abgemeldet/außer Betrieb|außer Betrieb}}	Das Auto ist abgemeldet.	A2;Adjektiv;A2
+{{c1::abgelesen::abgelesen/vom Zähler|gelesen}}	Der Zähler ist abgelesen.	A2;Adjektiv;A2
+{{c1::abgerechnet::abgerechnet/bezahlt|bezahlt}}	Alles ist abgerechnet.	A2;Adjektiv;A2
+{{c1::abgestempelt::gestempelt/gestempelt|gestempelt}}	Der Brief ist abgestempelt.	A2;Adjektiv;A2
+{{c1::abgeholt::geholt/abgeholt|abgeholt}}	Das Paket ist abgeholt.	A2;Adjektiv;A2
+{{c1::abonniert::bestellt/bestellt|bestellt}}	Die Zeitung ist abonniert.	A2;Adjektiv;A2
+{{c1::abgestanden::alteriert/gestanden|gestanden}}	Das Wasser ist abgestanden.	A2;Adjektiv;A2
+{{c1::abgedeckt::bedeckt/bedeckt|bedeckt}}	Alles ist abgedeckt.	A2;Adjektiv;A2
+{{c1::abgerundet::gerundet/gerundet|gerundet}}	Der Betrag ist abgerundet.	A2;Adjektiv;A2
+{{c1::abwärts::runter/runter|runter}}	Der Kurs geht abwärts.	A2;Adverb;A2
+{{c1::aufwärts::rauf/hoch|hoch}}	Der Preis geht aufwärts.	A2;Adverb;A2
+{{c1::geradeaus::straight/weiter|weiter}}	Gehen Sie geradeaus.	A2;Adverb;A2
+{{c1::linksherum::links/runter|runter}}	Drehen Sie linksherum.	A2;Adverb;A2

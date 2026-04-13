@@ -1,0 +1,212 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::C2
+{{c1::die philosophische Anthropologie::die Menschenphilosophie/die humanistische Grundlagenforschung|die humanistische Grundlagenforschung}}	Die philosophische Anthropologie erforscht das Wesen des Menschen.	C2;Nomen;C2
+{{c1::die Phänomenologie des Geistes::die Hegelsche Bewusstseinslehre/die dialektische Bewusstseinsentwicklung|die dialektische Bewusstseinsentwicklung}}	Die Phänomenologie des Geistes beschreibt Bewusstseinsstufen.	C2;Nomen;C2
+{{c1::die hermeneutische Zirkel::der Auslegungskreislauf/die zirkuläre Verstehensstruktur|die zirkuläre Verstehensstruktur}}	Die hermeneutische Zirkel zeigt Vorurteil als Ermöglichung.	C2;Nomen;C2
+{{c1::der ontologische Zirkel::der Seinskreislauf/die wechselseitige Konstitution|die wechselseitige Konstitution}}	Der ontologische Zirkel konstituiert Sein und Verstehen.	C2;Nomen;C2
+{{c1::die transzendentale Deduktion::die apriorische Beweisführung/die kategoriale Ableitung|die kategoriale Ableitung}}	Die transzendentale Deduktion begründet Kategorien.	C2;Nomen;C2
+{{c1::die Synthesis der Apperzeption::die transzendentale Einheit/die Selbstbewusstseinskonstitution|die Selbstbewusstseinskonstitution}}	Die Synthesis der Apperzeption eint Bewusstsein.	C2;Nomen;C2
+{{c1::das transzendentale Subjekt::der transzendentale Ich/die reine Apperzeption|die reine Apperzeption}}	Das transzendentale Subjekt konstituiert Erfahrung.	C2;Nomen;C2
+{{c1::der чистый Vernunft::die reine Vernunft/die spekulative Vernunft|die spekulative Vernunft}}	Der чистый Vernunft erkennt unabhängig von Erfahrung.	C2;Nomen;C2
+{{c1::die kosmologische Antinomie::der kosmologische Dualismus/die Weltenparadoxie|die Weltenparadoxie}}	Die kosmologische Antinomie zeigt Vernunftgrenzen.	C2;Nomen;C2
+{{c1::die psychologische Paralogismus::der Seeleparadox/die Vernunftparadoxon|die Vernunftparadoxon}}	Die psychologische Paralogismus führt in die Irre.	C2;Nomen;C2
+{{c1::das Ideal der Vernunft::die regulative Idee/die transzendentale Zielidee|die transzendentale Zielidee}}	Das Ideal der Vernunft strebt nach Vollendung.	C2;Nomen;C2
+{{c1::das Ding an sich::das Noumenon/die intelligible Realität|die intelligible Realität}}	Das Ding an sich bleibt transzendental.	C2;Nomen;C2
+{{c1::die subjektive Idealität::die empirische Realität/die transzendentale Erscheinung|die transzendentale Erscheinung}}	Die subjektive Idealität konstituiert Erfahrungswirklichkeit.	C2;Nomen;C2
+{{c1::der transzendentale Idealismus::der methodische Idealismus/die kritische idealism|die kritische idealism}}	Der transzendentale Idealismus balances Realismus.	C2;Nomen;C2
+{{c1::die praktische Postulate::die Glaubensartikel/die Vernunftglauben|die Vernunftglauben}}	Die praktische Postulate ermöglichen praktische Vernunft.	C2;Nomen;C2
+{{c1::der kategorische Imperativ::die universale Moralmaxime/dieautonome Pflicht|dieautonome Pflicht}}	Der kategorische Imperativ gebietet unbedingt.	C2;Nomen;C2
+{{c1::der hypothetische Imperativ::die bedingte Aufforderung/die Mittel-Zweck-Forderung|die Mittel-Zweck-Forderung}}	Der hypothetische Imperativ gilt bedingt.	C2;Nomen;C2
+{{c1::der gute Wille::die moralische Gesinnung/die integre Motivation|die integre Motivation}}	Der gute Wille ist unbedingt gut.	C2;Nomen;C2
+{{c1::der share Wille::der selbstbestimmte Wille/die Freiheitsbestimmung|die Freiheitsbestimmung}}	Der share Wille wählt sich selbst.	C2;Nomen;C2
+{{c1::die Autonomie::die Selbstgesetzgebung/die Vernunftunabhängigkeit|die Vernunftunabhängigkeit}}	Die Autonomie ist ethische Grundlage.	C2;Nomen;C2
+{{c1::die Heteronomie::die Fremdgesetzgebung/die Abhängigkeitsbestimmung|die Abhängigkeitsbestimmung}}	Die Heteronomie widerstreitet der Moral.	C2;Nomen;C2
+{{c1::der intelligible Charakter::der Noumenalcharakter/die Vernunftbestimmung|die Vernunftbestimmung}}	Der intelligible Charakter ist frei.	C2;Nomen;C2
+{{c1::der empirische Charakter::derPhänomenalcharakter/die Kausalbestimmung|die Kausalbestimmung}}	Der empirische Charakter ist determiniert.	C2;Nomen;C2
+{{c1::die Würde::die Menschenwürde/die unbedingte Achtung|die unbedingte Achtung}}	Die Würde Mensch ist unantastbar.	C2;Nomen;C2
+{{c1::der Zweck an sich::der Selbstzweck/die Selbstwert|die Selbstwert}}	Der Zweck an sich macht Mensch wertvoll.	C2;Nomen;C2
+{{c1::das Reich der Zwecke::die intelligible Gemeinschaft/die moralische Gesellschaft|die moralische Gesellschaft}}	Das Reich der Zwecke ist ideale Gemeinschaft.	C2;Nomen;C2
+{{c1::der Endzweck::der höchste Zweck/die letzte Absicht|die letzte Absicht}}	Der Endzweck der Schöpfung ist moralisch.	C2;Nomen;C2
+{{c1::die Theodizee::die Rechtfertigung Gottes/die Güterverteidigung|die Güterverteidigung}}	Die Theodizee verteidigt Gott gegen Leiden.	C2;Nomen;C2
+{{c1::der dialektische Idealismus::die Hegelsche Philosophie/die absolute Idee|die absolute Idee}}	Der dialektische Idealismus entwickelt alles.	C2;Nomen;C2
+{{c1::die absolute Idee::der absolute Geist/die unbedingte Vernunft|die unbedingte Vernunft}}	Die absolute Idee ist das Wahre.	C2;Nomen;C2
+{{c1::der absolute Geist::die Weltgeist/die universal Vernunft|die universal Vernunft}}	Der absolute Geist verwirklicht sich in Geschichte.	C2;Nomen;C2
+{{c1::die List der Vernunft::dertelologischer Geschichtszweck|di telologischer Geschichtszweck}}	Die List der Vernunft nutzt Leidenschaften.	C2;Nomen;C2
+{{c1::der Weltgeist::die Weltseele/die universal Willen|die universal Willen}}	Der Weltgeist vollendet Geschichte.	C2;Nomen;C2
+{{c1::die objektive Geist::der Volksgeist/dieObjektiv Geist|dieObjektiv Geist}}	Die objektive Geist lebt in Institutionen.	C2;Nomen;C2
+{{c1::der subjektive Geist::der Individuelle Geist/die perschnliche Vernunft|die perschnliche Vernunft}}	Der subjektive Geist bildet Bewusstsein.	C2;Nomen;C2
+{{c1::die absolute Geist::der absolute Idee/die göttlich Vernunft|die göttlich Vernunft}}	Die absolute Geist ist Kunst-Religion-Staat.	C2;Nomen;C2
+{{c1::die Ironie::die romantische Methode/die sokratischeMethode|die sokratischeMethode}}	Die Ironie entlarvt Scheinwissen.	C2;Nomen;C2
+{{c1::die sokratische Methode::die Mäeutik/die Geburtshilfe|die Geburtshilfe}}	Die sokratische Methode bringt Wissen hervor.	C2;Nomen;C2
+{{c1::der Nihilismus::die Wertlosigkeitslehre/die Lebensverneinung|die Lebensverneinung}}	Der Nihilismus lehnt alle Werte ab.	C2;Nomen;C2
+{{c1::der Voluntarismus::die Willensmetaphysik/die Lebensbejahung|die Lebensbejahung}}	Der Voluntarismus betont Macht.	C2;Nomen;C2
+{{c1::der Wille zur Macht::der Machtantrieb/die Herrschaftsforderung|die Herrschaftsforderung}}	Der Wille zur Macht ist Lebenssteigerung.	C2;Nomen;C2
+{{c1::der Aristokratischer Nihilismus::die Herrenmoral/die Sklavenmoral-Uberwindung|die Sklavenmoral-Uberwindung}}	Der Aristokratischer Nihilismus überwindet Werte.	C2;Nomen;C2
+{{c1::die Herrenmoral::die noble Werte/die MASTER-MORAL|die MASTER-MORAL}}	Die Herrenmoral schafft eigene Werte.	C2;Nomen;C2
+{{c1::die Sklavenmoral::die herdliche Werte/die Ressentiment-Moral|die Ressentiment-Moral}}	Die Sklavenmoral reagiert auf Herrschaft.	C2;Nomen;C2
+{{c1::der Ressentiment::die Rachegefühl/dieValue-Neubildung|dieValue-Neubildung}}	Der Ressentiment ist Sklavenmoral-Erfindung.	C2;Nomen;C2
+{{c1::der Übermensch::der höhere Mensch/die zukünftige Gattung|die zukünftige Gattung}}	Der Übermensch überwindet Mensch.	C2;Nomen;C2
+{{c1::die ewige Wiederkehr::die ZyklischeEwigkeit/die Seinswiederholung|die Seinswiederholung}}	Die ewige Wiederkehr ist amor fati.	C2;Nomen;C2
+{{c1::amor fati::die Schicksalsliebe/die Lebensbejahung|die Lebensbejahung}}	Amor fati liebt das Schicksal.	C2;Nomen;C2
+{{c1::die aktualis-potenzielle Unterscheidung::die Virtual-Aktual-Unterscheidung|die Virtual-Aktual-Unterscheidung}}	Die aktualis-potenzielle Unterscheidung differenziert Sein.	C2;Nomen;C2
+{{c1::der aristotelische Akt::die Verwirklichung/die entelechia|die entelechia}}	Der aristotelische Akt vollendet Potenz.	C2;Nomen;C2
+{{c1::die Entelechie::die Selbstvervollkommnung/die Aktualisierung|die Aktualisierung}}	Die Entelechie ist immanenter Akt.	C2;Nomen;C2
+{{c1::der Potentialität::die Möglichkeit/die Latenz|die Latenz}}	Der Potentialität steht Actualität gegenüber.	C2;Nomen;C2
+{{c1::der Aktualität::die Verwirklichung/dieRealisation|dieRealisation}}	Der Aktualität ist volle Gegenwart.	C2;Nomen;C2
+{{c1::die forma::die Gestalt/die Struktur|die Struktur}}	Die forma bestimmt materiellen Stoff.	C2;Nomen;C2
+{{c1::der Stoff::die materia/die Potenzialität|die Potenzialität}}	Der Stoff ist unbestimmte Möglichkeit.	C2;Nomen;C2
+{{c1::die materia::der Stoff/die Urstoff|die Urstoff}}	Die materia braucht formale Bestimmung.	C2;Nomen;C2
+{{c1::der Unbewegte Beweger::der erste Beweger/die Causa Sui|Causa Sui}}	Der Unbewegte Beweger bewegt alles.	C2;Nomen;C2
+{{c1::das Caused::der erste Grund/die Prima Causa|die Prima Causa}}	Das Caused ist unwiderursacht.	C2;Nomen;C2
+{{c1::der notwendige Wesen::der vollkommene Wesen/die Absolutheit|die Absolutheit}}	Der notwendige Wesen ist in sich.	C2;Nomen;C2
+{{c1::der kontingenz Wesen::der zufällige Wesen/die abhängige Existenz|die abhängige Existenz}}	Der kontingenz Wesen könnte auch nicht sein.	C2;Nomen;C2
+{{c1::die Kontingenz::die Zufälligkeit/die Nichnotwendigkeit|die Nichnotwendigkeit}}	Die Kontingenz zeigt Sein durch anderes.	C2;Nomen;C2
+{{c1::der Substanz::das Wesen/die innewohnende Qualität|die innewohnende Qualität}}	Der Substanz trägt Akzidenzien.	C2;Nomen;C2
+{{c1::der Akzidenz::die Eigenschaft/die vorübergehendeBestimmung|die vorübergehendeBestimmung}}	Der Akzidenz gehört zu Substanz.	C2;Nomen;C2
+{{c1::der Universalien::die Allgemeinbegriffe/die Gattungsbegriffe|die Gattungsbegriffe}}	Der UniversalienProblem ist zentral.	C2;Nomen;C2
+{{c1::der Nominalismus::die Begriffslehre/die Namenstheorie|die Namenstheorie}}	Der Nominalismus leugnet reale Universalien.	C2;Nomen;C2
+{{c1::der Realismus::die Wesensontologie/die Sachenphilosophie|die Sachenphilosophie}}	Der Realismus bejaht Universalien.	C2;Nomen;C2
+{{c1::der Konzeptualismus::die vermittelnde Position/die mittlere Lehre|die mittlere Lehre}}	Der Konzeptualismus sieht Begriffe als mental.	C2;Nomen;C2
+{{c1::der Tropus ::der Einzeldingphilosophe/die Partikularphilosophie|die Partikularphilosophie}}	Der Tropus betont Partikulars.	C2;Nomen;C2
+{{c1::der Ockhams Rasiermesser::die Sparsamkeitsprinzip/die Minimalitätsprinzip|die Minimalitätsprinzip}}	Der Ockhams Rasiermesser schneidet unnötiges.	C2;Nomen;C2
+{{c1::das Sein::die ontologisch Grund/die Seiendheit|die Seiendheit}}	Das Sein ist Grundkategorie.	C2;Nomen;C2
+{{c1::der Seinsstatus::die ontologische Status/dieSeinsmodus|dieSeinsmodus}}	Der Seinsstatus differenziert Modalitäten.	C2;Nomen;C2
+{{c1::die Ontologie::die Seinslehre/die Grundlagenforschung|die Grundlagenforschung}}	Die Ontologie ist Erste Philosophie.	C2;Nomen;C2
+{{c1::die Metaphysik::die Uberseinskunde/die Unsterblichkeit|die Unsterblichkeit}}	Die Metaphysik fragt nach dem Sein.	C2;Nomen;C2
+{{c1::die Erste Philosophie::die Ontologie/die Grundwissenschaft|die Grundwissenschaft}}	Die Erste Philosophie ist Archäologie.	C2;Nomen;C2
+{{c1::derArchäologie::die Grundlagenforschung/die Ursprungsforschung|die Ursprungsforschung}}	Der Archäologie fragt nach Anfangsgründen.	C2;Nomen;C2
+{{c1::derPhilosophie als strenge Wissenschaft::die wissenschaftliche Philosophie/die exakte Philosophie|die exakte Philosophie}}	Der Philosophie als strenge Wissenschaft strebt Gewissheit.	C2;Nomen;C2
+{{c1::die Phänomenologie::die Wesensschau/die rein Bewusstseinsanalyse|die rein Bewusstseinsanalyse}}	Die Phänomenologie beschreibt Bewusstseinserlebnisse.	C2;Nomen;C2
+{{c1::die Wesensschau::die eidetische Schau/die intentionale Anschauung|die intentionale Anschauung}}	Die Wesensschau erfasst Wesenheiten.	C2;Nomen;C2
+{{c1::die Eidetik::die Wesenslehre/die eidetische Variation|die eidetische Variation}}	Die Eidetik variiert Möglichkeiten.	C2;Nomen;C2
+{{c1::die noetische Gehalt::derBewusstseinsinhalt/die intentionale Korrelat|die intentionale Korrelat}}	Die noetische Gehalt ist Bewusstsein-von-Etwas.	C2;Nomen;C2
+{{c1::die noematische Gehalt::das Gemeinte/die phänomenale Bedeutung|die phänomenale Bedeutung}}	Die noematische Gehalt ist gemeintes Etwas.	C2;Nomen;C2
+{{c1::der noematische Sinn::die phänomenale Bedeutung/die gemeinteSinn|die gemeinteSinn}}	Der noematische Sinn konstituiert Bedeutungen.	C2;Nomen;C2
+{{c1::die intentionale Struktur::die Gerichtetheit/die BewusstseinsBeziehung|die BewusstseinsBeziehung}}	Die intentionale Struktur ist fundamental.	C2;Nomen;C2
+{{c1::der phänomenologische Zirkel::der methodische Zirkel/die hermeneutische Verstrickung|die hermeneutische Verstrickung}}	Der phänomenologische Zirkel ist unvermeidlich.	C2;Nomen;C2
+{{c1::die Lebenswelt::die vorwissenschaftliche Erfahrungswelt/die alltägliche Lebenswelt|die alltägliche Lebenswelt}}	Die Lebenswelt ist Fundament.	C2;Nomen;C2
+{{c1::der Universalitätsansprucht::die Vorurteilsstruktur/die vor-wissenschaftlich Erkenntnis|die vor-wissenschaftlich Erkenntnis}}	Der Universalitätsansprucht basiert auf Lebenswelt.	C2;Nomen;C2
+{{c1::die Intersubjektivität::die Zwischenmenschliche Beziehung/die soziale Konstitution|die soziale Konstitution}}	Die Intersubjektivität konstituiert Welt.	C2;Nomen;C2
+{{c1::der alter ego::derandere Geist/die Fremdpsychisches|die Fremdpsychisches}}	Der alter ego ist Mitmensch.	C2;Nomen;C2
+{{c1::die Einfühlung::die empatische Nachvollzug/die Fremdverstehen|die Fremdverstehen}}	Die Einfühlung ermöglicht Fremdverstehen.	C2;Nomen;C2
+{{c1::die noematische Reduktion::die einklammerung/die Epoché|die Epoché}}	Die noematische Reduktion klammert Sein aus.	C2;Nomen;C2
+{{c1::die Epoché::die transzendentale Einklammerung/die phänomenologische Reduktion|die phänomenologische Reduktion}}	Die Epoché setzt Welt in Klammern.	C2;Nomen;C2
+{{c1::der transzendentale Idealismus::der methodische Idealismus/die kritische Bewusstseinsphilosophie|die kritische Bewusstseinsphilosophie}}	Der transzendentale Idealismus ist kritisch.	C2;Nomen;C2
+{{c1::die本体论 Anschauung::dieWesensschau/die intuitive Wesenserfassung|die intuitive Wesenserfassung}}	Die本体论 Anschauung erfasst Wesen.	C2;Nomen;C2
+{{c1::der Existenzphilosophie::die Daseinshermeneutik/die existenzanalytische Philosophie|die existenzanalytische Philosophie}}	Der Existenzphilosophie denkt menschliche Existenz.	C2;Nomen;C2
+{{c1::der Geworfenheit::die faktische Situiertheit/die Kontingenz der Situation|die Kontingenz der Situation}}	Der Geworfenheit ist Grundbefindlichkeit.	C2;Nomen;C2
+{{c1::die Befindlichkeit::die Gestimmtheit/die Grundbefindlichkeit|die Grundbefindlichkeit}}	Die Befindlichkeit erschließt Situation.	C2;Nomen;C2
+{{c1::die Gestimmtheit::die affektive Grundbefindlichkeit/die Grundbefindlichkeit|die Grundbefindlichkeit}}	Die Gestimmtheit konstituiert Grundstimmung.	C2;Nomen;C2
+{{c1::der Grundstimmung::die existenzielle Grundbefindlichkeit/die ontologische Befindlichkeit|die ontologische Befindlichkeit}}	Der Grundstimmung erschließt Existenz.	C2;Nomen;C2
+{{c1::die Jemeinstruktur::die Selbstinterpretationsstruktur/die Selbstverständnisstruktur|die Selbstverständnisstruktur}}	Die Jemeinstruktur ist existenzielle Struktur.	C2;Nomen;C2
+{{c1::der Jemein::die Selbstbeziehung/die reflexive Selbstheit|die reflexive Selbstheit}}	Der Jemein versteht sich immer von себе.	C2;Nomen;C2
+{{c1::die Sorge::die Fürsorge/die Seinssorge|die Seinssorge}}	Die Sorge ist konstituierendes Existenzial.	C2;Nomen;C2
+{{c1::der Seinkönnen::die Seinsmöglichkeit/die authentische Möglichkeit|die authentische Möglichkeit}}	Der Seinkönnen ermöglicht Eigentlichkeit.	C2;Nomen;C2
+{{c1::dieSeinsollen::die existenzielle Notwendigkeit/dieMöglichkeit|dieMöglichkeit}}	DieSeinsollen ist Muss seiner selbst.	C2;Nomen;C2
+{{c1::der Gewissensruf::der existenzielle Anruf/die Stimmungsentdeckung|die Stimmungsentdeckung}}	Der Gewissensruf ruft Eigentlichkeit.	C2;Nomen;C2
+{{c1::die Entschlossenheit::die existenzielle Entscheidung/die Eigentliche-Wahl|die Eigentliche-Wahl}}	Die Entschlossenheit ergreift Eigenstes.	C2;Nomen;C2
+{{c1::der existenzielle Entwurf::die Freiheitsprojektion/die Selbstprojektion|die Selbstprojektion}}	Der existenzielle Entwurf wirft sich vor.	C2;Nomen;C2
+{{c1::das Vorlaufen::die Todesentdeckung/die Seinsgrenze|die Seinsgrenze}}	Das Vorlaufen ermöglicht Eigentlichkeit.	C2;Nomen;C2
+{{c1::der Sein-zum-Tode::die Todesstruktur/die limitale Existenz|die limitale Existenz}}	Der Sein-zum-Tode konstituiert Ganzheit.	C2;Nomen;C2
+{{c1::die Geschichtlichkeit::die zeitliche Struktur/die historische Existenz|die historische Existenz}}	Die Geschichtlichkeit macht Existenz aus.	C2;Nomen;C2
+{{c1::der Gewesen::die Vergangenheit/die gewesende Zukunft|die gewesende Zukunft}}	Der Gewesen konstituiert Gegenwart.	C2;Nomen;C2
+{{c1::die Wiederholung::die existenzielle Kopie/die rekursive Struktur|die rekursive Struktur}}	Die Wiederholung ermöglicht Zukunft.	C2;Nomen;C2
+{{c1::der Situation::die faktische Lage/die Konkretheit|die Konkretheit}}	Der Situation ist konkretes Hier.	C2;Nomen;C2
+{{c1::dieRätsel des Daseins::die existenziellen Grundfragen/die menschlichen Urfragen|die menschlichen Urfragen}}	DieRätsel des Daseins bleibt offen.	C2;Nomen;C2
+{{c1::die Sprachlichkeit::die Sprachstruktur/die Bedeutungsganzheit|die Bedeutungsganzheit}}	Die Sprachlichkeit konstituiert Verstehen.	C2;Nomen;C2
+{{c1::die hermeneutische Situation::die Verstehenssituation/die Auslegungssituation|die Auslegungssituation}}	Die hermeneutische Situation ist Vorurteil.	C2;Nomen;C2
+{{c1::der Vorurteil::die hermeneutische Vor-Gabe/die vorgängige Verstehensstruktur|die vorgängige Verstehensstruktur}}	Der Vorurteil ermöglicht Verstehen.	C2;Nomen;C2
+{{c1::die Wirkungsgeschichte::die Traditionswirkung/die rezeptionsgeschichtliche Macht|die rezeptionsgeschichtliche Macht}}	Die Wirkungsgeschichte prägt Verstehen.	C2;Nomen;C2
+{{c1::der hermeneutische Zirkels::der Verstehenskreisel/die zyklische Auslegung|die zyklische Auslegung}}	Der hermeneutische Zirkels ist produktiv.	C2;Nomen;C2
+{{c1::die Applikation::die An-wendung/die existenzielle Anwendung|die existenzielle Anwendung}}	Die Applikation vollzieht Verstehen.	C2;Nomen;C2
+{{c1::der Horizontverschmelzung::die Perspektivenverschmelzung/die Vorurteilverschmelzung|die Vorurteilverschmelzung}}	Der Horizontverschmelzung eint Interpretationen.	C2;Nomen;C2
+{{c1::die Horizont::die Sehweite/die Vorurteilstruktur|die Vorurteilstruktur}}	Der Horizont begrenzt Sicht.	C2;Nomen;C2
+{{c1::das Vorurteil als Ermöglichung::die produktive Voreingenommenheit/die konstitutive Begrenztheit|die konstitutive Begrenztheit}}	Das Vorurteil als Ermöglichung macht Verstehen.	C2;Nomen;C2
+{{c1::der hermeneutische Erfahrung::die verstehende Erfahrung/die interpretative Begegnung|die interpretative Begegnung}}	Der hermeneutische Erfahrung erschließt Sinn.	C2;Nomen;C2
+{{c1::die Wesensanalyse::die eidetische Analyse/die apriorische Strukturanalyse|die apriorische Strukturanalyse}}	Die Wesensanalyse findet Wesenheiten.	C2;Nomen;C2
+{{c1::der freie Spielraum::der Ermöglichungsraum/die Variationsmöglichkeit|die Variationsmöglichkeit}}	Der freie Spielraum lässt Variation.	C2;Nomen;C2
+{{c1::die freie Variation::die Variationsspielraum/die phänomenale Variationsmethode|die phänomenale Variationsmethode}}	Die freie Variation zeigt Wesensstrukturen.	C2;Nomen;C2
+{{c1::der eidetische Variations::die Wesensvariantenmethode/die Variationsmethodik|die Variationsmethodik}}	Der eidetische Variations variiert Mögliches.	C2;Nomen;C2
+{{c1::der phänomenologische Beschreibung::die Wesensdarstellung/die intentionale Analyse|die intentionale Analyse}}	Der phänomenologische Beschreibung bleibt deskriptiv.	C2;Nomen;C2
+{{c1::die Deskription::die Wesensbeschreibung/die vor-theoretische Analyse|die vor-theoretische Analyse}}	Die Deskription erfasst Phänomene.	C2;Nomen;C2
+{{c1::der methodologische Zweifel::der philosophische Vorbehalt/die radikale Epoché|die radikale Epoché}}	Der methodologische Zweifel sichert Erkenntnis.	C2;Nomen;C2
+{{c1::der ontologische Unterschied::der Sein/Seiend-Unterschied|der Sein/Seiend-Unterschied}}	Der ontologische Unterschied ist fundamental.	C2;Nomen;C2
+{{c1::der Seinshorizont::der ontologische Seinsgrenze|der ontologische Seinsgrenze}}	Der Seinshorizont ermöglicht Seinsverständnis.	C2;Nomen;C2
+{{c1::der seinsgeschichtliche Denken::der metaphysische Geschichtsdenken|der metaphysische Geschichtsdenken}}	Der seinsgeschichtliche Denken denkt Geschichte.	C2;Nomen;C2
+{{c1::die Seinsgeschichte::die ontologische Geschichte/die Metaphysische Geschichte|die Metaphysische Geschichte}}	Die Seinsgeschichte umgreift alle Epochen.	C2;Nomen;C2
+{{c1::der Seinsereignis::der Seinsmoment/die Seinsentbergung|die Seinsentbergung}}	Der Seinsereignis entbirgt Sein.	C2;Nomen;C2
+{{c1::der Seinsverwindung::die Uberwindung des Metaphysischen|die Seins-Entwindung|die Seins-Entwindung}}	Der Seinsverwindung uberwindet Tradition.	C2;Nomen;C2
+{{c1::die onto-theo-logische Differenz::die Seins-Gott-Unterschied|die ontologisch-theologische Unterscheidung|die ontologisch-theologische Unterscheidung}}	Die onto-theo-logische Differenz fragt nach Sein und Gott.	C2;Nomen;C2
+{{c1::die onto-theologische Frage::die Grundfrage der Metaphysik/dieSeins-Gott Frage|dieSeins-Gott Frage}}	Die onto-theologische Frage ist Grundfrage.	C2;Nomen;C2
+{{c1::der seyn::die altes Sein/die vergessene Wahrheit|die vergessene Wahrheit}}	Der seyn ist ursprüngliches Sein.	C2;Nomen;C2
+{{c1::der seyn-lassen::die Sein-Bergung/die Gewährung|die Gewährung}}	Der seyn-lassen lässt Sein sein.	C2;Nomen;C2
+{{c1::der Metaphysik als onto-theo-logie::die Seins-Gott-Lehre/die Fundamentalkritik|die Fundamentalkritik}}	Der Metaphysik als onto-theo-logie verbindet Denken.	C2;Nomen;C2
+{{c1::die ontologische Differenz::der Sein/Seiend-Unterschied|der Sein/Seiend-Unterschied}}	Die ontologische Differenz unterscheidet Sein und Seiendes.	C2;Nomen;C2
+{{c1::derSeinswahrheit::die ontologische Wahrheit/die Grundwahrheit|die Grundwahrheit}}	DerSeinswahrheit erschließt Sein.	C2;Nomen;C2
+{{c1::der Aletheia::die Unverborgenheit/die Wahrheit des Seins|die Wahrheit des Seins}}	Der Aletheia ist ursprüngliche Wahrheit.	C2;Nomen;C2
+{{c1::die Lichtung::die Entbergung/die Seinslichtung|die Seinslichtung}}	Die Lichtung lichtet Welt.	C2;Nomen;C2
+{{c1::der Anwesung::die Anwesenheit/die Gegenwart|die Gegenwart}}	Der Anwesung steht Abwesenheit gegenüber.	C2;Nomen;C2
+{{c1::die Abwesung::die Abwesenheit/die nicht-Anwesenheit|die nicht-Anwesenheit}}	Die Abwesung entzieht Anwesenheit.	C2;Nomen;C2
+{{c1::die Anwesenheit::die Präsenz/die Gegenwärtigung|die Gegenwärtigung}}	Die Anwesenheit konstituiert Zeit.	C2;Nomen;C2
+{{c1::der Zeit-Raum::die temporal-räumliche Erstreckung/die Raumzeit|die Raumzeit}}	Der Zeit-Raum ist Grunddimension.	C2;Nomen;C2
+{{c1::der Zeitlichkeit::die temporale Struktur/die zeitliche Seinsweise|die zeitliche Seinsweise}}	Der Zeitlichkeit ist Seinsmodus.	C2;Nomen;C2
+{{c1::die Ekstase::die Zeit-aus-Sich-Heraus|der temporale Austritt|der temporale Austritt}}	Die Ekstase ist zeitliche Grundstruktur.	C2;Nomen;C2
+{{c1::der Gewesen-Gegenwart::die gewesende Zukunft|die gewesende Zukunft}}	Der Gewesen-Gegenwart hält Zukunft offen.	C2;Nomen;C2
+{{c1::der Zukunft::die kommende Zeit/die Vorweg|die Vorweg}}	Der Zukunft entsteht aus Gewesen.	C2;Nomen;C2
+{{c1::der Geviert::die vierfältige Weltgegend/die vierdimensionale Welt|die vierdimensionale Welt}}	Der Geviert zeigt Welt als Gegend.	C2;Nomen;C2
+{{c1::der Erde und Himmel::die irdische und himmlische Dimension|di irdische und himmlische Dimension}}	Der Erde und Himmel konstituieren Welt.	C2;Nomen;C2
+{{c1::der Göttlichen::die Sterblichen und Unsterblichen|die Sterblichen und Unsterblichen}}	Der Göttlichen sind Unsterbliche.	C2;Nomen;C2
+{{c1::der Sterblichen::die Todesendlichen/dieEndlichen|dieEndlichen}}	Der Sterblichen sind durch Tod begrenst.	C2;Nomen;C2
+{{c1::die Vergänglichkeit::die Endlichkeit/die zeitliche Begrenztheit|die zeitliche Begrenztheit}}	Die Vergänglichkeit zeigt Sterblichkeit.	C2;Nomen;C2
+{{c1::der Tod::die letzte Grenze/die äußerste Möglichkeit|die äußerste Möglichkeit}}	Der Tod ermöglicht Eigentlichkeit.	C2;Nomen;C2
+{{c1::der Seins des Todes::die Todesstruktur/die Seinsgrenze|die Seinsgrenze}}	Der Seins des Todes ist Seinsmöglichkeit.	C2;Nomen;C2
+{{c1::der vorlaufen zum Tode::die Todesentscheidung/die Freitodesentscheidung|die Freitodesentscheidung}}	Der vorlaufen zum Tode befreit.	C2;Nomen;C2
+{{c1::der Angst::die Grundstimmung/die fundamentale Verunsicherung|die fundamentale Verunsicherung}}	Der Angst erschließt Nichtigkeit.	C2;Nomen;C2
+{{c1::der Langeweile::die existenzielle Leere/die Seinsleere|die Seinsleere}}	Der Langeweile zeigt Nichtigkeit.	C2;Nomen;C2
+{{c1::der Worten::die existenzielle Konfrontation/die Todesbegegnung|die Todesbegegnung}}	Der Worten konfrontiert mit Möglichkeit.	C2;Nomen;C2
+{{c1::der Seinsmodus::die Seinsweise/die Seinsart|die Seinsart}}	Der Seinsmodus differenziert Existenzweisen.	C2;Nomen;C2
+{{c1::der Eigentlichkeit::die authentische Existenz/die Selbstidentifikation|die Selbstidentifikation}}	Der Eigentlichkeit gelingt eigenes Sein.	C2;Nomen;C2
+{{c1::der Uneigentlichkeit::die inauthentische Existenz/die Selbstentfremdung|die Selbstentfremdung}}	Der Uneigentlichkeit verfehlt Eigenstes.	C2;Nomen;C2
+{{c1::der Man-selbst::die uneigentliche Selbstheit/der anonymen Mann|der anonymen Mann}}	Der Man-selbst ist uneigentliches Selbst.	C2;Nomen;C2
+{{c1::die das Man::die öffentliche Ausgelegtheit/die unpersönliche Mass|die unpersönliche Mass}}	Die das Man führt Alltäglichkeit.	C2;Nomen;C2
+{{c1::der Verfall::die Selbstverlorenheit/dieVerführung|dieVerführung}}	Der Verfall zeigt Verfallen an Welt.	C2;Nomen;C2
+{{c1::der Gerede::die oberflächliche Auslegung/die triviale Interpretation|die triviale Interpretation}}	Der Gerede wiederholt öffentliches Reden.	C2;Nomen;C2
+{{c1::der Neugier::die wißbegierige Zerstreuung/dieOberflächlichkeit|dieOberflächlichkeit}}	Der Neugier treibt Oberflächlichkeit.	C2;Nomen;C2
+{{c1::die Zweideutigkeit::die Mehrdeutigkeit/die Unbestimmtheit|die Unbestimmtheit}}	Die Zweideutigkeit verbirgt echtes Verstehen.	C2;Nomen;C2
+{{c1::der Sorge::die besorgte Gestimmtheit/die Fürsorge|die Fürsorge}}	Der Sorge konstituiert Grundbefindlichkeit.	C2;Nomen;C2
+{{c1::der Besorgen::die praktische Sorge/die Handlungsorientierung|die Handlungsorientierung}}	Der Besorgen sorgt für Welt.	C2;Nomen;C2
+{{c1::der Fürsorge::die Mitsein-Sorge/die intersubjektive Sorge|die intersubjektive Sorge}}	Der Fürsorge ist Mitsein.	C2;Nomen;C2
+{{c1::der Unterschied von Fürsorge Arten::die eigen- und uneigentliche Sorge|die eigen- und uneigentliche Sorge}}	Der Unterschied zeigt Modifikationen.	C2;Nomen;C2
+{{c1::der Spring in das Nichts::derTod als Versprechen|derTod als Versprechen}}	Der Spring in das Nichts ermöglicht Wählen.	C2;Nomen;C2
+{{c1::der Nichts als Frage::die metaphysische Nichtigkeitsfrage|die ontologische Nichtigkeitsfrage}}	Der Nichts als Frage bleibt offen.	C2;Nomen;C2
+{{c1::der Nihilismus alsVerneinung::die radikale Wertablehnung|die radikale Wertablehnung}}	Der Nihilismus alsVerneinung lehnt Sein ab.	C2;Nomen;C2
+{{c1::der Wertnihilismus::die ethische Leere/die moralische Leere|die moralische Leere}}	Der Wertnihilismus sieht wertlose Welt.	C2;Nomen;C2
+{{c1::der kosmologische Nihilismus::die ontologische Leere/die Existenzverleugnung|die Existenzverleugnung}}	Der kosmologische Nihilismus bestreitet Sinn.	C2;Nomen;C2
+{{c1::der existenzielle Nihilismus::die Lebensverneinung|die Selbstverneinung|die Selbstverneinung}}	Der existenzielle Nihilismus lehnt Existenz ab.	C2;Nomen;C2
+{{c1::der metaphysische Nihilismus::die Seinsverneinung|die Grundverleugnung|die Grundverleugnung}}	Der metaphysische Nihilismus bestreitet Sein.	C2;Nomen;C2
+{{c1::der optimistische Nihilismus::die affirmative Verneinung|die konstruktive Negation|die konstruktive Negation}}	Der optimistische Nihilismus transformiert Negation.	C2;Nomen;C2
+{{c1::der aktive Nihilismus::die produktive Verneinung|die schöpferische Ablehnung|die schöpferische Ablehnung}}	Der aktive Nihilismus schafft neue Werte.	C2;Nomen;C2
+{{c1::der passive Nihilismus::die resignierte Verneinung|die resignative Ablehnung|die resignative Ablehnung}}	Der passive Nihilismus kapituliert.	C2;Nomen;C2
+{{c1::der-post-Nihilismus::die Uberwindung von Nihilismus|die Neuwertschätzung|die Neuwertschätzung}}	Der-post-Nihilismus überwindet Negation.	C2;Nomen;C2
+{{c1::der-nihilistischerHumanismus::die menschenwürde-basierte Ethik|die menschenwürde-basierte Ethik}}	Der-nihilistischerHumanismus betont Menschenwürde.	C2;Nomen;C2
+{{c1::derExistenzrealismus::die faktische Lebensbejahung|die Affirmation|die Affirmation}}	DerExistenzrealismus bejaht faktisches Sein.	C2;Nomen;C2
+{{c1::der Lebensbejahung::die Affirmation des Lebens|die vitale Bejahung|die vitale Bejahung}}	Der Lebensbejahung sagt Ja zum Sein.	C2;Nomen;C2
+{{c1::die Vitalethik::die Lebensphilosophie|die Biophilosophie|die Biophilosophie}}	Die Vitalethik schützt Lebensraum.	C2;Nomen;C2
+{{c1::der ökologischer Humanismus::die naturverbundene Menschenwürde|die naturerhaltende Ethik|die naturerhaltende Ethik}}	Der ökologischer Humanismus verbindet Natur und Mensch.	C2;Nomen;C2
+{{c1::der-tiefe-ökologischer Humanismus::die kosmische Verbundenheit|die planetarische Verantwortung|die planetarische Verantwortung}}	Der-tiefe-ökologischer Humanismus erweitert Verantwortung.	C2;Nomen;C2
+{{c1::der kulturelle Ökologismus::die Umweltkultur|die Kulturgemeinschaft|die Kulturgemeinschaft}}	Der kulturelle Ökologismus verbindet Kultur und Natur.	C2;Nomen;C2
+{{c1::der ökologischer Kapitalismus::die nachhaltige Ökonomie|die grüne Wirtschaft|die grüne Wirtschaft}}	Der ökologischer Kapitalismus integriert Ökologie.	C2;Nomen;C2
+{{c1::der-post-kapitalistische Ökologismus::die jenseits-von-Wachstum|die nach Wachstum|die nach Wachstum}}	Der-post-kapitalistische Ökologismus transcendiert Wachstum.	C2;Nomen;C2
+{{c1::der green-Communitarismus::die örtliche Gemeinschaft|die lokale Ökologie|die lokale Ökologie}}	Der green-Communitarismus stärkt Lokales.	C2;Nomen;C2
+{{c1::der Glokalismus::die lokale Identität|die ortsbezogene Werte|die ortsbezogene Werte}}	Der Glokalismus betont Heimat.	C2;Nomen;C2
+{{c1::der Globallokalismus::die-glokale Einheit|die-post-Nationalkultur|die-post-Nationalkultur}}	Der Globallokalismus verbindet lokales und globales Denken.	C2;Nomen;C2
+{{c1::der kosmopolitische Lokalpatriotismus::die-weltbürgerliche Lokalität|die-weltbürgerliche Lokalität}}	Der kosmopolitische Lokalpatriotismus verbindet Weltoffenheit und lokale Verwurzelung.	C2;Nomen;C2
+{{c1::der-post-koloniale Ökologismus::die-dekolonialisierte Umweltethik|die postkolonial-ökologische Philosophie|die postkolonial-ökologische Philosophie}}	Der-post-koloniale Ökologismus integriert indigene Weisheit.	C2;Nomen;C2
+{{c1::der Indigenismus::die indigene Philosophie|die Aboriginalphilosophie|die Aboriginalphilosophie}}	Der Indigenismus schätzt ursprüngliche Weisheit.	C2;Nomen;C2
+{{c1::der Indigenous-Ökologismus::die Ureinwohner-Umweltethik|die-native Ökologie|die-native Ökologie}}	Der Indigenous-Ökologismus ehrt Vorfahrenwissen.	C2;Nomen;C2
+{{c1::der Tradition-Ökologismus::die Erbe-Umweltschutz|die Ancestral-Umweltschutz|die Ancestral-Umweltschutz}}	Der Tradition-Ökologismus verbindet Erbe und Umwelt.	C2;Nomen;C2
+{{c1::der Ancestral-Ökologie::die Ahnen-Ökologie|die Vorfahren-Umweltphilosophie|die Vorfahren-Umweltphilosophie}}	Der Ancestral-Ökologie respektiert Vorfahren.	C2;Nomen;C2
+{{c1::der Zukunfts-Ökologismus::die vorausschauende Umweltethik|die proaktive Umweltsorge|die proaktive Umweltsorge}}	Der Zukunfts-Ökologismus denkt Enkel.	C2;Nomen;C2
+{{c1::der Intergenerationalismus::die Generationenethik|die Enkel-Verantwortung|die Enkel-Verantwortung}}	Der Intergenerationalismus verpflichtet Zukunft.	C2;Nomen;C2

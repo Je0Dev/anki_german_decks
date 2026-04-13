@@ -1,0 +1,337 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::B1
+{{c1::die Arbeitsstelle::die Stelle/der Arbeitsplatz|der Arbeitsplatz}}	Die Arbeitsstelle ist zu besetzen.	B1;Nomen;B1
+{{c1::der Arbeitsmarkt::der Jobmarkt/der Stellenmarkt|der Stellenmarkt}}	Der Arbeitsmarkt ist angespannt.	B1;Nomen;B1
+{{c1::die Bewerbungsunterlagen::die Bewerbung/die Unterlagen|die Unterlagen}}	Die Bewerbungsunterlagen sind komplett.	B1;Nomen;B1
+{{c1::das Vorstellungsgespräch::das Interview/der Termin|der Termin}}	Das Vorstellungsgespräch verlief gut.	B1;Nomen;B1
+{{c1::der Arbeitsvertrag::der Jobvertrag/der Vertrag|der Vertrag}}	Der Arbeitsvertrag muss unterschrieben werden.	B1;Nomen;B1
+{{c1::die Kündigungsfrist::die Frist/der Zeitraum|der Zeitraum}}	Die Kündigungsfrist beträgt drei Monate.	B1;Nomen;B1
+{{c1::das Gehalt::der Lohn/der Verdienst|der Verdienst}}	Das Gehalt wird überwiesen.	B1;Nomen;B1
+{{c1::die Lohnabrechnung::die Gehaltsabrechnung/die Abrechnung|die Abrechnung}}	Die Lohnabrechnung ist da.	B1;Nomen;B1
+{{c1::der Urlaubsanspruch::der Ferienanspruch/der Urlaubsanspruch|der Urlaubsanspruch}}	Der Urlaubsanspruch beträgt 20 Tage.	B1;Nomen;B1
+{{c1::der Krankenstand::die Krankschreibung/die Arbeitsunfähigkeit|die Arbeitsunfähigkeit}}	Der Krankenstand ist ärztlich bescheinigt.	B1;Nomen;B1
+{{c1::die Arbeitsunfähigkeit::die Krankheit/die Arbeitsunfähigkeit|die Arbeitsunfähigkeit}}	Die Arbeitsunfähigkeit wird bestätigt.	B1;Nomen;B1
+{{c1::der Betriebsrat::der Arbeitnehmervertreter/der Betriebsrat|der Betriebsrat}}	Der Betriebsrat tagt wöchentlich.	B1;Nomen;B1
+{{c1::die Gewerkschaft::die Union/die Arbeitnehmervertretung|die Arbeitnehmervertretung}}	Die Gewerkschaft vertritt die Interessen.	B1;Nomen;B1
+{{c1::der Streik::der Ausstand/die Arbeitsniederlegung|die Arbeitsniederlegung}}	Der Streik dauert an.	B1;Nomen;B1
+{{c1::die Lohnerhöhung::die Gehaltserhöhung/die Gehaltsanpassung|die Gehaltsanpassung}}	Die Lohnerhöhung wird verhandelt.	B1;Nomen;B1
+{{c1::der Tarifvertrag::der Kollektivvertrag/die Vereinbarung|die Vereinbarung}}	Der Tarifvertrag läuft aus.	B1;Nomen;B1
+{{c1::die Personalabteilung::die HR/die Personalstelle|die Personalstelle}}	Die Personalabteilung ist zuständig.	B1;Nomen;B1
+{{c1::der Personalchef::der HR-Leiter/der Personnelchef|der Personnelchef}}	Der Personalchef führt das Gespräch.	B1;Nomen;B1
+{{c1::die Stellenausschreibung::die Jobanzeige/die Stellenanzeige|die Stellenanzeige}}	Die Stellenausschreibung ist in der Zeitung.	B1;Nomen;B1
+{{c1::die Probezeit::die Einarbeitungszeit/die Eingewöhnung|die Eingewöhnung}}	Die Probezeit beträgt sechs Monate.	B1;Nomen;B1
+{{c1::der Vorgesetzte::der Chef/der direkte Vorgesetzte|der direkte Vorgesetzte}}	Der Vorgesetzte ist im Urlaub.	B1;Nomen;B1
+{{c1::die Kollegialität::die Zusammenarbeit/die Kollegialität|die Kollegialität}}	Die Kollegialität ist wichtig.	B1;Nomen;B1
+{{c1::die Teamarbeit::die Gruppenarbeit/die Zusammenarbeit|die Zusammenarbeit}}	Die Teamarbeit funktioniert gut.	B1;Nomen;B1
+{{c1::die Arbeitsatmosphäre::die Stimmung/die Arbeitsumgebung|die Arbeitsumgebung}}	Die Arbeitsatmosphäre ist entspannt.	B1;Nomen;B1
+{{c1::die Überstunden::die Extra-Stunden/die zusätzlichen Stunden|die zusätzlichen Stunden}}	Die Überstunden werden bezahlt.	B1;Nomen;B1
+{{c1::die Schichtarbeit::der Schichtdienst/der Wechseldienst|der Wechseldienst}}	Die Schichtarbeit ist anstrengend.	B1;Nomen;B1
+{{c1::der Dienstplan::der Schichtplan/der Arbeitsplan|der Arbeitsplan}}	Der Dienstplan hängt aus.	B1;Nomen;B1
+{{c1::die Abmahnung::die Warnung/die Ermahnung|die Ermahnung}}	Die Abmahnung ist erfolgt.	B1;Nomen;B1
+{{c1::die Kündigung::die Entlassung/der Rauswurf|der Rauswurf}}	Die Kündigung kam überraschend.	B1;Nomen;B1
+{{c1::das Arbeitszeugnis::das Zeugnis/die Bescheinigung|die Bescheinigung}}	Das Arbeitszeugnis ist positiv.	B1;Nomen;B1
+{{c1::die Bewerbung::die Candidate/die Bewerbung|die Bewerbung}}	Die Bewerbung wurde abgelehnt.	B1;Nomen;B1
+{{c1::der profile::der Werdegang/der Lebenslauf|der Lebenslauf}}	Der Profile zeigt Ihre Erfahrung.	B1;Nomen;B1
+{{c1::die Qualifikation::die Fähigkeit/die Kompetenz|die Kompetenz}}	Die Qualifikation ist entscheidend.	B1;Nomen;B1
+{{c1::die Berufserfahrung::die Erfahrung/die Praxis|die Praxis}}	Die Berufserfahrung zählt.	B1;Nomen;B1
+{{c1::die Weiterbildung::die Fortbildung/die Schulung|die Schulung}}	Die Weiterbildung wird gefördert.	B1;Nomen;B1
+{{c1::die Umschulung::die Ausbildung/der Berufswechsel|der Berufswechsel}}	Die Umschulung dauert zwei Jahre.	B1;Nomen;B1
+{{c1::die Karriere::der Werdegang/der Aufstieg|der Aufstieg}}	Die Karriere ist das Ziel.	B1;Nomen;B1
+{{c1::der Aufstieg::der Beförderung/die Beförderung|die Beförderung}}	Der Aufstieg ist möglich.	B1;Nomen;B1
+{{c1::die Beförderung::die Promotion/die Höhergruppierung|die Höhergruppierung}}	Die Beförderung ist verdient.	B1;Nomen;B1
+{{c1::die Versetzung::die Zuweisung/der Einsatzort|der Einsatzort}}	Die Versetzung wurde genehmigt.	B1;Nomen;B1
+{{c1::die Abteilung::die Sektion/die Sparte|die Sparte}}	Die Abteilung trifft sich.	B1;Nomen;B1
+{{c1::das Projekt::das Vorhaben/die Aufgabe|die Aufgabe}}	Das Projekt ist abgeschlossen.	B1;Nomen;B1
+{{c1::die Projektarbeit::die Teamarbeit/die Gruppenarbeit|die Gruppenarbeit}}	Die Projektarbeit läuft.	B1;Nomen;B1
+{{c1::der Projektleiter::der Teamleiter/der Verantwortliche|der Verantwortliche}}	Der Projektleiter koordiniert.	B1;Nomen;B1
+{{c1::diedeadline::der Abgabetermin/der Schlusstermin|der Schlusstermin}}	Die Deadline naht.	B1;Nomen;B1
+{{c1::das Ziel::das Vorhaben/der Vorsatz|der Vorsatz}}	Das Ziel ist erreichbar.	B1;Nomen;B1
+{{c1::der Meilenstein::der Meilenstein/der wichtige Punkt|der wichtige Punkt}}	Der Meilenstein ist erreicht.	B1;Nomen;B1
+{{c1::das deliverable::das Ergebnis/die Lieferung|die Lieferung}}	Das Deliverable ist fertig.	B1;Nomen;B1
+{{c1::die Ressourcen::die Mittel/der Budget|der Budget}}	Die Ressourcen sind begrenzt.	B1;Nomen;B1
+{{c1::das Budget::der Finanzrahmen/die Mittel|die Mittel}}	Das Budget ist ausgeschöpft.	B1;Nomen;B1
+{{c1::die Kosten::die Ausgaben/der Aufwand|der Aufwand}}	Die Kosten sind gestiegen.	B1;Nomen;B1
+{{c1::die Kalkulation::die Berechnung/die Schätzung|die Schätzung}}	Die Kalkulation ist fertig.	B1;Nomen;B1
+{{c1::die Übersicht::die Zusammenfassung/die Übersicht|die Übersicht}}	Die Übersicht hilft.	B1;Nomen;B1
+{{c1::die Präsentation::die Vorstellung/die Darstellung|die Darstellung}}	Die Präsentation ist vorbereitet.	B1;Nomen;B1
+{{c1::vorstellen::präsentieren/zeigen|zeigen}}	Ich stelle das Projekt vor.	B1;Verb;B1
+{{c1::präsentieren::zeigen/ vorstellen| vorstellen}}	Er präsentiert die Ergebnisse.	B1;Verb;B1
+{{c1::diskutieren::besprechen/erörtern|erörtern}}	Wir diskutieren das Thema.	B1;Verb;B1
+{{c1::argumentieren::begründen/argumentieren|begründen}}	Sie argumentiert überzeugend.	B1;Verb;B1
+{{c1::vereinbaren::abmachen/festlegen|festlegen}}	Wir vereinbaren einen Termin.	B1;Verb;B1
+{{c1::aushandeln::verhandeln/ausmachen|ausmachen}}	Sie handeln den Preis aus.	B1;Verb;B1
+{{c1::verhandeln::diskutieren/verhandeln|diskutieren}}	Sie verhandeln lange.	B1;Verb;B1
+{{c1::konsentieren::zustimmen/vereinbaren|vereinbaren}}	Alle konsentieren den Vorschlag.	B1;Verb;B1
+{{c1::einwilligen::zustimmen/akzeptieren|akzeptieren}}	Er willigt ein.	B1;Verb;B1
+{{c1::ablehnen::verweigern/ablehnen|verweigern}}	Sie lehnt das Angebot ab.	B1;Verb;B1
+{{c1::annehmen::akzeptieren/akzeptieren|akzeptieren}}	Ich nehme an.	B1;Verb;B1
+{{c1::zusage::zusagen/versprechen|versprechen}}	Er gibt eine Zusage.	B1;Verb;B1
+{{c1::absagen::absagen/ablehnen|ablehnen}}	Sie sagt ab.	B1;Verb;B1
+{{c1::verschieben::verlegen/auf schieben|auf schieben}}	Wir verschieben das Treffen.	B1;Verb;B1
+{{c1::planen::vorhaben/planen|vorhaben}}	Sie planen eine Reise.	B1;Verb;B1
+{{c1::vorbereiten::vorbereiten/rüsten|rüsten}}	Ich bereite alles vor.	B1;Verb;B1
+{{c1::koordinieren::koordinieren/koordinieren|koordinieren}}	Er koordiniert das Team.	B1;Verb;B1
+{{c1::organisieren::organisieren/regeln|regeln}}	Sie organisiert das Event.	B1;Verb;B1
+{{c1::optimieren::verbessern/verfeinern|verfeinern}}	Wir optimieren den Prozess.	B1;Verb;B1
+{{c1::analysieren::analysieren/untersuchen|untersuchen}}	Die Daten werden analysiert.	B1;Verb;B1
+{{c1::auswerten::auswerten/evaluieren|evaluieren}}	Wir werten die Ergebnisse aus.	B1;Verb;B1
+{{c1::evaluieren::bewerten/auswerten|auswerten}}	Das Projekt wird evaluiert.	B1;Verb;B1
+{{c1::bewerten::einschätzen/beurteilen|beurteilen}}	Das ist schwer zu bewerten.	B1;Verb;B1
+{{c1::beurteilen::bewerten/einstufen|einstufen}}	Die Leistung wird beurteilt.	B1;Verb;B1
+{{c1::einschätzen::bewerten/ taxieren| taxieren}}	Ich schätze die Lage ein.	B1;Verb;B1
+{{c1::quantifizieren::messen/zählen|zählen}}	Das ist schwer zu quantifizieren.	B1;Verb;B1
+{{c1::priorisieren::sortieren/priorisieren|sortieren}}	Wir priorisieren die Aufgaben.	B1;Verb;B1
+{{c1::prioritär::wichtig/prioritär|prioritär}}	Das ist prioritär.	B1;Adjektiv;B1
+{{c1::entscheidend::wichtig/maßgeblich|maßgeblich}}	Der Faktor ist entscheidend.	B1;Adjektiv;B1
+{{c1::relevant::wichtig/bedeutsam|bedeutsam}}	Das ist relevant.	B1;Adjektiv;B1
+{{c1::effizient::wirksam/leistungsfähig|leistungsfähig}}	Der Prozess ist effizient.	B1;Adjektiv;B1
+{{c1::produktiv::leistungsfähig/schaffend|schaffend}}	Das Team ist produktiv.	B1;Adjektiv;B1
+{{c1::kostengünstig::günstig/preiswert|preiswert}}	Die Lösung ist kostengünstig.	B1;Adjektiv;B1
+{{c1::rentabel::lukrativ/gewinnbringend|gewinnbringend}}	Das ist rentabel.	B1;Adjektiv;B1
+{{c1::profitabel::gewinnbringend/lukrativ|lukrativ}}	Das Investment ist profitabel.	B1;Adjektiv;B1
+{{c1::nachhaltig::dauerhaft/robust|robust}}	Die Lösung ist nachhaltig.	B1;Adjektiv;B1
+{{c1::stabil::sicher/standfest|standfest}}	Die Lage ist stabil.	B1;Adjektiv;B1
+{{c1::flexibel::anpassungsfähig/variabel|variabel}}	Das System ist flexibel.	B1;Adjektiv;B1
+{{c1::variabel::veränderlich/flexibel|flexibel}}	Die Kosten sind variabel.	B1;Adjektiv;B1
+{{c1::komplex::kompliziert/vielschichtig|vielschichtig}}	Das Problem ist komplex.	B1;Adjektiv;B1
+{{c1::kompliziert::komplex/schwierig|schwierig}}	Die Situation ist kompliziert.	B1;Adjektiv;B1
+{{c1:: Herausforderung::die Aufgabe/das Problem|das Problem}}	Die Herausforderung ist groß.	B1;Nomen;B1
+{{c1::die Chance::die Gelegenheit/die Möglichkeit|die Möglichkeit}}	Die Chance ist da.	B1;Nomen;B1
+{{c1::die Gelegenheit::der Anlass/die Möglichkeit|die Möglichkeit}}	Die Gelegenheit ist günstig.	B1;Nomen;B1
+{{c1::die Möglichkeit::die Chance/die Option|die Option}}	Es gibt nur eine Möglichkeit.	B1;Nomen;B1
+{{c1::die Option::die Wahl/die Möglichkeit|die Möglichkeit}}	Wir haben drei Optionen.	B1;Nomen;B1
+{{c1::die Alternative::die Alternative/die Lösung|die Lösung}}	Die Alternative ist teurer.	B1;Nomen;B1
+{{c1::das Risiko::die Gefahr/der Unsicherheitsfaktor|der Unsicherheitsfaktor}}	Das Risiko ist kalkulierbar.	B1;Nomen;B1
+{{c1::die Unsicherheit::die Ungewissheit/die Unklarheit|die Unklarheit}}	Die Unsicherheit bleibt.	B1;Nomen;B1
+{{c1::die Sicherheit::die Gewissheit/der Schutz|der Schutz}}	Die Sicherheit ist wichtig.	B1;Nomen;B1
+{{c1::die Wahrscheinlichkeit::die Probabilität/die Chance|die Chance}}	Die Wahrscheinlichkeit ist hoch.	B1;Nomen;B1
+{{c1::die Wahrscheinlichkeit::die statistische Wahrscheinlichkeit|die Chance}}	Die Wahrscheinlichkeit beträgt 50%.	B1;Nomen;B1
+{{c1::die Wahrscheinlichkeit::die voraussichtliche Chance|die Chance}}	Die Wahrscheinlichkeit ist gering.	B1;Nomen;B1
+{{c1::der Zufall::der Glücksfall/die Zufälligkeit|die Zufälligkeit}}	Es war reiner Zufall.	B1;Nomen;B1
+{{c1::die Zufälligkeit::das Ungefähr/die Zufälligkeit|die Zufälligkeit}}	Die Zufälligkeit ist erstaunlich.	B1;Nomen;B1
+{{c1::die Ursache::der Grund/der Auslöser|der Auslöser}}	Die Ursache ist unbekannt.	B1;Nomen;B1
+{{c1::der Grund::der Anlass/die Ursache|die Ursache}}	Der Grund ist klar.	B1;Nomen;B1
+{{c1::der因果::der因果/das因果|das因果}}	Der因果 ist wichtig.	B1;Nomen;B1
+{{c1::die Folge::die Konsequenz/die Auswirkung|die Auswirkung}}	Die Folge ist schwerwiegend.	B1;Nomen;B1
+{{c1::die Konsequenz::die Folge/die Auswirkung|die Auswirkung}}	Die Konsequenz ist klar.	B1;Nomen;B1
+{{c1::die Auswirkung::die Wirkung/der Effekt|der Effekt}}	Die Auswirkung ist positiv.	B1;Nomen;B1
+{{c1::der Effekt::die Wirkung/der Einfluss|der Einfluss}}	Der Effekt ist sichtbar.	B1;Nomen;B1
+{{c1::der Einfluss::der Impact/der Impakt|der Impakt}}	Der Einfluss ist messbar.	B1;Nomen;B1
+{{c1::der Impact::die Wirkung/der Einfluss|der Einfluss}}	Der Impact ist gering.	B1;Nomen;B1
+{{c1::die Veränderung::die Änderung/die Modifikation|die Modifikation}}	Die Veränderung ist wichtig.	B1;Nomen;B1
+{{c1::Die Änderung::die Modifikation/die Anpassung|die Anpassung}}	Die Änderung ist genehmigt.	B1;Nomen;B1
+{{c1::die Anpassung::die Adaption/die Angleichung|die Angleichung}}	Die Anpassung ist notwendig.	B1;Nomen;B1
+{{c1::die Modifikation::die Änderung/die Veränderung|die Veränderung}}	Die Modifikation ist trivial.	B1;Nomen;B1
+{{c1::die Adaption::die Anpassung/die Eingewöhnung|die Eingewöhnung}}	Die Adaption dauert.	B1;Nomen;B1
+{{c1::die Umsetzung::dieImplementierung/die Ausführung|die Ausführung}}	Die Umsetzung klappt.	B1;Nomen;B1
+{{c1::die Implementierung::die Umsetzung/die Einführung|die Einführung}}	Die Implementierung läuft.	B1;Nomen;B1
+{{c1::die Einführung::die Lancierung/der Start|der Start}}	Die Einführung ist erfolgreich.	B1;Nomen;B1
+{{c1::die Lancierung::die Einführung/der Start|der Start}}	Die Lancierung ist geplant.	B1;Nomen;B1
+{{c1::der Start::der Beginn/der Anbeginn|der Anbeginn}}	Der Start ist morgen.	B1;Nomen;B1
+{{c1::der Beginn::der Start/der Anfang|der Anfang}}	Der Beginn ist pünktlich.	B1;Nomen;B1
+{{c1::derAnfang::der Start/der Beginn|der Beginn}}	Der Anfang ist schwer.	B1;Nomen;B1
+{{c1::der Startpunkt::der Anfangspunkt/der Beginn|der Beginn}}	Der Startpunkt ist klar.	B1;Nomen;B1
+{{c1::der Endpunkt::der Schlusspunkt/der Abschluss|der Abschluss}}	Der Endpunkt ist erreicht.	B1;Nomen;B1
+{{c1::der Schluss::das Ende/der Abschluss|der Abschluss}}	Der Schluss ist offen.	B1;Nomen;B1
+{{c1::das Ende::der Schluss/der Abschluss|der Abschluss}}	Das Ende naht.	B1;Nomen;B1
+{{c1::der Abschluss::der Schluss/der Abschluss|der Abschluss}}	Der Abschluss ist geschafft.	B1;Nomen;B1
+{{c1::derMeilenstein::der wichtige Punkt/der Meilenstein|der wichtige Punkt}}	Der Meilenstein ist erreicht.	B1;Nomen;B1
+{{c1::das Zwischenziel::das Etappenziel/der Zwischenschritt|der Zwischenschritt}}	Das Zwischenziel ist erreichbar.	B1;Nomen;B1
+{{c1::die Etappe::die Phase/die Stufe|die Stufe}}	Die Etappe ist abgeschlossen.	B1;Nomen;B1
+{{c1::die Phase::die Stufe/die Etappe|die Etappe}}	Die Phase ist abgeschlossen.	B1;Nomen;B1
+{{c1::die Stufe::die Level/die Stufe|die Level}}	Die Stufe ist erreicht.	B1;Nomen;B1
+{{c1::der Level::die Stufe/die Phase|die Phase}}	Der Level ist erhöht.	B1;Nomen;B1
+{{c1::der Fortschritt::der Progress/der Vorsprung|der Vorsprung}}	Der Fortschritt ist messbar.	B1;Nomen;B1
+{{c1::der Progress::der Fortschritt/der Vorsprung|der Vorsprung}}	Der Progress ist sichtbar.	B1;Nomen;B1
+{{c1::der Vorsprung::der Vorteil/der Startvorteil|der Startvorteil}}	Der Vorsprung ist groß.	B1;Nomen;B1
+{{c1::der Vorteil::der Vorzug/der Bonus|der Bonus}}	Der Vorteil ist klar.	B1;Nomen;B1
+{{c1::der Vorzug::der Bonus/der Vorteil|der Vorteil}}	Der Vorzug liegt auf der Hand.	B1;Nomen;B1
+{{c1::der Nachteil::der Minuspunkt/der Schaden|der Schaden}}	Der Nachteil ist unbekannt.	B1;Nomen;B1
+{{c1::der Minuspunkt::der negative Punkt/der Nachteil|der Nachteil}}	Der Minuspunkt zählt.	B1;Nomen;B1
+{{c1::das Pro::die Vorteile/der positive Aspekt|der positive Aspekt}}	Das Pro überwiegt.	B1;Nomen;B1
+{{c1::das Kontra::der Nachteil/diecontra|diecontra}}	Das Kontra ist schwerwiegend.	B1;Nomen;B1
+{{c1::die Bilanz::die Zusammenfassung/die Bewertung|die Bewertung}}	Die Bilanz ist positiv.	B1;Nomen;B1
+{{c1::die Zusammenfassung::die Summary/die Synopsis|die Synopsis}}	Die Zusammenfassung ist fertig.	B1;Nomen;B1
+{{c1::die Summary::die Zusammenfassung/die Kurzfassung|die Kurzfassung}}	Die Summary ist kurz.	B1;Nomen;B1
+{{c1::das Fazit::die Schlussfolgerung/das Ergebnis|das Ergebnis}}	Das Fazit ist eindeutig.	B1;Nomen;B1
+{{c1::die Schlussfolgerung::die Konklusion/die Schlussfolgerung|die Konklusion}}	Die Schlussfolgerung ist logisch.	B1;Nomen;B1
+{{c1::die Konklusion::die Schlussfolgerung/das Fazit|das Fazit}}	Die Konklusion ist nachvollziehbar.	B1;Nomen;B1
+{{c1::das Ergebnis::das Resultat/der Outcome|der Outcome}}	Das Ergebnis ist zufriedenstellend.	B1;Nomen;B1
+{{c1::das Resultat::das Ergebnis/der Outcome|der Outcome}}	Das Resultat ist messbar.	B1;Nomen;B1
+{{c1::der Outcome::das Ergebnis/der Erfolg|der Erfolg}}	Der Outcome ist positiv.	B1;Nomen;B1
+{{c1::der Erfolg::der Gewinn/der Triumph|der Triumph}}	Der Erfolg gibt Recht.	B1;Nomen;B1
+{{c1::der Misserfolg::der Fehlschlag/der Flop|der Flop}}	Der Misserfolg ärgerlich.	B1;Nomen;B1
+{{c1::der Fehlschlag::der Misserfolg/das Scheitern|das Scheitern}}	Der Fehlschlag war vorauszusehen.	B1;Nomen;B1
+{{c1::der Flop::der Misserfolg/der Reinfall|der Reinfall}}	Der Flop war teuer.	B1;Nomen;B1
+{{c1::der Durchbruch::der Erfolg/der Durchbruch|der Durchbruch}}	Der Durchbruch ist geschafft.	B1;Nomen;B1
+{{c1::der Durchbruch::der Erfolg/der Knackpunkt|der Knackpunkt}}	Der Durchbruch kam überraschend.	B1;Nomen;B1
+{{c1::der Durchbruch::der Erfolg/der wichtige Fortschritt|der wichtige Fortschritt}}	Der Durchbruch ist geschafft.	B1;Nomen;B1
+{{c1::die Innovation::die Neuheit/die Erfindung|die Erfindung}}	Die Innovation ändert alles.	B1;Nomen;B1
+{{c1::die Neuheit::die Innovation/das novelle|novelle}}	Die Neuheit ist faszinierend.	B1;Nomen;B1
+{{c1::die Erfindung::die Innovation/die Entdeckung|die Entdeckung}}	Die Erfindung ist revolutionär.	B1;Nomen;B1
+{{c1::die Entdeckung::die Entdeckung/die Erfindung|die Erfindung}}	Die Entdeckung ist fundamental.	B1;Nomen;B1
+{{c1::die Entwicklung::die Evolution/die Entwicklung|die Evolution}}	Die Entwicklung ist rasant.	B1;Nomen;B1
+{{c1::die Evolution::die Entwicklung/der Fortschritt|der Fortschritt}}	Die Evolution ist nicht aufzuhalten.	B1;Nomen;B1
+{{c1::die Revolution::die Umwälzung/der große Wandel|der große Wandel}}	Die Revolution ist ausgeblieben.	B1;Nomen;B1
+{{c1::der Wandel::die Veränderung/der Wechsel|der Wechsel}}	Der Wandel ist unvermeidlich.	B1;Nomen;B1
+{{c1::der Wechsel::die Veränderung/der Austausch|der Austausch}}	Der Wechsel tut weh.	B1;Nomen;B1
+{{c1::der Umbruch::der Wandel/der Wechsel|der Wechsel}}	Der Umbruch ist enorm.	B1;Nomen;B1
+{{c1::die Transformation::die Umwandlung/der Wandel|der Wandel}}	Die Transformation ist abgeschlossen.	B1;Nomen;B1
+{{c1::die Umwandlung::die Transformation/die Konversion|die Konversion}}	Die Umwandlung ist abgeschlossen.	B1;Nomen;B1
+{{c1::die Konversion::die Umwandlung/die Transformation|die Transformation}}	Die Konversion ist teuer.	B1;Nomen;B1
+{{c1::die Reorganisation::die Umstrukturierung/die Neuordnung|die Neuordnung}}	Die Reorganisation ist abgeschlossen.	B1;Nomen;B1
+{{c1::die Umstrukturierung::die Restrukturierung/die Neuordnung|die Neuordnung}}	Die Umstrukturierung war notwendig.	B1;Nomen;B1
+{{c1::die Restrukturierung::die Umstrukturierung/die Reorganisation|die Reorganisation}}	Die Restrukturierung kostet.	B1;Nomen;B1
+{{c1::die Modernisierung::die Renovierung/die Aktualisierung|die Aktualisierung}}	Die Modernisierung ist teuer.	B1;Nomen;B1
+{{c1::die Renovierung::die Modernisierung/die Erneuerung|die Erneuerung}}	Die Renovierung ist nötig.	B1;Nomen;B1
+{{c1::die Sanierung::die Renovierung/die Instandsetzung|die Instandsetzung}}	Die Sanierung braucht Zeit.	B1;Nomen;B1
+{{c1::die Instandsetzung::die Reparatur/die Ausbesserung|die Ausbesserung}}	Die Instandsetzung ist nötig.	B1;Nomen;B1
+{{c1::die Ausbesserung::die Reparatur/die Instandsetzung|die Instandsetzung}}	Die Ausbesserung ist fertig.	B1;Nomen;B1
+{{c1::die Wartung::die Instandhaltung/die Pflege|die Pflege}}	Die Wartung ist turnusmäßig.	B1;Nomen;B1
+{{c1::die Instandhaltung::die Wartung/die Pflege|die Pflege}}	Die Instandhaltung kostet.	B1;Nomen;B1
+{{c1::die Pflege::die Wartung/die Betreuung|die Betreuung}}	Die Pflege ist wichtig.	B1;Nomen;B1
+{{c1::der Service::der Dienst/die Wartung|die Wartung}}	Der Service ist inklusive.	B1;Nomen;B1
+{{c1::die Dienstleistung::der Service/die Service|die Service}}	Die Dienstleistung wird bezahlt.	B1;Nomen;B1
+{{c1::die Support::die Unterstützung/der Kundenservice|der Kundenservice}}	Der Support ist erreichbar.	B1;Nomen;B1
+{{c1::der Kundenservice::der Support/die Kundenbetreuung|die Kundenbetreuung}}	Der Kundenservice hilft.	B1;Nomen;B1
+{{c1::die Kundenbetreuung::der Support/die Kundenzufriedenheit|die Kundenzufriedenheit}}	Die Kundenbetreuung ist wichtig.	B1;Nomen;B1
+{{c1::die Kundenzufriedenheit::die Zufriedenheit/der Servicegrad|der Servicegrad}}	Die Kundenzufriedenheit ist hoch.	B1;Nomen;B1
+{{c1::die Zufriedenheit::die Zufriedenheit/die Erfüllung|die Erfüllung}}	Die Zufriedenheit ist messbar.	B1;Nomen;B1
+{{c1::die Erfüllung::die Zufriedenheit/die Erledigung|die Erledigung}}	Die Erfüllung der Erwartungen.	B1;Nomen;B1
+{{c1::die Erwartung::die Erwartung/die Vorahnung|die Vorahnung}}	Die Erwartung ist hoch.	B1;Nomen;B1
+{{c1::die Vorahnung::das Gefühl/die Erwartung|die Erwartung}}	Die Vorahnung ist ungut.	B1;Nomen;B1
+{{c1::die Ahnung::die Vorahnung/das Gefühl|das Gefühl}}	Ich habe keine Ahnung.	B1;Nomen;B1
+{{c1::das Verständnis::das Verstehen/die Erkenntnis|die Erkenntnis}}	Das Verständnis ist wichtig.	B1;Nomen;B1
+{{c1::die Erkenntnis::die Einsicht/das Wissen|das Wissen}}	Die Erkenntnis kommt spät.	B1;Nomen;B1
+{{c1::die Einsicht::die Erkenntnis/das Verstehen|das Verstehen}}	Die Einsicht fehlt.	B1;Nomen;B1
+{{c1::die Einsicht::die Erkenntnis/das Verstehen|das Verstehen}}	Die Einsicht ist wichtig.	B1;Nomen;B1
+{{c1::das Bewusstsein::das Bewusstsein/das Gewissen|das Gewissen}}	Das Bewusstsein ist geschärft.	B1;Nomen;B1
+{{c1::das Gewissen::das Bewusstsein/das Verantwortungsgefühl|das Verantwortungsgefühl}}	Das Gewissen ist rein.	B1;Nomen;B1
+{{c1::die Verantwortung::die Pflicht/die Verantwortung|die Pflicht}}	Die Verantwortung liegt bei uns.	B1;Nomen;B1
+{{c1::die Pflicht::die Verantwortung/die Aufgabe|die Aufgabe}}	Die Pflicht ruft.	B1;Nomen;B1
+{{c1::die Aufgabe::die Pflicht/das Ziel|das Ziel}}	Die Aufgabe ist erfüllt.	B1;Nomen;B1
+{{c1::das Ziel::das Vorhaben/der Zweck|der Zweck}}	Das Ziel ist klar.	B1;Nomen;B1
+{{c1::der Zweck::das Ziel/der Sinn|der Sinn}}	Der Zweck heiligt die Mittel.	B1;Nomen;B1
+{{c1::der Sinn::der Zweck/die Bedeutung|die Bedeutung}}	Der Sinn ist erkennbar.	B1;Nomen;B1
+{{c1::die Bedeutung::der Sinn/die Wichtigkeit|die Wichtigkeit}}	Die Bedeutung ist groß.	B1;Nomen;B1
+{{c1::die Wichtigkeit::die Bedeutung/der Stellenwert|der Stellenwert}}	Die Wichtigkeit ist klar.	B1;Nomen;B1
+{{c1::der Stellenwert::die Bedeutung/der Wert|der Wert}}	Der Stellenwert ist hoch.	B1;Nomen;B1
+{{c1::der Wert::die Bedeutung/der Nutzen|der Nutzen}}	Der Wert ist gestiegen.	B1;Nomen;B1
+{{c1::der Nutzen::der Vorteil/der Gewinn|der Gewinn}}	Der Nutzen ist messbar.	B1;Nomen;B1
+{{c1::der Gewinn::der Profit/der Vorteil|der Vorteil}}	Der Gewinn ist höher.	B1;Nomen;B1
+{{c1::der profit::der Gewinn/der Nutzen|der Nutzen}}	Der Profit ist gesteigert.	B1;Nomen;B1
+{{c1::der Umsatz::der Verkauf/der Erlös|der Erlös}}	Der Umsatz ist gestiegen.	B1;Nomen;B1
+{{c1::der Erlös::der Umsatz/der Gewinn|der Gewinn}}	Der Erlös ist höher.	B1;Nomen;B1
+{{c1::der Ertrag::der Gewinn/der Profit|der Profit}}	Der Ertrag ist gesunken.	B1;Nomen;B1
+{{c1::der Revenue::der Umsatz/der Erlös|der Erlös}}	Der Revenue ist stabil.	B1;Nomen;B1
+{{c1::die Einnahmen::die Einkünfte/der Verdienst|der Verdienst}}	Die Einnahmen sind gestiegen.	B1;Nomen;B1
+{{c1::die Ausgaben::die Kosten/der Aufwand|der Aufwand}}	Die Ausgaben sind gesunken.	B1;Nomen;B1
+{{c1::der Cashflow::der Geldfluss/der Finanzfluss|der Finanzfluss}}	Der Cashflow ist positiv.	B1;Nomen;B1
+{{c1::der Finanzfluss::der Cashflow/der Geldfluss|der Geldfluss}}	Der Finanzfluss ist stabil.	B1;Nomen;B1
+{{c1::der Geldfluss::der Cashflow/die Geldström|die Geldström}}	Der Geldfluss ist wichtig.	B1;Nomen;B1
+{{c1::der Cash::das Bargeld/die Barmittel|die Barmittel}}	Der Cash ist knapp.	B1;Nomen;B1
+{{c1::das Bargeld::der Cash/da Kleingeld|da Kleingeld}}	Das Bargeld reicht nicht.	B1;Nomen;B1
+{{c1::die liquiden Mittel::das Bargeld/die flüssigen Mittel|die flüssigen Mittel}}	Die liquiden Mittel sind knapp.	B1;Nomen;B1
+{{c1::die flüssigen Mittel::das Bargeld/der Cash|der Cash}}	Die flüssigen Mittel sind da.	B1;Nomen;B1
+{{c1::das Umlaufvermögen::das Umlaufvermögen/das current asset|das current asset}}	Das Umlaufvermögen ist wichtig.	B1;Nomen;B1
+{{c1::das Anlagevermögen::das langfristige Vermögen/das Anlagegut|das Anlagegut}}	Das Anlagevermögen ist hoch.	B1;Nomen;B1
+{{c1::das Vermögen::das Vermögen/das Eigentum|das Eigentum}}	Das Vermögen ist angewachsen.	B1;Nomen;B1
+{{c1::das Eigentum::das Vermögen/derBesitz|derBesitz}}	Das Eigentum ist geschützt.	B1;Nomen;B1
+{{c1::der Besitz::das Eigentum/da Hab|da Hab}}	Der Besitz verpflichtet.	B1;Nomen;B1
+{{c1::das Hab und Gut::der Besitz/da Hab|da Hab}}	Das Hab und Gut ist gesichert.	B1;Nomen;B1
+{{c1::der Besitzstand::der status/der Besitz|der Besitz}}	Der Besitzstand ist gesunken.	B1;Nomen;B1
+{{c1::der Status::der Stand/der Zustand|der Zustand}}	Der Status ist unverändert.	B1;Nomen;B1
+{{c1::der Zustand::der Status/der Stand|der Stand}}	Der Zustand ist stabil.	B1;Nomen;B1
+{{c1::der Stand::der Ort/der Punkt|der Punkt}}	Der Stand ist unverändert.	B1;Nomen;B1
+{{c1::der Point::der Punkt/der Aspekt|der Aspekt}}	Der Point ist gemacht.	B1;Nomen;B1
+{{c1::der Aspekt::der Punkt/der Blickwinkel|der Blickwinkel}}	Der Aspekt ist wichtig.	B1;Nomen;B1
+{{c1::der Blickwinkel::der Aspekt/der Standpunkt|der Standpunkt}}	Der Blickwinkel ist anders.	B1;Nomen;B1
+{{c1::der Standpunkt::die Meinung/das Argument|das Argument}}	Der Standpunkt ist klar.	B1;Nomen;B1
+{{c1::die Meinung::die Ansicht/der Standpunkt|der Standpunkt}}	Die Meinung gilt es zu respektieren.	B1;Nomen;B1
+{{c1::die Ansicht::die Meinung/der Standpunkt|der Standpunkt}}	Die Ansicht ist geteilt.	B1;Nomen;B1
+{{c1::die Vorstellung::das Bild/die Imagination|die Imagination}}	Die Vorstellung ist klar.	B1;Nomen;B1
+{{c1::die Imagination::die Vorstellung/das Bild|das Bild}}	Die Imagination ist wichtig.	B1;Nomen;B1
+{{c1::das Bild::das Bild/die Vorstellung|die Vorstellung}}	Das Bild ist unscharf.	B1;Nomen;B1
+{{c1::das想象::das想象/die想象|die想象}}	Das想象 ist wichtig.	B1;Nomen;B1
+{{c1::die Idee::der Gedanke/der Einfall|der Einfall}}	Die Idee ist brillant.	B1;Nomen;B1
+{{c1::der Gedanke::der Einfall/die Idee|die Idee}}	Der Gedanke ist neu.	B1;Nomen;B1
+{{c1::der Einfall::der Gedanke/die Idee|die Idee}}	Der Einfall kam plötzlich.	B1;Nomen;B1
+{{c1::der Einfall::der Einfall/die Eingebung|die Eingebung}}	Der Einfall ist spontan.	B1;Nomen;B1
+{{c1::die Eingebung::der Einfall/der Instinkt|der Instinkt}}	Die Eingebung war richtig.	B1;Nomen;B1
+{{c1::die Intuition::die Eingebung/der Instinkt|der Instinkt}}	Die Intuition ist wichtig.	B1;Nomen;B1
+{{c1::der Instinkt::die Intuition/der Reflex|der Reflex}}	Der Instinkt ist stark.	B1;Nomen;B1
+{{c1::der Reflex::der Instinkt/die Reaktion|die Reaktion}}	Der Reflex ist natürlich.	B1;Nomen;B1
+{{c1::die Reaktion::die Antwort/die Erwiderung|die Erwiderung}}	Die Reaktion ist überraschend.	B1;Nomen;B1
+{{c1::die Antwort::die Erwiderung/die Reaktion|die Reaktion}}	Die Antwort steht aus.	B1;Nomen;B1
+{{c1::die Erwiderung::die Antwort/die Reaktion|die Reaktion}}	Die Erwiderung ist fällig.	B1;Nomen;B1
+{{c1::die Entgegnung::die Antwort/die Widerrede|die Widerrede}}	Die Entgegnung blieb aus.	B1;Nomen;B1
+{{c1::die Widerrede::die Entgegnung/der Widerspruch|der Widerspruch}}	Die Widerrede ist unmöglich.	B1;Nomen;B1
+{{c1::der Widerspruch::die Widerrede/die Entgegnung|die Entgegnung}}	Der Widerspruch ist berechtigt.	B1;Nomen;B1
+{{c1::der Wiederspruch::der Widerspruch/die Opposition|die Opposition}}	Der Widerspruch ist laut.	B1;Nomen;B1
+{{c1::die Opposition::der Widerstand/die Gegenposition|die Gegenposition}}	Die Opposition wächst.	B1;Nomen;B1
+{{c1::der Widerstand::die Opposition/der Widerstand|die Opposition}}	Der Widerstand ist gering.	B1;Nomen;B1
+{{c1::der Widerstand::der Aufstand/der Fight|der Fight}}	Der Widerstand ist zwecklos.	B1;Nomen;B1
+{{c1::der Aufstand::der Widerstand/die Rebellion|die Rebellion}}	Der Aufstand ist niedergeschlagen.	B1;Nomen;B1
+{{c1::die Rebellion::der Aufstand/die Revolte|die Revolte}}	Die Rebellion ist niedergeschlagen.	B1;Nomen;B1
+{{c1::die Revolte::der Aufstand/die Rebellion|die Rebellion}}	Die Revolte war kurz.	B1;Nomen;B1
+{{c1::der Protest::dieDemo/die Demonstration|die Demonstration}}	Der Protest ist friedlich.	B1;Nomen;B1
+{{c1::die Demonstration::der Protest/der Aufmarsch|der Aufmarsch}}	Die Demonstration ist genehmigt.	B1;Nomen;B1
+{{c1::die Demo::der Protest/die Demonstration|die Demonstration}}	Die Demo zieht durch die Stadt.	B1;Nomen;B1
+{{c1::die Kundgebung::die Demonstration/der Protest|der Protest}}	Die Kundgebung ist groß.	B1;Nomen;B1
+{{c1::der Marsch::der Zug/der Umzug|der Umzug}}	Der Marsch dauert an.	B1;Nomen;B1
+{{c1::der Zug::der Marsch/der Umzug|der Umzug}}	Der Zug ist langsam.	B1;Nomen;B1
+{{c1::der Umzug::die Übersiedlung/der Zug|der Zug}}	Der Umzug ist teuer.	B1;Nomen;B1
+{{c1::die Übersiedlung::der Umzug/der Wegzug|der Wegzug}}	Die Übersiedlung ist abgeschlossen.	B1;Nomen;B1
+{{c1::der Wegzug::der Umzug/die Auswanderung|die Auswanderung}}	Der Wegzug ist beschlossene Sache.	B1;Nomen;B1
+{{c1::die Auswanderung::der Wegzug/der Umzug|der Umzug}}	Die Auswanderung ist geplant.	B1;Nomen;B1
+{{c1::die Einwanderung::die Zuwanderung/der Zuzug|der Zuzug}}	Die Einwanderung ist umstritten.	B1;Nomen;B1
+{{c1::die Zuwanderung::die Einwanderung/der Zuzug|der Zuzug}}	Die Zuwanderung ist begrenzt.	B1;Nomen;B1
+{{c1::der Zuzug::die Zuwanderung/die Einwanderung|die Einwanderung}}	Der Zuzug ist geregelt.	B1;Nomen;B1
+{{c1::die Immigration::die Einwanderung/die Zuwanderung|die Zuwanderung}}	Die Immigration ist gestiegen.	B1;Nomen;B1
+{{c1::die Emigration::die Auswanderung/der Wegzug|der Wegzug}}	Die Emigration ist zurückgegangen.	B1;Nomen;B1
+{{c1::die Migration::die Wanderung/der Umzug|der Umzug}}	Die Migration ist global.	B1;Nomen;B1
+{{c1::die Wanderung::der Umzug/die Reise|die Reise}}	Die Wanderung ist anstrengend.	B1;Nomen;B1
+{{c1::die Reise::die Tour/der Trip|der Trip}}	Die Reise ist gebucht.	B1;Nomen;B1
+{{c1::der Trip::die Reise/der Ausflug|der Ausflug}}	Der Trip ist geplant.	B1;Nomen;B1
+{{c1::der Ausflug::der Trip/der Kurztrip|der Kurztrip}}	Der Ausflug macht Spaß.	B1;Nomen;B1
+{{c1::die Tour::die Reise/der Trip|der Trip}}	Die Tour ist ausgebucht.	B1;Nomen;B1
+{{c1::die Exkursion::der Ausflug/der Ausflug|der Ausflug}}	Die Exkursion ist lehrreich.	B1;Nomen;B1
+{{c1::der Ausflug::die Exkursion/der Trip|der Trip}}	Der Ausflug ist organisiert.	B1;Nomen;B1
+{{c1::der Trip::die Reise/der Kurzurlaub|der Kurzurlaub}}	Der Trip ist kurz.	B1;Nomen;B1
+{{c1::der Kurzurlaub::der Kurztrip/der Shorttrip|der Shorttrip}}	Der Kurzurlaub ist erholsam.	B1;Nomen;B1
+{{c1::der Kurzaufenthalt::der Zwischenstopp/der Aufenthalt|der Aufenthalt}}	Der Kurzaufenthalt reicht.	B1;Nomen;B1
+{{c1::der Zwischenstopp::der Kurzaufenthalt/der Zwischenhalt|der Zwischenhalt}}	Der Zwischenstopp ist nötig.	B1;Nomen;B1
+{{c1::der Zwischenhalt::der Unterbrechung/die Pause|die Pause}}	Der Zwischenhalt ist erholsam.	B1;Nomen;B1
+{{c1::die Pause::die Unterbrechung/der Unterbruch|der Unterbruch}}	Die Pause ist kurz.	B1;Nomen;B1
+{{c1::die Unterbrechung::die Pause/der Unterbruch|der Unterbruch}}	Die Unterbrechung stört.	B1;Nomen;B1
+{{c1::die Unterbrechung::der Unterbruch/die Pause|die Pause}}	Die Unterbrechung kostet Zeit.	B1;Nomen;B1
+{{c1::die Unterbrechung::die Störung/der Unterbruch|der Unterbruch}}	Die Unterbrechung ist peinlich.	B1;Nomen;B1
+{{c1::die Störung::die Unterbrechung/der Unterbruch|der Unterbruch}}	Die Störung ist behoben.	B1;Nomen;B1
+{{c1::die Störung::diePanne/der Defekt|der Defekt}}	Die Störung ist behoben.	B1;Nomen;B1
+{{c1::die Panne::die Störung/der Defekt|der Defekt}}	Die Panne ist ärgerlich.	B1;Nomen;B1
+{{c1::der Defekt::der Fehler/der Schaden|der Schaden}}	Der Defekt ist schwerwiegend.	B1;Nomen;B1
+{{c1::der Fehler::der Defekt/der Fehler|der Fehler}}	Der Fehler wiederholt sich.	B1;Nomen;B1
+{{c1::der Fehler::der Fehltritt/der Lapsus|der Lapsus}}	Der Fehler ist menschlich.	B1;Nomen;B1
+{{c1::der Lapsus::der Fehler/der Fauxpas|der Fauxpas}}	Der Lapsus ist peinlich.	B1;Nomen;B1
+{{c1::der Fauxpas::der Fehler/der Fauxpas|der Fehler}}	Der Fauxpas ist ärgerlich.	B1;Nomen;B1
+{{c1::der faux pas::der Fehler/die Taktlosigkeit|die Taktlosigkeit}}	Der faux pas ist peinlich.	B1;Nomen;B1
+{{c1::die Taktlosigkeit::der Fauxpas/der Fehler|der Fehler}}	Die Taktlosigkeit ist unentschuldbar.	B1;Nomen;B1
+{{c1::der Taktfehler::der Fauxpas/der Taktlos|der Taktlos}}	Der Taktfehler ist peinlich.	B1;Nomen;B1
+{{c1::der Ausrutscher::der Fehler/der Patzer|der Patzer}}	Der Ausrutscher war peinlich.	B1;Nomen;B1
+{{c1::der Patzer::der Fehler/der Lapsus|der Lapsus}}	Der Patzer ist menschlich.	B1;Nomen;B1
+{{c1::der Schnitzer::der Fehler/der Patzer|der Patzer}}	Der Schnitzer ist ärgerlich.	B1;Nomen;B1
+{{c1::der Bock::der Fehler/der Patzer|der Patzer}}	Den Bock hat er gemacht.	B1;Nomen;B1
+{{c1::der große Fehler::der schwerwiegende Fehler|der große Bock|der große Bock}}	Der große Fehler war teuer.	B1;Nomen;B1
+{{c1::der Kardinalfehler::der schwerwiegende Fehler|der Grundfehler|der Grundfehler}}	Der Kardinalfehler ist vermeidbar.	B1;Nomen;B1
+{{c1::der Grundfehler::der Kardinalfehler/der Ursprungsfehler|der Ursprungsfehler}}	Der Grundfehler wiederholt sich.	B1;Nomen;B1
+{{c1::der Ursprungsfehler::der Grundfehler/der Ursprungsfehler|der Grundfehler}}	Der Ursprungsfehler ist behoben.	B1;Nomen;B1
+{{c1::der Systemfehler::der Grundfehler/der Softwarefehler|der Softwarefehler}}	Der Systemfehler ist kritisch.	B1;Nomen;B1
+{{c1::der Softwarefehler::der Bug/der Programmierfehler|der Programmierfehler}}	Der Softwarefehler ist gefunden.	B1;Nomen;B1
+{{c1::der Bug::der Fehler/der Defekt|der Defekt}}	Der Bug ist behoben.	B1;Nomen;B1
+{{c1::der Programmierfehler::der Bug/der Codierungsfehler|der Codierungsfehler}}	Der Programmierfehler ist gefunden.	B1;Nomen;B1
+{{c1::der Kodierfehler::der Bug/der Programmierfehler|der Programmierfehler}}	Der Kodierfehler ist behoben.	B1;Nomen;B1
+{{c1::derSyntax Fehler::der Syntaxerror/derSytaxfehler|derSytaxfehler}}	Der Syntax Fehler ist kritisch.	B1;Nomen;B1
+{{c1::der Tippfehler::der Rechtschreibfehler/der typo|der typo}}	Der Tippfehler ist passiert.	B1;Nomen;B1
+{{c1::der Rechtschreibfehler::der Tippfehler/derSchreibfehler|derSchreibfehler}}	Der Rechtschreibfehler ist peinlich.	B1;Nomen;B1

@@ -1,0 +1,245 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::C1
+{{c1::die abstrakte Erkenntnistheorie::die metaphysische Epistemologie/die spekulative Gnoseologie|die spekulative Gnoseologie}}	Die abstrakte Erkenntnistheorie hinterfragt die Grenzen des Wissens.	C1;Nomen;C1
+{{c1::die transzendentale Apperzeption::die originale Selbstwahrnehmung/die reine Bewusstseinstheorie|die reine Bewusstseinstheorie}}	Die transzendentale Apperzeption ist ein Kernbegriff der Philosophie.	C1;Nomen;C1
+{{c1::die dialektische Methode::die Wechselwirkungsmethod/die Gesprächsführungsmethode|die Gesprächsführungsmethode}}	Die dialektische Methode führt zu tieferen Einsichten.	C1;Nomen;C1
+{{c1::der ontologische Gottesbeweis::der metaphysische Existenznachweis/die ontologische Gottesbeweisführung|die ontologische Gottesbeweisführung}}	Der ontologische Gottesbeweis ist ein klassisches Argument.	C1;Nomen;C1
+{{c1::der kosmologische Argument::der Ursprungsbeweis/die Kausalerklärung|die Kausalerklärung}}	Der kosmologische Argument basiert auf dem Kausalprinzip.	C1;Nomen;C1
+{{c1::der teleologische Beweis::der Zweckursachenbeweis/die Design-Argumentation|die Design-Argumentation}}	Der teleologische Beweis argumentiert aus der Zweckmäßigkeit.	C1;Nomen;C1
+{{c1::die Kategorien a priori::die Verstandesbegriffe/die reinen Verstandesbegriffe|die reinen Verstandesbegriffe}}	Die Kategorien a priori strukturieren die Erfahrung.	C1;Nomen;C1
+{{c1::das Ding an sich::das Noumenon/die intelligible Realität|die intelligible Realität}}	Das Ding an sich bleibt uns unzugänglich.	C1;Nomen;C1
+{{c1::die Synthesis a priori::die vorangehende Verbindung/die apriorische Verknüpfung|die apriorische Verknüpfung}}	Die Synthesis a priori verbindet Anschauung und Begriff.	C1;Nomen;C1
+{{c1::der kategorische Imperativ::die unbedingte Pflichtformel/die moralische Grundmaxime|die moralische Grundmaxime}}	Der kategorische Imperativ gilt unbedingt.	C1;Nomen;C1
+{{c1::die praktische Vernunft::die moralische Vernunft/die sittliche Vernunft|die sittliche Vernunft}}	Die praktische Vernunft bestimmt das Handeln.	C1;Nomen;C1
+{{c1::die theoretische Vernunft::die spekulative Vernunft/die erkennende Vernunft|die erkennende Vernunft}}	Die theoretische Vernunft erkennt das Wahre.	C1;Nomen;C1
+{{c1::das Fundament der Ethik::das moralische Prinzip/diesittliche Grundlage|die sittliche Grundlage}}	Das Fundament der Ethik ist umstritten.	C1;Nomen;C1
+{{c1::der Utilitarismus::die Nutzenethik/dieFolgenmoral|dieFolgenmoral}}	Der Utilitarismus maximiert das Glück.	C1;Nomen;C1
+{{c1::der Kontraktualismus::die Vertragstheorie/die Gesellschaftsvertragstheorie|die Gesellschaftsvertragstheorie}}	Der Kontraktualismus basiert auf gegenseitigem Einverständnis.	C1;Nomen;C1
+{{c1::die Deontologie::die Pflichtenethik/die Obligationsethik|die Obligationsethik}}	Die Deontologie betont die Pflicht.	C1;Nomen;C1
+{{c1::der ethische Relativismus::der sittliche Relativismus/der Moralrelativismus|der Moralrelativismus}}	Der ethische Relativismus bestreitet universelle Werte.	C1;Nomen;C1
+{{c1::der ethische Absolutismus::der Moralabsolutismus/die absolute Sittlichkeit|die absolute Sittlichkeit}}	Der ethische Absolutismus nimmt absolute Maßstäbe an.	C1;Nomen;C1
+{{c1::die Tugendethik::die Aretaik/die Charakterethik|die Charakterethik}}	Die Tugendethik fokussiert auf den moralischen Charakter.	C1;Nomen;C1
+{{c1::der Existenzialismus::die Existenzphilosophie/die Daseinsphilosophie|die Daseinsphilosophie}}	Der Existenzialismus betont die Freiheit des Menschen.	C1;Nomen;C1
+{{c1::der Phenomenalismus::die Erscheinungsphilosophie/die phänomenalistische Lehre|die phänomenalistische Lehre}}	Der Phenomenalismus untersucht das Bewusstsein.	C1;Nomen;C1
+{{c1::die Phänomenologie::die Erscheinungslehre/die Bewusstseinsforschung|die Bewusstseinsforschung}}	Die Phänomenologie analysiert Bewusstseinsinhalte.	C1;Nomen;C1
+{{c1::die Hermeneutik::die Auslegungslehre/die Interpretationskunst|die Interpretationskunst}}	Die Hermeneutik entwickelt Auslegungsprinzipien.	C1;Nomen;C1
+{{c1::der Strukturalismus::die Strukturenlehre/die Formalisierung|die Formalisierung}}	Der Strukturalismus analysiert verborgene Strukturen.	C1;Nomen;C1
+{{c1::der Poststrukturalismus::die Nachstrukturtheorie/dieDekonstruktion|dieDekonstruktion}}	Der Poststrukturalismus kritisiert feste Bedeutungen.	C1;Nomen;C1
+{{c1::die Dekonstruktion::die Auflösung/die Destruktion|die Destruktion}}	Die Dekonstruktion zeigt verborgene Widersprüche.	C1;Nomen;C1
+{{c1::der Neokonstruktivismus::die moderne Konstruktionstheorie/die radikale Konstruktion|die radikale Konstruktion}}	Der Neokonstruktivismus hinterfragt die Wirklichkeit.	C1;Nomen;C1
+{{c1::der radikale Konstruktivismus::die extreme Erkenntnistheorie/die subjektivistische Epistemologie|die subjektivistische Epistemologie}}	Der radikale Konstruktivismus bestreitet objektive Erkenntnis.	C1;Nomen;C1
+{{c1::die Kognitionswissenschaft::die Denkforschung/die kognitive Wissenschaft|die kognitive Wissenschaft}}	Die Kognitionswissenschaft erforscht das Denken.	C1;Nomen;C1
+{{c1::die Neuropsychologie::die Hirnforschung/die neurowissenschaft|die neurowissenschaft}}	Die Neuropsychologie untersucht Hirnprozesse.	C1;Nomen;C1
+{{c1::die Neurophilosophie::die Philosophie des Gehirns/die mente-brain Forschung|die mente-brain Forschung}}	Die Neurophilosophie verbindet Geist und Gehirn.	C1;Nomen;C1
+{{c1::der Dualismus::die Zweistofflehre/die Körper-Geist-Trennung|die Körper-Geist-Trennung}}	Der Dualismus unterscheidet Geist und Materie.	C1;Nomen;C1
+{{c1::der physikalistische Reduktionismus::die mentale Reduktion/die Bewusstseinsreduktion|die Bewusstseinsreduktion}}	Der physikalistische Reduktionismus erklärt alles physisch.	C1;Nomen;C1
+{{c1::die Qualia::die phänomenalen Erlebnisse/die subjektiven Empfindungen|die subjektiven Empfindungen}}	Die Qualia sind das subjektive Erleben.	C1;Nomen;C1
+{{c1::das Hard-Problem des Bewusstseins::die schwierige Bewusstseinsfrage/die Erklärungsproblem|die Erklärungsproblem}}	Das Hard-Problem des Bewusstseins bleibt offen.	C1;Nomen;C1
+{{c1::die Intentionalität::die Gerichtetheit/die Bewusstseinsgerichtetheit|die Bewusstseinsgerichtetheit}}	Die Intentionalität ist ein Grundmerkmal des Bewusstseins.	C1;Nomen;C1
+{{c1::der Panpsychismus::die Allseelenlehre/die ubiquitäre Bewusstseintheorie|die ubiquitäre Bewusstseintheorie}}	Der PanPsychismus schreibt allen Dingen Bewusstsein zu.	C1;Nomen;C1
+{{c1::der Funktionalismus::die Rollentheorie/die Funktionstheorie|die Funktionstheorie}}	Der Funktionalismus erklärt mentale Zustände funktional.	C1;Nomen;C1
+{{c1::der Computismus::die Computertheorie/die algorithmische Gehirntheorie|die algorithmische Gehirntheorie}}	Der Computismus vergleicht das Gehirn mit einem Computer.	C1;Nomen;C1
+{{c1::der Turing-Test::der Intelligenztest/dieMaschinenintelligenzprüfung|dieMaschinenintelligenzprüfung}}	Der Turing-Test prüft maschinelle Intelligenz.	C1;Nomen;C1
+{{c1::das Chinesische Zimmer::das Sprachrätsel/die Symbolverarbeitung|die Symbolverarbeitung}}	Das Chinesische Zimmer kritisiert starke KI.	C1;Nomen;C1
+{{c1::die starke KI::die Artificial General Intelligence/die menschenähnliche Maschinenintelligenz|die menschenähnliche Maschinenintelligenz}}	Die starke KI bewusstes Erleben simulieren.	C1;Nomen;C1
+{{c1::die schwache KI::die angewandte Künstliche Intelligenz/die spezialisierte AI|die spezialisierte AI}}	Die schwache KI löst spezifische Aufgaben.	C1;Nomen;C1
+{{c1::der Wette-Algorithmus::der Optimierungsalgorithmus/die Suchmethode|die Suchmethode}}	Der Wette-Algorithmus findet optimale Lösungen.	C1;Nomen;C1
+{{c1::das maschinelle Lernen::der Machine Learning/die Algorithmus-basierte Mustererkennung|die Algorithmus-basierte Mustererkennung}}	Das maschinelle Lernen adaptiert sich automatisch.	C1;Nomen;C1
+{{c1::das überwachte Lernen::das beaufsichtigte Lernen/die gelabelteTrainings|die gelabelteTrainings}}	Das überwachte Lernen nutzt gelabelte Daten.	C1;Nomen;C1
+{{c1::das unüberwachte Lernen::das unbeaufsichtigte Lernen/die ungelabelte Musteranalyse|die ungelabelte Musteranalyse}}	Das unüberwachte Lernen findet unbekannte Muster.	C1;Nomen;C1
+{{c1::das bestärkende Lernen::das reinforcement Lernen/die Belohnung's Lernen|die Belohnung's Lernen}}	Das bestärkende Lernen optimiert durch Feedback.	C1;Nomen;C1
+{{c1::das tiefe Lernen::der Deep Learning/die mehrschichtige neuronale Netze|die mehrschichtige neuronale Netze}}	Das tiefe Lernen nutzt tiefe neuronale Netze.	C1;Nomen;C1
+{{c1::die Faltung::die Konvolution/die Filterung|die Filterung}}	Die Faltung extrahiert Merkmale aus Daten.	C1;Nomen;C1
+{{c1::der Attention-Mechanismus::der Aufmerksamkeitsmechanismus/die Fokus-Adaption|die Fokus-Adaption}}	Der Attention-Mechanismus fokussiert relevante Teile.	C1;Nomen;C1
+{{c1::die Transformer-Architektur::die Self-Attention Struktur/die sequenzverarbeitende Architektur|die sequenzverarbeitende Architektur}}	Die Transformer-Architektur revolutioniert NLP.	C1;Nomen;C1
+{{c1::die Large Language Models::die großen Sprachmodelle/die umfangreichen Sprach-KI|die umfangreichen Sprach-KI}}	Die Large Language Models zeigen beeindruckende Fähigkeiten.	C1;Nomen;C1
+{{c1::der Prompt::die Eingabeaufforderung/die Instruktion|die Instruktion}}	Der Prompt steuert die KI-Ausgabe.	C1;Nomen;C1
+{{c1::few-shot learning::das schnelle Erlernen/die minimale Beispielanpassung|die minimale Beispielanpassung}}	Few-shot learning lernt aus wenigen Beispielen.	C1;Nomen;C1
+{{c1::zero-shot learning::das Beispiel-lose Lernen/die Null-Schuss-Anpassung|die Null-Schuss-Anpassung}}	Zero-shot learning generalisiert ohne Beispiele.	C1;Nomen;C1
+{{c1::in-context learning::das Kontext-lernen/die Eingabebasiertes Lernen|die Eingabebasiertes Lernen}}	In-context learning nutzt den Kontext direkt.	C1;Nomen;C1
+{{c1::die Alignment-Forschung::die Werteangleichung/die KI-Moralforschung|die KI-Moralforschung}}	Die Alignment-Forschung stelltethische KI sicher.	C1;Nomen;C1
+{{c1::die KI-Sicherheit::die maschinelle Risikoforschung/die Friendly AI Forschung|die Friendly AI Forschung}}	Die KI-Sicherheit erforscht existenzielle Risiken.	C1;Nomen;C1
+{{c1::der KI-Wert::die Wertanpassung/die Zielangleichung|die Zielangleichung}}	Der KI-Wert确保 Maschinen menschliche Werte teilen.	C1;Nomen;C1
+{{c1::die Emergenz::das Auftauchen/die spontane Musterbildung|die spontane Musterbildung}}	Die Emergenz zeigt neuartige Eigenschaften.	C1;Nomen;C1
+{{c1::die Selbstorganisation::die automatische Strukturierung/die spontane Ordnungsbildung|die spontane Ordnungsbildung}}	Die Selbstorganisation entsteht ohne zentrale Steuerung.	C1;Nomen;C1
+{{c1::die autopoietische Systeme::die selbstproduzierende Systeme/die selbsterhaltende Organisation|die selbsterhaltende Organisation}}	Die autopoietische Systeme erhalten sich selbst.	C1;Nomen;C1
+{{c1::die Komplexitätstheorie::die Komplexitätsforschung/die nichtlineare Dynamik|die nichtlineare Dynamik}}	Die Komplexitätstheorie untersucht emergente Systeme.	C1;Nomen;C1
+{{c1::die Chaostheorie::die nichtlineare Dynamik/die sensitivitäts-Abhängigkeit|die sensitivitäts-Abhängigkeit}}	Die Chaostheorie zeigt deterministische Unvorhersagbarkeit.	C1;Nomen;C1
+{{c1::der Schmetterlingseffekt::die sensitive Abhängigkeit/die infinitesimalen Änderungen|die infinitesimalen Änderungen}}	Der Schmetterlingseffekt zeigt Konsequenzen.	C1;Nomen;C1
+{{c1::die Attraktor::die stabile Dynamik/die Phasenraumkurve|die Phasenraumkurve}}	Die Attraktor beschreibt stabile Verhaltensmuster.	C1;Nomen;C1
+{{c1::der Fraktal::die Selbstähnlichkeit/die gebrochene Dimension|die gebrochene Dimension}}	Der Fraktal zeigt unendliche Selbstähnlichkeit.	C1;Nomen;C1
+{{c1::die fraktale Geometrie::die Selbstähnlichkeitsgeometrie/die gebrochene Geometrie|die gebrochene Geometrie}}	Die fraktale Geometrie beschreibt komplexe Formen.	C1;Nomen;C1
+{{c1::die Skaleninvarianz::die Skalenunabhängigkeit/die Dimensionsunabhängigkeit|die Dimensionsunabhängigkeit}}	Die Skaleninvarianz zeigt universelle Muster.	C1;Nomen;C1
+{{c1::die Kritische Theorie::dieFrankfurter Schule/die gesellschaftskritische Philosophie|die gesellschaftskritische Philosophie}}	Die Kritische Theorie hinterfragt Machtstrukturen.	C1;Nomen;C1
+{{c1::die Ideologiekritik::die Ideologieanalyse/die Herrschaftslegitimationsanalyse|die Herrschaftslegitimationsanalyse}}	Die Ideologiekritik enthüllt verbergene Interessen.	C1;Nomen;C1
+{{c1::die patriarchale Struktur::die männliche Dominanz/die Geschlechtermachtverhältnisse|die Geschlechtermachtverhältnisse}}	Die patriarchale Struktur durchdringt alle Gesellschaftsbereiche.	C1;Nomen;C1
+{{c1::der Postkolonialismus::die Kolonialismusnachfolge/die Dekolonisierungsphilosophie|die Dekolonisierungsphilosophie}}	Der Postkolonialismus analysiert koloniale Erbschaften.	C1;Nomen;C1
+{{c1::die Intersektionalität::die Verschränkung von Unterdrückungsformen/die mehrdimensionale Diskriminierung|die mehrdimensionale Diskriminierung}}	Die Intersektionalität erkennt vielfache Unterdrückung.	C1;Nomen;C1
+{{c1::der ecozentrisme::die Ökozentrik/die naturzentrische Ethik|die naturzentrische Ethik}}	Der ecozentrisme erweitert den moralischen Kreis.	C1;Nomen;C1
+{{c1::der Biozentrismus::die Lebenszentrik/die biophilosophische Ethik|die biophilosophische Ethik}}	Der Biozentrismus schützt alle Lebewesen.	C1;Nomen;C1
+{{c1::die anthropozentrische Weltbild::die menschliche Zentrierung/die Humanzentrismus|die Humanzentrismus}}	Die anthropozentrische Weltbild stellt den Menschen in den Mittelpunkt.	C1;Nomen;C1
+{{c1::die Tiefenökologie::die ökologische Philosophie/die Umweltethik|die Umweltethik}}	Die Tiefenökologie respektiert die intrinsische Natur.	C1;Nomen;C1
+{{c1::der Planetary Boundaries::die planetaren Grenzen/die ökosystemaren Belastbarkeitsgrenzen|die ökosystemaren Belastbarkeitsgrenzen}}	Der Planetary Boundaries definiert sichere Handlungsräume.	C1;Nomen;C1
+{{c1::die Ökodominanz::die Umweltherrschaft/die Naturbeherrschung|die Naturbeherrschung}}	Die Ökodominanz führt zur Umweltkrise.	C1;Nomen;C1
+{{c1::die Anthropozän::die Menschenzeit/die geologische Epoche|die geologische Epoche}}	Die Anthropozän prägt die Erde menschengemacht.	C1;Nomen;C1
+{{c1::die Klimaerwärmung::die globale Erwärmung/die Erderwärmung|die Erderwärmung}}	Die Klimaerwärmung hat antropogene Ursachen.	C1;Nomen;C1
+{{c1::der Treibhauseffekt::die atmosphärische Erwärmung/die Wärme-Rückstrahlung|die Wärme-Rückstrahlung}}	Der Treibhauseffekt verstärkt die Erwärmung.	C1;Nomen;C1
+{{c1::die Kohlenstoffsenke::die CO2-Speicher/die Kohlenstoffbinder|die Kohlenstoffbinder}}	Die Kohlenstoffsenke regulieren das Klima.	C1;Nomen;C1
+{{c1::der Kipppunkt::dieSchwellenwert/die kritische Schwelle|die kritische Schwelle}}	Der Kipppunkt kann unwiderrufliche Veränderungen auslösen.	C1;Nomen;C1
+{{c1::die resiliente System::die widerstandsfähige Systeme/die anpassungsfähige Ökosysteme|die anpassungsfähige Ökosysteme}}	Die resiliente System können Störungen absorbieren.	C1;Nomen;C1
+{{c1::die Systemtheorie::die Komplexitätstheorie/die Ganxheitstheorie|die Ganxheitstheorie}}	Die Systemtheorie analysiert wechselwirkende Elemente.	C1;Nomen;C1
+{{c1::der Feedback-Schleife::die Rückkopplung/die Wirkungszyklus|die Wirkungszyklus}}	Der Feedback-Schleife verstärkt oder dämpft Veränderungen.	C1;Nomen;C1
+{{c1::die Nichtlinearität::die Proportionalitätslosigkeit/die nichtproportionale Beziehungen|die nichtproportionale Beziehungen}}	Die Nichtlinearität macht Vorhersagen schwierig.	C1;Nomen;C1
+{{c1::der emergente Eigenschaft::die neuartige Qualität/die nichtreduzierbare Merkmale|die nichtreduzierbare Merkmale}}	Der emergente Eigenschaft lässt sich nicht erklären.	C1;Nomen;C1
+{{c1::die bottom-up-Theorie::die grundlegende Entstehung/die Aufbau-Theorie|die Aufbau-Theorie}}	Die bottom-up-Theorie erklärt Komplexität von unten.	C1;Nomen;C1
+{{c1::die top-down-Theorie::die ganzheitliche Steuerung/die Abwärts-Kausalität|die Abwärts-Kausalität}}	Die top-down-Theorie reguliert von oben.	C1;Nomen;C1
+{{c1::der dynamische System::die zeitveränderliche Prozesse/die evolvierende Strukturen|die evolvierende Strukturen}}	Der dynamische System verändert sich kontinuierlich.	C1;Nomen;C1
+{{c1::der Attraktor::der Anziehungspunkt/der stabile Zustand|der stabile Zustand}}	Der Attraktor zieht das System an.	C1;Nomen;C1
+{{c1::derseltsame Attraktor::der chaotische Attraktor/die komplexe Bahn|die komplexe Bahn}}	Der seltsame Attraktor zeigt fraktale Struktur.	C1;Nomen;C1
+{{c1::die Bifurkation::die Gabelung/die Verzweigung|die Verzweigung}}	Die Bifurkation markiert qualitative Veränderungen.	C1;Nomen;C1
+{{c1::die Phasenübergang::die Zustandsänderung/die Aggregatzustandswechsel|die Aggregatzustandswechsel}}	Die Phasenübergang zeigt Ordnungs-Wechsel.	C1;Nomen;C1
+{{c1::die Symmetriebrechung::die Asymmetrieentstehung/die Ordnungsminderung|die Ordnungsminderung}}	Die Symmetriebrechung erzeugt Struktur.	C1;Nomen;C1
+{{c1::die Selbstorganisations::die autogenetische Prozesse/die spontane Musterbildung|die spontane Musterbildung}}	Die Selbstorganisations entsteht ohne externe Anweisung.	C1;Nomen;C1
+{{c1::die kritische Selbstorganisations::die/phasenübergangs-ähnliche Organisierung|die/phasenübergangs-ähnliche Organisierung}}	Die kritische Selbstorganisations zeigt Power-Laws.	C1;Nomen;C1
+{{c1::der Power-Law::die Potenzgesetz/die Skalierungsgesetz|die Skalierungsgesetz}}	Der Power-Law zeigt Skalenunabhängigkeit.	C1;Nomen;C1
+{{c1::die Selbstkritik::die Reflexion/die innerphilosophische Prüfung|die innerphilosophische Prüfung}}	Die Selbstkritik ist ein philosophisches Prinzip.	C1;Nomen;C1
+{{c1::die Methodenreflexion::die Erkenntnismethodenkritik/die methodologische Selbstprüfung|die methodologische Selbstprüfung}}	Die Methodenreflexion sichert wissenschaftliche Gültigkeit.	C1;Nomen;C1
+{{c1::die epistemische Demut::dieBescheidenheit/die Wissenbeschränkung|die Wissenbeschränkung}}	Die epistemische Demut anerkennt Erkenntnisgrenzen.	C1;Nomen;C1
+{{c1::die Wissensbescheidenheit::die epistemische Demut/die Erkenntnisbeschränkung|die Erkenntnisbeschränkung}}	Die Wissensbescheidenheit ist wissenschaftlich produktiv.	C1;Nomen;C1
+{{c1::der erkenntnistheoretische Skeptizismus::die Erkenntniszweifler/die fundamentale Skepsis|die fundamentale Skepsis}}	Der erkenntnistheoretische Skeptizismus bezweifelt Wissen.	C1;Nomen;C1
+{{c1::der methodische Zweifel::die systematische Skepsis/die cartesianische Unsicherheit|die cartesianische Unsicherheit}}	Der methodische Zweifel führt zu sicherem Wissen.	C1;Nomen;C1
+{{c1::dieEvidenz::die Gewissheit/die unmittelbare Erkenntnis|die unmittelbare Erkenntnis}}	Die Evidenz gilt als Erkenntnisquelle.	C1;Nomen;C1
+{{c1::die Intuition::die Wissensschau/die unmittelbare Einsicht|die unmittelbare Einsicht}}	Die Intuition liefert vorgängiges Verstehen.	C1;Nomen;C1
+{{c1::die Apriorität::die Unabhängigkeit von Erfahrung/dieVorbedingungslosigkeit|dieVorbedingungslosigkeit}}	Die Apriorität ist erfahrungsunabhängig.	C1;Nomen;C1
+{{c1::dieaposteriori::die Erfahrungsgebundenheit/die Nachbedingtheit|die Nachbedingtheit}}	Die aposteriori ist erfahrungsbasiert.	C1;Nomen;C1
+{{c1::derApriorismus::die angeborene Ideen/die platonische Erkenntnis|die platonische Erkenntnis}}	Der Apriorismus postuliert angeborene Ideen.	C1;Nomen;C1
+{{c1::der Empirismus::die Erfahrungsphilosophie/die Sinneserkenntnistheorie|die Sinneserkenntnistheorie}}	Der Empirismus betont die Erfahrung.	C1;Nomen;C1
+{{c1::der Rationalismus::die Vernunftphilosophie/die Denkphilosophie|die Denkphilosophie}}	Der Rationalismus betont die Vernunft.	C1;Nomen;C1
+{{c1::der Kritische Realismus::die gemäßigte Wirklichkeitsphilosophie/die erkenntniskritische Ontologie|die erkenntniskritische Ontologie}}	Der Kritische Realismus nimmt beschränkte Erkennbarkeit an.	C1;Nomen;C1
+{{c1::der metaphysische Realismus::die absolute Wirklichkeitsphilosophie/die unabhängige Existenztheorie|die unabhängige Existenztheorie}}	Der metaphysische Realismus postuliert eine vom Bewusstsein unabhängige Welt.	C1;Nomen;C1
+{{c1::der Idealismus::die Bewusstseinsphilosophie/die Geistmetaphysik|die Geistmetaphysik}}	Der Idealismus sieht die Wirklichkeit als geistdependent.	C1;Nomen;C1
+{{c1::der subjektive Idealismus::der Berkeleyanismus/die Wahrnehmungsontologie|die Wahrnehmungsontologie}}	Der subjektive Idealismus lehnt Außenwelt ab.	C1;Nomen:C1
+{{c1::der objektive Idealismus::der absolute Idealismus/die Hegelianische Philosophie|die Hegelianische Philosophie}}	Der objektive Idealismus sieht absoluten Geist.	C1;Nomen;C1
+{{c1::der absolute Idealismus::die Totalitätsphilosophie/die Hegelsche Philosophie|die Hegelsche Philosophie}}	Der absolute Idealismus构建 ein geschlossenes System.	C1;Nomen;C1
+{{c1::der existenzielle Strukturalismus::die Daseins Strukturanalyse/die Heideggerianische Hermeneutik|die Heideggerianische Hermeneutik}}	Der existenzielle Strukturalismus analysiert Seinsstrukturen.	C1;Nomen;C1
+{{c1::die Hermeneutik von Sinn::die Bedeutungsanalyse/die Interpretationstheorie|die Interpretationstheorie}}	Die Hermeneutik von Sinn erschließt Bedeutungen.	C1;Nomen;C1
+{{c1::der dekonstruktive Ansatz::die Derrida-Philosophie/die Bedeutungskritik|die Bedeutungskritik}}	Der dekonstruktive Ansatz entlarvt verborgene Hierarchien.	C1;Nomen;C1
+{{c1::die différance::die Bedeutungsaussetzung/die unendlische Aufschiebung|die unendlische Aufschiebung}}	Die différance zeigt die Unabschließbarkeit der Bedeutung.	C1;Nomen;C1
+{{c1::der Textualismus::die Textphilosophie/die Schrifthermeneutik|die Schrifthermeneutik}}	Der Textualismus betont die Textualität.	C1;Nomen;C1
+{{c1::die Semiosphäre::die Zeichensphäre/die Symbolumwelt|die Symbolumwelt}}	Die Semiosphäre umgibt uns als Zeichensystem.	C1;Nomen;C1
+{{c1::der Soziolekturnotwendiger Diskurs::der Macht-Wissen-Komplex/die Diskursformation|die Diskursformation}}	Der Soziolekturnotwendiger Diskurs formiert das Sagbare.	C1;Nomen;C1
+{{c1::die Diskursanalyse::die Aussagenanalyse/die Macht-Wissen-Forschung|die Macht-Wissen-Forschung}}	Die Diskursanalyse enthüllt versteckte Beziehungen.	C1;Nomen;C1
+{{c1::die Archäologie des Wissens::die Wissensgenealogie/die epistemische Tiefenstruktur|die epistemische Tiefenstruktur}}	Die Archäologie des Wissens untersucht Entstehungsbedingungen.	C1;Nomen;C1
+{{c1::die Gènealogie::die Wissensherkunft/die Entstehunganalyse|die Entstehunganalyse}}	Die Genealogie zeigt kontingente Machtstrukturen.	C1;Nomen;C1
+{{c1::der Biosicherheitsanspruch::die Lebensrechttheorie/die ökologische Gerechtigkeit|die ökologische Gerechtigkeit}}	Der Biosicherheitsanspruch erweitert den Gerechtigkeitsbegriff.	C1;Nomen;C1
+{{c1::die generationelle Gerechtigkeit::die intergenerationelle Verantwortung/die Zukunftsverpflichtung|die Zukunftsverpflichtung}}	Die generationelle Gerechtigkeit verpflichtet uns.	C1;Nomen;C1
+{{c1::die globale Gerechtigkeit::dieweltweite Fairness/die internationale Verteilungsgerechtigkeit|die internationale Verteilungsgerechtigkeit}}	Die globale Gerechtigkeit fordert internationale Solidarität.	C1;Nomen;C1
+{{c1::die Verteilungsgerechtigkeit::die distributive Gerechtigkeit/die Ressourcenallokation|die Ressourcenallokation}}	Die Verteilungsgerechtigkeit fragt nach der Verteilung.	C1;Nomen;C1
+{{c1::die Anerkennungstheorie::die Identitätsanerkennung/die soziale Wertschätzung|die soziale Wertschätzung}}	Die Anerkennungstheorie betont interpersonale Anerkennung.	C1;Nomen;C1
+{{c1::der Kampf um Anerkennung::der Identitätskonflikt/die soziale Kämpfe|die soziale Kämpfe}}	Der Kampf um Anerkennung ist zentral für Identität.	C1;Nomen;C1
+{{c1::die Intersubjektivität::die Zwischenmenschlichkeit/die interpersonale Beziehung|die interpersonale Beziehung}}	Die Intersubjektivität konstituiert das Soziale.	C1;Nomen;C1
+{{c1::das Zwischen Sein::die Mitsein/die Koexistenz|die Koexistnis}}	Das Zwischen Sein ist das gemeinsame Existieren.	C1;Nomen;C1
+{{c1::die Mitsein::die Zusammenexistenz/die intersubjektive Verbundenheit|die intersubjektive Verbundenheit}}	Die Mitsein charakterisiert das menschliche Dasein.	C1;Nomen;C1
+{{c1::die Sorge::die Fürsorge/die existenzielle Besorgtheit|die existenzielle Besorgtheit}}	Die Sorge ist ein Grundphänomen des Daseins.	C1;Nomen;C1
+{{c1::die Fürsorge::die Seinsorge/die Rücksichtnahme|die Rücksichtnahme}}	Die Fürsorge kann eigen- oder uneigentlich sein.	C1;Nomen;C1
+{{c1::die Eigenständigkeit::die Eigentlichkeit/die Authentizität|die Authentizität}}	Die Eigenständigkeit ermöglicht echtes Sein.	C1;Nomen;C1
+{{c1::die Uneigentlichkeit::die alltägliche Existenz/die inauthentische Seinsweise|die inauthentische Seinsweise}}	Die Uneigentlichkeit ist die verfallende Seinsweise.	C1;Nomen;C1
+{{c1::das Verfallen::die Verfallenheit/die Ruiniertheit|die Ruiniertheit}}	Das Verfallen ist die Flucht in das Man.	C1;Nomen;C1
+{{c1::die Geworfenheit::die Faktizität/die Kontingenz|die Kontingenz}}	Die Geworfenheit charakterisiert unsere Situation.	C1;Nomen;C1
+{{c1::die Existenzialität::die Seinsmöglichkeit/die Seinskraft|die Seinskraft}}	Die Existenzialität ermöglicht Selbstwahl.	C1;Nomen;C1
+{{c1::die Seinskraft::die Transzendenz/die Möglichkeit|die Möglichkeit}}	Die Seinskraft übersteigt die Faktizität.	C1;Nomen;C1
+{{c1::die Transzendenz::die Überschreitung/die Überstieg|die Überstieg}}	Die Transzendenz ermöglicht neues Sein.	C1;Nomen;C1
+{{c1::die Horizont::die Seinsgrenze/die Weltgrenze|die Weltgrenze}}	Die Horizont begrenzt und ermöglicht zugleich.	C1;Nomen;C1
+{{c1::die Stimmung::die Grundbefindlichkeit/die affektiveDisposition|die affektiveDisposition}}	Die Stimmung erschließt das Sein.	C1;Nomen;C1
+{{c1::die Angst::die Grundstimmung/die Fundamentalangst|die Fundamentalangst}}	Die Angst offenbart die Freiheit.	C1;Nomen;C1
+{{c1::die Langweile::die Seinsleere/die existenzielle Leere|die existenzielle Leere}}	Die Langweile zeigt die Leere des Seins.	C1;Nomen;C1
+{{c1::die Langeweile::die Seinsleere/die existenzielle Öde|die existenzielle Öde}}	Die Langeweile offenbart den Sinnnotstand.	C1;Nomen;C1
+{{c1::die Sprache als Haus::die Wohnung des Seins/der Sprachraum|der Sprachraum}}	Die Sprache als Haus bewohnt das Sein.	C1;Nomen;C1
+{{c1::der Haus des Seins::die Sprache/die Wohnstätte|die Wohnstätte}}	Der Haus des Seins ist die Sprache.	C1;Nomen;C1
+{{c1::die Lichtung::die Offenheit/die Seinslichtung|die Seinslichtung}}	Die Lichtung gewährt Sicht auf das Sein.	C1;Nomen;C1
+{{c1::die Entdeckung::die Offenbarung/die Seinsenthüllung|die Seinsenthüllung}}	Die Entdeckung lässt das Seiende erscheinen.	C1;Nomen;C1
+{{c1::die Verbergung::die Seinsverbergung/die Verstellung|die Verstellung}}	Die Verbergung verbirgt das Sein.	C1;Nomen:C1
+{{c1::der Streit von Erde und Welt::der kosmische Konflikt/die irdisch-himmlische Spannung|die irdisch-himmlische Spannung}}	Der Streit von Erde und Welt konstituiert die Geschichte.	C1;Nomen;C1
+{{c1::das Ereignis::das Geschehen/die Wahrheit|die Wahrheit}}	Das Ereignis lichtet die Wahrheit.	C1;Nomen;C1
+{{c1::der Zuspruch::die Ansprache/die Anrede|die Anrede}}	Der Zuspruch ruft das Sein an.	C1;Nomen;C1
+{{c1::die Versprechung::die Zusicherung/die Verheißung|die Verheißung}}	Die Versprechung verpflichtet.	C1;Nomen;C1
+{{c1::das Versagen::die Unmöglichkeit/die Nichterfüllung|die Nichterfüllung}}	Das Versagen enttäuscht den Zuspruch.	C1;Nomen;C1
+{{c1::die Erschlossenheit::die Zugänglichkeit/die Entdeckbarkeit|die Entdeckbarkeit}}	Die Ererschlossenheit erschließt Welt.	C1;Nomen;C1
+{{c1::die Erschließung::die Welterschließung/die Seinsoffenbarung|die Seinsoffenbarung}}	Die Erschließung konstituiert die Welt.	C1;Nomen;C1
+{{c1::die Weltlichkeit::die Weltstruktur/die Bedeutungsganzheit|die Bedeutungsganzheit}}	Die Weltlichkeit ist das Worin des Verstehens.	C1;Nomen;C1
+{{c1::die Bedeutsamkeit::die Relevanz/die Wichtigkeit|die Wichtigkeit}}	Die Bedeutsamkeit zeigt das Worum.	C1;Nomen;C1
+{{c1::die Worum-Willen::die Absicht/die Zielgerichtetheit|die Zielgerichtetheit}}	Die Worum-Willen ist das Gerichtetsein.	C1;Nomen;C1
+{{c1::das Wovor::die Furcht/die Bedrohung|die Bedrohung}}	Das Wovor ist die Ursache der Furcht.	C1;Nomen;C1
+{{c1::das Worum::die Furcht/die Bedrohung|die Bedrohung}}	Das Worum ist das Wovor der Furcht.	C1;Nomen;C1
+{{c1::die Furcht::die existenzielle Angst/die Seinsangst|die Seinsangst}}	Die Furcht fürchtet einzelne Seiende.	C1;Nomen;C1
+{{c1::die Angstlosigkeit::die Seinsangst/die Grundangst|die Grundangst}}	DieAngstlosigkeit ist die Grundstimmung.	C1;Nomen;C1
+{{c1::die Zerstreuung::die Ablenkung/die Zersplitterung|die Zersplitterung}}	Die Zerstreuung verdeckt das Sein.	C1;Nomen;C1
+{{c1::die Neugier::die Wißbegierde/die Erkenntnisgier|die Erkenntnisgier}}	Die Neugier treibt Erkenntnis an.	C1;Nomen;C1
+{{c1::die Leidenschaft::die Affektivität/die Gefühlsintensität|die Gefühlsintensität}}	Die Leidenschaft motiviert das Fragen.	C1;Nomen;C1
+{{c1::die Wissenschaft::die positive Erkenntnis/die Forschung|die Forschung}}	Die Wissenschaft betreibt positive Erkenntnis.	C1;Nomen;C1
+{{c1::die Philosophie::die Grundwissenschaft/die Weisheitsliebe|die Weisheitsliebe}}	Die Philosophie denkt das Fragwürdige.	C1;Nomen;C1
+{{c1::die Theologie::die Glaubenswissenschaft/die Offenbarungsforschung|die Offenbarungsforschung}}	Die Theologie reflektiert den Glauben.	C1;Nomen;C1
+{{c1::die Glaube::die fiducia/die fides|die fides}}	Der Glaube vertraut auf etwas.	C1;Nomen;C1
+{{c1::die fides::der Glaubensakt/die vertrauensvolle Annahme|die vertrauensvolle Annahme}}	Die fides quaerens intellectum sucht Verstehen.	C1;Nomen;C1
+{{c1::die fides quaerens intellectum::der suchende Glaube/die verstehende fides|die verstehende fides}}	Die fides quaerens intellectum betreibt Theologie.	C1;Nomen;C1
+{{c1::die natürliche Theologie::die Vernunfttheologie/die philosophische Theologie|die philosophische Theologie}}	Die natürliche Theologie kommt ohne Offenbarung aus.	C1;Nomen;C1
+{{c1::die geoffenbarte Religion::die positive Religion/die historische Offenbarung|die historische Offenbarung}}	Die geoffenbarte Religion basiert auf Offenbarung.	C1;Nomen;C1
+{{c1::der Offenbarungsglaube::der fides contents::der fides contents|der fides contents}}	Der Offenbarungsglaube akzeptiert geoffenbarte Sätze.	C1;Nomen;C1
+{{c1::die Glaubens::die fiducia/die Vertrauen|die Vertrauen}}	Der Glaubens verbindet uns mit dem Göttlichen.	C1;Nomen;C1
+{{c1::die mystische Erfahrung::die kontemplative Erfahrung/die transformatorische Erfahrung|die transformatorische Erfahrung}}	Die mystische Erfahrung transformiert.	C1;Nomen;C1
+{{c1::die Kontemplation::die Versenkung/die meditatives Schauen|die meditatives Schauen}}	Die Kontemplation öffnet für das Transzendente.	C1;Nomen;C1
+{{c1::die Spiritualität::die Innerlichkeit/die Frömmigkeit|die Frömmigkeit}}	Die Spiritualität prägt das religiöse Leben.	C1;Nomen;C1
+{{c1::die Frömmigkeit::die Pietät/die fromme Gesinnung|die fromme Gesinnung}}	Die Frömmigkeit zeigt sich im Handeln.	C1;Nomen;C1
+{{c1::die Devotion::die Andacht/die Hingabe|die Hingabe}}	Die Devotion ist die fromme Hingabe.	C1;Nomen;C1
+{{c1::die Pietät::die Ehrfurcht/die heilige Scheu|die heilige Scheu}}	Die Pietät respektiert das Heilige.	C1;Nomen;C1
+{{c1::die Sakralität::die Heiligkeit/die geweihte Qualität|die geweihte Qualität}}	Die Sakralität unterscheidet Heiliges.	C1;Nomen;C1
+{{c1::die Profanität::die Weltlichkeit/die Ungeweihtheit|die Ungeweihtheit}}	Die Profanität ist das Alltägliche.	C1;Nomen;C1
+{{c1::die Transzendenz::die Jenseitigkeit/die Überschreitung|die Überschreitung}}	Die Transzendenz zeigt das Jenseits.	C1;Nomen;C1
+{{c1::die Immanenz::die Diesseitigkeit/die Innerweltlichkeit|die Innerweltlichkeit}}	Die Immanenz bleibt in der Welt.	C1;Nomen;C1
+{{c1::der Nichts::die ontologische Leere/die Abwesenheit|die Abwesenheit}}	Der Nichts ist die ontologische Leere.	C1;Nomen;C1
+{{c1::das Nichts::die ontologische Leere/die Seinsleere|die Seinsleere}}	Das Nichts ermöglicht erst Sein.	C1;Nomen;C1
+{{c1::das Seid::die ontologische Grund/die Seinskraft|die Seinskraft}}	Das Seid ist die ontologische Grundkraft.	C1;Nomen;C1
+{{c1::die Seinsvergessenheit::die Seinsvergessenheit/die Seinsverlust|die Seinsverlust}}	Die Seinsvergessenheit ist das metaphysische Übel.	C1;Nomen;C1
+{{c1::der Seinshorizont::die ontologische Grenze/die Seinsmöglichkeit|die Seinsmöglichkeit}}	Der Seinshorizont ermöglicht Seendes.	C1;Nomen;C1
+{{c1::der Seinsunterschied::der ontologische Unterschied/die Seinsdifferenz|die Seinsdifferenz}}	Der Seinsunterschied unterscheidet Sein und Seiendes.	C1;Nomen;C1
+{{c1::der ontologische Differenz::der Seinsunterschied/die Sein und Seiende|die Sein und Seiende}}	Die ontologische Differenz ist fundamental.	C1;Nomen;C1
+{{c1::das seiende::das Ontische/die ontische Gegebenheit|die ontische Gegebenheit}}	Das seiende ist das, was ist.	C1;Nomen;C1
+{{c1::das Sein::das Ontische/die ontische Grund|die ontische Grund}}	Das Sein ist das Grundlegende schlechthin.	C1;Nomen;C1
+{{c1::die ontologische Differenz::der Sein/Seiendes-Unterschied/die Seinsartikulation|die Seinsartikulation}}	Die ontologische Differenz unterscheidet Sein und Seiendes.	C1;Nomen;C1
+{{c1::das ontologische Argument::derSeinsbeweis/die Existenzbeweisführung|die Existenzbeweisführung}}	Das ontologische Argument beweist Gott.	C1;Nomen;C1
+{{c1::der kosmologische Argument::der Ursprungsbeweis/die Welterklärungs|die Welterklärungs}}	Der kosmologische Argument erklärt die Welt.	C1;Nomen;C1
+{{c1::der teleologische Beweis::der Zweckursachenbeweis/die Zweckmäßigkeitsbeweisführung|die Zweckmäßigkeitsbeweisführung}}	Der teleologische Beweis zeigt Design.	C1;Nomen;C1
+{{c1::der moralische Argument::der Sittlichkeitsbeweis/die Pflichtbeweisführung|die Pflichtbeweisführung}}	Der moralische Argument argumentiert aus der Moral.	C1;Nomen;C1
+{{c1::der Pascal'sche Wette::der Glaubenswette/die Rationalitätswette|die Rationalitätswette}}	Der Pascal'sche Wette empfiehlt Glaube.	C1;Nomen;C1
+{{c1::das Fideistische Argument::der Glaubensonly-Standpunkt/die anti-rationale Haltung|die anti-rationale Haltung}}	Das Fideistische Argument lehnt Vernunft ab.	C1;Nomen;C1
+{{c1::der Glaubenssprung::der teleologische Sprung/die christliche Entscheidung|die christliche Entscheidung}}	Der Glaubenssprung überwindet Zweifel.	C1;Nomen;C1
+{{c1::die via negativa::der negativer Weg/die apophatische Theologie|die apophatische Theologie}}	Die via negativa beschreibt Gott negativ.	C1;Nomen;C1
+{{c1::die Apophatismus::die negative Theologie/die via negativa|die via negativa}}	Der Apophatismus sagt, was Gott nicht ist.	C1;Nomen;C1
+{{c1::die mystische Theologie::die kontemplative Theologie/die verborgene Theologie|die verborgene Theologie}}	Die mystische Theologie zielt auf Vereinigung.	C1;Nomen;C1
+{{c1::dieNegative Theologie::die Apophatik/dievianegativa|dievianegativa}}	DieNegativeTheologie beschreibt Gott durch Verneinung.	C1;Nomen;C1
+{{c1::die Analogie::die Ähnlichkeitsrede/die analoge Aussage|die analoge Aussage}}	Die Analogie erlaubt Aussagen über Gott.	C1;Nomen;C1
+{{c1::der Analogus::das Analoge/die analoge Verwendung|die analoge Verwendung}}	Der Analogus ermöglicht religiöse Sprache.	C1;Nomen;C1
+{{c1::die Symbolsprache::die heilige Sprache/die rituelle Sprache|die rituelle Sprache}}	Die Symbolsprache drückt das Höhere aus.	C1;Nomen;C1
+{{c1::die Sakrament::die HEILIGE Handlung/die Gnadenmittel|die Gnadenmittel}}	Die Sakrament übermitteln Gnade.	C1;Nomen;C1
+{{c1::die Gnade::die ungeschuldete Hilfe/die übernatürliche Hilfe|die übernatürliche Hilfe}}	Die Gnade ist unverdient und frei.	C1;Nomen;C1
+{{c1::die Erlösung::die Befreiung/die Soteria|die Soteria}}	Die Erlösung befreit von Schuld.	C1;Nomen;C1
+{{c1::die Rechtfertigung::die Gerechtsprechung/die Billigung|die Billigung}}	Die Rechtfertigung macht gerecht.	C1;Nomen;C1
+{{c1::die Heiligung::die Heiligwerdung/die Vergöttlichung|die Vergöttlichung}}	Die Heiligung transformiert den Menschen.	C1;Nomen;C1
+{{c1::die Vergöttlichung::die Theosis/die Gotteinigung|die Gotteinigung}}	Die Vergöttlichung macht den Menschen gottähnlich.	C1;Nomen;C1
+{{c1::die Theosis::die Vergöttlichung/die Gotteinigung|die Gotteinigung}}	Die Theosis ist das orthodoxe Ziel.	C1;Nomen;C1
+{{c1::die Apokatastasis::die Allversöhnung/die universale Erlösung|die universale Erlösung}}	Die Apokatastasis hofft auf Allversöhnung.	C1;Nomen;C1
+{{c1::die Prädestinations::die Vorherbestimmung/die electio|die electio}}	Die Prädestinations bestimmt das Heil.	C1;Nomen;C1
+{{c1::die Prädestination::die Erwählung/die Vorherbestimmung|die Vorherbestimmung}}	Die Prädestination wählt einige aus.	C1;Nomen;C1
+{{c1::der elect::die Auserwählte/die Prädestinierte|die Prädestinierte}}	Der elect ist von Gott erwählt.	C1;Nomen;C1
+{{c1::die Gnadenwahl::die auserwählte Liebe/die particulare Vorherbestimmung|die particulare Vorherbestimmung}}	Die Gnadenwahl währt allein.	C1;Nomen;C1
+{{c1::die Unwiderstehliche Gnade::die effektive Gnade/die unwiderstehliche Hilfe|die unwiderstehliche Hilfe}}	Die Unwiderstehliche Gnade zieht alle an.	C1;Nomen;C1
+{{c1::der Particularismus::die Partikulargnade/die begrenzte Erwählung|die begrenzte Erwählung}}	Der Particularismus sieht begrenzte Erlösung.	C1;Nomen;C1
+{{c1::der Universalismus::die Allversöhnungslehre/die universale Erlösung|die universale Erlösung}}	Der Universalismus hofft auf Alle.	C1;Nomen;C1
+{{c1::die Exklusivism::die Alleinausschließlichkeit/die EXKLUSIVITÄT|die EXKLUSIVITÄT}}	Der Exklusivism sieht nur einen Weg.	C1;Nomen;C1
+{{c1::der Inklusivismus::die Inklusivität/die mitumfassende Christologie|die mitumfassende Christologie}}	Der Inklusivismus schließt andere ein.	C1;Nomen;C1
+{{c1::der Pluralismus::die Vielfaltslehre/die多元文化Christologie|die多元文化Christologie}}	Der Pluralismus respektiert viele Wege.	C1;Nomen;C1
+{{c1::die Christokratic::die Christusherrschaft/die THEOKRATIE|die THEOKRATIE}}	Die Christokratic ist Herrschaft im Namen Christi.	C1;Nomen;C1
+{{c1::die THEOKRATIE::die Gottherrschaft/die Priesterherrschaft|die Priesterherrschaft}}	Die THEOKRATIE herrscht durch Gott.	C1;Nomen;C1
+{{c1::der Theo-:die Verbindung von Gott/die Kreuztheologie|die Kreuztheologie}}	Der Theo-kratie steht Gott über alles.	C1;Nomen;C1

@@ -1,0 +1,353 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::B2
+{{c1::die Unternehmensstrategie::die Geschäftsstrategie/die Firmenstrategie|die Firmenstrategie}}	Die Unternehmensstrategie ist entscheidend.	B2;Nomen;B2
+{{c1::die Geschäftsstrategie::die Unternehmensstrategie/die Markenstrategie|die Markenstrategie}}	Die Geschäftsstrategie muss klar sein.	B2;Nomen;B2
+{{c1::die Markenstrategie::die Brandstrategie/die Unternehmensstrategie|die Unternehmensstrategie}}	Die Markenstrategie ist definiert.	B2;Nomen;B2
+{{c1::die Marktforschung::die Marktuntersuchung/die Marktanalyse|die Marktanalyse}}	Die Marktforschung liefert Daten.	B2;Nomen;B2
+{{c1::die Wettbewerbsanalyse::die Konkurrenzanalyse/die competitive analysis|die competitive analysis}}	Die Wettbewerbsanalyse ist abgeschlossen.	B2;Nomen;B2
+{{c1::die Konkurrenzanalyse::die Wettbewerbsanalyse/die Mitbewerberanalyse|die Mitbewerberanalyse}}	Die Konkurrenzanalyse zeigt Chancen.	B2;Nomen;B2
+{{c1::die Zielgruppenanalyse::die Zielgruppenbestimmung/die Zielgruppe|die Zielgruppe}}	Die Zielgruppenanalyse ist wichtig.	B2;Nomen;B2
+{{c1::die Marktsättigung::die Marktsättigung/der Markt|der Markt}}	Die Marktsättigung ist erreicht.	B2;Nomen;B2
+{{c1::die Markteintrittsbarriere::das Markteintrittshindernis/der Markteinstieg|der Markteinstieg}}	Die Markteintrittsbarriere ist hoch.	B2;Nomen;B2
+{{c1::das Marktsegment::die Marktnische/die Kundengruppe|die Kundengruppe}}	Das Marktsegment ist definiert.	B2;Nomen;B2
+{{c1::die Marktnische::die Nische/der Marktnischen|der Marktnischen}}	Die Marktnische ist gefunden.	B2;Nomen;B2
+{{c1::der Marktanteil::der Marktanteil/der Anteil|der Anteil}}	Der Marktanteil wächst.	B2;Nomen;B2
+{{c1::die Marktdurchdringung::die Markterschließung/der Markteinstieg|der Markteinstieg}}	Die Marktdurchdringung ist das Ziel.	B2;Nomen;B2
+{{c1::die Produktdifferenzierung::die Produktunterscheidung/die Produktvariation|die Produktvariation}}	Die Produktdifferenzierung schafft Vorteile.	B2;Nomen;B2
+{{c1::die Preisdifferenzierung::die Preisstaffelung/die Preisunterscheidung|die Preisunterscheidung}}	Die Preisdifferenzierung ist üblich.	B2;Nomen;B2
+{{c1::die Preisstrategie::die Preispolitik/die Preisfestlegung|die Preisfestlegung}}	Die Preisstrategie ist festgelegt.	B2;Nomen;B2
+{{c1::die Preispolitik::die Preisstrategie/die Preisfestlegung|die Preisfestlegung}}	Die Preispolitik ist flexibel.	B2;Nomen;B2
+{{c1::die Werbestrategie::die Werbekampagne/die Werbemaßnahme|die Werbemaßnahme}}	Die Werbestrategie ist definiert.	B2;Nomen;B2
+{{c1::die Werbekampagne::die Werbeaktion/die Kampagne|die Kampagne}}	Die Werbekampagne läuft.	B2;Nomen;B2
+{{c1::die Medienstrategie::die Kommunikationsstrategie/die Mediplan|die Mediplan}}	Die Medienstrategie ist koordiniert.	B2;Nomen;B2
+{{c1::die Vertriebsstrategie::die Absatzstrategie/die Vertriebspolitik|die Vertriebspolitik}}	Die Vertriebsstrategie ist optimiert.	B2;Nomen;B2
+{{c1::die Absatzstrategie::die Vertriebsstrategie/die Verkaufsstrategie|die Verkaufsstrategie}}	Die Absatzstrategie funktioniert.	B2;Nomen;B2
+{{c1::die Expansionsstrategie::die Wachstumsstrategie/die Expansionspolitik|die Expansionspolitik}}	Die Expansionsstrategie ist definiert.	B2;Nomen;B2
+{{c1::die Diversifikationsstrategie::die Diversifizierung/die Ausweitung|die Ausweitung}}	Die Diversifikationsstrategie wird geprüft.	B2;Nomen;B2
+{{c1::die Internationalisierungsstrategie::die Globalisierungsstrategie/die Auslandsstrategie|die Auslandsstrategie}}	Die Internationalisierungsstrategie ist komplex.	B2;Nomen;B2
+{{c1::die Globalisierungsstrategie::die Internationalisierungsstrategie/die weltweite Strategie|die weltweite Strategie}}	Die Globalisierungsstrategie erfordert Ressourcen.	B2;Nomen;B2
+{{c1::die Lokalisierungsstrategie::die Anpassungsstrategie/die Regionalisierungsstrategie|die Regionalisierungsstrategie}}	Die Lokalisierungsstrategie ist wichtig.	B2;Nomen;B2
+{{c1::die Innovationsstrategie::die Erneuerungsstrategie/die Entwicklungsstrategie|die Entwicklungsstrategie}}	Die Innovationsstrategie ist zukunftsorientiert.	B2;Nomen;B2
+{{c1::die Nachhaltigkeitsstrategie::die SDG-Strategie/die Zukunftsstrategie|die Zukunftsstrategie}}	Die Nachhaltigkeitsstrategie ist verabschiedet.	B2;Nomen;B2
+{{c1::die Digitalisierungsstrategie::die Digitalisierungsstrategie/die Technologiestrategie|die Technologiestrategie}}	Die Digitalisierungsstrategie wird umgesetzt.	B2;Nomen;B2
+{{c1::die Kundengewinnung::die Akquise/die Neukundengewinnung|die Neukundengewinnung}}	Die Kundengewinnung ist teuer.	B2;Nomen;B2
+{{c1::die Kundenbindung::die Kundenloyalität/die Bestandskundenpflege|die Bestandskundenpflege}}	Die Kundenbindung ist wichtig.	B2;Nomen;B2
+{{c1::die Kundenloyalität::die Kundenbindung/die Treue|die Treue}}	Die Kundenloyalität ist messbar.	B2;Nomen;B2
+{{c1::die Kundenzufriedenheit::die Zufriedenheit/die反馈|die反馈}}	Die Kundenzufriedenheit ist hoch.	B2;Nomen;B2
+{{c1::die Kundenbetreuung::der Kundenservice/die Kundenunterstützung|die Kundenunterstützung}}	Die Kundenbetreuung ist 24/7.	B2;Nomen;B2
+{{c1::der Customer Lifetime Value::der Kundenwert/der CLV|der CLV}}	Der Customer Lifetime Value ist entscheidend.	B2;Nomen;B2
+{{c1::der CLV::der Kundenwert/der Customer Lifetime Value|der Customer Lifetime Value}}	Der CLV wird berechnet.	B2;Nomen;B2
+{{c1::die Churn Rate::die Abwanderungsquote/die Kundenfluktuation|die Kundenfluktuation}}	Die Churn Rate muss gesenkt werden.	B2;Nomen;B2
+{{c1::die Abwanderungsquote::die Churn Rate/die Fluktuationsrate|die Fluktuationsrate}}	Die Abwanderungsquote ist gestiegen.	B2;Nomen;B2
+{{c1::der Net Promoter Score::der NPS/die Weiterempfehlungsrate|die Weiterempfehlungsrate}}	Der NPS ist hoch.	B2;Nomen;B2
+{{c1::der NPS::der Net Promoter Score/die Weiterempfehlungsrate|die Weiterempfehlungsrate}}	Der NPS wird gemessen.	B2;Nomen;B2
+{{c1::die Return on Investment::der ROI/die Kapitalrendite|die Kapitalrendite}}	Die Return on Investment ist positiv.	B2;Nomen;B2
+{{c1::der ROI::der Return on Investment/die Rendite|die Rendite}}	Der ROI ist überdurchschnittlich.	B2;Nomen;B2
+{{c1::die Eigenkapitalrendite::die ROE/die Eigenkapitalrendite|die Eigenkapitalrendite}}	Die Eigenkapitalrendite ist gut.	B2;Nomen;B2
+{{c1::der ROE::die Eigenkapitalrendite/die Rendite|die Rendite}}	Der ROE ist stabil.	B2;Nomen;B2
+{{c1::die Umsatzrendite::der ROS/die Profitmarge|die Profitmarge}}	Die Umsatzrendite ist gestiegen.	B2;Nomen;B2
+{{c1::der ROS::die Umsatzrendite/die Marge|die Marge}}	Der ROS ist positiv.	B2;Nomen;B2
+{{c1::die Gewinnmarge::die Profitmarge/die Umsatzrendite|die Umsatzrendite}}	Die Gewinnmarge ist stabil.	B2;Nomen;B2
+{{c1::die Kapitalrendite::die ROI/die Rendite|die Rendite}}	Die Kapitalrendite ist attraktiv.	B2;Nomen;B2
+{{c1::der EBIT::der Gewinn vor Steuern/der Operating Profit|der Operating Profit}}	Der EBIT ist gestiegen.	B2;Nomen;B2
+{{c1::der EBITDA::der Gewinn vor Abschreibungen/der Cashflow|der Cashflow}}	Der EBITDA zeigt die Leistungsfähigkeit.	B2;Nomen;B2
+{{c1::das EBT::der Gewinn vor Steuern/der Vorsteuergewinn|der Vorsteuergewinn}}	Das EBT ist die Basis.	B2;Nomen;B2
+{{c1::das EPS::der Gewinn pro Aktie/der Earnings Per Share|der Earnings Per Share}}	Das EPS wird veröffentlicht.	B2;Nomen;B2
+{{c1::der Earnings Per Share::der Gewinn pro Aktie/das EPS|das EPS}}	Der Earnings Per Share wächst.	B2;Nomen;B2
+{{c1::der Cashflow::der Geldüberschuss/der operativen Cashflow|der operativen Cashflow}}	Der Cashflow ist positiv.	B2;Nomen;B2
+{{c1::der Free Cashflow::der freie Cashflow/der FCF|der FCF}}	Der Free Cashflow ist entscheidend.	B2;Nomen;B2
+{{c1::der FCF::der Free Cashflow/der freie Cashflow|der freie Cashflow}}	Der FCF wird analysiert.	B2;Nomen;B2
+{{c1::die Investitionsrendite::die Kapitalverzinsung/die Anlagenrendite|die Anlagenrendite}}	Die Investitionsrendite ist attraktiv.	B2;Nomen;B2
+{{c1::der Kapitalumschlag::die Kapitalumschlagshäufigkeit/der Asset Turnover|der Asset Turnover}}	Der Kapitalumschlag ist wichtig.	B2;Nomen;B2
+{{c1::der Asset Turnover::der Kapitalumschlag/die Vermögensumschlag|die Vermögensumschlag}}	Der Asset Turnover misst die Effizienz.	B2;Nomen;B2
+{{c1::die Verschuldung::die Schulden/die Fremdkapitalquote|die Fremdkapitalquote}}	Die Verschuldung ist moderat.	B2;Nomen;B2
+{{c1::die Fremdkapitalquote::die Verschuldungsquote/die Schuldenquote|die Schuldenquote}}	Die Fremdkapitalquote ist stabil.	B2;Nomen;B2
+{{c1::die Eigenkapitalquote::die EK-Quote/die Eigenkapitalrelation|die Eigenkapitalrelation}}	Die Eigenkapitalquote ist hoch.	B2;Nomen;B2
+{{c1::der Leverage::die Verschuldung/die Hebelwirkung|die Hebelwirkung}}	Der Leverage verstärkt die Rendite.	B2;Nomen;B2
+{{c1::die Bonität::die Kreditwürdigkeit/die Zahlungsfähigkeit|die Zahlungsfähigkeit}}	Die Bonität ist ausgezeichnet.	B2;Nomen;B2
+{{c1::die Kreditwürdigkeit::die Bonität/die Zahlungsfähigkeit|die Zahlungsfähigkeit}}	Die Kreditwürdigkeit ist geprüft.	B2;Nomen;B2
+{{c1::das Rating::die Bewertung/der Bonitätsindex|der Bonitätsindex}}	Das Rating ist upgrade worden.	B2;Nomen;B2
+{{c1::der Credit Default Swap::der CDS/die Kreditausfallversicherung|die Kreditausfallversicherung}}	Der Credit Default Swap ist teuer.	B2;Nomen;B2
+{{c1::der CDS::der Credit Default Swap/die Ausfallversicherung|die Ausfallversicherung}}	Der CDS zeigt das Risiko.	B2;Nomen;B2
+{{c1::die Volatilität::die Schwankungsbreite/der Risk Index|der Risk Index}}	Die Volatilität ist gesunken.	B2;Nomen;B2
+{{c1::der Beta-Faktor::der Beta Koeffizient/dieMarkt sensitive|dieMarkt sensitive}}	Der Beta-Faktor misst das Risiko.	B2;Nomen;B2
+{{c1::das Alpha::die Überrendite/die Wertschöpfung|die Wertschöpfung}}	Das Alpha ist positiv.	B2;Nomen;B2
+{{c1::das Sharpe Ratio::die risikobereinigte Rendite/der Sharpe Index|der Sharpe Index}}	Das Sharpe Ratio ist gut.	B2;Nomen;B2
+{{c1::der Value at Risk::der Risikowert/der VaR|der VaR}}	Der Value at Risk wird berechnet.	B2;Nomen;B2
+{{c1::der VaR::der Value at Risk/das Risikomaß|das Risikomaß}}	Der VaR ist akzeptabel.	B2;Nomen;B2
+{{c1::die Liquidität::die Zahlungsfähigkeit/die Bargeld verfügbarkeit|die Bargeld verfügbarkeit}}	Die Liquidität ist gesichert.	B2;Nomen;B2
+{{c1::die Zahlungsfähigkeit::die Liquidität/die Solvenz|die Solvenz}}	Die Zahlungsfähigkeit ist gegeben.	B2;Nomen;B2
+{{c1::die Solvenz::die Zahlungsfähigkeit/die Liquidität|die Liquidität}}	Die Solvenz ist geprüft.	B2;Nomen;B2
+{{c1::die Insolvenz::die Zahlungsunfähigkeit/der Bankrott|der Bankrott}}	Die Insolvenz ist abgewendet.	B2;Nomen;B2
+{{c1::der Konkurs::die Insolvenz/der Bankrott|der Bankrott}}	Der Konkurs ist verhindert.	B2;Nomen;B2
+{{c1::die Bilanzsumme::die Gesamtvermögen/der Total Assets|der Total Assets}}	Die Bilanzsumme ist gestiegen.	B2;Nomen;B2
+{{c1::die Jahresbilanz::der Jahresabschluss/der Annual Report|der Annual Report}}	Die Jahresbilanz ist veröffentlicht.	B2;Nomen;B2
+{{c1::der Jahresabschluss::die Jahresbilanz/der Annual Report|der Annual Report}}	Der Jahresabschluss ist geprüft.	B2;Nomen;B2
+{{c1::der Gewinn- und Verlustvortrag::die GuV/der Profit and Loss|der Profit and Loss}}	Der Gewinn- und Verlustvortrag zeigt die Entwicklung.	B2;Nomen;B2
+{{c1::die GuV::die Gewinn- und Verlustrechnung/die P&L|die P&L}}	Die GuV ist positiv.	B2;Nomen;B2
+{{c1::die Kapitalflussrechnung::der Cashflow Statement/der Geldfluss|der Geldfluss}}	Die Kapitalflussrechnung ist erstellt.	B2;Nomen;B2
+{{c1::der Cashflow Statement::die Kapitalflussrechnung/die Geldflussrechnung|die Geldflussrechnung}}	Der Cashflow Statement zeigt die Zahlungsfähigkeit.	B2;Nomen;B2
+{{c1::der Lagebericht::der Management Report/der Geschäftsbericht|der Geschäftsbericht}}	Der Lagebericht ist umfassend.	B2;Nomen;B2
+{{c1::der Geschäftsbericht::der Annual Report/der Lagebericht|der Lagebericht}}	Der Geschäftsbericht ist veröffentlicht.	B2;Nomen;B2
+{{c1::der Anhang::die Erläuterungen/die Zusatzinformationen|die Zusatzinformationen}}	Der Anhang enthält wichtige Details.	B2;Nomen;B2
+{{c1::die Bewertung::die Einschätzung/die Beurteilung|die Beurteilung}}	Die Bewertung ist positiv ausgefallen.	B2;Nomen;B2
+{{c1::der Goodwill::der Geschäftswert/der Unternehmenswert|der Unternehmenswert}}	Der Goodwill ist bilanziert.	B2;Nomen;B2
+{{c1::der immaterielle Vermögenswert::der Goodwill/die immateriellen Werte|die immateriellen Werte}}	Der immaterielle Vermögenswert ist aktiviert.	B2;Nomen;B2
+{{c1::die Abschreibung::die Amortisation/die Wertminderung|die Wertminderung}}	Die Abschreibung mindert den Gewinn.	B2;Nomen;B2
+{{c1::die Amortisation::die Tilgung/die Abschreibung|die Abschreibung}}	Die Amortisation läuft planmäßig.	B2;Nomen;B2
+{{c1::die Rückstellung::die Reserve/die Vorsorge|die Vorsorge}}	Die Rückstellung ist gebildet.	B2;Nomen;B2
+{{c1::die Reserve::die Rückstellung/die Rücklage|die Rücklage}}	Die Reserve ist ausreichend.	B2;Nomen;B2
+{{c1::die Rücklage::die Reserve/die Gewinnrücklage|die Gewinnrücklage}}	Die Rücklage ist erhöht.	B2;Nomen;B2
+{{c1::die Gewinnrücklage::die Rücklage/die einbehaltene Gewinne|die einbehaltene Gewinne}}	Die Gewinnrücklage wird reinvestiert.	B2;Nomen;B2
+{{c1::die Kapitalerhöhung::die Kapitalaufstockung/die Aktien emission|die Aktien emission}}	Die Kapitalerhöhung ist beschlossen.	B2;Nomen;B2
+{{c1::die Aktienemission::die Kapitalerhöhung/die Neuemission|die Neuemission}}	Die Aktienemission ist erfolgreich.	B2;Nomen;B2
+{{c1::der Börsengang::das IPO/der Going Public|der Going Public}}	Der Börsengang ist geplant.	B2;Nomen;B2
+{{c1::das IPO::der Börsengang/der Going Public|der Going Public}}	Das IPO findet nächste Woche statt.	B2;Nomen;B2
+{{c1::die Due Diligence::die Prüfung/die Sorgfaltsprüfung|die Sorgfaltsprüfung}}	Die Due Diligence ist abgeschlossen.	B2;Nomen;B2
+{{c1::die Sorgfaltsprüfung::die Due Diligence/die Investigation|die Investigation}}	Die Sorgfaltsprüfung zeigt keine Risiken.	B2;Nomen;B2
+{{c1::der Übernahmeversuch::das Übernahmeangebot/der Takeover|der Takeover}}	Der Übernahmeversuch ist gescheitert.	B2;Nomen;B2
+{{c1::der Takeover::die Übernahme/das Übernahmeangebot|das Übernahmeangebot}}	Der Takeover ist geprüft.	B2;Nomen;B2
+{{c1::die feindliche Übernahme::die Hostile Takeover/die unfreundliche Übernahme|die unfreundliche Übernahme}}	Die feindliche Übernahme ist abgewendet.	B2;Nomen;B2
+{{c1::der Merger::die Fusion/die Zusammenlegung|die Zusammenlegung}}	Der Merger schafft Synergien.	B2;Nomen;B2
+{{c1::die Fusion::der Merger/die Zusammenführung|die Zusammenführung}}	Die Fusion ist genehmigt.	B2;Nomen;B2
+{{c1::die Akquisition::die Übernahme/die Erwerbung|die Erwerbung}}	Die Akquisition ist abgeschlossen.	B2;Nomen;B2
+{{c1::die Desinvestition::der Verkauf/die Veräußerung|die Veräußerung}}	Die Desinvestition bringt Cash.	B2;Nomen;B2
+{{c1::der Spin-off::die Ausgliederung/die Abspaltung|die Abspaltung}}	Der Spin-off ist geplant.	B2;Nomen;B2
+{{c1::die Ausgliederung::der Spin-off/die Abspaltung|die Abspaltung}}	Die Ausgliederung schafft Werte.	B2;Nomen;B2
+{{c1::die Restrukturierung::die Umstrukturierung/die Neuorganisation|die Neuorganisation}}	Die Restrukturierung ist notwendig.	B2;Nomen;B2
+{{c1::die Sanierung::die Gesundung/die Wiederherstellung|die Wiederherstellung}}	Die Sanierung ist abgeschlossen.	B2;Nomen;B2
+{{c1::der Turnaround::die Wendung/die Kursänderung|die Kursänderung}}	Der Turnaround ist gelungen.	B2;Nomen;B2
+{{c1::die strategische Neuausrichtung::die Neupositionierung/die strategische Ausrichtung|die strategische Ausrichtung}}	Die strategische Neuausrichtung ist beschlossen.	B2;Nomen;B2
+{{c1::die Neupositionierung::die strategische Neuausrichtung/die Repositionierung|die Repositionierung}}	Die Neupositionierung ist erfolgreich.	B2;Nomen;B2
+{{c1::die Repositionierung::die Neupositionierung/die strategische Neuausrichtung|die strategische Neuausrichtung}}	Die Repositionierung bringt Wachstum.	B2;Nomen;B2
+{{c1::die Geschäftsfelderweiterung::die Diversifizierung/die Ausweitung|die Ausweitung}}	Die Geschäftsfelderweiterung ist geplant.	B2;Nomen;B2
+{{c1::die Diversifizierung::die Geschäftsfelderweiterung/die Aufsplittung|die Aufsplittung}}	Die Diversifizierung reduziert das Risiko.	B2;Nomen;B2
+{{c1::die vertikale Integration::die Wertschöpfungskette/die Integration|die Integration}}	Die vertikale Integration spart Kosten.	B2;Nomen;B2
+{{c1::die horizontale Integration::die Erweiterung/die Ausweitung|die Ausweitung}}	Die horizontale Integration stärkt die Marktposition.	B2;Nomen;B2
+{{c1::die Wertschöpfungskette::die Wertschöpfungskette/die Produktionskette|die Produktionskette}}	Die Wertschöpfungskette ist optimiert.	B2;Nomen;B2
+{{c1::die Produktionskette::die Lieferkette/die Wertschöpfungskette|die Wertschöpfungskette}}	Die Produktionskette ist effizient.	B2;Nomen;B2
+{{c1::die Lieferkette::die Produktionskette/die Versorgungskette|die Versorgungskette}}	Die Lieferkette ist unterbrochen.	B2;Nomen;B2
+{{c1::die Versorgungskette::die Lieferkette/die供应链|die供应链}}	Die Versorgungskette ist kritisch.	B2;Nomen;B2
+{{c1::der Supply Chain Management::die Lieferkettensteuerung/das SCM|das SCM}}	Der Supply Chain Management ist optimiert.	B2;Nomen;B2
+{{c1::der SCM::der Supply Chain Management/die Lieferkettensteuerung|die Lieferkettensteuerung}}	Der SCM reduziert Kosten.	B2;Nomen;B2
+{{c1::das Bestandsmanagement::die Lagerhaltung/die Inventarverwaltung|die Inventarverwaltung}}	Das Bestandsmanagement ist automatisiert.	B2;Nomen;B2
+{{c1::die Lagerhaltung::das Bestandsmanagement/die Vorratshaltung|die Vorratshaltung}}	Die Lagerhaltung kostet Geld.	B2;Nomen;B2
+{{c1::die Just-in-Time Lieferung::die zeitnahe Lieferung/die JIT-Lieferung|die JIT-Lieferung}}	Die Just-in-Time Lieferung spart Lagerkosten.	B2;Nomen;B2
+{{c1::die Kanban-Lieferung::die Bedarfssteuerung/die signalschiene|die signalschiene}}	Die Kanban-Lieferung ist effizient.	B2;Nomen;B2
+{{c1::die Qualitätskontrolle::die Qualitätsprüfung/die QC|die QC}}	Die Qualitätskontrolle ist streng.	B2;Nomen;B2
+{{c1::die QC::die Qualitätskontrolle/die Qualitätssicherung|die Qualitätssicherung}}	Die QC ist zertifiziert.	B2;Nomen;B2
+{{c1::das Qualitätsmanagement::die Qualitätssicherung/das QM|das QM}}	Das Qualitätsmanagement ist ISO-zertifiziert.	B2;Nomen;B2
+{{c1::die Qualitätssicherung::die Qualitätskontrolle/das QMS|das QMS}}	Die Qualitätssicherung ist umfassend.	B2;Nomen;B2
+{{c1::das Six Sigma::die Qualitätsmethode/die Prozessoptimierung|die Prozessoptimierung}}	Das Six Sigma reduziert Fehler.	B2;Nomen;B2
+{{c1::die Prozessoptimierung::die Prozessverbesserung/die Ablaufoptimierung|die Ablaufoptimierung}}	Die Prozessoptimierung spart Zeit.	B2;Nomen;B2
+{{c1::die Prozessverbesserung::die Prozessoptimierung/die Continuous Improvement|die Continuous Improvement}}	Die Prozessverbesserung ist kontinuierlich.	B2;Nomen;B2
+{{c1::die continuous Improvement::die Kaizen-Philosophie/die ständige Verbesserung|die ständige Verbesserung}}	Die continuous Improvement ist Teil der Kultur.	B2;Nomen;B2
+{{c1::die Kaizen::die ständige Verbesserung/die Prozessverbesserung|die Prozessverbesserung}}	Die Kaizen-Methode wird angewandt.	B2;Nomen;B2
+{{c1::die Lean Production::die schlanke Produktion/die Lean Manufacturing|die Lean Manufacturing}}	Die Lean Production eliminiert Verschwendung.	B2;Nomen;B2
+{{c1::die schlanke Produktion::die Lean Production/die Abfallreduzierung|die Abfallreduzierung}}	Die schlanke Produktion spart Ressourcen.	B2;Nomen;B2
+{{c1::die Fertigungstiefe::die Eigenfertigung/die Wertschöpfungstiefe|die Wertschöpfungstiefe}}	Die Fertigungstiefe ist optimiert.	B2;Nomen;B2
+{{c1::die Wertschöpfungstiefe::die Fertigungstiefe/die Tiefe der Wertschöpfung|die Tiefe der Wertschöpfung}}	Die Wertschöpfungstiefe variiert.	B2;Nomen;B2
+{{c1::das Outsourcing::die Auslagerung/die Fremdvergabe|die Fremdvergabe}}	Das Outsourcing spart Kosten.	B2;Nomen;B2
+{{c1::die Auslagerung::das Outsourcing/die Fremdvergabe|die Fremdvergabe}}	Die Auslagerung ist strategisch.	B2;Nomen;B2
+{{c1::die Fremdvergabe::die Auslagerung/das Outsourcing|das Outsourcing}}	Die Fremdvergabe wird geprüft.	B2;Nomen;B2
+{{c1::das Insourcing::die Eigenfertigung/die interne Fertigung|die interne Fertigung}}	Das Insourcing hat Vorteile.	B2;Nomen;B2
+{{c1::die Eigenfertigung::die Insourcing/die Eigenproduktion|die Eigenproduktion}}	Die Eigenfertigung sichert Qualität.	B2;Nomen;B2
+{{c1::die Produktionskapazität::die Fertigungskapazität/die Kapazität|die Kapazität}}	Die Produktionskapazität ist ausgelastet.	B2;Nomen;B2
+{{c1::die Fertigungskapazität::die Produktionskapazität/die Kapazität|die Kapazität}}	Die Fertigungskapazität wird erhöht.	B2;Nomen;B2
+{{c1::die Auslastung::die Kapazitätsauslastung/die Auslastung|die Auslastung}}	Die Auslastung ist hoch.	B2;Nomen;B2
+{{c1::die Kapazitätsauslastung::die Auslastung/die Nutzungsgrad|der Nutzungsgrad}}	Die Kapazitätsauslastung beträgt 85%.	B2;Nomen;B2
+{{c1::der Nutzungsgrad::die Auslastung/die Kapazitätsauslastung|die Kapazitätsauslastung}}	Der Nutzungsgrad ist gestiegen.	B2;Nomen;B2
+{{c1::die Anlagenverfügbarkeit::die Maschinenverfügbarkeit/die Equipment Availability|die Equipment Availability}}	Die Anlagenverfügbarkeit ist hoch.	B2;Nomen;B2
+{{c1::die Overall Equipment Effectiveness::die OEE/die Gesamtanlageneffektivität|die Gesamtanlageneffektivität}}	Die Overall Equipment Effectiveness misst die Produktivität.	B2;Nomen;B2
+{{c1::die OEE::die Overall Equipment Effectiveness/die Anlageneffektivität|die Anlageneffektivität}}	Die OEE liegt bei 85%.	B2;Nomen;B2
+{{c1::der Anlagenwirkungsgrad::die OEE/dieMaschineneffizienz|dieMaschineneffizienz}}	Der Anlagenwirkungsgrad ist verbesserungswürdig.	B2;Nomen;B2
+{{c1::die Durchlaufzeit::die Bearbeitungszeit/die Zykluszeit|die Zykluszeit}}	Die Durchlaufzeit ist verkürzt.	B2;Nomen;B2
+{{c1::die Bearbeitungszeit::die Durchlaufzeit/die Process Time|die Process Time}}	Die Bearbeitungszeit beträgt 5 Minuten.	B2;Nomen;B2
+{{c1::die Zykluszeit::die Durchlaufzeit/die Taktdauer|die Taktdauer}}	Die Zykluszeit ist getaktet.	B2;Nomen;B2
+{{c1::die Taktzeit::die Zykluszeit/die Taktdauer|die Taktdauer}}	Die Taktzeit bestimmt den Rhythmus.	B2;Nomen;B2
+{{c1::der Takt::die Taktzeit/die Taktrate|die Taktrate}}	Der Takt gibt den Takt an.	B2;Nomen;B2
+{{c1::die Losgröße::die Chargengröße/die Partiegröße|die Partiegröße}}	Die Losgröße ist optimiert.	B2;Nomen;B2
+{{c1::die Chargengröße::die Losgröße/die Batchgröße|die Batchgröße}}	Die Chargengröße wird minimiert.	B2;Nomen;B2
+{{c1::die Batchgröße::die Losgröße/die Chargengröße|die Chargengröße}}	Die Batchgröße ist reduziert.	B2;Nomen;B2
+{{c1::die Stückliste::die Materialliste/die BOP|die BOP}}	Die Stückliste ist vollständig.	B2;Nomen;B2
+{{c1::die Materialliste::die Stückliste/die BOM|die BOM}}	Die Materialliste ist aktualisiert.	B2;Nomen;B2
+{{c1::die BOM::die Stückliste/die Materialliste|die Materialliste}}	Die BOM definiert die Komponenten.	B2;Nomen;B2
+{{c1::die Arbeitsplan::die Arbeitsvorbereitung/die Process Plan|die Process Plan}}	Der Arbeitsplan ist definiert.	B2;Nomen;B2
+{{c1::die Arbeitsvorbereitung::die Fertigungsplanung/die Production Planning|die Production Planning}}	Die Arbeitsvorbereitung ist abgeschlossen.	B2;Nomen;B2
+{{c1::die Fertigungsplanung::die Produktionsplanung/die Arbeitsplanung|die Arbeitsplanung}}	Die Fertigungsplanung ist koordiniert.	B2;Nomen;B2
+{{c1::die Produktionsplanung::die Fertigungsplanung/die Production Schedule|die Production Schedule}}	Die Produktionsplanung läuft.	B2;Nomen;B2
+{{c1::der Production Schedule::der Produktionsplan/die Fertigungsplanung|die Fertigungsplanung}}	Der Production Schedule ist tight.	B2;Nomen;B2
+{{c1::die Produktionssteuerung::die Fertigungssteuerung/die Production Control|die Production Control}}	Die Produktionssteuerung ist automatisiert.	B2;Nomen;B2
+{{c1::die MES::die Manufacturing Execution System/die Fertigungssteuerung|die Fertigungssteuerung}}	Die MES überwacht die Produktion.	B2;Nomen;B2
+{{c1::die ERP::die Enterprise Resource Planning/die Unternehmensressourcenplanung|die Unternehmensressourcenplanung}}	Die ERP verbindet alle Bereiche.	B2;Nomen;B2
+{{c1::das Enterprise Resource Planning::die ERP/die Unternehmensressourcenplanung|die Unternehmensressourcenplanung}}	Das ERP ist implementiert.	B2;Nomen;B2
+{{c1::die Warenwirtschaft::dieMaterialwirtschaft/dieLogistik|dieLogistik}}	Die Warenwirtschaft ist optimiert.	B2;Nomen;B2
+{{c1::die Materialwirtschaft::die Warenwirtschaft/die供应链|die供应链}}	Die Materialwirtschaft steuert den Einkauf.	B2;Nomen;B2
+{{c1::die Beschaffung::der Einkauf/die Anschaffung|die Anschaffung}}	Die Beschaffung ist zentralisiert.	B2;Nomen;B2
+{{c1::der Einkauf::die Beschaffung/die Anschaffung|die Anschaffung}}	Der Einkauf ist optimiert.	B2;Nomen;B2
+{{c1::die Procurement::die Beschaffung/die Einkauf|die Einkauf}}	Die Procurement ist strategisch.	B2;Nomen;B2
+{{c1::die Lieferantenbewertung::die Vendor Rating/die Lieferantenbeurteilung|die Lieferantenbeurteilung}}	Die Lieferantenbewertung ist erstellt.	B2;Nomen;B2
+{{c1::die Vendor Rating::die Lieferantenbewertung/die Lieferantenqualifikation|die Lieferantenqualifikation}}	Die Vendor Rating ist positiv.	B2;Nomen;B2
+{{c1::der Preferred Supplier::der bevorzugte Lieferant/der Preferred Vendor|der Preferred Vendor}}	Der Preferred Supplier ist zertifiziert.	B2;Nomen;B2
+{{c1::der strategische Lieferant::der Preferred Supplier/der Hauptlieferant|der Hauptlieferant}}	Der strategische Lieferant ist langjährig.	B2;Nomen;B2
+{{c1::die Rahmenvereinbarung::der Rahmenvertrag/die Langzeitvereinbarung|die Langzeitvereinbarung}}	Die Rahmenvereinbarung läuft aus.	B2;Nomen;B2
+{{c1::der Rahmenvertrag::die Rahmenvereinbarung/die Grundlagenvereinbarung|die Grundlagenvereinbarung}}	Der Rahmenvertrag wird verlängert.	B2;Nomen;B2
+{{c1::die Long-Term Agreement::die Rahmenvereinbarung/die Langzeitvereinbarung|die Langzeitvereinbarung}}	Die Long-Term Agreement sichert die Lieferung.	B2;Nomen;B2
+{{c1::der Service Level Agreement::die Leistungsvereinbarung/die SLA|die SLA}}	Der Service Level Agreement definiert die Erwartungen.	B2;Nomen;B2
+{{c1::der SLA::der Service Level Agreement/die Leistungsvereinbarung|die Leistungsvereinbarung}}	Der SLA wird überwacht.	B2;Nomen;B2
+{{c1::die Key Performance Indicators::die Leistungskennzahlen/die KPI|die KPI}}	Die Key Performance Indicators werden getrackt.	B2;Nomen;B2
+{{c1::die KPI::die Key Performance Indicators/die Leistungskennzahlen|die Leistungskennzahlen}}	Die KPI zeigen den Erfolg.	B2;Nomen;B2
+{{c1::das Dashboard::die Übersicht/die Kennzahlenübersicht|die Kennzahlenübersicht}}	Das Dashboard zeigt alle Werte.	B2;Nomen;B2
+{{c1::die Kennzahl::die Metrik/die Messgröße|die Messgröße}}	Die Kennzahl ist definiert.	B2;Nomen;B2
+{{c1::die Metrik::die Kennzahl/das Maß|das Maß}}	Die Metrik misst den Fortschritt.	B2;Nomen;B2
+{{c1::die Benchmark::der Vergleichswert/der Referenzwert|der Referenzwert}}	Die Benchmark ist erreicht.	B2;Nomen;B2
+{{c1::der Benchmark::der Vergleich/der Standard|der Standard}}	Der Benchmark wird übertroffen.	B2;Nomen;B2
+{{c1::der Standard::die Norm/die Benchmark|die Benchmark}}	Der Standard ist hoch.	B2;Nomen;B2
+{{c1::die Norm::der Standard/die Richtlinie|die Richtlinie}}	Die Norm ist einzuhalten.	B2;Nomen;B2
+{{c1::die Zertifizierung::die Zertifizierung/die Zertifikat|die Zertifikat}}	Die Zertifizierung ist erfolgt.	B2;Nomen;B2
+{{c1::die Akkreditierung::die Anerkennung/die autorisierung|die autorisierung}}	Die Akkreditierung ist beantragt.	B2;Nomen;B2
+{{c1::die Audit::die Prüfung/die Revision|die Revision}}	Die Audit ist erfolgreich.	B2;Nomen;B2
+{{c1::das Compliance::die Regelkonformität/die Einhaltung|die Einhaltung}}	Das Compliance ist sichergestellt.	B2;Nomen;B2
+{{c1::die Regelkonformität::die Compliance/die Rechtskonformität|die Rechtskonformität}}	Die Regelkonformität wird geprüft.	B2;Nomen;B2
+{{c1::die Governance::die Unternehmensführung/die Leitstruktur|die Leitstruktur}}	Die Governance ist definiert.	B2;Nomen;B2
+{{c1::die Unternehmensführung::die Governance/die Geschäftsführung|die Geschäftsführung}}	Die Unternehmensführung ist verantwortlich.	B2;Nomen;B2
+{{c1::das Risikomanagement::die Risikosteuerung/die Risikokontrolle|die Risikokontrolle}}	Das Risikomanagement ist instituiert.	B2;Nomen;B2
+{{c1::die Risikosteuerung::das Risikomanagement/die Risikokontrolle|die Risikokontrolle}}	Die Risikosteuerung ist proaktiv.	B2;Nomen;B2
+{{c1::die Risikobewertung::die Risikoanalyse/die Risk Assessment|die Risk Assessment}}	Die Risikobewertung ist abgeschlossen.	B2;Nomen;B2
+{{c1::die Risikoanalyse::die Risikobewertung/die Risikoprüfung|die Risikoprüfung}}	Die Risikoanalyse zeigt Handlungsbedarf.	B2;Nomen;B2
+{{c1::die Risikomatrix::die Risikografik/die Risk Map|die Risk Map}}	Die Risikomatrix visualisiert die Risiken.	B2;Nomen;B2
+{{c1::die Risk Map::die Risikomatrix/die Risikografik|die Risikografik}}	Die Risk Map zeigt die Verteilung.	B2;Nomen;B2
+{{c1::der Risikoappetit::die Risikobereitschaft/die Risk Tolerance|die Risk Tolerance}}	Der Risikoappetit ist definiert.	B2;Nomen;B2
+{{c1::die Risikobereitschaft::der Risikoappetit/die Risk Tolerance|die Risk Tolerance}}	Die Risikobereitschaft ist begrenzt.	B2;Nomen;B2
+{{c1::der Business Continuity Plan::der Geschäftskontinuitätsplan/der BCP|der BCP}}	Der Business Continuity Plan ist getestet.	B2;Nomen;B2
+{{c1::der BCP::der Business Continuity Plan/die Notfallplanung|die Notfallplanung}}	Der BCP wird regelmäßig geprobt.	B2;Nomen;B2
+{{c1::die Notfallplanung::der BCP/die Katastrophenplanung|die Katastrophenplanung}}	Die Notfallplanung ist ausgearbeitet.	B2;Nomen;B2
+{{c1::das Krisenmanagement::die Krisensteuerung/die Emergency Management|die Emergency Management}}	Das Krisenmanagement ist aktiviert.	B2;Nomen;B2
+{{c1::die Krisensteuerung::das Krisenmanagement/die Krisenreaktion|die Krisenreaktion}}	Die Krisensteuerung ist koordiniert.	B2;Nomen;B2
+{{c1::die Krisenreaktion::die Krisenintervention/die Emergency Response|die Emergency Response}}	Die Krisenreaktion ist schnell.	B2;Nomen;B2
+{{c1::der Eskalationspfad::der Eskalationsweg/die Eskalationsprozedur|die Eskalationsprozedur}}	Der Eskalationspfad ist definiert.	B2;Nomen;B2
+{{c1::die Eskalation::die Steigerung/die Hochschaltung|die Hochschaltung}}	Die Eskalation erfolgt bei Bedarf.	B2;Nomen;B2
+{{c1::der Issue::das Problem/die Angelegenheit|die Angelegenheit}}	Der Issue wird getrackt.	B2;Nomen;B2
+{{c1::das Issue::der Issue/das Ticket|das Ticket}}	Das Issue ist eskaliert.	B2;Nomen;B2
+{{c1::der Dispute::der Streitfall/die Streitigkeit|die Streitigkeit}}	Der Dispute ist beigelegt.	B2;Nomen;B2
+{{c1::die Streitigkeit::der Dispute/die Kontroverse|die Kontroverse}}	Die Streitigkeit wird geschlichtet.	B2;Nomen;B2
+{{c1::die Mediation::die Schlichtung/die Vermittlung|die Vermittlung}}	Die Mediation ist erfolgreich.	B2;Nomen;B2
+{{c1::die Schlichtung::die Mediation/die Einigung|die Einigung}}	Die Schlichtung bringt Einigkeit.	B2;Nomen;B2
+{{c1::das Schiedsverfahren::die Arbitration/die Schlichtung|die Schlichtung}}	Das Schiedsverfahren ist abgeschlossen.	B2;Nomen;B2
+{{c1::die Arbitration::das Schiedsverfahren/die Schiedsrichtung|die Schiedsrichtung}}	Die Arbitration ist durchgeführt.	B2;Nomen;B2
+{{c1::der Schiedsspruch::der Schiedsspruch/das Arbitrageurteil|das Arbitrageurteil}}	Der Schiedsspruch ist gefällt.	B2;Nomen;B2
+{{c1::die Anfechtung::dieBeanstandung/die Beschwerde|die Beschwerde}}	Die Anfechtung ist eingereicht.	B2;Nomen;B2
+{{c1::dieBeanstandung::die Anfechtung/die Reklamation|die Reklamation}}	DieBeanstandung ist berechtigt.	B2;Nomen;B2
+{{c1::die Beschwerde::dieBeanstandung/die Klage|die Klage}}	Die Beschwerde ist abgelehnt.	B2;Nomen;B2
+{{c1::die Klage::die Beschwerde/die Anzeige|die Anzeige}}	Die Klage ist eingereicht.	B2;Nomen;B2
+{{c1::der Rechtsstreit::der Prozess/die Klage|die Klage}}	Der Rechtsstreit dauert an.	B2;Nomen;B2
+{{c1::der Prozess::der Rechtsstreit/das Gerichtsverfahren|das Gerichtsverfahren}}	Der Prozess ist beendet.	B2;Nomen;B2
+{{c1::das Gerichtsverfahren::der Prozess/die Verhandlung|die Verhandlung}}	Das Gerichtsverfahren ist öffentlich.	B2;Nomen;B2
+{{c1::die Verhandlung::das Gerichtsverfahren/die Besprechung|die Besprechung}}	Die Verhandlung findet statt.	B2;Nomen;B2
+{{c1::die Urteilsverkündung::die Entscheidung/der Beschluss|der Beschluss}}	Die Urteilsverkündung erfolgt morgen.	B2;Nomen;B2
+{{c1::der Beschluss::der Entscheid/die Beschlussfassung|die Beschlussfassung}}	Der Beschluss ist gefasst.	B2;Nomen;B2
+{{c1::die Beschlussfassung::die Abstimmung/die Beschluss|die Beschluss}}	Die Beschlussfassung ist einstimmig.	B2;Nomen;B2
+{{c1::die Abstimmung::die Abstimmung/die Wahl|die Wahl}}	Die Abstimmung ist geheim.	B2;Nomen;B2
+{{c1::die Wahl::die Abstimmung/die Auswahl|die Auswahl}}	Die Wahl ist getroffen.	B2;Nomen;B2
+{{c1::die Auswahl::die Wahl/die Selektion|die Selektion}}	Die Auswahl ist getroffen.	B2;Nomen;B2
+{{c1::die Selektion::die Auswahl/die Wahl|die Wahl}}	Die Selektion ist abgeschlossen.	B2;Nomen;B2
+{{c1::die Kür::die Auswahl/die selection|die selection}}	Die Kür ist gefallen.	B2;Nomen;B2
+{{c1::die preferenz::die Präferenz/die Vorliebe|die Vorliebe}}	Die Preferenz ist klar.	B2;Nomen;B2
+{{c1::die Präferenz::die Preferenz/die Bevorzugung|die Bevorzugung}}	Die Präferenz gilt es zu respektieren.	B2;Nomen;B2
+{{c1::die Bevorzugung::die Präferenz/die preferenz|die preferenz}}	Die Bevorzugung ist undurchsichtig.	B2;Nomen;B2
+{{c1::die Diskriminierung::die Benachteiligung/die Ungleichbehandlung|die Ungleichbehandlung}}	Die Diskriminierung ist verboten.	B2;Nomen;B2
+{{c1::die Benachteiligung::die Diskriminierung/die Ungleichheit|die Ungleichheit}}	Die Benachteiligung ist zu vermeiden.	B2;Nomen;B2
+{{c1::die Gleichberechtigung::die Gleichstellung/die Gleichbehandlung|die Gleichbehandlung}}	Die Gleichberechtigung ist gesetzlich verankert.	B2;Nomen;B2
+{{c1::die Gleichstellung::die Gleichberechtigung/die Parität|die Parität}}	Die Gleichstellung ist durchgesetzt.	B2;Nomen;B2
+{{c1::die Parität::die Gleichstellung/die Gleichberechtigung|die Gleichberechtigung}}	Die Parität ist erreicht.	B2;Nomen;B2
+{{c1::die Chancengleichheit::die Gleichberechtigung/die Zugangsgleichheit|die Zugangsgleichheit}}	Die Chancengleichheit ist gewährleistet.	B2;Nomen;B2
+{{c1::die Zugangsgleichheit::die Chancengleichheit/die Gleichheit|die Gleichheit}}	Die Zugangsgleichheit ist wichtig.	B2;Nomen;B2
+{{c1::die Inklusion::die Einbeziehung/die Teilhabe|die Teilhabe}}	Die Inklusion ist gefördert.	B2;Nomen;B2
+{{c1::die Einbeziehung::die Inklusion/die Partizipation|die Partizipation}}	Die Einbeziehung ist gewünscht.	B2;Nomen;B2
+{{c1::die Partizipation::die Teilnahme/die Einbeziehung|die Einbeziehung}}	Die Partizipation ist erwünscht.	B2;Nomen;B2
+{{c1::die Diversität::die Vielfalt/die Unterschiedlichkeit|die Unterschiedlichkeit}}	Die Diversität wird geschätzt.	B2;Nomen;B2
+{{c1::die Vielfalt::die Diversität/die Mannigfaltigkeit|die Mannigfaltigkeit}}	Die Vielfalt ist unsere Stärke.	B2;Nomen;B2
+{{c1::das Diversity Management::die Diversitätsführung/die Vielfaltssteuerung|die Vielfaltssteuerung}}	Das Diversity Management ist implementiert.	B2;Nomen;B2
+{{c1::die Inclusion::die Inklusion/die Einbeziehung|die Einbeziehung}}	Die Inclusion ist Teil der Kultur.	B2;Nomen;B2
+{{c1::die Corporate Social Responsibility::die soziale Verantwortung/die CSR|die CSR}}	Die Corporate Social Responsibility ist verankert.	B2;Nomen;B2
+{{c1::die CSR::die Corporate Social Responsibility/die soziale Verantwortung|die soziale Verantwortung}}	Die CSR ist Teil der Strategie.	B2;Nomen;B2
+{{c1::die Nachhaltigkeit::die Sustainability/die Dauerhaftigkeit|die Dauerhaftigkeit}}	Die Nachhaltigkeit ist unser Leitprinzip.	B2;Nomen;B2
+{{c1::die Sustainability::die Nachhaltigkeit/die Umweltverantwortung|die Umweltverantwortung}}	Die Sustainability ist sichergestellt.	B2;Nomen;B2
+{{c1::das ESG::die Umwelt- Sozial- Governance/die Nachhaltigkeit|die Nachhaltigkeit}}	Das ESG wird berichtet.	B2;Nomen;B2
+{{c1::der Carbon Footprint::der CO2-Fußabdruck/der Kohlenstoffabdruck|der Kohlenstoffabdruck}}	Der Carbon Footprint ist reduziert.	B2;Nomen;B2
+{{c1::der CO2-Fußabdruck::der Carbon Footprint/der Kohlendioxidabdruck|der Kohlendioxidabdruck}}	Der CO2-Fußabdruck wird kompensiert.	B2;Nomen;B2
+{{c1::die CO2-Kompensation::der CO2-Ausgleich/der Klimaschutz|der Klimaschutz}}	Die CO2-Kompensation ist erfolgt.	B2;Nomen;B2
+{{c1::der Klimaschutz::der Umweltschutz/die CO2-Reduktion|die CO2-Reduktion}}	Der Klimaschutz ist verankert.	B2;Nomen;B2
+{{c1::der Umweltschutz::der Klimaschutz/der Umweltschutz|der Umweltschutz}}	Der Umweltschutz ist Teil der Strategie.	B2;Nomen;B2
+{{c1::die Kreislaufwirtschaft::die Circular Economy/die Recycling-Wirtschaft|die Recycling-Wirtschaft}}	Die Kreislaufwirtschaft wird gefördert.	B2;Nomen;B2
+{{c1::die Circular Economy::die Kreislaufwirtschaft/die nachhaltige Wirtschaft|die nachhaltige Wirtschaft}}	Die Circular Economy ist das Ziel.	B2;Nomen;B2
+{{c1::das Recycling::die Wiederverwertung/die Wiederaufbereitung|die Wiederaufbereitung}}	Das Recycling spart Ressourcen.	B2;Nomen;B2
+{{c1::die Wiederverwertung::das Recycling/die Wiederaufbereitung|die Wiederaufbereitung}}	Die Wiederverwertung ist etabliert.	B2;Nomen;B2
+{{c1::die Wiederaufbereitung::die Wiederverwertung/die Wiederaufarbeitung|die Wiederaufarbeitung}}	Die Wiederaufbereitung ist möglich.	B2;Nomen;B2
+{{c1::das Upcycling::die Aufwertung/die Verbesserung|die Verbesserung}}	Das Upcycling schafft Mehrwert.	B2;Nomen;B2
+{{c1::die Aufwertung::das Upcycling/die Verbesserung|die Verbesserung}}	Die Aufwertung ist nachhaltig.	B2;Nomen;B2
+{{c1::das Downcycling::die Abwertung/die Wertminderung|die Wertminderung}}	Das Downcycling ist zu vermeiden.	B2;Nomen;B2
+{{c1::die Abwertung::das Downcycling/die Wertverlust|die Wertverlust}}	Die Abwertung ist unnötig.	B2;Nomen;B2
+{{c1::der Produktlebenszyklus::der Produktzyklus/der PLC|der PLC}}	Der Produktlebenszyklus ist optimiert.	B2;Nomen;B2
+{{c1::der PLC::der Produktlebenszyklus/die Produktphase|die Produktphase}}	Der PLC zeigt die Phase.	B2;Nomen;B2
+{{c1::die Produkteinführung::das Launch/die Markteinführung|die Markteinführung}}	Die Produkteinführung ist erfolgreich.	B2;Nomen;B2
+{{c1::das Launch::die Produkteinführung/das Go-to-Market|das Go-to-Market}}	Das Launch ist geplant.	B2;Nomen;B2
+{{c1::das Go-to-Market::die Markteinführung/das Launch|das Launch}}	Das Go-to-Market ist definiert.	B2;Nomen;B2
+{{c1::das Wachstum::das Umsatzwachstum/der Growth|der Growth}}	Das Wachstum ist zweistellig.	B2;Nomen;B2
+{{c1::der Growth::das Wachstum/die Expansion|die Expansion}}	Der Growth ist beschleunigt.	B2;Nomen;B2
+{{c1::die Expansion::das Wachstum/die Ausweitung|die Ausweitung}}	Die Expansion ist geplant.	B2;Nomen;B2
+{{c1::die Skalierung::die Skalierbarkeit/die Skalenproduktion|die Skalenproduktion}}	Die Skalierung ist möglich.	B2;Nomen;B2
+{{c1::die Skalierbarkeit::die Skalierung/die Skalierbarkeit|die Skalierbarkeit}}	Die Skalierbarkeit ist gegeben.	B2;Nomen;B2
+{{c1::die Skaleneffekte::die Größenvorteile/die Mengenvorteile|die Mengenvorteile}}	Die Skaleneffekte senken Kosten.	B2;Nomen;B2
+{{c1::die Größenvorteile::die Skaleneffekte/die Economies of Scale|die Economies of Scale}}	Die Größenvorteile sind realisiert.	B2;Nomen;B2
+{{c1::die Economies of Scale::die Größenvorteile/die Skalenvorteile|die Skalenvorteile}}	Die Economies of Scale sind signifikant.	B2;Nomen;B2
+{{c1::der Economies of Scope::die Scope-Vorteile/die Verbundvorteile|die Verbundvorteile}}	Der Economies of Scope sind genutzt.	B2;Nomen;B2
+{{c1::die Verbundvorteile::die Scope-Vorteile/die Diversifikationsvorteile|die Diversifikationsvorteile}}	Die Verbundvorteile sind realisiert.	B2;Nomen;B2
+{{c1::die Netzwerkeffekte::die Netzeffekte/die Feedbackschleife|die Feedbackschleife}}	Die Netzwerkeffekte verstärken sich.	B2;Nomen;B2
+{{c1::der First-Mover-Advantage::der Pioniervorteil/der First-Mover|der First-Mover}}	Der First-Mover-Advantage ist genutzt.	B2;Nomen;B2
+{{c1::der Pioniervorteil::der First-Mover-Advantage/der Innovationsvorteil|der Innovationsvorteil}}	Der Pioniervorteil ist nachhaltig.	B2;Nomen;B2
+{{c1::der Second-Mover-Advantage::der Folgervorteil/der Follower|der Follower}}	Der Second-Mover-Advantage ist die Lernkurve.	B2;Nomen;B2
+{{c1::der Folgervorteil::der Second-Mover-Advantage/der Lernvorteil|der Lernvorteil}}	Der Folgervorteil liegt im Lernen.	B2;Nomen;B2
+{{c1::die Plattformstrategie::die Plattformökonomie/die Netzwerkstrategie|die Netzwerkstrategie}}	Die Plattformstrategie ist zukunftsorientiert.	B2;Nomen;B2
+{{c1::die Ökosystem::das Netzwerk/die Plattform|die Plattform}}	Das Ökosystem ist vernetzt.	B2;Nomen;B2
+{{c1::das Ökosystem::die Ökosystem/die Plattform|die Plattform}}	Das Ökosystem wächst.	B2;Nomen;B2
+{{c1::der Ecosystem::das Ökosystem/die Plattform|die Plattform}}	Der Ecosystem ist aktiv.	B2;Nomen;B2
+{{c1::die Plattform::die Ökosystem/die Plattform|die Plattform}}	Die Plattform verbindet Partner.	B2;Nomen;B2
+{{c1::der Marketplace::der Markplatz/die Handelsplattform|die Handelsplattform}}	Der Marketplace ist digital.	B2;Nomen;B2
+{{c1::die digitale Transformation::die Digitalisierung/die digitale Revolution|die digitale Revolution}}	Die digitale Transformation ist Vollzug.	B2;Nomen;B2
+{{c1::die Digitalisierung::die digitale Transformation/die Tech модернизация|die Tech модернизация}}	Die Digitalisierung ist abgeschlossen.	B2;Nomen;B2
+{{c1::die digitale Revolution::die Digitalisierung/die Tech-Wende|die Tech-Wende}}	Die digitale Revolution verändert alles.	B2;Nomen;B2
+{{c1::die Industrie 4.0::die vierte industrielle Revolution|die Smart Factory|die Smart Factory}}	Die Industrie 4.0 ist implementiert.	B2;Nomen;B2
+{{c1::die Smart Factory::die intelligente Fabrik/die automatisierte Produktion|die automatisierte Produktion}}	Die Smart Factory ist effizient.	B2;Nomen;B2
+{{c1::das Internet der Dinge::das IoT/die Vernetzung|die Vernetzung}}	Das Internet der Dinge vernetzt Geräte.	B2;Nomen;B2
+{{c1::das IoT::das Internet der Dinge/die Machine-to-Machine Kommunikation|die M2M-Kommunikation}}	Das IoT ermöglicht neue Geschäftsmodelle.	B2;Nomen;B2
+{{c1::die Machine-to-Machine::die M2M/die Gerätekommunikation|die Gerätekommunikation}}	Die Machine-to-Machine Kommunikation ist sicher.	B2;Nomen;B2
+{{c1::die Künstliche Intelligenz::die KI/die AI|die AI}}	Die Künstliche Intelligenz verändert die Wirtschaft.	B2;Nomen;B2
+{{c1::die KI::die Künstliche Intelligenz/die maschinelle Intelligenz|die maschinelle Intelligenz}}	Die KI wird für Prozesse genutzt.	B2;Nomen;B2
+{{c1::die AI::die Künstliche Intelligenz/die maschinelle Intelligenz|die maschinelle Intelligenz}}	Die AI trifft Entscheidungen.	B2;Nomen;B2
+{{c1::das maschinelle Lernen::das Machine Learning/der ML|der ML}}	Das maschinelle Lernen verbessert Prozesse.	B2;Nomen;B2
+{{c1::der ML::das maschinelle Lernen/die Machine Learning|die Machine Learning}}	Der ML-Algorithmus lernt kontinuierlich.	B2;Nomen;B2
+{{c1::das Deep Learning::das tiefe Lernen/die neuronale Netze|die neuronale Netze}}	Das Deep Learning erkennt Muster.	B2;Nomen;B2
+{{c1::neuronale Netze::die Deep Learning Netze/die künstlichen neuronalen Netze|die künstlichen neuronalen Netze}}	Neuronale Netze simulieren das Gehirn.	B2;Nomen;B2
+{{c1::die big data::die großen Datenmengen/die Massendaten|die Massendaten}}	Die Big Data werden analysiert.	B2;Nomen;B2
+{{c1::die Datenanalyse::die Analytics/die Auswertung|die Auswertung}}	Die Datenanalyse liefert Insights.	B2;Nomen;B2
+{{c1::die Analytics::die Datenanalyse/die Auswertung|die Auswertung}}	Die Analytics zeigt Muster.	B2;Nomen;B2
+{{c1::die Predictive Analytics::die vorausschauende Analyse/die Vorhersage|die Vorhersage}}	Die Predictive Analytics sagt Trends voraus.	B2;Nomen;B2
+{{c1::die Prescriptive Analytics::die vorschreibende Analyse/die Empfehlungsanalyse|die Empfehlungsanalyse}}	Die Prescriptive Analytics gibt Empfehlungen.	B2;Nomen;B2
+{{c1::die Business Intelligence::die BI/die Geschäftsintelligenz|die Geschäftsintelligenz}}	Die Business Intelligence unterstützt Entscheidungen.	B2;Nomen;B2
+{{c1::die BI::die Business Intelligence/die Datenanalyse|die Datenanalyse}}	Die BI liefert Dashboards.	B2;Nomen;B2
+{{c1::das Data Warehouse::das Datenlager/die Datenspeicherung|die Datenspeicherung}}	Das Data Warehouse integriert Daten.	B2;Nomen;B2
+{{c1::die Data Lake::der Datensee/die zentrale Datenablage|die zentrale Datenablage}}	Die Data Lake speichert unstrukturierte Daten.	B2;Nomen;B2
+{{c1::die Datenintegration::die Datenfusion/die Datenvereinigung|die Datenvereinigung}}	Die Datenintegration ist erfolgt.	B2;Nomen;B2
+{{c1::die Datenqualität::die Data Quality/die Datenintegrität|die Datenintegrität}}	Die Datenqualität ist gewährleistet.	B2;Nomen;B2
+{{c1::die Datenintegrität::die Datenkonsistenz/die Datenqualität|die Datenqualität}}	Die Datenintegrität ist sichergestellt.	B2;Nomen;B2
+{{c1::die Datensicherheit::die Cybersecurity/die IT-Sicherheit|die IT-Sicherheit}}	Die Datensicherheit ist prioritär.	B2;Nomen;B2
+{{c1::die Cybersecurity::die Datensicherheit/die IT-Security|die IT-Security}}	Die Cybersecurity ist verstärkt.	B2;Nomen;B2
+{{c1::die Cyber-Sicherheit::die Cybersecurity/die Internetsicherheit|die Internetsicherheit}}	Die Cyber-Sicherheit ist kritisch.	B2;Nomen;B2
+{{c1::der Cyber-Angriff::der Hackerangriff/die Cyberattacke|die Cyberattacke}}	Der Cyber-Angriff ist abgewehrt.	B2;Nomen;B2
+{{c1::die Cyberattacke::der Cyber-Angriff/der Hackerangriff|der Hackerangriff}}	Die Cyberattacke hat Schaden angerichtet.	B2;Nomen;B2
+{{c1::der Hackerangriff::die Cyberattacke/der Einbruch|der Einbruch}}	Der Hackerangriff ist erfolgreich abgewehrt.	B2;Nomen;B2
+{{c1::die Datenschutzverletzung::der Privacy Breach/der Datenmissbrauch|der Datenmissbrauch}}	Die Datenschutzverletzung ist gemeldet.	B2;Nomen;B2
+{{c1::der Privacy Breach::die Datenschutzverletzung/die Datenschutzverletzung|die Datenschutzverletzung}}	Der Privacy Breach ist aufgedeckt.	B2;Nomen;B2
