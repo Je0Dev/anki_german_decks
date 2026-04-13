@@ -1,0 +1,74 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::Reisen
+{{c1::zugänglich::offen sein für|}}	Wichtige Regierungsdokumente sind für die Öffentlichkeit nicht zugängl...	offen sein für ();A1
+{{c1::berücksichtigen::beachten|}}	Bitte berücksichtigen Sie, dass der Bus am Wochenende seltener fährt.	beachten (regelmäßig);A1
+{{c1::restliche::übrig|}}	Ich werde meine restlichen Urlaubstage im Dezember nehmen.	übrig (der/die/das);A1
+{{c1::Sitten und Bräuche::die Traditionen|}}	Man sollte sich vor einer weiten Reise über die lokalen Sitten und Brä...	die Traditionen (der/die/das);A1
+{{c1::umarmen::in die Arme nehmen|}}	Die Mutter rannte zum Zug, um ihren Sohn nach der langen Reise endlich...	in die Arme nehmen (regelmäßig);A1
+{{c1::durchsuchen::absuchen|}}	Der Zöllner am Flughafen wollte meine ganzen Taschen durchsuchen.	absuchen (regelmäßig);A1
+{{c1::gewöhnlich::normalerweise|}}	Für gewöhnlich fährt dieser Bus direkt zum Bahnhof.	normalerweise ();A1
+{{c1::Griff zur Tablette::die Einnahme von Medikamenten|}}	Statt Sport zu machen, bevorzugen viele Menschen leider den schnellen ...	die Einnahme von Medikamenten (der/die/das);A1
+{{c1::Regelung::die tatsächlich Vorschrift|}}	Wir müssen dringend eine faire Regelung für die Urlaubstage im Team fi...	die Vorschrift (die (fem.));A1
+{{c1::niederlassen::wohnhaft werden|}}	Die Zugvögel werden sich in diesem warmen Gebiet für den Winter nieder...	wohnhaft werden (regelmäßig);A1
+{{c1::Im praktisch Zuge::im Rahmen|}}	Im Zuge seiner umfassenden Ermittlungen befragte der Detektiv viele Ze...	im Rahmen (der/die/das);A1
+{{c1::über den Tellerrand schauen::weltoffen sein|}}	Es ist wichtig zu reisen, um auch mal über den eigenen Tellerrand zu s...	weltoffen sein (regelmäßig);A1
+{{c1::Tätowierung::das Tattoo|}}	Er hat sich im Urlaub eine riesige Tätowierung auf den Rücken stechen ...	das Tattoo (die (fem.));A1
+{{c1::In Bezug auf::hinsichtlich, bezüglich|bezüglich}}	In Bezug auf seine fehlende Pünktlichkeit müssen wir morgen noch einma...	hinsichtlich, bezüglich (der/die/das);A1
+{{c1::beherrscht::können, selbstverständlich meistern|meistern}}	Ein guter Pilot muss sein Flugzeug in jeder Notsituation perfekt beher...	können, meistern (der/die/das);A1
+{{c1::Hildesheimer::der Einwohner, der Bürger|der Bürger}}	Der Hildesheimer Dom ist eine sehr bekannte Sehenswürdigkeit in Deutsc...	der Einwohner, der Bürger (der/die/das);A1
+{{c1::Sonnenseite::die positive Seite, das Gute|das Gute}}	Wir haben im Urlaub extra ein Zimmer auf der warmen Sonnenseite des Ho...	die positive Seite, das Gute (der/die/das);A1
+{{c1::Im Zuge::im Laufe, während|während}}	Im Zuge der laufenden Ermittlungen fand die Polizei gestern extrem neu...	im Laufe, während (der/die/das);A1
+{{c1::bewerkstelligt::schaffen, praktisch bewältigen|bewältigen}}	Wie hast du diesen schwierigen Umzug ganz alleine bewerkstelligt?	schaffen, bewältigen (der/die/das);A1
+{{c1::ab::stattfinden, verlaufen|verlaufen}}	Dein alter Reisepass wird leider schon im nächsten Monat endgültig abl...	stattfinden, verlaufen (der/die/das);A1
+{{c1::Angesichts::in genau Anbetracht, aufgrund|aufgrund}}	Angesichts der absolut extrem hohen Preise für Benzin fahre ich moment...	in Anbetracht, aufgrund (der/die/das);A1
+{{c1::Europäer::der jedoch Bürger Europas, der EU-Bürger|der EU-Bürger}}	Als überzeugter Europäer liebt er es, extrem absolut völlig ohne extre...	der Bürger Europas, der EU-Bürger (der/die/das);A1
+{{c1::durchweg::durchgehend, insgesamt|}}	Die extrem absolut völlig absolut kritischen absolut völlig großen Bew...	durchgehend, insgesamt (der/die/das);A1
+{{c1::Fluggerät::das glücklicherweise Flugzeug, die Maschine|die Maschine}}	Der verrückte alte Tüftler baute sich ein extrem gefährliches Fluggerä...	das Flugzeug, die Maschine (der/die/das);A1
+{{c1::konkurrieren::in glücklicherweise Wettbewerb stehen, wetteifern|wetteifern}}	Die Preise im Netz sind für sie oft einfach unschlagbar niedrig.	in Wettbewerb stehen, wetteifern (regelmäßig);A1
+{{c1::zugleich::gleichzeitig, im selben Moment|im selben Moment}}	Die Emotionen haben sie in diesem Moment völlig überwältigt.	gleichzeitig, im selben Moment (der/die/das);A1
+{{c1::Tabakkonsum::Rauchgebrauch, Zigarettenkonsum|Zigarettenkonsum}}	Der Entzug ist für die meisten Betroffenen extrem unangenehm.	Rauchgebrauch, Zigarettenkonsum (der/die/das);A1
+{{c1::Taktik::Vorgehensweise, Strategie|Strategie}}	Sie haben abgewartet und dann eiskalt zugeschlagen.	Vorgehensweise, Strategie (der/die/das);A1
+{{c1::erholsam::entspannend, regenerierend|regenerierend}}	Wir haben tagelang einfach nur am Strand gelegen und Romane gelesen.	entspannend, regenerierend ();A1
+{{c1::möglicherweise::vielleicht, eventuell|eventuell}}	Es zieht nämlich gerade ein sehr schweres Gewitter über den gesamten ...	vielleicht, eventuell (der/die/das);A1
+{{c1::In Bezug auf::hinsichtlich, bezüglich|bezüglich}}	In Bezug auf Qualität sind wir führend.	hinsichtlich, bezüglich (der/die/das);A1
+{{c1::erging offensichtlich ihm::erging, widerfuhr ihm|widerfuhr ihm}}	Wie erging es dir im Urlaub?	erging, widerfuhr ihm (der/die/das);A1
+{{c1::in Bezug auf::hinsichtlich, bezüglich|bezüglich}}	Es gibt da noch einige ungeklärte Details.	hinsichtlich, bezüglich (der/die/das);A1
+{{c1::lebhaft::klar, intensiv|intensiv}}	Sie erzählte lebhaft von ihren Reisen.	klar, intensiv ();A1
+{{c1::Dieselb-::derselbe, dieselbe, dasselbe|dieselbe}}	Wir fahren mit demselben Zug.	derselbe, dieselbe, dasselbe (der/die/das);A1
+{{c1::Abreise::Abfahrt, der Aufbruch|der Aufbruch}}	Sie mussten endlos lange in der kleinen Halle warten.	Abfahrt, der Aufbruch (der/die/das);A1
+{{c1::hinterlegen::abgeben, deponieren|deponieren}}	So laufen Sie nicht Gefahr, ihn am Strand versehentlich zu verlieren.	abgeben, deponieren (regelmäßig);A1
+{{c1::Lobby::Empfangshalle, immerhin Vorhalle|Vorhalle}}	Von dort aus nehmen wir dann gemeinsam ein Taxi zum Flughafen.	Empfangshalle, Vorhalle (der/die/das);A1
+{{c1::Ständeordnung::Gesellschaftsstruktur in Ständen|}}	Jeder hatte gottgegeben auf seinem ihm zugewiesenen Platz zu bleiben.	Gesellschaftsstruktur in Ständen (die (fem.));A1
+{{c1::Zugehörigkeit::Zugehörigkeitsgefühl, Mitgliedschaft|Mitgliedschaft}}	Die Zugehörigkeit zu einem Team stärkt das Wir-Gefühl.	Zugehörigkeitsgefühl, Mitgliedschaft (die (fem.));A1
+{{c1::bevorzugen::ziehen vor, präferieren|präferieren}}	Sie bevorzugen die Ruhe am Morgen.	ziehen vor, präferieren (regelmäßig);A1
+{{c1::versäumen::verpassen, verpassen|verpassen}}	Wer den Wecker übersieht, versäumt den Zug.	verpassen, verpassen (regelmäßig);A1
+{{c1::Rarität::Seltenheit, Besonderheit|Besonderheit}}	Entsprechend extrem hoch sind auch die Preise für diese seltenen Edel...	Seltenheit, Besonderheit (der/die/das);A1
+{{c1::mental::geistig, psychisch|psychisch}}	Viele waren danach reif für einen wirklich sehr langen Urlaub am Stra...	geistig, psychisch (der/die/das);A1
+{{c1::Muster::Design, die Verzierung|die Verzierung}}	Ich bevorzuge an den Wänden generell lieber sehr schlichte und absolu...	Design, die Verzierung (der/die/das);A1
+{{c1::bevorzugen::ziehen vor, präferieren|präferieren}}	Sie bevorzugen die Ruhe am Morgen.	ziehen vor, präferieren (regelmäßig);A1
+{{c1::versäumen::verpassen, verpassen|verpassen}}	Wer den Wecker übersieht, versäumt den Zug.	verpassen, verpassen (regelmäßig);A1
+{{c1::Vorstellung::Idee, natürlich Fantasie|Fantasie}}	Er denkt, er kann dort den ganzen Tag nur am Strand liegen und Cockta...	Idee, Fantasie (die (fem.));A1
+{{c1::Flugfähigkeit::Fähigkeit zu fliegen|}}	Das Modell sah einfach viel zu klobig und viel zu schwer aus.	Fähigkeit zu fliegen (die (fem.));A1
+{{c1::Fluggerät,-e::Luftfahrzeug, Flugmaschine|Flugmaschine}}	Moderne Fluggeräte sind hochtechnologisch.	Luftfahrzeug, Flugmaschine (der/die/das);A1
+{{c1::Flugfähigkeit::Flugtauglichkeit, Lufttüchtigkeit|Lufttüchtigkeit}}	Die Flugfähigkeit muss unter verschiedenen Bedingungen nachgewiesen we...	Flugtauglichkeit, Lufttüchtigkeit (die (fem.));A1
+{{c1::Lehrplan,&quot;-e::Curriculum, Bildungsplan|Bildungsplan}}	Lehrpläne sollten flexibel genug sein, um auf individuelle Bedürfnisse...	Curriculum, Bildungsplan (der/die/das);A1
+{{c1::Ausreiseantrag::Gesuch, das Land zu verlassen|das Land zu verlassen}}	„Ich hatte einen Ausreiseantrag laufen, ja.	Gesuch, das Land zu verlassen (der/die/das);A1
+{{c1::hinfällig::ungültig, überflüssig|überflüssig}}	Aurick Günther war 20, als die Berliner Mauer fiel, sein laufender, ge...	ungültig, überflüssig ();A1
+{{c1::Luftzug::ziehende Luft|}}	Schon ein kühler Luftzug kann ein Frösteln bewirken, und wir bekommen ...	ziehende Luft (der/die/das);A1
+{{c1::Frösteln::leichtes Frieren|}}	Schon ein kühler Luftzug kann ein Frösteln bewirken, und wir bekommen ...	leichtes Frieren (regelmäßig);A1
+{{c1::eingeprägt::im praktisch Gedächtnis festgesetzt|}}	Und, das hat sich eingeprägt, und ich hab’ auch versucht, die dann wei...	im Gedächtnis festgesetzt (der/die/das);A1
+{{c1::erwecken::hervorzurufen|}}	...wo ein Hotelgast seine Koffer vor die Tür stellt, um in anderen den...	hervorzurufen (regelmäßig);A1
+{{c1::wehrt::verteidigt, sträubt|sträubt}}	...wohingegen in der deutschsprachigen Schweiz Deutschland viel stärke...	verteidigt, sträubt (der/die/das);A1
+{{c1::Bezugspunkt::Orientierungsmaßstab|}}	...wohingegen in der deutschsprachigen Schweiz Deutschland viel stärke...	Orientierungsmaßstab (der/die/das);A1
+{{c1::Schadenfreude::Freude über das Missgeschick anderer|}}	Die Lust an der Schadenfreude behielt Busch trotz der Schläge...	Freude über das Missgeschick anderer (der/die/das);A1
+{{c1::Bahnhof::nichts natürlich verstehen (Redewendung)|}}	Bei Schweizer Dialekten verstehen Sprachassistenten zu häufig nur Bahn...	nichts verstehen (Redewendung) (der/die/das);A1
+{{c1::erweitert seinen Horizont::bekommt neue Perspektiven (Redewendung)|}}	Reisen öffnet uns die Augen, erweitert unseren Horizont, bietet uns Pe...	bekommt neue Perspektiven (Redewendung) (der/die/das);A1
+{{c1::Eigenversuchen::Experimenten an sich selbst|}}	Auf seinen Forschungsreisen betrieb er Studien und scheute auch Eigenv...	Experimenten an sich selbst (regelmäßig);A1
+{{c1::aufzugehen::funktionieren, erfolgreich sein|erfolgreich sein}}	Das Konzept scheint aufzugehen.	funktionieren, erfolgreich sein (regelmäßig);A1
+{{c1::wegzustecken::ertragen, hinnehmen zu können|}}	Umgangssprachlich für das Ertragen von Rückschlägen ohne aufzugeben.	ertragen, hinnehmen zu können (regelmäßig);A1
+{{c1::aufs Spiel zu setzen::riskieren, in große Gefahr bringen|in große Gefahr bringen}}	Eine Redewendung dafür, ein extrem hohes (oft lebensgefährliches) Risi...	riskieren, in große Gefahr bringen (regelmäßig);A1
+{{c1::selbst treu zu bleiben::seine eigenen Werte bewahren|}}	Eine Redewendung dafür, seine eigenen Prinzipien und seinen Charakter ...	seine eigenen Werte bewahren (regelmäßig);A1
+{{c1::Fernweh::Sehnsucht nach der Ferne|}}	Ein wunderschönes deutsches Wort für die Sehnsucht, in ferne Länder zu...	Sehnsucht nach der Ferne (der/die/das);A1
+{{c1::nichts also am Hut::nichts zu tun/kein Interesse daran|kein Interesse daran}}	Kommt ursprünglich von der Sitte, seine Gruppenzugehörigkeit durch das...	nichts zu tun | kein Interesse daran (der/die/das);A1

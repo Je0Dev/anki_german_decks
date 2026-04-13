@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::Essen
+{{c1::Hitzewelle::die Heißwetterperiode|}}	Während einer Hitzewelle sollte man unbedingt sehr viel klares Wasser ...	die Heißwetterperiode (der/die/das);A1
+{{c1::Ansturm::der Andrang|}}	Das Personal im Restaurant war auf den extremen Ansturm mittags überha...	der Andrang (der/die/das);A1
+{{c1::angemessen::passend|}}	Ein gutes Trinkgeld von zehn Prozent ist in diesem feinen Restaurant a...	passend (regelmäßig);A1
+{{c1::Sensorische::sinnlich, wahrnehmend|wahrnehmend}}	Ein gutes Restaurant bietet seinen Gästen immer auch ein tolles sensor...	sinnlich, wahrnehmend (der/die/das);A1
+{{c1::nehme mir vor::planen, beschließen|beschließen}}	Er nahm sich fest vor, ab heute absolut überhaupt keinen Alkohol mehr ...	planen, beschließen (der/die/das);A1
+{{c1::knauserig::geizig, übertrieben sparsam|übertrieben sparsam}}	In Sachen Essen und Trinken sind die Deutschen im europäischen Verglei...	geizig, übertrieben sparsam ();A1
+{{c1::Patentrezept::einfache Lösung, die immer funktioniert|die immer funktioniert}}	Für die Diplompsychologin gibt es kein Patentrezept für eine glücklich...	einfache Lösung, die immer funktioniert (der/die/das);A1

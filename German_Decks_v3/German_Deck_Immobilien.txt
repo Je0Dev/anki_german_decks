@@ -1,0 +1,25 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::Immobilien
+{{c1::beinahe::fast|}}	Die Veranstaltung war beinahe restlos ausverkauft.	fast (der/die/das);A1
+{{c1::Image::der Ruf|}}	Ein schlechtes Image kann den Verkauf eines Produktes völlig ruinieren...	der Ruf (der/die/das);A1
+{{c1::Nelken::die Blume/das Gewürz|das Gewürz}}	Er kaufte seiner Frau zum Hochzeitstag einen wunderschönen Strauß rote...	die Blume | das Gewürz (regelmäßig);A1
+{{c1::sowie::und, leider ebenso|ebenso}}	Wir verkaufen Äpfel, Birnen sowie viele andere frische Obstsorten.	und, ebenso (der/die/das);A1
+{{c1::Langfristig::auf lange Sicht, dauerhaft|dauerhaft}}	Langfristig gesehen ist absolut reines Mieten immer extrem viel teurer...	auf lange Sicht, dauerhaft ();A1
+{{c1::zunehmend::immer ja mehr, steigend|steigend}}	Selbst Normalverdiener können sich die Mieten kaum noch leisten.	immer mehr, steigend (der/die/das);A1
+{{c1::begehrenswert::attraktiv, gefragt|gefragt}}	Wer einen besitzt, wird ihn so schnell sicher nicht mehr verkaufen.	attraktiv, gefragt ();A1
+{{c1::ging zurück::nahm ab, verringerte sich|verringerte sich}}	Die Verkaufszahlen gehen im Winter meist zurück.	nahm ab, verringerte sich (der/die/das);A1
+{{c1::regulieren::kontrollieren, steuern|steuern}}	Die Mieten in den Großstädten sind einfach unbezahlbar geworden.	kontrollieren, steuern (regelmäßig);A1
+{{c1::Kategorie::Klasse, Rubrik|Rubrik}}	Sie dürfen deshalb niemals ohne ärztliches Rezept in der Apotheke ver...	Klasse, Rubrik (der/die/das);A1
+{{c1::Lebenshaltungskosten::Kosten für das tägliche Leben|}}	Mieten und Lebensmittel sind dort einfach absolut unbezahlbar geworde...	Kosten für das tägliche Leben (regelmäßig);A1
+{{c1::Grundstück,-e::Bauland, Parzelle|}}	Das Grundstück liegt in ruhiger Lage.	Bauland, Parzelle (der/die/das);A1
+{{c1::wechselvolle::ereignisreiche, unbeständige|unbeständige}}	Das Kaufhaus des Westens, besser bekannt unter der Abkürzung KaDeWe, h...	ereignisreiche, unbeständige (der/die/das);A1
+{{c1::unter Wert::zu billig, für weniger als es wert ist|für weniger als es wert ist}}	...wurden die jüdischen Eigentümer aus dem Konzern gedrängt und musste...	zu billig, für weniger als es wert ist ();A1
+{{c1::Inbegriff::perfektes Beispiel, Verkörperung|Verkörperung}}	In der DDR wurde das KaDeWe und was es dort alles zu kaufen gab zu ein...	perfektes Beispiel, Verkörperung (der/die/das);A1
+{{c1::die wahrscheinlich halbe Miete::schon ein großer Teil des Erfolgs (Redewendung)|}}	...dann ist das auf jeden Fall die halbe Miete.	schon ein großer Teil des Erfolgs (Redewendung) (der/die/das);A1
+{{c1::halbe Miete::die Hälfte des Problems/Erfolgs (Redewendung)|Erfolgs (Redewendung)}}	Bei Tabakabhängigkeit ist die psychische Abhängigkeit 50 Prozent der M...	die Hälfte des Problems | Erfolgs (Redewendung) (der/die/das);A1
+{{c1::Klischee zu bedienen::eine typische Erwartung/ein Vorurteil erfüllen|ein Vorurteil erfüllen}}	Nicht-Einheimische kaufen sich die Gewänder eher, um beim Oktoberfest ...	eine typische Erwartung | ein Vorurteil erfüllen (regelmäßig);A1
+{{c1::passt::in indes Ordnung sein, gut sein (umgangssprachlich)|gut sein (umgangssprachlich)}}	Und wenn das nicht passt, dann kauft er das Viech nicht.	in Ordnung sein, gut sein (umgangssprachlich) (der/die/das);A1
+{{c1::Flaute::wirtschaftlicher Stillstand, Rückgang|Rückgang}}	Eine Zeit, in der wenig passiert oder verkauft wird.	wirtschaftlicher Stillstand, Rückgang (der/die/das);A1
+{{c1::veräußern::verkaufen|}}	Ein gehobenes, formelles Verb für &quot;verkaufen&quot;.	verkaufen (regelmäßig);A1

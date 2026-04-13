@@ -1,0 +1,47 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::Philosophie
+{{c1::moralisch fragwürdig::ethisch nicht korrekt|}}	Ihre Entscheidung, die Wahrheit zu verschweigen, ist moralisch fragwür...	ethisch nicht korrekt ();A1
+{{c1::versunken::untergehen|}}	Er saß auf dem Sofa und war völlig in seine Gedanken versunken.	untergehen (regelmäßig);A1
+{{c1::Besinnung::das Nachdenken/das Bewusstsein|}}	Weihnachten sollte eigentlich ein friedliches Fest der Besinnung und R...	das Nachdenken | das Bewusstsein (die (fem.));A1
+{{c1::in den Sinn gekommen::einfallen|}}	Als er das alte Foto sah, sind ihm viele schöne Erinnerungen in den Si...	einfallen (regelmäßig);A1
+{{c1::voraus::vorhergehen, selbstverständlich vorangehen|vorangehen}}	Dem schweren Unfall ging eine völlig leichtsinnige und dumme Aktion vo...	vorhergehen, vorangehen (der/die/das);A1
+{{c1::Gedankenaustausch::Ideenaustausch, Dialog|Dialog}}	Wenn wir nicht miteinander sprechen, entstehen nur unnötige Missverst...	Ideenaustausch, Dialog (der/die/das);A1
+{{c1::Individualist::Einzelgänger, total Freigeist|Freigeist}}	Er zieht lieber sein eigenes Ding durch, egal was andere denken.	Einzelgänger, Freigeist (der/die/das);A1
+{{c1::subtil::fein, unterschwellig|unterschwellig}}	Erst beim genauen Nachdenken merkte man, wie scharf seine Worte eigen...	fein, unterschwellig (der/die/das);A1
+{{c1::sensorischen::sinnlichen, die Sinne betreffenden|die Sinne betreffenden}}	Unser empfindlicher Geruchssinn ist im Gehirn sehr direkt mit unseren...	sinnlichen, die Sinne betreffenden (regelmäßig);A1
+{{c1::Ideen- und Gedankenaustausch::Diskussion, Brainstorming|Brainstorming}}	Der Austausch von Ideen ist für die Innovation wichtig.	Diskussion, Brainstorming (der/die/das);A1
+{{c1::Individualist::Einzelgänger, indes Einzelkämpfer|Einzelkämpfer}}	Individualisten denken oft anders.	Einzelgänger, Einzelkämpfer (der/die/das);A1
+{{c1::Klischee::Vorurteil, Stereotyp|Stereotyp}}	Viele Klischees entsprechen nicht der Wahrheit.	Vorurteil, Stereotyp (der/die/das);A1
+{{c1::Sinneseindruck::Wahrnehmung, praktisch sensorischer Reiz|}}	Viele Sinneseindrücke überfluten uns täglich.	Wahrnehmung, sensorischer Reiz (der/die/das);A1
+{{c1::prozedurales::ablaufbezogenes, motorisches|motorisches}}	Wir müssen beim Ausführen solcher Bewegungen überhaupt nicht mehr akt...	ablaufbezogenes, motorisches (der/die/das);A1
+{{c1::Forscher::Wissenschaftler, Gelehrter|Gelehrter}}	Er sucht stets nach der tieferen Wahrheit hinter den Dingen.	Wissenschaftler, Gelehrter (der/die/das);A1
+{{c1::Stunde schlägt*::der Zeitpunkt ist gekommen, es ist soweit|es ist soweit}}	Die Stunde der Wahrheit hat geschlagen.	der Zeitpunkt ist gekommen, es ist soweit (der/die/das);A1
+{{c1::scheinbar::äußerlich, oberflächlich|oberflächlich}}	In tiefster Wahrheit ärgerte er sich nämlich maßlos über unseren uner...	äußerlich, oberflächlich ();A1
+{{c1::effektiver::wirksamer, effizienter|effizienter}}	Sonst verschwenden wir hier weiterhin jeden Tag unzählige wertvolle S...	wirksamer, effizienter (der/die/das);A1
+{{c1::reflexhaft::instinktiv, automatisch|automatisch}}	Er hatte in diesem winzigen Moment gar keine Zeit, bewusst darüber na...	instinktiv, automatisch ();A1
+{{c1::einleuchtend::verständlich, logisch|logisch}}	Ich kann deinen klugen Gedankengängen absolut ohne Probleme folgen.	verständlich, logisch (der/die/das);A1
+{{c1::ab/schweifen::abschweifen, abschweifen lassen|abschweifen lassen}}	Seine Gedanken schweiften ab.	abschweifen, abschweifen lassen (regelmäßig);A1
+{{c1::Nachdenken::Reflexion, Grübeln|Grübeln}}	In Ruhe nachdenken fördert die Kreativität.	Reflexion, Grübeln (regelmäßig);A1
+{{c1::instinktiv::intuitiv, automatisch|automatisch}}	Sein Körper reagierte in diesem winzigen Moment völlig ohne bewusstes...	intuitiv, automatisch (der/die/das);A1
+{{c1::Umdenken::Änderung der Denkweise|}}	Wir können einfach nicht ewig so tun, als hätten wir noch drei weiter...	Änderung der Denkweise (regelmäßig);A1
+{{c1::Ersinnen*::erdichten, erfinden, ausdenken|}}	Sie ersann einen cleveren Plan.	erdichten, erfinden, ausdenken (regelmäßig);A1
+{{c1::Ritual,-e::Zeremonie, Brauch, Feierlichkeit|Brauch}}	Rituale geben dem Leben Struktur und Sinn.	Zeremonie, Brauch, Feierlichkeit (der/die/das);A1
+{{c1::unvermeidlich::nicht abwendbar|}}	Der Philosoph Carl Jaspers hat gesagt: Die Grenzsituationen menschlich...	nicht abwendbar ();A1
+{{c1::Sinnlosigkeit::Bedeutungslosigkeit|}}	Leid wird in Verbindung gebracht mit Sinnlosigkeit, der Frage nach dem...	Bedeutungslosigkeit (die (fem.));A1
+{{c1::übertragenen::metaphorischen|}}	Aber aufgepasst: Man kann auch im übertragenen Sinne schmutzige Wäsche...	metaphorischen (regelmäßig);A1
+{{c1::existenzbedrohend::lebensbedrohlich für den Betrieb|}}	So kann für Obst produzierende Betriebe beispielsweise Frost im Frühja...	lebensbedrohlich für den Betrieb (der/die/das);A1
+{{c1::Dichtung::Fantasie, Erfundenes|Erfundenes}}	...und was Wahrheit und Dichtung ist, das muss man dann selbst entsche...	Fantasie, Erfundenes (die (fem.));A1
+{{c1::ab und zu::manchmal|}}	Für jede und jeden stellt sich ab und zu die Frage: Hat mein Gegenüber...	manchmal (der/die/das);A1
+{{c1::geflunkert::leicht gelogen|}}	Darüber hinaus wird aber auch um uns herum nicht die Wahrheit gesagt, ...	leicht gelogen (der/die/das);A1
+{{c1::Inspiriert::angeregt|}}	Inspiriert von den Gedanken der Aufklärung verstand Friedrich Fröbel M...	angeregt (der/die/das);A1
+{{c1::Untertanen::Bürger unter einer Herrschaft|}}	Gehorsame Untertanen waren den Machthabern lieber als frei denkende In...	Bürger unter einer Herrschaft (regelmäßig);A1
+{{c1::perplex::sehr überrascht, verblüfft|verblüfft}}	...wo man zum Nachdenken angeregt wird, wo vielleicht auch erst mal je...	sehr überrascht, verblüfft (der/die/das);A1
+{{c1::steril::keimfrei, hier: unpersönlich/ausdruckslos|hier: unpersönlich}}	Hier im übertragenen Sinne für das Fehlen von individuellen Merkmalen ...	keimfrei, hier: unpersönlich | ausdruckslos (der/die/das);A1
+{{c1::stutzig::misstrauisch, nachdenklich, verwundert|nachdenklich}}	Ein Gefühl der Verwunderung, bei dem man anfängt nachzudenken.	misstrauisch, nachdenklich, verwundert ();A1
+{{c1::gemischten Gefühlen::teils positiv, teils negativ|teils negativ}}	Eine Redewendung dafür, dass man zu einer Sache sowohl gute als auch s...	teils positiv, teils negativ (regelmäßig);A1
+{{c1::im übertragenen Sinn::metaphorisch, nicht wörtlich|}}	Eine feste Wendung für eine metaphorische oder symbolische Bedeutung.	metaphorisch, nicht wörtlich (der/die/das);A1
+{{c1::Jeder ist sich selbst der Nächste::zuerst an den eigenen Vorteil denken|}}	Ein bekanntes Sprichwort, das ausdrückt, dass Menschen in erster Linie...	zuerst an den eigenen Vorteil denken (der/die/das);A1
+{{c1::aufsaugen::in sich aufnehmen, intensiv erleben|intensiv erleben}}	Ein Verb, das hier im übertragenen Sinn bedeutet, Eindrücke intensiv i...	in sich aufnehmen, intensiv erleben (regelmäßig);A1
+{{c1::seinen Gedanken freien Lauf lassen::ungestört nachdenken|}}	Eine schöne, fast poetische Redewendung dafür, den eigenen Gedanken ke...	ungestört nachdenken (regelmäßig);A1

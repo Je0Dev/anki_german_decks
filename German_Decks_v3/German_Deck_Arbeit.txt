@@ -1,0 +1,348 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::Arbeit
+{{c1::im Schichtdienst arbeiten::in Schichten arbeiten|}}	Nach zehn Jahren fiel es ihr schwer, noch immer im Schichtdienst zu ar...	in Schichten arbeiten (regelmäßig);A1
+{{c1::Arbeiterviertel::der also Industriebezirk|}}	Die Mieten in dem alten Arbeiterviertel steigen rasant an.	der Industriebezirk (der/die/das);A1
+{{c1::gebräunt::braun gebrannt|}}	Seine Haut war von der harten Arbeit auf dem Feld dunkel gebräunt.	braun gebrannt (der/die/das);A1
+{{c1::Umgang::die Handhabung|}}	Sein grober Umgang mit den Kollegen sorgt oft für Konflikte.	die Handhabung (der/die/das);A1
+{{c1::zufolge::laut/nach natürlich (mit +Dativ)|nach (mit +Dativ)}}	Gerüchten zufolge soll das Geschäft bald endgültig schließen.	laut | nach (mit +Dativ) (der/die/das);A1
+{{c1::beständiges::dauerhaft/stabil|stabil}}	Ihre Leistungen im Unternehmen sind auf einem beständig hohen Niveau.	dauerhaft | stabil (der/die/das);A1
+{{c1::übersteigt::mehr sein als|}}	Die Kosten für das Bauprojekt übersteigen unser gesamtes Budget.	mehr sein als (der/die/das);A1
+{{c1::auf::haben/zeigen|zeigen}}	Der Vertrag weist an mehreren Stellen rechtliche Fehler auf.	haben | zeigen (der/die/das);A1
+{{c1::motiviert::engagiert sein|}}	Ein motivierter Mitarbeiter arbeitet oft viel schneller als andere.	engagiert sein (der/die/das);A1
+{{c1::Aufgrund::wegen|}}	Aufgrund seiner langen Erfahrung wurde er für den Job ausgewählt.	wegen (der/die/das);A1
+{{c1::Nebenwirkungen::der unerwünschte Effekt|}}	Ein Verlust von Arbeitsplätzen wäre eine schlimme Nebenwirkung dieser ...	der unerwünschte Effekt (regelmäßig);A1
+{{c1::Brandschutzbeauftragte::der Brandschutz-Experte|}}	Jede große Firma muss gesetzlich einen Brandschutzbeauftragten einstel...	der Brandschutz-Experte (der/die/das);A1
+{{c1::beseitigen::entfernen|}}	Die Arbeiter konnten den Mangel an der Maschine glücklicherweise schne...	entfernen (regelmäßig);A1
+{{c1::Fachkräften::der qualifizierte Arbeiter|}}	Das kleine Unternehmen sucht dringend nach einer neuen Fachkraft für I...	der qualifizierte Arbeiter (regelmäßig);A1
+{{c1::Lehrgang::der Kurs|}}	Der Chef schickt seine Mitarbeiter jedes Jahr auf einen teuren Lehrgan...	der Kurs (der/die/das);A1
+{{c1::Wohlstand::der Reichtum|}}	Der wachsende Wohlstand in der Region führte zu vielen neuen Bauprojek...	der Reichtum (der/die/das);A1
+{{c1::Selbstvertrauen::das Vertrauen in sich selbst|}}	Nach dem Fehler in der Präsentation hat sie etwas an Selbstvertrauen v...	das Vertrauen in sich selbst (regelmäßig);A1
+{{c1::Zufriedenheit::die Glücklichkeit|}}	Die hohe Zufriedenheit unserer Kunden ist unser oberstes Ziel.	die Glücklichkeit (der/die/das);A1
+{{c1::hochgearbeitet::Karriere machen|}}	Es dauert Jahre, bis man sich in dieser Branche erfolgreich hochgearbe...	Karriere machen (der/die/das);A1
+{{c1::umdenken::die Meinung ändern|}}	Wenn die Verkaufszahlen nicht steigen, muss die Firma wohl umdenken.	die Meinung ändern (regelmäßig);A1
+{{c1::Gehaltserhöhung::die Lohnerhöhung|}}	Ohne eine Gehaltserhöhung werde ich mir wohl einen neuen Job suchen mü...	die Lohnerhöhung (die (fem.));A1
+{{c1::Arbeitskräften::der Arbeitnehmer|}}	In der Landwirtschaft fehlt es während der Ernte oft an Arbeitskräften...	der Arbeitnehmer (regelmäßig);A1
+{{c1::Bislang::bis ziemlich jetzt|}}	Bislang lief in diesem großen Projekt alles streng nach Plan.	bis jetzt (der/die/das);A1
+{{c1::verarbeitet::bewältigen|}}	Die Fabrik verarbeitet täglich tonnenweise frisches Obst zu Saft.	bewältigen (der/die/das);A1
+{{c1::gemeistert::bewältigen/schaffen|schaffen}}	Sie hat die Krise im Unternehmen sehr gut gemeistert.	bewältigen | schaffen (der/die/das);A1
+{{c1::verpflichtet::versprechen (verbindlich)|}}	Die Firma hat sich dazu verpflichtet, in Zukunft mehr recycelte Materi...	versprechen (verbindlich) (der/die/das);A1
+{{c1::ungenügend::nicht ausreichend|}}	Das Angebot der Firma war ungenügend, weshalb wir es abgelehnt haben.	nicht ausreichend (der/die/das);A1
+{{c1::Absolventen::jemand mit Abschluss|}}	Die Firma sucht nach jungen und motivierten Absolventen der Informatik...	jemand mit Abschluss (regelmäßig);A1
+{{c1::eigenständig::selbstständig|}}	Sie führt ihre Projekte völlig eigenständig und ohne Hilfe durch.	selbstständig ();A1
+{{c1::Höhepunkt::das Maximum/das Highlight|das Highlight}}	Der Höhepunkt seiner Karriere war der Gewinn der Weltmeisterschaft.	das Maximum | das Highlight (der/die/das);A1
+{{c1::Freiwilligenarbeit::die ehrenamtliche Arbeit|}}	Durch ihre Freiwilligenarbeit im Tierheim hat sie viel Neues gelernt.	die ehrenamtliche Arbeit (der/die/das);A1
+{{c1::dahingehend::in der Hinsicht|}}	Meine Überlegungen gehen dahingehend, dass wir das Projekt verschieben...	in der Hinsicht (der/die/das);A1
+{{c1::Unwillen::die Abneigung|}}	Trotz ihres Unwillens half sie am Ende doch bei der schweren Arbeit.	die Abneigung (regelmäßig);A1
+{{c1::kund::äußern/mitteilen|mitteilen}}	Der Chef wird seine Entscheidung noch heute Nachmittag kundtun.	äußern | mitteilen (der/die/das);A1
+{{c1::infolgedessen::deshalb/folglich|folglich}}	Das Unternehmen verlor viele Kunden und musste infolgedessen Filialen ...	deshalb | folglich (regelmäßig);A1
+{{c1::um den heißen Brei herum::nicht zur Sache kommen|}}	Wenn du eine Gehaltserhöhung willst, solltest du nicht lange um den he...	nicht zur Sache kommen (der/die/das);A1
+{{c1::Händedruck::das Händeschütteln|}}	Der vertragliche Deal wurde am Ende nur mit einem einfachen Händedruck...	das Händeschütteln (der/die/das);A1
+{{c1::Arbeitskultur::das Arbeitsklima|}}	Eine toxische Arbeitskultur führt dazu, dass viele Angestellte kündige...	das Arbeitsklima (der/die/das);A1
+{{c1::vorstellen::sich präsentieren/sich denken|sich denken}}	Darf ich Ihnen kurz meinen neuen Kollegen vorstellen?	sich präsentieren | sich denken (regelmäßig);A1
+{{c1::Mitspieler::der Teamkollege|}}	Bei diesem Brettspiel muss man manchmal gegen seine eigenen Mitspieler...	der Teamkollege (der/die/das);A1
+{{c1::Szenario::die Situation|}}	Im schlimmsten Szenario müssen wir die Firma leider komplett schließen...	die Situation (der/die/das);A1
+{{c1::vorbeigehen::enden/verstreichen|verstreichen}}	Lass uns an diesem überfüllten Geschäft einfach vorbeigehen.	enden | verstreichen (regelmäßig);A1
+{{c1::vernachlässigt::sich nicht kümmern um|}}	Du darfst deine Gesundheit auf keinen Fall für deinen Job vernachlässi...	sich nicht kümmern um (der/die/das);A1
+{{c1::Verfahren::die Methode|}}	Gegen die neue Firma wurde sofort ein rechtliches Verfahren eingeleite...	die Methode (regelmäßig);A1
+{{c1::Entspannungstraining::das Antistress-Training|}}	Nach dem anstrengenden Arbeitstag besuchte sie abends ein kurzes Entsp...	das Antistress-Training (der/die/das);A1
+{{c1::Ablauf::der logischerweise Verlauf|}}	Nach Ablauf der Frist können leider keine Bewerbungen mehr angenommen ...	der Verlauf (der/die/das);A1
+{{c1::beurkunden::beglaubigen|}}	Die Ehe der beiden wurde heute auf dem Standesamt feierlich beurkundet...	beglaubigen (regelmäßig);A1
+{{c1::Ausbilder::der Trainer/der Lehrer|der Lehrer}}	Er arbeitet in dem großen Betrieb als Ausbilder für junge Handwerker.	der Trainer | der Lehrer (der/die/das);A1
+{{c1::Urkunde::das Zeugnis/das Dokument|das Dokument}}	Zur Hochzeit bekamen sie eine offizielle Urkunde vom Standesamt überre...	das Zeugnis | das Dokument (der/die/das);A1
+{{c1::Sicherheitsgründen::die Gründe der Sicherheit|}}	Das defekte Fahrgeschäft auf dem Markt wurde aus Sicherheitsgründen so...	die Gründe der Sicherheit (regelmäßig);A1
+{{c1::Bestimmungen::die offensichtlich Vorschrift/das Gesetz|das Gesetz}}	Die genauen Bestimmungen des neuen Vertrages müssen wir erst noch prüf...	die Vorschrift | das Gesetz (regelmäßig);A1
+{{c1::Nomaden::der Wandervogel|}}	Auch im modernen Zeitalter gibt es noch digitale Nomaden, die weltweit...	der Wandervogel (regelmäßig);A1
+{{c1::Fall::der doch Vorfall|}}	Auf keinen Fall werde ich am Wochenende für meinen Kollegen arbeiten!	der Vorfall (der/die/das);A1
+{{c1::auf die Suche nach::anfangen zu suchen|}}	Nach dem Studium begab er sich auf die Suche nach einem passenden Job.	anfangen zu suchen (der/die/das);A1
+{{c1::angesiedelt::wohnhaft machen/platzieren|platzieren}}	Die meisten großen Banken sind in Frankfurt angesiedelt.	wohnhaft machen | platzieren (der/die/das);A1
+{{c1::überschreiten::übertreten|}}	Die Kosten für das Bauprojekt dürfen unser Limit auf keinen Fall übers...	übertreten (regelmäßig);A1
+{{c1::Luftfeuchtigkeit::die selbstverständlich Nässe in der Luft|}}	Eine zu geringe Luftfeuchtigkeit im Büro sorgt schnell für trockene Au...	die Nässe in der Luft (die (fem.));A1
+{{c1::bereitstellen::zur Verfügung stellen|}}	Der Staat muss mehr finanzielle Mittel für die Bildung bereitstellen.	zur Verfügung stellen (regelmäßig);A1
+{{c1::einstellen::sich vorbereiten auf|}}	Der Verkäufer muss sich im Gespräch schnell auf den jeweiligen Kunden ...	sich vorbereiten auf (regelmäßig);A1
+{{c1::zu schaffen::belasten|}}	Seine ständigen Rückenschmerzen machen ihm auf der Arbeit immer mehr z...	belasten (regelmäßig);A1
+{{c1::mangelt es an::es fehlt an|}}	Es mangelt uns momentan absolut an guten und qualifizierten Mitarbeite...	es fehlt an (der/die/das);A1
+{{c1::verschaffen::besorgen/erlangen|erlangen}}	Wir müssen uns erst einmal einen Überblick über die Finanzen verschaff...	besorgen | erlangen (regelmäßig);A1
+{{c1::voraus::bedingen/erwarten|erwarten}}	Ich setze voraus, dass du pünktlich um acht Uhr im Büro bist!	bedingen | erwarten (der/die/das);A1
+{{c1::Darlehen::der Kredit|}}	Wer ein Darlehen aufnimmt, muss monatlich hohe Zinsen an die Bank beza...	der Kredit (regelmäßig);A1
+{{c1::Antrag stellen::beantragen|}}	Wenn Sie Arbeitslosengeld möchten, müssen Sie rechtzeitig bei der Agen...	beantragen (regelmäßig);A1
+{{c1::leistungsstark::kraftvoll|}}	Für die Bearbeitung von großen Videos braucht man einen sehr leistungs...	kraftvoll (der/die/das);A1
+{{c1::rechtswidrig::illegal|}}	Die fristlose Kündigung der schwangeren Mitarbeiterin war laut Gericht...	illegal ();A1
+{{c1::vehement::heftig|}}	Er bestritt die fiesen Vorwürfe seiner Kollegen vehement und lautstark...	heftig (der/die/das);A1
+{{c1::selbstständig::eigenständig|}}	Seit ein paar Jahren arbeite ich komplett selbstständig als freier Gra...	eigenständig ();A1
+{{c1::anspruchsvoll::herausfordernd|}}	Der Chefkoch kreiert immer wieder sehr anspruchsvolle und komplexe Men...	herausfordernd ();A1
+{{c1::nachvollziehbar::verständlich|}}	Seine plötzliche Kündigung in der Firma war für niemanden wirklich nac...	verständlich ();A1
+{{c1::angemessen::passend|}}	Ein Gehalt von nur zehn Euro pro Stunde ist für diese schwere Arbeit n...	passend (regelmäßig);A1
+{{c1::polarisiert::spalten|}}	Sein harter Charakter und seine direkten Worte polarisieren das gesamt...	spalten (der/die/das);A1
+{{c1::gereizt::aggressiv|}}	Er war heute Morgen im Büro noch immer sehr gereizt.	aggressiv (der/die/das);A1
+{{c1::zurück::ablehnen|}}	Der Chef musste den unverschämten Vorschlag sofort zurückweisen.	ablehnen (der/die/das);A1
+{{c1::Handlungsspielraum::die Freiheit|}}	In diesem speziellen Projekt haben wir nur sehr wenig Handlungsspielra...	die Freiheit (der/die/das);A1
+{{c1::mangelnder::fehlend|}}	Das ambitionierte Projekt scheiterte am Ende an mangelnder Kommunikati...	fehlend (der/die/das);A1
+{{c1::Wertschätzung::die Anerkennung|}}	Jeder Mensch freut sich auf der Arbeit über echte Wertschätzung.	die Anerkennung (die (fem.));A1
+{{c1::schleppend::langsam|}}	Der Verkauf der neuen Produkte in den Geschäften läuft bisher leider e...	langsam (der/die/das);A1
+{{c1::Ruf::das Ansehen|}}	Sein extrem schlechter Ruf im Unternehmen eilte ihm bereits weit vorau...	das Ansehen (der/die/das);A1
+{{c1::Narzissmus::die Selbstverliebtheit|}}	Sein extremer Narzissmus machte die enge Zusammenarbeit mit ihm fast u...	die Selbstverliebtheit (der/die/das);A1
+{{c1::einschneidendes::drastisch|}}	Die unerwartete Kündigung war ein einschneidender Moment in seiner lan...	drastisch (der/die/das);A1
+{{c1::Qualifikation::die Befähigung|}}	Für diesen Chef-Posten reicht deine derzeitige Qualifikation leider no...	die Befähigung (der/die/das);A1
+{{c1::unbefristeten::dauerhaft|}}	Sie war sehr froh, als ihr Vertrag endlich unbefristet verlängert wurd...	dauerhaft (regelmäßig);A1
+{{c1::Hürden::das Hindernis|}}	Die deutsche Bürokratie ist für sehr viele junge Gründer eine riesige ...	das Hindernis (regelmäßig);A1
+{{c1::überflüssig::unnötig|}}	Seine lauten und arroganten Kommentare waren in dem gestrigen Meeting ...	unnötig ();A1
+{{c1::Vergütung::die total Bezahlung|}}	Die finanzielle Vergütung für freiwillige Überstunden ist im Arbeitsve...	die Bezahlung (die (fem.));A1
+{{c1::gewährleisten::sicherstellen|}}	Die Bank muss zu jeder Zeit die absolute Sicherheit der Kundengelder g...	sicherstellen (regelmäßig);A1
+{{c1::dotiert::bezahlt|}}	Der Posten als neuer Geschäftsführer in dieser Firma ist absolut hervo...	bezahlt (der/die/das);A1
+{{c1::Befugnis::die Erlaubnis|}}	Nur der Direktor der Schule hat die Befugnis, diesen wichtigen Vertrag...	die Erlaubnis (der/die/das);A1
+{{c1::bedürftige::arm|}}	Zu Weihnachten spendet die Firma oft viel Geld an kranke und bedürftig...	arm (der/die/das);A1
+{{c1::fatale::verheerend|}}	Es wäre ein wirklich fataler Fehler, bei diesem Projekt jetzt einfach ...	verheerend (der/die/das);A1
+{{c1::irreparablen::unheilbar|}}	Das tiefe Vertrauen zwischen den beiden Geschäftspartnern ist leider i...	unheilbar (regelmäßig);A1
+{{c1::gemeistert::bewältigen|}}	Zusammen werden wir diese finanziell schwere Krise schon irgendwie mei...	bewältigen (der/die/das);A1
+{{c1::Zuversicht::der erstaunlicherweise Optimismus|}}	Er verlor nach unzähligen Absagen langsam die Zuversicht, jemals wiede...	der Optimismus (der/die/das);A1
+{{c1::Umsetzung::die Realisierung|}}	Die überaus schnelle Umsetzung der neuen Regeln im Büro sorgte zunächs...	die Realisierung (die (fem.));A1
+{{c1::veranlasst::bewirken|}}	Er wird die Überweisung des fehlenden Geldes noch heute bei der Bank v...	bewirken (der/die/das);A1
+{{c1::Auswertung::die Analyse, die Evaluation|die Evaluation}}	Die genaue Auswertung der vielen ausgefüllten Umfragen dauert im Büro ...	die Analyse, die Evaluation (die (fem.));A1
+{{c1::Branche::der Wirtschaftszweig, der Sektor|der Sektor}}	Er arbeitet schon seit sehr vielen Jahren sehr erfolgreich in der IT-B...	der Wirtschaftszweig, der Sektor (der/die/das);A1
+{{c1::Regulierung::die Regelung, die Kontrolle|die Kontrolle}}	Eine strikte Regulierung der Banken soll angeblich eine ganz neue Fina...	die Regelung, die Kontrolle (die (fem.));A1
+{{c1::Anteil::der Prozentsatz, der Teil|}}	Ein unfassbar großer Anteil meines Gehalts geht jeden Monat nur für di...	der Prozentsatz, der Teil (der/die/das);A1
+{{c1::begehrenswert::erstrebenswert, attraktiv|attraktiv}}	Ein völlig entspanntes Leben in absoluter finanzieller Freiheit ist se...	erstrebenswert, attraktiv ();A1
+{{c1::Produktplatzierung::die Produktwerbung, das Product Placement|das Product Placement}}	Durch geschickte Produktplatzierung finanzieren Youtuber oft ihre teur...	die Produktwerbung, das Product Placement (die (fem.));A1
+{{c1::Maßnahme::die Aktion, der Schritt|der Schritt}}	Diese harte finanzielle Maßnahme war bitter nötig, um die Firma noch v...	die Aktion, der Schritt (der/die/das);A1
+{{c1::Kommunikationskanal::der Übertragungsweg, das Medium|das Medium}}	Eine einfache Email ist in diesem Büro der einzige offizielle Kommunik...	der Übertragungsweg, das Medium (der/die/das);A1
+{{c1::potenzieller::möglich, wahrscheinlich|wahrscheinlich}}	Wir müssen alle potenziellen Risiken vor dem Projektbeginn genau prüfe...	möglich, wahrscheinlich (der/die/das);A1
+{{c1::Arbeitsforschung::die Arbeitswissenschaft, die Berufsforschung|}}	Laut der neuesten Arbeitsforschung macht ständiger Lärm im Großraumbür...	die Arbeitswissenschaft, die Berufsforschung (die (fem.));A1
+{{c1::bestimmen::festlegen, entscheiden|entscheiden}}	Der Chef wird heute Nachmittag den genauen Termin für das Meeting best...	festlegen, entscheiden (regelmäßig);A1
+{{c1::Neocortex::der Großhirnrinde, der Hirnmantel|}}	Sprache und Bewusstsein werden beim Menschen im Neocortex verarbeitet.	der Großhirnrinde, der Hirnmantel (der/die/das);A1
+{{c1::angeordnet::ordnen, sortieren|sortieren}}	Der Chef hat angeordnet, dass alle Mitarbeiter heute früher gehen dürf...	ordnen, sortieren (der/die/das);A1
+{{c1::Bekanntermaßen::wie bekannt, allgemein bekannt|allgemein bekannt}}	Er ist bekanntermaßen nicht gerade der pünktlichste Mitarbeiter in der...	wie bekannt, allgemein bekannt (regelmäßig);A1
+{{c1::dieselben::die gleichen, identisch|identisch}}	Er trägt fast jeden Tag genau denselben alten Pullover zur Arbeit.	die gleichen, identisch (regelmäßig);A1
+{{c1::Monotonie::die Eintönigkeit, die Gleichförmigkeit|die Gleichförmigkeit}}	Sie kündigte den Job, weil sie die ständige Monotonie nicht mehr ertra...	die Eintönigkeit, die Gleichförmigkeit (der/die/das);A1
+{{c1::Parameter::der Faktor, die Größe|die Größe}}	Wenn wir die Parameter der Maschine ändern, wird sie vermutlich viel s...	der Faktor, die Größe (der/die/das);A1
+{{c1::Gewissenhaftigkeit::die Sorgfalt, die Zuverlässigkeit|die Zuverlässigkeit}}	Er prüft die Abrechnungen jeden Monat mit unglaublicher Gewissenhaftig...	die Sorgfalt, die Zuverlässigkeit (die (fem.));A1
+{{c1::Binnen::innerhalb, in|in}}	Die Rechnung muss zwingend binnen vierzehn Tagen ohne Abzug bezahlt we...	innerhalb, in (regelmäßig);A1
+{{c1::erzielte::erreichen, erzielen|erzielen}}	Die Firma will in diesem Jahr einen neuen Rekordgewinn erzielen.	erreichen, erzielen (der/die/das);A1
+{{c1::Probant::der überraschend Versuchsteilnehmer, der Testperson|der Testperson}}	Jeder Probant in diesem Experiment bekommt für seine Zeit eine finanzi...	der Versuchsteilnehmer, der Testperson (der/die/das);A1
+{{c1::schwer gehabt::Schwierigkeiten haben, leiden|leiden}}	Wer die Landessprache nicht richtig spricht, wird es auf dem Arbeitsma...	Schwierigkeiten haben, leiden (der/die/das);A1
+{{c1::Einteilung::die ziemlich Klassifizierung, die Kategorisierung|}}	Die Einteilung der Mitarbeiter in unterschiedliche und neue Schichten ...	die Klassifizierung, die Kategorisierung (die (fem.));A1
+{{c1::über::besitzen, haben|haben}}	Er verfügt leider nicht über die absolute nötige Erfahrung für diesen ...	besitzen, haben (der/die/das);A1
+{{c1::Kapital::das Geld, das Vermögen|das Vermögen}}	Die junge und moderne Firma braucht dringend extrem frisches Kapital, ...	das Geld, das Vermögen (der/die/das);A1
+{{c1::weiterhin fort::weiter existieren, bleiben|}}	Unsere lange und sehr gute vertragliche Vereinbarung wird absolut unve...	weiter existieren, bleiben (der/die/das);A1
+{{c1::Lebensstil::die Lebensart, der Lebensweg|der Lebensweg}}	Sein sehr luxuriöser Lebensstil lässt sich mit seinem aktuell normalen...	die Lebensart, der Lebensweg (der/die/das);A1
+{{c1::bezeichnet::nennen, benennen|benennen}}	Sie bezeichnet ihren aktuellen absolut nervigen Chef sehr oft heimlich...	nennen, benennen (der/die/das);A1
+{{c1::Migrationshintergrund::die Migrationsgeschichte, der Einwanderungshintergrund|}}	Viele absolut talentierte Jugendliche mit Migrationshintergrund haben ...	die Migrationsgeschichte, der Einwanderungshintergrund (der/die/das);A1
+{{c1::Entsprechend::gemäß, entsprechend|entsprechend}}	Er wurde für seine absolut hervorragende Leistung in der Firma nun end...	gemäß, entsprechend (der/die/das);A1
+{{c1::unangenehm auf::negativ auffallen, stören|stören}}	Der neue Kollege fällt leider durch seine extrem ständige Verspätung j...	negativ auffallen, stören (der/die/das);A1
+{{c1::Unbeholfenheit::die Ungeschicklichkeit, die Schüchternheit|die Schüchternheit}}	Ihre plötzliche Unbeholfenheit im wichtigen Gespräch mit dem neuen Che...	die Ungeschicklichkeit, die Schüchternheit (der/die/das);A1
+{{c1::erkennbar::sichtbar, deutlich|deutlich}}	Er war heute Morgen im Büro aus einem mir absolut unbekannten Grund ni...	sichtbar, deutlich ();A1
+{{c1::Aufstieg::der Erfolg, die Karriere|die Karriere}}	Sein extrem schneller beruflicher Aufstieg in der großen Firma überras...	der Erfolg, die Karriere (der/die/das);A1
+{{c1::Aufstiegsmöglichkeiten::die Karrierechancen, die Beförderungsmöglichkeiten|die Beförderungsmöglichkeiten}}	Diese internationale große Firma bietet extrem schnelle und absolut ex...	die Karrierechancen, die Beförderungsmöglichkeiten (regelmäßig);A1
+{{c1::Diskriminierung::die Benachteiligung, die Ungleichbehandlung|die Ungleichbehandlung}}	Rassistische Diskriminierung am Arbeitsplatz muss vom Chef immer absol...	die Benachteiligung, die Ungleichbehandlung (die (fem.));A1
+{{c1::relevant::wichtig, bedeutsam|bedeutsam}}	Für die Bewerbung sind nur deine Erfahrungen aus den letzten drei Jahr...	wichtig, bedeutsam (der/die/das);A1
+{{c1::konkretes::spezifisch, genau|genau}}	Ich brauche konkrete Zahlen, um diesen komplizierten Vertrag zu unters...	spezifisch, genau (der/die/das);A1
+{{c1::Verarbeitung::die Bearbeitung, die Analyse|}}	Die psychologische Verarbeitung eines solchen Schocks braucht extrem v...	die Bearbeitung, die Analyse (die (fem.));A1
+{{c1::fortgeführt::weiterführen, fortsetzen|}}	Nach dem Tod des Gründers wird das Unternehmen von seinem Sohn fortgef...	weiterführen, fortsetzen (der/die/das);A1
+{{c1::entwickelt sich weiter::fortschreiten, wachsen|wachsen}}	Du musst dich in diesem Job ständig weiterentwickeln, um nicht zurückz...	fortschreiten, wachsen (der/die/das);A1
+{{c1::Gegenwärtig::aktuell, derzeit|derzeit}}	Gegenwärtig arbeiten wir an drei verschiedenen und extrem großen Baupr...	aktuell, derzeit ();A1
+{{c1::Entlastung::die Erleichterung, die Befreiung|die Befreiung}}	Der neue Mitarbeiter brachte dem gesamten Team endlich eine deutliche ...	die Erleichterung, die Befreiung (die (fem.));A1
+{{c1::Vermeidungsmentalität::die besonders Vermeidungshaltung, die Ausweichmentalität|die Ausweichmentalität}}	Eine ständige Vermeidungsmentalität im Büro führt nur dazu, dass sich ...	die Vermeidungshaltung, die Ausweichmentalität (der/die/das);A1
+{{c1::wünschenswert::erstrebenswert, gewünscht|gewünscht}}	Ein pünktliches Erscheinen aller Mitarbeiter ist für dieses Meeting ab...	erstrebenswert, gewünscht ();A1
+{{c1::Mischung::die Kombination, die Zusammenstellung|die Zusammenstellung}}	Die richtige Mischung aus harter Arbeit und viel Entspannung ist im Le...	die Kombination, die Zusammenstellung (die (fem.));A1
+{{c1::Frustration::die Enttäuschung, der Frust|der Frust}}	Ihre tiefe Frustration über den schlecht bezahlten Job wuchs mit jedem...	die Enttäuschung, der Frust (der/die/das);A1
+{{c1::betonen::hervorheben, unterstreichen|unterstreichen}}	Der Chef betonte im Meeting immer wieder, wie wichtig absolute Pünktli...	hervorheben, unterstreichen (regelmäßig);A1
+{{c1::unwichtig::nebensächlich, irrelevant|irrelevant}}	Bitte störe mich bei der extrem wichtigen Arbeit nicht mit solch unwic...	nebensächlich, irrelevant ();A1
+{{c1::Diesbezüglich::diesbezüglich, dazu|dazu}}	Diesbezüglich müssen wir unbedingt noch einmal ganz ausführlich mit de...	diesbezüglich, dazu ();A1
+{{c1::Beeinträchtigung::die schon Störung, die Schädigung|die Schädigung}}	Trotz seiner körperlichen Beeinträchtigung arbeitet er jeden Tag extre...	die Störung, die Schädigung (die (fem.));A1
+{{c1::vom Fleck::vorankommen, Fortschritte machen|Fortschritte machen}}	Ohne echte finanzielle Unterstützung kommen wir mit diesem Startup abs...	vorankommen, Fortschritte machen (der/die/das);A1
+{{c1::Milliarde::tausend Millionen, 1.000.000.000|1.000.000.000}}	Das teure Projekt hat den Staat am Ende fast eine riesige und unglaubl...	tausend Millionen, 1.000.000.000 (der/die/das);A1
+{{c1::Umdenken::der echt Wandel, die Änderung|die Änderung}}	Nach der extrem schweren Krise fand beim Chef zum Glück ein absolutes ...	der Wandel, die Änderung (regelmäßig);A1
+{{c1::Macher::der Aktivist, der Umsetzer|der Umsetzer}}	Wir brauchen für dieses riesige extrem schwere Bauprojekt einen absolu...	der Aktivist, der Umsetzer (der/die/das);A1
+{{c1::Inwieweit::wie weit, in welchem Maße|in welchem Maße}}	Wir prüfen gerade extrem absolut exakt, inwieweit wir diesen völlig ab...	wie weit, in welchem Maße (der/die/das);A1
+{{c1::derzeitige::aktuelle, momentane|}}	Unter Berücksichtigung der derzeitigen absolut völlig extrem schlechte...	aktuelle, momentane (der/die/das);A1
+{{c1::entgegenwirken::bekämpfen, widerstehen|widerstehen}}	Um der extrem absolut völligen und extrem krassen Inflation absolut vö...	bekämpfen, widerstehen (regelmäßig);A1
+{{c1::Chefsekretärin::Assistentin der Geschäftsleitung|}}	Ohne sie würde in dieser Abteilung absolutes Chaos herrschen.	Assistentin der Geschäftsleitung (der/die/das);A1
+{{c1::opfern::aufgeben, hingeben|hingeben}}	Letztendlich hat sich die harte Arbeit aber absolut gelohnt.	aufgeben, hingeben (regelmäßig);A1
+{{c1::Verdienst::Lohn, Einkommen|Einkommen}}	Trotzdem arbeitet er hart und macht unzählige Überstunden.	Lohn, Einkommen (der/die/das);A1
+{{c1::Arbeitsmarkt::Stellenmarkt, Beschäftigungssektor|}}	In diesen Bereichen herrscht ein massiver Fachkräftemangel.	Stellenmarkt, Beschäftigungssektor (der/die/das);A1
+{{c1::Wirtschaftskrise::Rezession, besonders finanzielle Flaute|finanzielle Flaute}}	Tausende Arbeitnehmer verloren völlig unverschuldet ihren Job.	Rezession, finanzielle Flaute (der/die/das);A1
+{{c1::Probezeit::Testphase, Einarbeitungszeit|}}	Danach greift der reguläre Kündigungsschutz.	Testphase, Einarbeitungszeit (der/die/das);A1
+{{c1::Bundesagentur::Arbeitsagentur, Arbeitsamt|Arbeitsamt}}	Das ist wichtig, um keine Nachteile beim Arbeitslosengeld zu haben.	Arbeitsagentur, Arbeitsamt (der/die/das);A1
+{{c1::Hochleistungstechnologie::Spitzentechnik, High-Tech|High-Tech}}	Er kann Milliarden von Rechenoperationen in nur einer Sekunde ausführ...	Spitzentechnik, High-Tech (der/die/das);A1
+{{c1::Branche::Wirtschaftszweig, Sektor|Sektor}}	Seine Expertise ist auf dem Arbeitsmarkt extrem viel wert.	Wirtschaftszweig, Sektor (der/die/das);A1
+{{c1::beeindruckend::imposant, bemerkenswert|bemerkenswert}}	Sie hat es in nur drei Jahren vom Praktikanten in die Chefetage gesch...	imposant, bemerkenswert (der/die/das);A1
+{{c1::Gesundheitswesen::Gesundheitssystem, die medizinische Versorgung|die medizinische Versorgung}}	Ohne ausländische Fachkräfte würde das System sofort kollabieren.Leid...	Gesundheitssystem, die medizinische Versorgung (regelmäßig);A1
+{{c1::Auswertung::Analyse, Untersuchung|Untersuchung}}	Die Datenmenge ist einfach zu gewaltig, um sie rasch zu bearbeiten.	Analyse, Untersuchung (die (fem.));A1
+{{c1::einzustellen::anzustellen, zu beschäftigen|zu beschäftigen}}	Das Geschäft wächst momentan einfach rasant und wir brauchen dringend...	anzustellen, zu beschäftigen (regelmäßig);A1
+{{c1::privilegiert::bevorzugt, sehr begünstigt|begünstigt}}	Er musste sich nie so hart nach oben kämpfen wie seine normalen Kolle...	bevorzugt, begünstigt (der/die/das);A1
+{{c1::Arbeitgeber::Chef, Brötchengeber|}}	Ich bin sehr froh, dass ich die Stelle gewechselt habe.	Chef, Brötchengeber (der/die/das);A1
+{{c1::Abschluss::Examen, echt Diplom|Diplom}}	Die Konkurrenz auf dem internationalen Arbeitsmarkt schläft schließli...	Examen, Diplom (der/die/das);A1
+{{c1::attraktives::verlockendes, erstaunlicherweise ansprechendes|ansprechendes}}	Bei diesem enormen Gehalt konnte sie am Ende einfach nicht nein sagen...	verlockendes, ansprechendes (der/die/das);A1
+{{c1::klären::lösen, bereinigen|bereinigen}}	Sonst blockiert dieser Streit die Arbeit des gesamten Teams.	lösen, bereinigen (regelmäßig);A1
+{{c1::reibungslos::problemlos, glatt|glatt}}	Die engagierte Spedition hat dort wirklich ganze Arbeit geleistet.	problemlos, glatt ();A1
+{{c1::Gehirn::Denkorgan, Cerebrum|Cerebrum}}	Es macht zwar nur wenig Körpergewicht aus, leistet aber Schwerstarbei...	Denkorgan, Cerebrum (der/die/das);A1
+{{c1::Sauerstoff::Atemgas, O2|O2}}	Regelmäßiges Stoßlüften ist daher im vollbesetzten Büro enorm wichtig...	Atemgas, O2 (der/die/das);A1
+{{c1::vertragen::aushalten, tolerieren|tolerieren}}	Schon ein klitzekleines bisschen Chili sorgt bei ihm für starke Magen...	aushalten, tolerieren (regelmäßig);A1
+{{c1::absacken::abfallen, sinken|sinken}}	Mit purer Gewalt weiterzuarbeiten, bringt dir dann meistens ohnehin g...	abfallen, sinken (regelmäßig);A1
+{{c1::Tabaksteuer::Abgabe auf Zigaretten|}}	Gleichzeitig sollen dadurch Jugendliche vom Einstieg ins Rauchen abge...	Abgabe auf Zigaretten (der/die/das);A1
+{{c1::Montagmorgen::Wochenbeginn, Montag in der Früh|Montag in der Früh}}	Fast jeder Mitarbeiter wünscht sich da eigentlich das erholsame Woche...	Wochenbeginn, Montag in der Früh (regelmäßig);A1
+{{c1::Einzelkämpfer::Solist, Einzelgänger|Einzelgänger}}	Als echter Einzelkämpfer fällt es ihm oft extrem schwer, in einem groß...	Solist, Einzelgänger (der/die/das);A1
+{{c1::Chefsekretärin::Büroleiterin, Assistenz|Assistenz}}	Ohne die Chefsekretärin wäre das Bürochaos perfekt.	Büroleiterin, Assistenz (der/die/das);A1
+{{c1::aus/geführt::umgesetzt, realisiert|realisiert}}	Die Ausführung des Projekts dauerte länger als erwartet.	umgesetzt, realisiert (der/die/das);A1
+{{c1::Sozialform::Gruppenarbeit, wahrscheinlich Unterrichtsform|Unterrichtsform}}	In Einzelarbeit ist eine andere Sozialform als im Plenum.	Gruppenarbeit, Unterrichtsform (der/die/das);A1
+{{c1::im Alleingang::alleine, solo|solo}}	Im Alleingang ist die Arbeit doppelt so schwer.	alleine, solo (der/die/das);A1
+{{c1::auf partnerschaftlicher Basis::gleichberechtigt, fair|fair}}	Wir arbeiten auf partnerschaftlicher Basis zusammen.	gleichberechtigt, fair (der/die/das);A1
+{{c1::hochqualifizierte::spezialisierte, ganz experte|experte}}	Hochqualifizierte Mitarbeiter sind gesucht.	spezialisierte, experte (der/die/das);A1
+{{c1::Hochschulabsolvent::Akademiker, Uni-Absolvent|Uni-Absolvent}}	Viele Hochschulabsolventen suchen Arbeit.	Akademiker, Uni-Absolvent (der/die/das);A1
+{{c1::Arbeitsmarkt::Jobmarkt, Stellenmarkt|}}	Am Arbeitsmarkt ändern sich die Anforderungen.	Jobmarkt, Stellenmarkt (der/die/das);A1
+{{c1::Wirtschaftskrise::Rezession, doch Konjunkturkrise|Konjunkturkrise}}	Während der Wirtschaftskrise stieg die Arbeitslosigkeit.	Rezession, Konjunkturkrise (der/die/das);A1
+{{c1::Bundesagentur für Arbeit::Arbeitsamt, Jobcenter|}}	Man meldet sich bei der Bundesagentur für Arbeit.	Arbeitsamt, Jobcenter (der/die/das);A1
+{{c1::Gesundheitswesen::Medizinsystem, Gesundheitsystem|Gesundheitsystem}}	Im Gesundheitswesen arbeiten viele Menschen.	Medizinsystem, Gesundheitsystem (regelmäßig);A1
+{{c1::Arbeitgeber::Chef, Firma|}}	Der Arbeitgeber hat Fürsorgepflicht.	Chef, Firma (der/die/das);A1
+{{c1::Abschluss::Ende, besonders Endeprüfung|Endeprüfung}}	Der Abschluss des Projekts naht.	Ende, Endeprüfung (der/die/das);A1
+{{c1::attraktiv::reizvoll, ansprechend|ansprechend}}	Ein attraktives Gehalt ist wichtig.	reizvoll, ansprechend (der/die/das);A1
+{{c1::Tabakindustrie::Zigarettenkonzerne, Rauchwaren-Branche|Rauchwaren-Branche}}	Die Tabakindustrie investiert viel in Lobbyarbeit.	Zigarettenkonzerne, Rauchwaren-Branche (der/die/das);A1
+{{c1::Zunehmend::immer selbstverständlich mehr, wachsend|wachsend}}	Zunehmend arbeiten Menschen im Homeoffice.	immer mehr, wachsend (der/die/das);A1
+{{c1::begehrenswertes::erstrebenswertes, attraktives|attraktives}}	Ein ruhiger Arbeitsplatz ist für viele begehrenswert.	erstrebenswertes, attraktives (der/die/das);A1
+{{c1::Produktplatzierung::Werbemaßnahme, Product Placement|Product Placement}}	Produktplatzierung ist ein lukratives Geschäft.	Werbemaßnahme, Product Placement (die (fem.));A1
+{{c1::potenzielle::mögliche, potenzielle|potenzielle}}	Potenzielle Kunden werden im ersten Kontakt beraten.	mögliche, potenzielle (der/die/das);A1
+{{c1::bestehende::vorhandene, aktuelle|}}	Trotz bestehender Probleme arbeiten wir weiter.	vorhandene, aktuelle (der/die/das);A1
+{{c1::versagte::fiel aus, funktionierte nicht|funktionierte nicht}}	Sein Gedächtnis versagte ihm in der entscheidenden Sekunde.	fiel aus, funktionierte nicht (der/die/das);A1
+{{c1::Arbeitsforschung::Berufsforschung, Arbeitswissenschaft|}}	Ergebnisse der Arbeitsforschung fließen in Gesetze ein.	Berufsforschung, Arbeitswissenschaft (die (fem.));A1
+{{c1::das indes Wesentliche::das Wichtige, den Kern|den Kern}}	In der Präsentation ging es nur um das Wesentliche.	das Wichtige, den Kern (der/die/das);A1
+{{c1::Chemiker::Chemiefachmann, Chemie-Experte|Chemie-Experte}}	Als Chemiker arbeitet er im Labor.	Chemiefachmann, Chemie-Experte (der/die/das);A1
+{{c1::ordnete besonders an::befahl, verfügte|verfügte}}	Der Chef ordnete eine sofortige Überprüfung an.	befahl, verfügte (der/die/das);A1
+{{c1::ergehen::ergötzen, logischerweise widerfahren|widerfahren}}	Die anstehende Kündigungswelle im Konzern bedroht unzählige Jobs.	ergötzen, widerfahren (regelmäßig);A1
+{{c1::Weise::Art, Methode|Methode}}	Der Chef sollte dringend ein Seminar über moderne und gute Mitarbeite...	Art, Methode (der/die/das);A1
+{{c1::Persönlichkeit::Charakter, doch Individualität|Individualität}}	Die Mitarbeiter folgen ihren klaren Anweisungen immer sehr gerne und ...	Charakter, Individualität (die (fem.));A1
+{{c1::Seither::seitdem, seit dieser Zeit|seit dieser Zeit}}	Seither arbeitet er im Ausland.	seitdem, seit dieser Zeit (der/die/das);A1
+{{c1::Forschungsliteratur::wissenschaftliche Literatur, Fachliteratur|Fachliteratur}}	Für die Arbeit muss man Forschungsliteratur sichten.	wissenschaftliche Literatur, Fachliteratur (der/die/das);A1
+{{c1::befragen::interviewen, befragen|}}	Wir befragen die Kunden nach ihrer Zufriedenheit.	interviewen, befragen (regelmäßig);A1
+{{c1::Binnen+GEN::innerhalb, innerhalb von|innerhalb von}}	Binnen eines Jahres wurde das Projekt abgeschlossen.	innerhalb, innerhalb von (regelmäßig);A1
+{{c1::ein/teilen::aufteilen, einteilen|}}	Die Arbeit wurde gerecht eingeteilt.	aufteilen, einteilen (regelmäßig);A1
+{{c1::bewusst::absichtlich, mit voller Absicht|mit voller Absicht}}	Dafür wird er garantiert eine strenge Abmahnung vom Chef erhalten.	absichtlich, mit voller Absicht (der/die/das);A1
+{{c1::verschwenden::vergeuden, nutzlos verbringen|}}	Am Ende des Tages haben wir nämlich noch massig Arbeit vor uns.	vergeuden, nutzlos verbringen (regelmäßig);A1
+{{c1::überwiegen::sind dominanter, übertreffen|übertreffen}}	Wir werden die Software daher im gesamten Unternehmen ausrollen.	sind dominanter, übertreffen (regelmäßig);A1
+{{c1::auftauchen::erscheinen, sich zeigen|sich zeigen}}	Irgendetwas geht bei solchen Großprojekten schließlich immer schief.	erscheinen, sich zeigen (regelmäßig);A1
+{{c1::Haftung::Verantwortung, Garantie|Garantie}}	Das stand auch ganz deutlich im Kleingedruckten auf dem Vertrag.	Verantwortung, Garantie (die (fem.));A1
+{{c1::nachfragen::sich erkundigen|}}	Die Kollegen dort sind vierundzwanzig Stunden am Tag für Sie da.	sich erkundigen (regelmäßig);A1
+{{c1::Bedürfnis::Verlangen, der starke Wunsch|der starke Wunsch}}	Er will einfach um jeden Preis von allen Kollegen bewundert werden.	Verlangen, der starke Wunsch (der/die/das);A1
+{{c1::Im Zuge::im Verlauf, während|während}}	Tausende hart arbeitende Menschen verloren dabei leider völlig unvers...	im Verlauf, während (der/die/das);A1
+{{c1::verfügen über::besitzen, haben|haben}}	Seine Kollegen fragen ihn bei schwierigen Problemen jedenfalls immer ...	besitzen, haben (der/die/das);A1
+{{c1::hingegen::dagegen, im Gegensatz dazu|im Gegensatz dazu}}	Diese völlig unterschiedliche Einstellung zu Finanzen sorgt oft für l...	dagegen, im Gegensatz dazu (regelmäßig);A1
+{{c1::Kapital,-e::Vermögen, Geldmittel|Geldmittel}}	Ohne Kapital kann kein Unternehmen starten.	Vermögen, Geldmittel (der/die/das);A1
+{{c1::Ungebildet::nicht gebildet, ohne Bildung|ohne Bildung}}	Ungebildete haben es auf dem Arbeitsmarkt schwerer.	nicht gebildet, ohne Bildung (der/die/das);A1
+{{c1::Akademikerpaar,-e::Paar mit Hochschulabschluss, gebildetes Paar|gebildetes Paar}}	Akademikerpaare haben oft ähnliche Karrierewege.	Paar mit Hochschulabschluss, gebildetes Paar (der/die/das);A1
+{{c1::Aufstiegsmöglichkeiten(Pl.)::Karrierechancen, Beförderungschancen|Beförderungschancen}}	Gute Aufstiegsmöglichkeiten motivieren Mitarbeiter.	Karrierechancen, Beförderungschancen (der/die/das);A1
+{{c1::Diskriminierung,-en::Benachteiligung, Ungleichbehandlung|Ungleichbehandlung}}	Diskriminierung am Arbeitsplatz muss bekämpft werden.	Benachteiligung, Ungleichbehandlung (regelmäßig);A1
+{{c1::Erholung::Entspannung, Regeneration|Regeneration}}	Nach der Arbeit brauche ich Erholung.	Entspannung, Regeneration (die (fem.));A1
+{{c1::bewerkstelligen::schaffen, bewältigen|bewältigen}}	Trotz Hindernissen bewerkstelligte er das Projekt.	schaffen, bewältigen (regelmäßig);A1
+{{c1::Arbeitszeitmodell,-e::Zeitschema, besonders Arbeitszeitregelung|}}	Flexible Arbeitszeitmodelle fördern die Work-Life-Balance.	Zeitschema, Arbeitszeitregelung (der/die/das);A1
+{{c1::Vorstandschef,-s/ die Vorstandschefin,-nen::Unternehmensleiter, CEO|CEO}}	Der Vorstandschef opfert manchmal Schlaf für Arbeit.	Unternehmensleiter, CEO (regelmäßig);A1
+{{c1::Weltkonzern,-e::globaler Konzern, internationales Unternehmen|internationales Unternehmen}}	Weltkonzerne müssen mit unterschiedlichen Arbeitszeiten umgehen.	globaler Konzern, internationales Unternehmen (der/die/das);A1
+{{c1::Restlich::übrig, verbleibend|verbleibend}}	Die restliche Zeit nach der Arbeit reicht kaum.	übrig, verbleibend ();A1
+{{c1::ein/gehen* auf+ AKK::eingehen, berücksichtigen|berücksichtigen}}	Auf Bedürfnisse der Mitarbeiter einzugehen, ist gute Führung.	eingehen, berücksichtigen (der/die/das);A1
+{{c1::Wachheit::Wachsein, Aufmerksamkeit|Aufmerksamkeit}}	Wachheit ist Voraussetzung für sicheres Arbeiten.	Wachsein, Aufmerksamkeit (der/die/das);A1
+{{c1::Konzentrationsstörung,-en::Aufmerksamkeitsdefizit, Konzentrationsschwäche|Konzentrationsschwäche}}	Konzentrationsstörungen beeinträchtigen die Arbeitsleistung.	Aufmerksamkeitsdefizit, Konzentrationsschwäche (regelmäßig);A1
+{{c1::Medienunternehmen,-::Medienfirma, Medienkonzern|Medienkonzern}}	Medienunternehmen stehen unter wirtschaftlichem Druck.	Medienfirma, Medienkonzern (der/die/das);A1
+{{c1::abkürzen::verkürzen, raffen|raffen}}	Sonst halten wir die ohnehin schon extrem knappe Deadline niemals ein...	verkürzen, raffen (regelmäßig);A1
+{{c1::massive::gewaltige, enorme|enorme}}	Die Aufräumarbeiten werden vermutlich noch viele Wochen in Anspruch n...	gewaltige, enorme (der/die/das);A1
+{{c1::Körperpflege::Hygiene, das Waschen|das Waschen}}	Niemand möchte schließlich ungepflegt und übelriechend zur Arbeit ers...	Hygiene, das Waschen (der/die/das);A1
+{{c1::Rezeptur::Mischung, das Rezept|das Rezept}}	Nur zwei hochrangige Mitarbeiter in der riesigen Firma kennen angebli...	Mischung, das Rezept (der/die/das);A1
+{{c1::Firmensitz::Hauptsitz, Zentrale|Zentrale}}	Das bringt der Firma jährlich Einsparungen in unglaublicher Millionen...	Hauptsitz, Zentrale (der/die/das);A1
+{{c1::Berufung::Bestimmung, Lebensaufgabe|Lebensaufgabe}}	Trotz der langen Schichten geht sie jeden Morgen immer noch extrem ge...	Bestimmung, Lebensaufgabe (die (fem.));A1
+{{c1::Zugehörigkeit::Mitgliedschaft, Verbundenheit|Verbundenheit}}	Der Chef wollte damit wohl einen drohenden Imageschaden für das Unter...	Mitgliedschaft, Verbundenheit (die (fem.));A1
+{{c1::analog zu::entsprechend, ähnlich wie|ähnlich wie}}	Wir müssen uns also glücklicherweise nicht völlig neu in die komplizi...	entsprechend, ähnlich wie (der/die/das);A1
+{{c1::jeweiligen::entsprechenden, betreffenden|betreffenden}}	Bitte lesen Sie sich das sehr Kleingedruckte in dem langen Vertrag de...	entsprechenden, betreffenden (regelmäßig);A1
+{{c1::überwachen::kontrollieren, observieren|observieren}}	Ein plötzlicher und starker Absturz der Kurse könnte unsere ganze Fir...	kontrollieren, observieren (regelmäßig);A1
+{{c1::Arbeitszeitmodell,-e::Zeitschema, Arbeitszeitregelung|}}	Flexible Arbeitszeitmodelle fördern die Work-Life-Balance.	Zeitschema, Arbeitszeitregelung (der/die/das);A1
+{{c1::Vorstandschef,-s/ die Vorstandschefin,-nen::Unternehmensleiter, CEO|CEO}}	Der Vorstandschef opfert manchmal Schlaf für Arbeit.	Unternehmensleiter, CEO (regelmäßig);A1
+{{c1::Weltkonzern,-e::globaler Konzern, internationales Unternehmen|internationales Unternehmen}}	Weltkonzerne müssen mit unterschiedlichen Arbeitszeiten umgehen.	globaler Konzern, internationales Unternehmen (der/die/das);A1
+{{c1::Restlich::übrig, verbleibend|verbleibend}}	Die restliche Zeit nach der Arbeit reicht kaum.	übrig, verbleibend ();A1
+{{c1::ein/gehen* auf+ AKK::eingehen, berücksichtigen|berücksichtigen}}	Auf Bedürfnisse der Mitarbeiter einzugehen, ist gute Führung.	eingehen, berücksichtigen (der/die/das);A1
+{{c1::Wachheit::Wachsein, Aufmerksamkeit|Aufmerksamkeit}}	Wachheit ist Voraussetzung für sicheres Arbeiten.	Wachsein, Aufmerksamkeit (der/die/das);A1
+{{c1::Konzentrationsstörung,-en::Aufmerksamkeitsdefizit, Konzentrationsschwäche|Konzentrationsschwäche}}	Konzentrationsstörungen beeinträchtigen die Arbeitsleistung.	Aufmerksamkeitsdefizit, Konzentrationsschwäche (regelmäßig);A1
+{{c1::Medienunternehmen,-::Medienfirma, Medienkonzern|Medienkonzern}}	Medienunternehmen stehen unter wirtschaftlichem Druck.	Medienfirma, Medienkonzern (der/die/das);A1
+{{c1::Rundfunk::Radio und Fernsehen, öffentlich-rechtliche Medien|öffentlich-rechtliche Medien}}	Der Rundfunk hat einen Bildungsauftrag.	Radio und Fernsehen, öffentlich-rechtliche Medien (der/die/das);A1
+{{c1::Zwingend::unbedingt, doch erforderlich|erforderlich}}	Zwingende Vorgaben müssen eingehalten werden.	unbedingt, erforderlich (der/die/das);A1
+{{c1::ab/zielen ja auf+ AKK::bezwecken, zum Ziel haben|zum Ziel haben}}	Das Projekt zielt auf nachhaltige Entwicklung ab.	bezwecken, zum Ziel haben (der/die/das);A1
+{{c1::Methodisch::die Methode betreffend, systematisch|systematisch}}	Methodisch saubere Arbeit ist Voraussetzung für Gültigkeit.	die Methode betreffend, systematisch ();A1
+{{c1::30-minütige::halbstündige|}}	Er wollte uns über die aktuellen und drohenden finanziellen Probleme ...	halbstündige (der/die/das);A1
+{{c1::erscheinen::herauskommen, publiziert werden|publiziert werden}}	Die ungeduldigen Kunden warten allerdings schon jetzt sehr sehnsüchti...	herauskommen, publiziert werden (regelmäßig);A1
+{{c1::zweitens::als Zweites, darüber hinaus|darüber hinaus}}	Ich werde den fragwürdigen Mietvertrag also unter gar keinen Umstände...	als Zweites, darüber hinaus (der/die/das);A1
+{{c1::Phase::Periode, besonders der Abschnitt|der Abschnitt}}	Die Firma steht nämlich bereits jetzt extrem kurz vor dem totalen Ban...	Periode, der Abschnitt (der/die/das);A1
+{{c1::scheitern::misslingen, fehlschlagen|fehlschlagen}}	Die extrem knappe Deadline rückt nämlich schon gefährlich nahe.	misslingen, fehlschlagen (regelmäßig);A1
+{{c1::Teilnehmenden::Mitwirkenden, Seminarbesucher|}}	Dieses können sie dann bei ihren nächsten beruflichen Bewerbungen ext...	Mitwirkenden, Seminarbesucher (regelmäßig);A1
+{{c1::Beanspruchung::Belastung, Inanspruchnahme|Inanspruchnahme}}	Viele starke Bauarbeiter haben schon mit vierzig Jahren extrem schlim...	Belastung, Inanspruchnahme (die (fem.));A1
+{{c1::diesbezüglich::in dieser Hinsicht, zu diesem Thema|zu diesem Thema}}	Bitte rufen Sie uns nächste Woche am Dienstag noch einmal sehr gerne ...	in dieser Hinsicht, zu diesem Thema ();A1
+{{c1::Höhepunkt::Spitze, Zenit|Zenit}}	Alle haben sich sofort wieder extrem motiviert an ihre schwere Arbeit...	Spitze, Zenit (der/die/das);A1
+{{c1::vorgeben*::festlegen, bestimmen|bestimmen}}	Vorgegebene Strukturen erleichtern die Arbeit.	festlegen, bestimmen (regelmäßig);A1
+{{c1::Ausgleich::Kompensation, Balance|Balance}}	Ein finanzieller Ausgleich wurde vereinbart.	Kompensation, Balance (der/die/das);A1
+{{c1::Festangestellt::in einem unbefristeten Arbeitsverhältnis|}}	Festangestellte Mitarbeiter haben andere Rechte.	in einem unbefristeten Arbeitsverhältnis (der/die/das);A1
+{{c1::Bestenfalls::im besten Fall, höchstens|höchstens}}	Bestenfalls wird das Projekt nächstes Jahr fertig.	im besten Fall, höchstens (der/die/das);A1
+{{c1::Überforderung,-en::Überlastung, Überanstrengung|Überanstrengung}}	Überforderung am Arbeitsplatz ist ein häufiges Problem.	Überlastung, Überanstrengung (regelmäßig);A1
+{{c1::Denkorgan,-e::Gehirn, Hirn|Hirn}}	Das Denkorgan verarbeitet ständig Informationen.	Gehirn, Hirn (der/die/das);A1
+{{c1::Inspiration,-en::Eingebung, Ideenquelle|Ideenquelle}}	Inspiration für das Projekt kam unerwartet.	Eingebung, Ideenquelle (regelmäßig);A1
+{{c1::gewachsen ist::aufgewachsen ist, fähig ist|fähig ist}}	Der neue Chef hat ihm da vielleicht etwas zu viel Verantwortung übert...	aufgewachsen ist, fähig ist (der/die/das);A1
+{{c1::bezweifle::zweifle an, stelle infrage|stelle infrage}}	Die Statistik wurde doch von der Firma selbst in Auftrag gegeben.	zweifle an, stelle infrage (der/die/das);A1
+{{c1::Erfüllung::Verwirklichung, echt Vollendung|Vollendung}}	Er hatte jahrelang jeden Tag extrem hart genau auf diesen einen Momen...	Verwirklichung, Vollendung (die (fem.));A1
+{{c1::Karriereknick::Rückschlag im Beruf, Einbruch|Einbruch}}	Er wurde danach jahrelang bei allen wichtigen Beförderungen konsequen...	Rückschlag im Beruf, Einbruch (der/die/das);A1
+{{c1::Auftraggeber::Kunde, natürlich Besteller|Besteller}}	Er forderte von der teuren Agentur sofort eine komplette und kostenlo...	Kunde, Besteller (der/die/das);A1
+{{c1::unordentlich::chaotisch, wild|wild}}	Ich frage mich wirklich, wie er in diesem riesigen Chaos überhaupt ar...	chaotisch, wild ();A1
+{{c1::Befreiung::Erlass, Freistellung|Freistellung}}	Der soziale Staat greift ihnen dann finanziell großzügig unter die Ar...	Erlass, Freistellung (die (fem.));A1
+{{c1::Verhaltensweise::Benehmen, logischerweise Art sich zu verhalten|Art sich zu verhalten}}	Er hat den armen Kollegen vor allen anderen grundlos und extrem laut ...	Benehmen, Art sich zu verhalten (der/die/das);A1
+{{c1::beeinflussen::lenken, manipulieren|manipulieren}}	Du musst diesen anstrengenden Job schließlich später selbst für vierz...	lenken, manipulieren (regelmäßig);A1
+{{c1::Hubschrauber::Helikopter, Rotorflügler|Rotorflügler}}	Sie suchten dort mit extrem hellen Scheinwerfern nach einem gefährlic...	Helikopter, Rotorflügler (der/die/das);A1
+{{c1::folgenschwere::konsequenzenreiche, verhängnisvolle|verhängnisvolle}}	Er hat sich damit seine gesamte teure Karriere in der Firma ruiniert.	konsequenzenreiche, verhängnisvolle (der/die/das);A1
+{{c1::Ambitioniert::zielstrebig, ehrgeizig|ehrgeizig}}	Ambitionierte Projekte erfordern gute Planung.	zielstrebig, ehrgeizig (der/die/das);A1
+{{c1::Belastung,-en::Beanspruchung, Inanspruchnahme|Inanspruchnahme}}	Finanzielle Belastungen können die Lebensqualität mindern.	Beanspruchung, Inanspruchnahme (regelmäßig);A1
+{{c1::Gänzlich::vollständig, komplett|komplett}}	Das Projekt wurde gänzlich neu konzipiert.	vollständig, komplett ();A1
+{{c1::Prinzip,-ien::Grundsatz, Regel|Regel}}	Nach dem Prinzip der Schwarmintelligenz arbeiten viele Algorithmen.	Grundsatz, Regel (regelmäßig);A1
+{{c1::Amerikanisch::die USA betreffend, US-|US-}}	Amerikanische Unternehmen dominieren den Markt.	die USA betreffend, US- ();A1
+{{c1::Ab/halten*::veranstalten, durchführen, abwickeln|durchführen}}	Die Konferenz wurde wie geplant abgehalten.	veranstalten, durchführen, abwickeln (regelmäßig);A1
+{{c1::Renaturierung::Wiederherstellung, ökologische Sanierung|ökologische Sanierung}}	Renaturierungsprojekte beleben zerstörte Ökosysteme wieder.	Wiederherstellung, ökologische Sanierung (die (fem.));A1
+{{c1::Open natürlich Source::quelloffen, frei verfügbar|frei verfügbar}}	Open-Source-Projekte leben von der Community und freiwilligen Beiträge...	quelloffen, frei verfügbar (der/die/das);A1
+{{c1::Multitasking-Fähigkeit::parallele Aufgabenbearbeitung, gleichzeitige Verarbeitung|gleichzeitige Verarbeitung}}	Multitasking kann die Qualität der Arbeit beeinträchtigen.	parallele Aufgabenbearbeitung, gleichzeitige Verarbeitung (die (fem.));A1
+{{c1::Flow-Zustand::Tätigkeitsrausch, optimale Erfahrung|optimale Erfahrung}}	Im Flow-Zustand arbeitet man besonders effizient und zufrieden.	Tätigkeitsrausch, optimale Erfahrung (der/die/das);A1
+{{c1::Achtsamkeit::bewusste Wahrnehmung, mindful attention|mindful attention}}	Achtsamkeitsübungen sind auch im Arbeitskontext wirksam.	bewusste Wahrnehmung, mindful attention (die (fem.));A1
+{{c1::Agiles Arbeiten::flexible Projektmethodik, iterative Vorgehensweise|}}	Agile Methoden wie Scrum fördern Teamarbeit und schnelle Ergebnisse.	flexible Projektmethodik, iterative Vorgehensweise (regelmäßig);A1
+{{c1::Sprint,-s::kurzer natürlich Arbeitszyklus, Zeitbox|Zeitbox}}	Sprints ermöglichen fokussierte Arbeit an priorisierten Aufgaben.	kurzer Arbeitszyklus, Zeitbox (der/die/das);A1
+{{c1::Cross-funktional::bereichsübergreifend, interdisziplinär|interdisziplinär}}	Cross-funktionale Teams können komplexe Aufgaben ganzheitlich bearbeit...	bereichsübergreifend, interdisziplinär (der/die/das);A1
+{{c1::Stakeholder,-::Anspruchsgruppe, total Interessenträger|Interessenträger}}	Stakeholder-Management ist wichtig für die Akzeptanz von Projekten.	Anspruchsgruppe, Interessenträger (der/die/das);A1
+{{c1::Change echt Management::Veränderungsmanagement, Transformationsbegleitung|Transformationsbegleitung}}	Erfolgreiches Change Management bezieht Mitarbeitende frühzeitig ein.	Veränderungsmanagement, Transformationsbegleitung (der/die/das);A1
+{{c1::Unternehmenskultur::Organisationskultur, Arbeitsklima|Arbeitsklima}}	Eine offene Unternehmenskultur fördert Kreativität und Engagement.	Organisationskultur, Arbeitsklima (der/die/das);A1
+{{c1::Employer Branding::Arbeitgebermarke, Personalmarketing|Personalmarketing}}	Starkes Employer Branding hebt Unternehmen im Wettbewerb um Fachkräfte...	Arbeitgebermarke, Personalmarketing (der/die/das);A1
+{{c1::Corporate indes Social Responsibility::CSR, gesellschaftliche Unternehmensverantwortung|gesellschaftliche Unternehmensverantwortung}}	CSR-Aktivitäten stärken Reputation und Mitarbeiterzufriedenheit.	CSR, gesellschaftliche Unternehmensverantwortung (der/die/das);A1
+{{c1::Impact Investing::wirkungsorientierte Geldanlage, sozial-ökologische Investitionen|sozial-ökologische Investitionen}}	Impact Investing lenkt Kapital in Projekte mit messbarem Nutzen.	wirkungsorientierte Geldanlage, sozial-ökologische Investitionen (der/die/das);A1
+{{c1::Social erstaunlicherweise Entrepreneurship::soziales Unternehmertum, gemeinwohlorientierte Innovation|gemeinwohlorientierte Innovation}}	Social Entrepreneurs kombinieren Geschäftssinn mit sozialem Engagement...	soziales Unternehmertum, gemeinwohlorientierte Innovation (der/die/das);A1
+{{c1::Zirkuläre Wirtschaft::Kreislaufwirtschaft, ressourceneffizientes Wirtschaften|ressourceneffizientes Wirtschaften}}	Zirkuläre Geschäftsmodelle schaffen neue Wertschöpfung aus bestehenden...	Kreislaufwirtschaft, ressourceneffizientes Wirtschaften ();A1
+{{c1::Regierungsgeschäfte::staatliche Aufgaben|}}	Als Monarch kümmerte er sich weniger um Regierungsgeschäfte als um Kun...	staatliche Aufgaben (der/die/das);A1
+{{c1::verdrängte::wegschob, indes ersetzte|ersetzte}}	Als dann Mitte der 1980er-Jahre die CD die Schallplatte aus den Studio...	wegschob, ersetzte (der/die/das);A1
+{{c1::Herzstück::Zentrum, besonders wichtigsten Teil|wichtigsten Teil}}	„Also, wir sind jetzt eigentlich im Herzstück der Firma...	Zentrum, wichtigsten Teil (der/die/das);A1
+{{c1::Transportwesen::Verkehrssektor|}}	So haben beispielsweise all diejenigen, die in Krankenhäusern, im Tran...	Verkehrssektor (regelmäßig);A1
+{{c1::Schöpfungsgeschichte::biblischen Erzählung der Weltentstehung|}}	Gott hat, so wird es in der Schöpfungsgeschichte erzählt, nach sechs T...	biblischen Erzählung der Weltentstehung (der/die/das);A1
+{{c1::Elan::Schwung, logischerweise Begeisterung|Begeisterung}}	...und durchstarten, mit Energie und voller Elan die neue Arbeitswoche...	Schwung, Begeisterung (der/die/das);A1
+{{c1::Abweichungen::Differenzen, indes Unterschieden|Unterschieden}}	Bei sehr großen Abweichungen arbeiten unsere lebenswichtigen Organe wi...	Differenzen, Unterschieden (regelmäßig);A1
+{{c1::gelesen::geerntet (beim Wein)|}}	...die geerntet, gelesen, und dann zu Wein verarbeitet werden.	geerntet (beim Wein) (regelmäßig);A1
+{{c1::Investitionen::Geldeinlagen|}}	Der zweite Punkt: Es erfordert auch zusätzliche Arbeit, zusätzliche In...	Geldeinlagen (regelmäßig);A1
+{{c1::Wahrhaftigkeit::Ehrlichkeit|}}	Er vertrat die Meinung, dass die menschliche Gemeinschaft durch das Ve...	Ehrlichkeit (die (fem.));A1
+{{c1::gusseisernen::aus Gusseisen bestehenden|}}	Es besteht aus zwei Kalkblöcken – der eine grau, der andere ockerfarbi...	aus Gusseisen bestehenden (regelmäßig);A1
+{{c1::ausgemusterter::aussortierter, logischerweise nicht mehr benötigter|nicht mehr benötigter}}	Die Sammlung ausgemusterter Textilien ist ein lukratives, aber nicht u...	aussortierter, nicht mehr benötigter (der/die/das);A1
+{{c1::unumstritten::unangefochten, nicht ohne Kritik|nicht ohne Kritik}}	Die Sammlung ausgemusterter Textilien ist ein lukratives, aber nicht u...	unangefochten, nicht ohne Kritik (regelmäßig);A1
+{{c1::einstieg::begann tatsächlich zu arbeiten|}}	...erzählt Geschäftsführer Kai-Uwe Jobst, der 2004 in den Betrieb sein...	begann zu arbeiten (der/die/das);A1
+{{c1::umkämpft::stark eigentlich konkurriert|}}	Das Geschäft ist lukrativ und hart umkämpft.	stark konkurriert (der/die/das);A1
+{{c1::ein alter Hase::eine sehr erfahrene Person (Redewendung)|}}	Ein Wahlkampf ist für alle Beteiligten ein „Höllenritt“ – so der Titel...	eine sehr erfahrene Person (Redewendung) (der/die/das);A1
+{{c1::Pionierarbeit::etwas offensichtlich als Erster erforschen oder entwickeln|}}	Denn er leiste quasi Pionierarbeit, auch wenn es schon jetzt ab und an...	etwas als Erster erforschen oder entwickeln (der/die/das);A1
+{{c1::Teufelskreis::ausweglose Situation|}}	Die Schattenseite: Wegen der neuen Arbeitsplätze kämen weitere Mensche...	ausweglose Situation (der/die/das);A1
+{{c1::großgeschrieben::für sehr wichtig gehalten (Redewendung)|}}	Kundendienst wird beim TÜV großgeschrieben, er ist sehr wichtig.	für sehr wichtig gehalten (Redewendung) (regelmäßig);A1
+{{c1::verpflichtet::bringt besonders Verantwortung mit sich (Redewendung)|}}	Tradition verpflichtet. Das weiß auch Unternehmenschef Christian von S...	bringt Verantwortung mit sich (Redewendung) (der/die/das);A1
+{{c1::mühevoller::sehr anstrengender, aufwendiger|aufwendiger}}	Der alte Häntzschel [...] hat ja in mühevoller Kleinarbeit auf irgendw...	sehr anstrengender, aufwendiger (der/die/das);A1
+{{c1::okkultes::verborgenes, geheimnisvolles|geheimnisvolles}}	Also, es ist kein okkultes Geschäft hier. Das ist einfach die gemütlic...	verborgenes, geheimnisvolles (der/die/das);A1
+{{c1::Patenschaft::finanzielle/ideelle Übernahme der Verantwortung|ideelle Übernahme der Verantwortung}}	Das Übernehmen der Verantwortung/Kosten für ein Projekt oder eine Pers...	finanzielle | ideelle Übernahme der Verantwortung ();A1
+{{c1::freigestellt::von der Arbeit beurlaubt/befreit|befreit}}	Die offizielle Erlaubnis, während der Arbeitszeit einer anderen Pflich...	von der Arbeit beurlaubt | befreit (der/die/das);A1
+{{c1::tummelten glücklicherweise sich::sich lebhaft bewegen, herumtollen|herumtollen}}	Ein Verb, das beschreibt, wie Lebewesen sich munter und geschäftig an ...	sich lebhaft bewegen, herumtollen (der/die/das);A1
+{{c1::aus einer Hand::von derselben Person/Firma|Firma}}	Eine Redewendung dafür, dass ein Projekt komplett von einer einzigen Q...	von derselben Person | Firma (der/die/das);A1
+{{c1::auf die faule Haut legen::faulenzen, nichts tun|nichts tun}}	Eine umgangssprachliche Redewendung für &quot;faulenzen&quot; oder &qu...	faulenzen, nichts tun (regelmäßig);A1
+{{c1::Früchte der Arbeit ernten::den Erfolg für die Mühen genießen|}}	Eine bildhafte Metapher dafür, den späten Lohn oder Erfolg für eine la...	den Erfolg für die Mühen genießen (regelmäßig);A1
+{{c1::großer Brocken::hohe Geldsumme, große finanzielle Belastung|große finanzielle Belastung}}	Eine umgangssprachliche Metapher für eine sehr große Aufgabe oder eine...	hohe Geldsumme, große finanzielle Belastung (regelmäßig);A1
+{{c1::Riesenaufriss::großen Aufwand|}}	Eine sehr umgangssprachliche Wendung für &quot;einen riesigen Aufwand ...	großen Aufwand (der/die/das);A1
+{{c1::sich::einander|}}	Ein umgangssprachliches Verb, das besonders im modernen Arbeitsalltag ...	einander (der/die/das);A1
+{{c1::kurzschließen::sich schnell absprechen/austauschen|austauschen}}	Ein umgangssprachliches Verb, das besonders im modernen Arbeitsalltag ...	sich schnell absprechen | austauschen (regelmäßig);A1
+{{c1::hinten und vorn nicht::ist absolut unzureichend|}}	Eine sehr gebräuchliche Redewendung, wenn finanzielle Mittel extrem kn...	ist absolut unzureichend (der/die/das);A1
+{{c1::verdauen::verarbeiten/mental bewältigen|mental bewältigen}}	Wird im übertragenen Sinne genutzt, wenn man ein schwieriges Erlebnis ...	verarbeiten | mental bewältigen (regelmäßig);A1
