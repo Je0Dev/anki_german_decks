@@ -1,0 +1,34 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::Satzmuster
+{{c1::Ich bin...::Ich heiße...|Ich bin...|Ich bin...}}	Ich bin Maria. Ich bin 25 Jahre alt. Ich bin müde.	Satzmuster;Satz;A1
+{{c1::Ich wohne in...::Ich lebe in...|Ich bin zu Hause in...|Ich bin zu Hause in...}}	Ich wohne in Berlin. Ich wohne in einem kleinen Apartment.	Satzmuster;Satz;A1
+{{c1::Ich arbeite als...::Ich tue...|Ich jobbe als...|Ich jobbe als...}}	Ich arbeite als Lehrerin. Ich arbeite als Kellner.	Satzmuster;Satz;A1
+{{c1::Ich lerne Deutsch seit...::Ich studiere Deutsch...|Ich mache Deutsch seit...|Ich mache Deutsch seit...}}	Ich lerne Deutsch seit zwei Jahren.	Satzmuster;Satz;A1
+{{c1::Mein Hobby ist...::Ich mag...|Ich mache gern...|Ich mache gern...}}	Mein Hobby ist Kochen. Mein Hobby ist Tennis.	Satzmuster;Satz;A1
+{{c1::Ich habe...::Mir gehört...|Ich besitze...|Ich besitze...}}	Ich habe einen Hund. Ich habe zwei Schwestern.	Satzmuster;Satz;A1
+{{c1::Ich mag...::Ich liebe...|Ich finde... gut|Ich finde... gut}}	Ich mag Musik. Ich mag Kaffee. Ich mag dich.	Satzmuster;Satz;A1
+{{c1::Ich möchte...::Ich will...|Ich hätte gern...|Ich hätte gern...}}	Ich möchte einen Kaffee. Ich möchte nach Hause.	Satzmuster;Satz;A1
+{{c1::Können Sie mir helfen?::Darf ich fragen?|Können Sie...?|Können Sie...?}}	Können Sie mir bitte helfen?	Satzmuster;Satz;A1
+{{c1::Wie heißt das auf Deutsch?::Wie sagt man...?|Wie nennt man...?|Wie nennt man...?}}	Wie heißt das auf Deutsch? Wie heißt das?	Satzmuster;Satz;A1
+{{c1::Was bedeutet das?::Was heißt das?|Was ist die Bedeutung?|Was ist die Bedeutung?}}	Was bedeutet dieses Wort?	Satzmuster;Satz;A1
+{{c1::Wie viel kostet das?::Der Preis?|Was kostet?|Was kostet?}}	Wie viel kostet das? Wie viel kostet der Kaffee?	Satzmuster;Satz;A1
+{{c1::Ich habe eine Frage::Ich frage mich...|Eine Frage:|Eine Frage:}}	Ich habe eine Frage dazu.	Satzmuster;Satz;A1
+{{c1::Das gefällt mir::Ich mag das|Das ist mein favorite|Das ist mein favorite}}	Das gefällt mir sehr gut. Das gefällt mir nicht.	Satzmuster;Satz;A1
+{{c1::Es geht::Es klappt|Es funktioniert|Es funktioniert}}	Es geht mir gut. Es geht so.	Satzmuster;Satz;A1
+{{c1::Ich brauche...::Ich brauche...|Ich benötige...|Ich benötige...}}	Ich brauche Hilfe. Ich brauche Zeit.	Satzmuster;Satz;A1
+{{c1::Wann treffen wir uns?::Wann sehen wir uns?|Wann?|Wann?}}	Wann treffen wir uns? Wann kommst du?	Satzmuster;Satz;A1
+{{c1::Wo ist...::Wo befindet sich...?|Wo liegt...?|Wo liegt...?}}	Wo ist der Bahnhof? Wo ist die Toilette?	Satzmuster;Satz;A1
+{{c1::Ich bin fertig::Ich bin done|Ich habe es geschafft|Ich habe es geschafft}}	Ich bin fertig mit der Arbeit.	Satzmuster;Satz;A1
+{{c1::Lass uns...::Wollen wir...?|Gehen wir...?|Gehen wir...?}}	Lass uns anfangen! Lass uns gehen!	Satzmuster;Satz;A1
+{{c1::Das ist...::Das heißt...|Das ist...|Das ist...}}	Das ist mein Freund. Das ist das Problem.	Satzmuster;Satz;A1
+{{c1::Ich habe Hunger::Ich will essen|Mir ist hungrig|Mir ist hungrig}}	Ich habe großen Hunger. Ich habe Hunger.	Satzmuster;Satz;A1
+{{c1::Ich habe Durst::Ich will trinken|Mir ist durstig|Mir ist durstig}}	Ich habe mega Durst.	Satzmuster;Satz;A1
+{{c1::Ich bin allergisch gegen...::Ich vertrage nicht...|Ich darf nicht...|Ich darf nicht...}}	Ich bin allergisch gegen Nüsse.	Satzmuster;Satz;A2
+{{c1::Das ist verboten::Das darf man nicht|Man darf nicht|Man darf nicht}}	Rauchen ist verboten. Das ist verboten.	Satzmuster;Satz;A2
+{{c1::Ich bin einverstanden::Ich stimme zu|Okay|Okay}}	Ich bin einverstanden damit.	Satzmuster;Satz;A2
+{{c1::Abgesehen davon::Außerdem|Nebenbei|Noch dazu}}	Abgesehen davon ist alles gut.	Satzmuster;Satz;B1
+{{c1::Im Gegensatz zu...::Anders als...|Anders als...|Anders als...}}	Im Gegensatz zu mir ist sie fleißig.	Satzmuster;Satz;B1
+{{c1::Um ehrlich zu sein::Ehrlich gesagt|Offen gesagt|Offen gesagt}}	Um ehrlich zu sein, weiß ich das auch nicht.	Satzmuster;Satz;B1
+{{c1::Das hängt davon ab::Es kommt darauf an|Es kommt auf... an|Es kommt auf... an}}	Das hängt davon ab, wie viel Zeit wir haben.	Satzmuster;Satz;B2

@@ -1,0 +1,30 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::Finanzen
+{{c1::einlassen::sich beteiligen an}}	Ich habe mich auf diesen Deal eingelassen, weil ich das Geld brauchte.	sich beteiligen an;A1
+{{c1::Täter::der Verbrecher}}	Der Täter flüchtete unerkannt mit dem gestohlenen Geld.	der Verbrecher;A1
+{{c1::Auszubildende::der Lehrling}}	Als Auszubildender im ersten Lehrjahr verdient man leider noch nicht s...	der Lehrling;A1
+{{c1::Gesamtbetrag::die Endsumme}}	Bitte überweisen Sie den fälligen Gesamtbetrag innerhalb von vierzehn ...	die Endsumme;A1
+{{c1::zurückzahlen::erstatten/tilgen | tilgen}}	Wenn du mir das Geld heute leihst, werde ich es dir morgen sofort zurü...	erstatten | tilgen;A1
+{{c1::neuronale Netzwerk::das Nervennetz, die Nervenverbindung | die Nervenverbindung}}	Künstliche Intelligenz basiert heute sehr oft auf einem komplexen neur...	das Nervennetz, die Nervenverbindung;A1
+{{c1::neuronale Plastizität::die Hirnflexibilität, die Nervenplastizität | die Nervenplastizität}}	Dank der neuronalen Plastizität kann sich das Gehirn nach Verletzungen...	die Hirnflexibilität, die Nervenplastizität;A1
+{{c1::Engramm::die schon Gedächtnisspur, die Erinnerungsmarkierung | die Erinnerungsmarkierung}}	Neurologen suchen noch immer nach dem genauen Ort, wo das Engramm gebi...	die Gedächtnisspur, die Erinnerungsmarkierung;A1
+{{c1::abrufen::erinnern, wiedergeben | wiedergeben}}	Du kannst den Kontostand ganz einfach online auf der Webseite abrufen.	erinnern, wiedergeben;A1
+{{c1::spekulieren::vermuten, mutmaßen | mutmaßen}}	An der Börse versuchen viele Leute, mit extrem riskanten Aktien wild z...	vermuten, mutmaßen;A1
+{{c1::Unter dem Strich::insgesamt, letztendlich | letztendlich}}	Unter dem Strich bleibt uns nach allen Abzügen nicht mehr viel Geld üb...	insgesamt, letztendlich;A1
+{{c1::unangenehm::unangenehm, lästig | lästig}}	Es ist mir extrem unangenehm, dich schon wieder um sehr viel Geld zu b...	unangenehm, lästig;A1
+{{c1::Erstens::zum ersten, als erstes | als erstes}}	Erstens habe ich keine Zeit und zweitens absolut überhaupt kein Geld d...	zum ersten, als erstes;A1
+{{c1::Im Wesentlichen::grundsätzlich, hauptsächlich | hauptsächlich}}	Im Wesentlichen geht es bei diesem Streit eigentlich nur um sehr viel ...	grundsätzlich, hauptsächlich;A1
+{{c1::Energienutzung::der Energieverbrauch, die Nutzung | die Nutzung}}	Durch die absolut extrem kluge und völlig extrem sehr moderne Energien...	der Energieverbrauch, die Nutzung);A1
+{{c1::feststehen::beschlossene Sache sein, sicher sein | sicher sein}}	Diese unnötige Hängepartie kostet uns nur wertvolle Zeit und Geld.	beschlossene Sache sein, sicher sein;A1
+{{c1::neuronale also Plastizität::Anpassungsfähigkeit des Gehirns, Gehirnflexibilität | Gehirnflexibilität}}	Neuronale Plastizität ist in jungen Jahren besonders hoch.	Anpassungsfähigkeit des Gehirns, Gehirnflexibilität;A1
+{{c1::neuronale doch Plastizität::Formbarkeit des Gehirns}}	Das Gehirn baut ständig neue Verbindungen auf und ab.	Formbarkeit des Gehirns;A1
+{{c1::Neurotizismus::emotionale Labilität, Ängstlichkeit | Ängstlichkeit}}	Neurotizismus ist ein Persönlichkeitsmerkmal.	emotionale Labilität, Ängstlichkeit;A1
+{{c1::kostbares::wertvolles, nämlich teures | teures}}	Sie wird bei der anstehenden Auktion sicherlich mehrere Millionen Eur...	wertvolles, teures;A1
+{{c1::Gehirnwelle::Hirnstrom, neurologisches Signal | neurologisches Signal}}	Der erfahrene Neurologe war über dieses seltsame Phänomen bei dem Pat...	Hirnstrom, neurologisches Signal;A1
+{{c1::Komplex::Gebäudekomplex, die Anlage | die Anlage}}	Das wird die reiche Stadtkasse vermutlich mehrere extrem teure Millio...	Gebäudekomplex, die Anlage;A1
+{{c1::Lebensphase::Zeitabschnitt im Leben}}	Ich hatte viel freie Zeit und musste mir um Geld fast keine Sorgen ma...	Zeitabschnitt im Leben;A1
+{{c1::Ineffizient::nicht überraschend effizient, unwirtschaftlich | unwirtschaftlich}}	Ineffiziente Abläufe kosten Zeit und Geld.	nicht effizient, unwirtschaftlich;A1
+{{c1::potenzieren::vervielfachen, extrem ansteigen | extrem ansteigen}}	Am Ende kostet uns das dann extrem viele Millionen Euro.	vervielfachen, extrem ansteigen;A1
+{{c1::Kommunen::Gemeinden, Städte | Städte}}	...aber auch immer mehr Kommunen, die mit der Textilsammlung Geld verd...	Gemeinden, Städte;A1

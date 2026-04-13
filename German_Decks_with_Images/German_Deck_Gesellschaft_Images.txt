@@ -1,0 +1,222 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::Gesellschaft
+{{c1::Vorgesetzten::der Chef}}	Er versteht sich glücklicherweise sehr gut mit seinem neuen Vorgesetzt...	der Chef;A1
+{{c1::anspruchsvoll::fordernd}}	Sie ist eine sehr anspruchsvolle Kundin, die man nur schwer zufriedens...	fordernd;A1
+{{c1::Unkosten::die Ausgaben}}	Die Einnahmen reichten leider nicht aus, um die Unkosten zu decken.	die Ausgaben;A1
+{{c1::aus::interpretieren}}	Dieses Gesetz lässt sich von Juristen extrem unterschiedlich auslegen.	interpretieren;A1
+{{c1::Entwicklungsländern::das Land der Dritten Welt}}	Entwicklungsländer sind oft besonders stark vom Klimawandel betroffen.	das Land der Dritten Welt;A1
+{{c1::Teufelskreis::die Spirale}}	Armut und fehlende Bildung bilden in vielen Ländern einen echten Teufe...	die Spirale;A1
+{{c1::womöglich::vielleicht}}	Wenn wir uns beeilen, erreichen wir womöglich noch den letzten Zug.	vielleicht;A1
+{{c1::Behinderung::die also Erschwerung}}	Das neue Gesetz darf keine Behinderung für den freien Wettbewerb darst...	die Erschwerung);A1
+{{c1::Abzeichen::das Emblem/das Symbol | das Symbol}}	Er hat das goldene Schwimmabzeichen im Verein erfolgreich absolviert.	das Emblem | das Symbol;A1
+{{c1::bundeseinheitlich::für das ganze Land gültig}}	Es wird ein neues, bundeseinheitliches Gesetz für den Umweltschutz gef...	für das ganze Land gültig;A1
+{{c1::Vorbedingung::die Voraussetzung}}	Die erfolgreiche Teilnahme an diesem Kurs ist die Vorbedingung für das...	die Voraussetzung);A1
+{{c1::Kindheit::die jedoch jungen Jahre}}	Sie verbrachte fast ihre gesamte Kindheit am Meer in Südfrankreich.	die jungen Jahre;A1
+{{c1::kritiker::der Gutachter/der Rezensent | der Rezensent}}	Er ist ein großer Kritiker der aktuellen Regierungspolitik.	der Gutachter | der Rezensent;A1
+{{c1::Unterhaltungsliteratur::die Trivialliteratur}}	Manche Kritiker belächeln Unterhaltungsliteratur oft völlig zu Unrecht...	die Trivialliteratur;A1
+{{c1::erhellen::aufklären/hell machen | hell machen}}	Eine einzige kleine Kerze reichte aus, um den dunklen Raum zu erhellen...	aufklären | hell machen;A1
+{{c1::allseits::überall}}	Das neue Gesetz wurde von der Bevölkerung allseits stark kritisiert.	überall;A1
+{{c1::korrupte::bestechlich}}	Das Rechtssystem in diesem Land gilt leider als extrem korrupt.	bestechlich;A1
+{{c1::hilfreich::nützlich}}	Es wäre sehr hilfreich, wenn du mir kurz beim Tragen helfen könntest.	nützlich;A1
+{{c1::zuckerreich::mit viel Zucker}}	Zuckerreiche Lebensmittel führen oft sehr schnell zu Karies an den Zäh...	mit viel Zucker;A1
+{{c1::Förderungshöchstdauer::das Limit der Förderung}}	Er studiert schon sehr lange und hat die Förderungshöchstdauer für sei...	das Limit der Förderung;A1
+{{c1::geehrt::würdigen}}	Es ist wichtig, das Andenken an die Opfer des schrecklichen Krieges zu...	würdigen;A1
+{{c1::bedingungslose::absolut}}	Die Armee forderte im Krieg die bedingungslose Kapitulation des Feinde...	absolut;A1
+{{c1::Abschaffung::die glücklicherweise Aufhebung}}	Viele Bürger fordern die Abschaffung dieser ungerechten Regel.	die Aufhebung);A1
+{{c1::weitreichende::umfassend}}	Die Entscheidung des Obersten Gerichts hat weitreichende Folgen.	umfassend;A1
+{{c1::ausbeuterischen::rücksichtslos}}	Solche ausbeuterischen Verträge sollten per Gesetz streng verboten wer...	rücksichtslos;A1
+{{c1::Raubkunst::gestohlene immerhin Kunstwerke}}	Das Museum überprüfte seine riesige Sammlung auf mögliche Raubkunst au...	gestohlene Kunstwerke;A1
+{{c1::brisantes::heikel}}	Der Reporter fand äußerst brisante Dokumente über den korrupten Politi...	heikel;A1
+{{c1::unrechtmäßig::illegal}}	Er hat das große fremde Grundstück völlig unrechtmäßig betreten.	illegal;A1
+{{c1::Desinformation::die Falschmeldung}}	Die gezielte Desinformation in sozialen Netzwerken ist eine echte Gefa...	die Falschmeldung;A1
+{{c1::weitreichende::umfassend}}	Das heute verabschiedete neue Gesetz hat weitreichende Konsequenzen fü...	umfassend;A1
+{{c1::Bestleistung::der Rekord}}	Trotz ihrer persönlichen Bestleistung reichte es beim Schwimmen leider...	der Rekord);A1
+{{c1::dosieren::abmessen}}	Man muss das Waschmittel für die Waschmaschine immer richtig dosieren,...	abmessen;A1
+{{c1::klonen::kopieren}}	Forscher konnten bereits vor vielen Jahren erfolgreich ein lebendes Sc...	kopieren;A1
+{{c1::unhaltbar::inakzeptabel}}	Diese absolut ungerechten Zustände im Gefängnis sind meiner Meinung na...	inakzeptabel;A1
+{{c1::bestehende::vorhanden, überraschend existierend}}	Das bestehende Gesetz muss dringend an die moderne Zeit angepasst werd...	vorhanden, existierend;A1
+{{c1::Lobbyismus::die Interessenvertretung, das Lobbying | das Lobbying}}	Gezielter Lobbyismus der Autoindustrie verhinderte angeblich strengere...	die Interessenvertretung, das Lobbying;A1
+{{c1::Kapazität::die schon Fassungsvermögen, die Leistung | die Leistung}}	Die Kapazität der alten Batterie reicht leider nicht mehr für den ganz...	die Fassungsvermögen, die Leistung;A1
+{{c1::los::losfahren, wegfahren | wegfahren}}	Wir wollen morgen ganz früh losradeln, um rechtzeitig am See zu sein.	losfahren, wegfahren;A1
+{{c1::Forscher::der Wissenschaftler, der Gelehrte | der Gelehrte}}	Viele Forscher warnen schon seit Jahren vor dem drohenden Klimawandel.	der Wissenschaftler, der Gelehrte;A1
+{{c1::Gelernte::das Erlernte, das Wissen | das Wissen}}	Er konnte das frisch Gelernte sofort in der Praxis erfolgreich anwende...	das Erlernte, das Wissen;A1
+{{c1::Zitat::das Zitat, der Ausspruch | der Ausspruch}}	Der Politiker verwendete in seiner Rede ein falsches Zitat von Einstei...	das Zitat, der Ausspruch;A1
+{{c1::zurückgreifen::verwenden, nutzen | nutzen}}	Wenn das Geld nicht reicht, müssen wir wohl leider auf unsere eisernen...	verwenden, nutzen;A1
+{{c1::Klassenunterschied::die eigentlich Klassendifferenz, der soziale Unterschied | der soziale Unterschied}}	Ein extremer Klassenunterschied in einer Gesellschaft führt oft zu gro...	die Klassendifferenz, der soziale Unterschied;A1
+{{c1::Historiker::der Geschichtsforscher, der Geschichtswissenschaftler | der Geschichtswissenschaftler}}	Viele Historiker sind sich nicht einig darüber, wie genau dieser Krieg...	der Geschichtsforscher, der Geschichtswissenschaftler;A1
+{{c1::Gesellschaftsschicht::die soziale Schicht, die Klasse | die Klasse}}	Die unterste Gesellschaftsschicht ist von der hohen Inflation momentan...	die soziale Schicht, die Klasse;A1
+{{c1::Reichtum::der ziemlich Wohlstand, das Vermögen | das Vermögen}}	Der unglaubliche Reichtum dieses Landes basiert fast ausschließlich au...	der Wohlstand, das Vermögen;A1
+{{c1::Ständeordnung::die Klassenordnung, die Hierarchie | die Hierarchie}}	In der mittelalterlichen Ständeordnung hatte ein einfacher Bauer absol...	die Klassenordnung, die Hierarchie);A1
+{{c1::Gesellschaftlich::sozial, gesellschaftsbezogen | gesellschaftsbezogen}}	Sie engagiert sich in ihrer Freizeit sehr oft für gesellschaftlich ext...	sozial, gesellschaftsbezogen;A1
+{{c1::industrielle Revolution::die Industrialisierung, die technische Revolution | die technische Revolution}}	Die industrielle Revolution brachte viele neue Maschinen, aber anfangs...	die Industrialisierung, die technische Revolution;A1
+{{c1::klassenlose::ohne Klassen, gleich | gleich}}	Es ist fast unmöglich, in der Realität eine völlig klassenlose Gesells...	ohne Klassen, gleich;A1
+{{c1::Industrienation::das offensichtlich Industrieland, die Wirtschaftsnation | die Wirtschaftsnation}}	Jede große Industrienation trägt sehr viel und starke Verantwortung fü...	das Industrieland, die Wirtschaftsnation;A1
+{{c1::Ungleichheit::die Ungerechtigkeit, der Unterschied | der Unterschied}}	Trotz vieler Gesetze gibt es in der Firma noch immer eine krasse Ungle...	die Ungerechtigkeit, der Unterschied;A1
+{{c1::verwurzelt::fest ganz verankert sein, etabliert sein | etabliert sein}}	Der feste Glaube an absolute Gerechtigkeit ist bei ihm extrem tief in ...	fest verankert sein, etabliert sein;A1
+{{c1::Individuum::der Einzelne, die Person | die Person}}	Die absolute Rechte des einzelnen Individuums müssen im extrem moderne...	der Einzelne, die Person;A1
+{{c1::Klassenfrage::die soziale Frage, das Klassenproblem}}	Viele Politiker meiden die unbequeme Klassenfrage in ihren öffentliche...	die soziale Frage, das Klassenproblem;A1
+{{c1::Heranwachsende::der erstaunlicherweise Jugendliche, der Teenager}}	Viele Heranwachsende haben heute große Angst vor dem drohenden Klimawa...	der Jugendliche, der Teenager;A1
+{{c1::Trainingsmodul::die ganz Trainingseinheit, das Modul | das Modul}}	Du musst zuerst dieses grundlegende Trainingsmodul am Computer erfolgr...	die Trainingseinheit, das Modul;A1
+{{c1::Einschränkung::die Begrenzung, der Limit | der Limit}}	Die massive Einschränkung der völligen Pressefreiheit in diesem Land i...	die Begrenzung, der Limit);A1
+{{c1::Umweltpsychologie::die Umweltforschung, die Psychologie | die Psychologie}}	In der Umweltpsychologie lernt man extrem viel darüber, warum Menschen...	die Umweltforschung, die Psychologie;A1
+{{c1::Klimawandel::die Klimaänderung, die Erderwärmung | die Erderwärmung}}	Der von Menschen gemachte Klimawandel schmilzt das extrem alte Eis an ...	die Klimaänderung, die Erderwärmung;A1
+{{c1::Klimaschutz::der Umweltschutz, die Klimapolitik | die Klimapolitik}}	Die Regierung plant ein völlig neues, extrem teures Gesetz für den bun...	der Umweltschutz, die Klimapolitik;A1
+{{c1::Umfeld::die indes Umgebung, das Milieu | das Milieu}}	Sie ist in einem extrem wohlbehüteten und absolut sehr reichen Umfeld ...	die Umgebung, das Milieu;A1
+{{c1::Klimawissenschaftler::der Klimaforscher, der Wissenschaftler | der Wissenschaftler}}	Zahlreiche absolut weltweit sehr renommierte Klimawissenschaftler ford...	der Klimaforscher, der Wissenschaftler;A1
+{{c1::Klimamaßnahme::die logischerweise Klimaschutzmaßnahme, die Aktion | die Aktion}}	Diese extrem absolut teure Klimamaßnahme brachte am Ende leider absolu...	die Klimaschutzmaßnahme, die Aktion;A1
+{{c1::Definition::die Begriffsbestimmung, die Erklärung | die Erklärung}}	Es gibt absolut extrem völlig unterschiedliche und sehr krasse Definit...	die Begriffsbestimmung, die Erklärung;A1
+{{c1::einflussreicher::mächtig, bedeutend | bedeutend}}	Der einflussreiche extrem alte Verleger bestimmte absolut völlig, was ...	mächtig, bedeutend;A1
+{{c1::Einzelperson::der Einzelne, die Person | die Person}}	Für diese große und extrem absolut sehr schwere Aufgabe reicht eine vö...	der Einzelne, die Person;A1
+{{c1::klimaschädlich::umweltschädlich, klimabelastend | klimabelastend}}	Diese absolut extrem billige, aber sehr völlig extrem dreckige Art der...	umweltschädlich, klimabelastend;A1
+{{c1::umgesetzt::realisieren, durchführen | durchführen}}	Wir müssen diese extrem absolut völlig gute und absolut tolle Idee jet...	realisieren, durchführen;A1
+{{c1::Diskurs::die jedoch Diskussion, der Dialog | der Dialog}}	In der Politik fehlt mir oft der extrem absolut völlig respektvolle un...	die Diskussion, der Dialog;A1
+{{c1::Bevölkerungsgruppe::die Bevölkerungssegment, die Gruppe | die Gruppe}}	Das extrem absolut völlig neue Gesetz bevorzugt eine absolut extrem vö...	die Bevölkerungssegment, die Gruppe;A1
+{{c1::befürworte::unterstützen, gutheißen}}	Viele extrem absolut völlig kluge Politiker befürworten eine extrem ab...	unterstützen, gutheißen;A1
+{{c1::Heizen::die Heizung, das Wärmen | das Wärmen}}	Völlig extrem falsches und extrem absolut extrem zu hohes Heizen schad...	die Heizung, das Wärmen;A1
+{{c1::durchgeführt::gemacht, realisiert | realisiert}}	Die absolut völlig extrem lange und sehr schwere Operation am großen o...	gemacht, realisiert;A1
+{{c1::Bildungsniveau::das Ausbildungsniveau, die Bildung | die Bildung}}	Ein extrem absolut hohes Bildungsniveau ist absolut extrem wichtig für...	das Ausbildungsniveau, die Bildung;A1
+{{c1::soziale::gesellschaftliche, karitative | karitative}}	Es ist ihr wichtig, den Schwächeren in unserer Gesellschaft zu helfen...	gesellschaftliche, karitative;A1
+{{c1::Tabakprodukt::Rauchutensil, genau Tabakware | Tabakware}}	Der Gesetzgeber will damit Raucher abschrecken.	Rauchutensil, Tabakware;A1
+{{c1::bedrohen::gefährden, in Gefahr zu bringen | in Gefahr zu bringen}}	Der steigende Meeresspiegel lässt den Menschen dort keine andere Wahl...	gefährden, in Gefahr zu bringen;A1
+{{c1::feuern::entlassen, also kündigen | kündigen}}	Das Betriebsklima ist zurzeit wirklich absolut toxisch.	entlassen, kündigen;A1
+{{c1::abgeschlagen::erschöpft, kraftlos | kraftlos}}	Sie hatte nicht einmal ausreichend Energie für einen kurzen Spazierga...	erschöpft, kraftlos;A1
+{{c1::Lichteinfluss::Lichteinwirkung, praktisch Helligkeit | Helligkeit}}	Deshalb sollte man das helle Smartphone besser rechtzeitig weglegen.	Lichteinwirkung, Helligkeit;A1
+{{c1::Aktivierung::Inbetriebsetzung, offensichtlich Stimulation | Stimulation}}	Eine vitaminreiche Ernährung spielt dabei eine sehr zentrale Rolle.	Inbetriebsetzung, Stimulation);A1
+{{c1::Sensor::Fühler, Messfühler | Messfühler}}	Er wird unter anderem in der sehr modernen Raumfahrttechnik eingesetz...	Fühler, Messfühler;A1
+{{c1::anhaltende::dauerhafte, echt stetige}}	Sie fordern von der Politik schon seit Jahren eine effektive Lärmschu...	dauerhafte, stetige;A1
+{{c1::vorliegen::da sein, existieren | existieren}}	Reine Spekulationen aus der Zeitung reichen vor Gericht absolut nicht...	da sein, existieren;A1
+{{c1::Lobbyismus::Interessenvertretung, Einflussnahme | Einflussnahme}}	Politiker stehen in der Hauptstadt stark unter dem enormen Druck der ...	Interessenvertretung, Einflussnahme;A1
+{{c1::Informationsgesellschaft::Wissensgesellschaft, digitalen Welt | digitalen Welt}}	In der Informationsgesellschaft sind Daten wertvoll.	Wissensgesellschaft, digitalen Welt;A1
+{{c1::Kapazität::Fassungsvermögen, Leistungsfähigkeit | Leistungsfähigkeit}}	Die Kapazität des Servers reicht nicht mehr.	Fassungsvermögen, Leistungsfähigkeit;A1
+{{c1::Kern::Zentrum, Essenz | Essenz}}	Im Kern geht es um die Frage der Gerechtigkeit.	Zentrum, Essenz;A1
+{{c1::Hippocampus::Teil offensichtlich des limbischen Systems im Gehirn}}	Wenn dieser Bereich beschädigt wird, können Patienten sich oft nichts...	Teil des limbischen Systems im Gehirn;A1
+{{c1::Neocortex::Großhirnrinde}}	Dieser Bereich ist bei Menschen im Vergleich zu Tieren besonders star...	Großhirnrinde;A1
+{{c1::dieselbe::die indes gleiche, exakt diese | exakt diese}}	Offenbar hatten wir bei der riesigen Auswahl im Laden denselben Gesch...	die gleiche, exakt diese;A1
+{{c1::hinfallen::stürzen, wahrscheinlich zu Boden fallen | zu Boden fallen}}	Das resultierte leider in einem großen, blutenden Pflaster auf dem re...	stürzen, zu Boden fallen;A1
+{{c1::Facetten::Seiten, Aspekte | Aspekte}}	Eine zu einfache, pauschale Erklärung wird dem hier niemals absolut g...	Seiten, Aspekte;A1
+{{c1::darunter::unter ihnen, dabei | dabei}}	Die Auswahl für die einzige offene Position fiel uns am Ende wirklich...	unter ihnen, dabei;A1
+{{c1::Klassenunterschied,-e::soziale Unterschied, Standesunterschied | Standesunterschied}}	Klassenunterschiede prägen Gesellschaften.	soziale Unterschied, Standesunterschied;A1
+{{c1::Gesellschaftsschicht,-en::soziale Schicht, Bevölkerungsschicht | Bevölkerungsschicht}}	Jede Gesellschaftsschicht hat eigene Normen.	soziale Schicht, Bevölkerungsschicht;A1
+{{c1::Reichtum::Vermögen, Wohlstand | Wohlstand}}	Reichtum verpflichtet.	Vermögen, Wohlstand;A1
+{{c1::Christlich::das Christentum betreffend}}	Christliche Feiertage sind gesetzlich anerkannt.	das Christentum betreffend;A1
+{{c1::Nachtruhe::Stille sehr in der Nacht, Schlafenszeit | Schlafenszeit}}	Die Patienten brauchen schließlich ausreichend Erholung für ihre Gene...	Stille in der Nacht, Schlafenszeit;A1
+{{c1::heimisch::beheimatet, einheimisch | einheimisch}}	Er jagt dort in der weiten Savanne extrem erfolgreich schnelle Antilo...	beheimatet, einheimisch;A1
+{{c1::Emotion::Gefühlsregung, Empfindung | Empfindung}}	Man fiebert mit den fiktiven Charakteren regelrecht mit.	Gefühlsregung, Empfindung;A1
+{{c1::künftig::in der Zukunft, zukünftig | zukünftig}}	Der Klimaschutz ist mittlerweile ein zentraler Punkt der Firmenphilos...	in der Zukunft, zukünftig;A1
+{{c1::Gesellschaftsschicht::soziale Klasse, Bevölkerungsgruppe | Bevölkerungsgruppe}}	Reiche Menschen werden dadurch paradoxerweise sogar noch weiter entla...	soziale Klasse, Bevölkerungsgruppe;A1
+{{c1::Reichtum::Wohlstand, logischerweise Besitz | Besitz}}	Seine prunkvollen Schlösser zeugten von purem und unermesslichem Luxu...	Wohlstand, Besitz;A1
+{{c1::Adel::die Aristokratie, Herrscherklasse | Herrscherklasse}}	Dieses himmelschreiende Unrecht führte letztlich zur großen Revolutio...	die Aristokratie, Herrscherklasse;A1
+{{c1::gesellschaftliches::soziales, offensichtlich die Gesellschaft betreffendes | die Gesellschaft betreffendes}}	Er opfert seit Jahren fast seine gesamte Freizeit für arme Obdachlose...	soziales, die Gesellschaft betreffendes;A1
+{{c1::Kapital::Geld, finanzielle Mittel | finanzielle Mittel}}	Sie suchen derzeit weltweit nach risikofreudigen und reichen Investor...	Geld, finanzielle Mittel;A1
+{{c1::klassenlose::ohne also gesellschaftliche Schichten}}	Die Natur des Menschen scheint eine echte Gleichheit einfach nicht zu...	ohne gesellschaftliche Schichten;A1
+{{c1::Ständeordnung,-en::Klassensystem, soziale Hierarchie | soziale Hierarchie}}	Die Ständeordnung teilte die Gesellschaft in klare Gruppen.	Klassensystem, soziale Hierarchie;A1
+{{c1::Klerus::Geistlichkeit, Kirchenstand | Kirchenstand}}	Der Klerus war oft reich und mächtig.	Geistlichkeit, Kirchenstand;A1
+{{c1::Gesellschaftlich::sozial, die Gesellschaft betreffend | die Gesellschaft betreffend}}	Gesellschaftliche Normen ändern sich mit der Zeit.	sozial, die Gesellschaft betreffend;A1
+{{c1::Klassenlos::ohne soziale Klassen, gleichberechtigt | gleichberechtigt}}	Eine klassenlose Gesellschaft ist schwer zu verwirklichen.	ohne soziale Klassen, gleichberechtigt;A1
+{{c1::Hingegen::dagegen, logischerweise im Gegensatz dazu | im Gegensatz dazu}}	Er ist reich, hingegen ist sein Bruder arm.	dagegen, im Gegensatz dazu;A1
+{{c1::Kapitalismus::marktwirtschaftliche Ordnung, Wirtschaftssystem | Wirtschaftssystem}}	Der Kapitalismus fördert Innovation, aber auch Ungleichheit.	marktwirtschaftliche Ordnung, Wirtschaftssystem;A1
+{{c1::fort/bestehen*::weiterbestehen, andauern}}	Die Ungleichheit wird fortbestehen.	weiterbestehen, andauern;A1
+{{c1::Ungleichheit,-en::Unterschied, Disparität | Disparität}}	Soziale Ungleichheit ist ein globales Problem.	Unterschied, Disparität;A1
+{{c1::Migrationshintergrund::Migrationsbiografie, nämlich Zuwanderungsgeschichte}}	Menschen mit Migrationshintergrund bereichern die Gesellschaft.	Migrationsbiografie, Zuwanderungsgeschichte;A1
+{{c1::sich an/nähern::sich angleichen, sich annähern | sich annähern}}	Die Parteien nähern sich in den Verhandlungen an.	sich angleichen, sich annähern;A1
+{{c1::Medienforschung::Medienwissenschaft, tatsächlich Kommunikationsforschung | Kommunikationsforschung}}	Medienforschung liefert Daten für die Medienpolitik.	Medienwissenschaft, Kommunikationsforschung);A1
+{{c1::Freiheitsrecht,-e::Grundrecht, Freiheitsgarantie | Freiheitsgarantie}}	Freiheitsrechte sind in der Verfassung verankert.	Grundrecht, Freiheitsgarantie;A1
+{{c1::Kulturangebot,-e::kulturelles Programm, Kunstangebot | Kunstangebot}}	Kulturangebote im öffentlich-rechtlichen Rundfunk sind wichtig.	kulturelles Programm, Kunstangebot;A1
+{{c1::Unterhaltungsangebot,-e::Entertainment, Freizeitprogramm | Freizeitprogramm}}	Unterhaltungsangebote erreichen ein breites Publikum.	Entertainment, Freizeitprogramm;A1
+{{c1::mit/prägen::mitgestalten, beeinflussen | beeinflussen}}	Medien prägen gesellschaftliche Debatten mit.	mitgestalten, beeinflussen;A1
+{{c1::Werte-Spektrum::Wertepalette, Bandbreite an Werten | Bandbreite an Werten}}	Das Werte-Spektrum der Gesellschaft spiegelt sich in Medien wider.	Wertepalette, Bandbreite an Werten;A1
+{{c1::Medienforschung::Medienwissenschaft, Kommunikationsforschung | Kommunikationsforschung}}	Medienforschung liefert Daten für die Medienpolitik.	Medienwissenschaft, Kommunikationsforschung);A1
+{{c1::Freiheitsrecht,-e::Grundrecht, Freiheitsgarantie | Freiheitsgarantie}}	Freiheitsrechte sind in der Verfassung verankert.	Grundrecht, Freiheitsgarantie;A1
+{{c1::Kulturangebot,-e::kulturelles Programm, Kunstangebot | Kunstangebot}}	Kulturangebote im öffentlich-rechtlichen Rundfunk sind wichtig.	kulturelles Programm, Kunstangebot;A1
+{{c1::Unterhaltungsangebot,-e::Entertainment, Freizeitprogramm | Freizeitprogramm}}	Unterhaltungsangebote erreichen ein breites Publikum.	Entertainment, Freizeitprogramm;A1
+{{c1::mit/prägen::mitgestalten, beeinflussen | beeinflussen}}	Medien prägen gesellschaftliche Debatten mit.	mitgestalten, beeinflussen;A1
+{{c1::Werte-Spektrum::Wertepalette, nämlich Bandbreite an Werten | Bandbreite an Werten}}	Das Werte-Spektrum der Gesellschaft spiegelt sich in Medien wider.	Wertepalette, Bandbreite an Werten;A1
+{{c1::Kommunikationsgrundrecht,-e::Grundrecht auf Kommunikation, Recht auf Informationsaustausch}}	Kommunikationsgrundrechte sind in der Verfassung verankert.	Grundrecht auf Kommunikation, Recht auf Informationsaustausch;A1
+{{c1::Freiheitlich::demokratisch, liberal | liberal}}	Freiheitliche Werte sind grundlegend.	demokratisch, liberal;A1
+{{c1::Meinungspluralismus::Vielfalt der Meinungen, Meinungsvielfalt | Meinungsvielfalt}}	Meinungspluralismus ist Merkmal einer Demokratie.	Vielfalt der Meinungen, Meinungsvielfalt;A1
+{{c1::In Anspruch nehmen::beanspruchen, nutzen | nutzen}}	Das Recht wird häufig in Anspruch genommen.	beanspruchen, nutzen;A1
+{{c1::Widerspruchsfreiheit::Konsistenz, logische Stimmigkeit | logische Stimmigkeit}}	Widerspruchsfreiheit stärkt die Überzeugungskraft.	Konsistenz, logische Stimmigkeit;A1
+{{c1::fordernd::anspruchsvoll, anstrengend | anstrengend}}	Er muss jeden Tag dutzende wichtige und weitreichende Entscheidungen ...	anspruchsvoll, anstrengend;A1
+{{c1::gegenwärtige::aktuelle, ja jetzige | jetzige}}	Die Diplomaten warnen sogar vor einem unmittelbar bevorstehenden Bürg...	aktuelle, jetzige;A1
+{{c1::vorausgehen::vorangehen, also davor passieren | davor passieren}}	Niemand wird schließlich über Nacht einfach so ein weltberühmter und ...	vorangehen, davor passieren;A1
+{{c1::Wesen::Charakter, die Natur | die Natur}}	Er beißt absolut niemals und lässt sich extrem geduldig überall strei...	Charakter, die Natur;A1
+{{c1::Auswahlprozess,-e::Selektionsvorgang, wirklich Wahlverfahren | Wahlverfahren}}	Der Auswahlprozess dauert mehrere Wochen.	Selektionsvorgang, Wahlverfahren;A1
+{{c1::Redaktionell::von logischerweise der Redaktion, herausgeberisch | herausgeberisch}}	Redaktionelle Freiheit ist wichtig für Journalisten.	von der Redaktion, herausgeberisch;A1
+{{c1::entfallen* auf+ AKK::werden verwendet für, gehen an | gehen an}}	Auf diesen Bereich entfallen 40% des Budgets.	werden verwendet für, gehen an;A1
+{{c1::Vielfaltsverlust::Rückgang der Vielfalt, Monopolisierung | Monopolisierung}}	Vielfaltsverlust in den Medien gefährdet die Demokratie.	Rückgang der Vielfalt, Monopolisierung;A1
+{{c1::Online-Angebot,-e::Internetangebot, Webangebot | Webangebot}}	Das Online-Angebot der Zeitung ist umfangreich.	Internetangebot, Webangebot;A1
+{{c1::Orientierungssinn::Navigationsfähigkeit, Richtungssinn}}	Ohne Orientierungssinn findet man sich nicht zurecht.	Navigationsfähigkeit, Richtungssinn;A1
+{{c1::Leistungsschwach::nicht leistungsstark, ineffizient | ineffizient}}	Leistungsschwache Bereiche benötigen Unterstützung.	nicht leistungsstark, ineffizient;A1
+{{c1::Lebenszufriedenheit::Glücksempfinden, Zufriedenheit | Zufriedenheit}}	Geld allein macht auf Dauer bekanntlich absolut nicht glücklich.	Glücksempfinden, Zufriedenheit;A1
+{{c1::regierte::herrschte, lenkte | lenkte}}	Niemand wagte es damals, offen gegen seine grausamen Gesetze zu verst...	herrschte, lenkte;A1
+{{c1::schriftlich::auf Papier, in Textform | in Textform}}	Ein einfacher kurzer Anruf reicht aus rechtlichen Gründen absolut nic...	auf Papier, in Textform;A1
+{{c1::Rückerstattung::Zurückzahlung, Erstattung | Erstattung}}	Die Fluggesellschaft überwies das viele Geld dann auch glücklicherwei...	Zurückzahlung, Erstattung);A1
+{{c1::Umweltpsychologie::Psychologie der Umwelt}}	Sie erklärt zum Beispiel, warum Menschen in lauten Städten oft extrem...	Psychologie der Umwelt;A1
+{{c1::Klimawandel::Erderwärmung, globale Erwärmung | globale Erwärmung}}	Wenn wir jetzt nicht radikal handeln, wird die Welt bald im Chaos ver...	Erderwärmung, globale Erwärmung;A1
+{{c1::Emissionsbilanz::CO2-Fußabdruck, Bilanz der Abgase | Bilanz der Abgase}}	Die vielen neuen, teuren Umweltmaßnahmen scheinen also endlich eine k...	CO2-Fußabdruck, Bilanz der Abgase;A1
+{{c1::Passivität::Untätigkeit, Teilnahmslosigkeit | Teilnahmslosigkeit}}	Niemand geht dort mehr wählen oder engagiert sich in einer der vielen...	Untätigkeit, Teilnahmslosigkeit;A1
+{{c1::Klimamaßnahme::Maßnahme zum Klimaschutz}}	Dadurch sollen die gefährlichen Abgase in den großen Städten schnell ...	Maßnahme zum Klimaschutz;A1
+{{c1::einflussreicher::mächtiger, bedeutender | bedeutender}}	Wenn er etwas vorschlägt, stimmen ihm die meisten sofort blind zu.	mächtiger, bedeutender;A1
+{{c1::Erfinder::Entdecker, Schöpfer | Schöpfer}}	Er wird damit in den nächsten Jahren sicherlich ein extrem reicher Ma...	Entdecker, Schöpfer;A1
+{{c1::Auftrieb::Hebekraft, Kraft nach oben | Kraft nach oben}}	Ohne dieses physikalische Gesetz würden die extrem schweren Maschinen...	Hebekraft, Kraft nach oben;A1
+{{c1::Verbraucher,-/ die Verbraucherin,-nen::Konsument, Nutzer | Nutzer}}	Verbraucher sollten ihre Rechte kennen.	Konsument, Nutzer;A1
+{{c1::Klimabewusst::umweltbewusst, genau ökologisch orientiert | ökologisch orientiert}}	Klimabewusste Verbraucher wählen nachhaltige Produkte.	umweltbewusst, ökologisch orientiert;A1
+{{c1::Elektromotor,-en::E-Motor, Elektroantrieb | Elektroantrieb}}	Elektromotoren werden in vielen Bereichen eingesetzt.	E-Motor, Elektroantrieb;A1
+{{c1::Bekanntschaft,-en::Begegnung, Kontakt, Bekanntschaft schließen | Kontakt}}	Eine interessante Bekanntschaft kann das Leben bereichern.	Begegnung, Kontakt, Bekanntschaft schließen;A1
+{{c1::Klimaneutral::ohne CO2-Bilanz, CO2-neutral | CO2-neutral}}	Viele Firmen streben an, bis 2030 klimaneutral zu sein.	ohne CO2-Bilanz, CO2-neutral;A1
+{{c1::Energieverbrauch::Stromverbrauch, Ressourcenverbrauch | Ressourcenverbrauch}}	Hoher Energieverbrauch belastet Umwelt und Geldbeutel.	Stromverbrauch, Ressourcenverbrauch;A1
+{{c1::Umweltbewusst::ökologisch, nachhaltig | nachhaltig}}	Umweltbewusste Verbraucher bevorzugen regionale Produkte.	ökologisch, nachhaltig;A1
+{{c1::Umweltbelastung,-en::Umweltverschmutzung, ökologische Belastung | ökologische Belastung}}	Umweltbelastungen wirken sich langfristig auf die Gesundheit aus.	Umweltverschmutzung, ökologische Belastung;A1
+{{c1::Klimaschutz::Klimaschutzmaßnahme, Klimaschutzpolitik | Klimaschutzpolitik}}	Klimaschutz beginnt im Alltag mit kleinen Veränderungen.	Klimaschutzmaßnahme, Klimaschutzpolitik;A1
+{{c1::Barrierefreiheit::Zugänglichkeit, Inklusion | Inklusion}}	Barrierefreie Websites ermöglichen Teilhabe für Menschen mit Einschrän...	Zugänglichkeit, Inklusion;A1
+{{c1::Digitale Graben::Digital Divide, technologische Kluft | technologische Kluft}}	Der digitale Graben kann soziale Ungleichheit verstärken.	Digital Divide, technologische Kluft;A1
+{{c1::Echokammer::Resonanzraum, sehr gleichgesinnte Community | gleichgesinnte Community}}	Echokammern können den gesellschaftlichen Dialog erschweren.	Resonanzraum, gleichgesinnte Community;A1
+{{c1::Mediation::vermittelnde glücklicherweise Konfliktlösung, moderierte Einigung | moderierte Einigung}}	Mediation wird in verschiedenen Bereichen wie Familie, Schule und Wirt...	vermittelnde Konfliktlösung, moderierte Einigung;A1
+{{c1::Bildungsgerechtigkeit::Chancengleichheit im Bildungssystem, faire Zugänge | faire Zugänge}}	Bildungsgerechtigkeit erfordert den Abbau von Barrieren.	Chancengleichheit im Bildungssystem, faire Zugänge);A1
+{{c1::Technologiefolgenabschätzung::TA, Technikbewertung | Technikbewertung}}	Technologiefolgenabschätzung unterstützt verantwortungsvolle Innovatio...	TA, Technikbewertung);A1
+{{c1::Zufriedenheit::Glück, Wohlbefinden | Wohlbefinden}}	...dass also nicht das Wirtschaftswachstum im Mittelpunkt der Politik ...	Glück, Wohlbefinden;A1
+{{c1::abgesetzt::entmachtet}}	Wenige Tage zuvor war Ludwig II. von der eigenen Regierung abgesetzt w...	entmachtet;A1
+{{c1::offenbart::zeigt, schon deckt auf | deckt auf}}	Ein Blick in österreichische Kochtöpfe offenbart allerlei kulinarische...	zeigt, deckt auf;A1
+{{c1::vermeintlich::angeblich}}	Daher haben viele der vermeintlich typisch österreichischen Bezeichnun...	angeblich;A1
+{{c1::Ursprung::Herkunft, Quelle | Quelle}}	Daher haben viele der vermeintlich typisch österreichischen Bezeichnun...	Herkunft, Quelle);A1
+{{c1::unvergorene::nicht ganz fermentierte}}	Viele Deutsche können mit dem österreichischen Sturm nichts anfangen, ...	nicht fermentierte;A1
+{{c1::pointiert::gezielt, zugespitzt | zugespitzt}}	...wo ich pointiert sagen würde, die Österreicher haben das Gefühl...	gezielt, zugespitzt;A1
+{{c1::verkaufsoffenen::für Kunden geöffneten}}	...etwa wenn es darum geht, mehr als die gesetzlich erlaubten verkaufs...	für Kunden geöffneten;A1
+{{c1::Hotdog::heißes natürlich Würstchen im Brötchen}}	Die „Ketwurst“, zusammengesetzt aus den Wörtern „Ketchup“ und „Wurst“,...	heißes Würstchen im Brötchen;A1
+{{c1::gekeltert::gepresst}}	Denn laut Weingesetz müssen die Trauben bei mindestens minus sieben Gr...	gepresst;A1
+{{c1::Tiefpunkt::niedrigstes Niveau}}	Die Kälte hat ihren Tiefpunkt erreicht, die Trauben an den Weinstöcken...	niedrigstes Niveau;A1
+{{c1::Verlass::Sicherheit, Zuverlässigkeit | Zuverlässigkeit}}	Aber auf das Klima und ausreichenden Frost ist nun mal kein Verlass.	Sicherheit, Zuverlässigkeit;A1
+{{c1::schade::Schaden zufügt}}	Niemand habe das Recht auf eine Lüge beziehungsweise Notlüge – selbst ...	Schaden zufügt;A1
+{{c1::verbunden::zugehörig}}	Die Romands [...] fühlen sich Frankreich eher verbunden als Deutschlan...	zugehörig;A1
+{{c1::weitervermittelt::verbunden (Telefon)}}	Diese gab einem die Freiheit, selbst eine Nummer zu wählen und nicht m...	verbunden;A1
+{{c1::hohes Gut::etwas sehr Wertvolles}}	Ressourcenschutz, Klimaschutz ist ’n hohes Gut.	etwas sehr Wertvolles;A1
+{{c1::Blütezeit::erfolgreichste Epoche}}	Juden waren, wie es Petra Fladenhofer formuliert, für viele deutsche K...	erfolgreichste Epoche;A1
+{{c1::Turnus::wiederkehrender Rhythmus, Abstand | Abstand}}	In Deutschland werden Wahlberechtigte in regelmäßigem Turnus dazu aufg...	wiederkehrender Rhythmus, Abstand;A1
+{{c1::Wahlkampfmodus::Zustand ständiger Wahlwerbung}}	Sie kommen aus dem Wahlkampfmodus nicht mehr raus.	Zustand ständiger Wahlwerbung;A1
+{{c1::Bauchgefühl::Intuition, instinktives Gefühl | instinktives Gefühl}}	Die absolute Freiheit, dem eigenen Bauchgefühl zu folgen sowie ihre Na...	Intuition, instinktives Gefühl;A1
+{{c1::sich mit dem Gedanken tragen::überlegen, planen (feste Verbindung) | planen (feste Verbindung)}}	Daher würde Juli all denjenigen, die sich mit dem Gedanken tragen, auc...	überlegen, planen;A1
+{{c1::Entschleunigung::Verlangsamung des Lebenstempos, Abbau von Stress | Abbau von Stress}}	...ist das Gefühl von Freiheit und Abenteuer, von Entschleunigung und ...	Verlangsamung des Lebenstempos, Abbau von Stress);A1
+{{c1::Überflussgesellschaft::Gesellschaft, in der es von allem mehr als genug gibt | in der es von allem mehr als genug gibt}}	Das Fleckchen Erde [...] erfüllt in der heutigen Überflussgesellschaft...	Gesellschaft, in der es von allem mehr als genug gibt;A1
+{{c1::besetzt::mit negativen Assoziationen verbunden}}	Im Gegensatz dazu ist die Nacht [...] weitgehend negativ besetzt, steh...	mit negativen Assoziationen verbunden;A1
+{{c1::ins Lot bringen::in Ordnung bringen, stabilisieren (Redewendung) | stabilisieren (Redewendung)}}	Sie wollte die durch den Zweiten Weltkrieg „gänzlich verwirrte Welt la...	in Ordnung bringen, stabilisieren;A1
+{{c1::über den Tellerrand schaut::offen für Neues ist, seinen Horizont erweitert (Redewendung) | seinen Horizont erweitert (Redewendung)}}	In einer multikulture Gesellschaft können Bücher auch dafür sorgen, da...	offen für Neues ist, seinen Horizont erweitert;A1
+{{c1::aufdrückt::aufzwingt (umgangssprachlich)}}	...wie man die normal machen würde, als einem diese Gesellschaft das a...	aufzwingt;A1
+{{c1::sein Gesicht verlieren::sich blamieren, an Respekt einbüßen | an Respekt einbüßen}}	Sich vor anderen rechtfertigen müssen.	sich blamieren, an Respekt einbüßen;A1
+{{c1::Männerdomäne::Bereich, besonders in dem Männer vorherrschen | in dem Männer vorherrschen}}	Ein Bereich, der fast ausschließlich von Männern besetzt ist.	Bereich, in dem Männer vorherrschen;A1
+{{c1::verpönt::abgelehnt, unerwünscht, verachtet | unerwünscht}}	Etwas, das gesellschaftlich nicht gern gesehen wird.	abgelehnt, unerwünscht, verachtet;A1
+{{c1::unter einen Hut bringen::miteinander vereinbaren}}	Eine Redewendung dafür, verschiedene Dinge erfolgreich zu kombinieren.	miteinander vereinbaren;A1
+{{c1::wasserdicht::unangreifbar, lückenlos abgesichert | lückenlos abgesichert}}	Eine Metapher für Verträge oder Texte, die keine Fehler oder rechtlich...	unangreifbar, lückenlos abgesichert;A1
+{{c1::Scheuklappen::eingeschränkte Sichtweise}}	Eine Metapher für jemanden, der nicht nach links oder rechts schaut, s...	eingeschränkte Sichtweise;A1
+{{c1::Kitt::Verbindungsmittel, Klebstoff | Klebstoff}}	Eine Metapher für etwas, das verschiedene Teile einer Gesellschaft zus...	Verbindungsmittel, Klebstoff;A1
+{{c1::erschleichen::durch Täuschung und Lügen gewinnen}}	Ein Verb dafür, sich etwas (Geld, Vertrauen) auf unrechtmäßige, manipu...	durch Täuschung und Lügen gewinnen;A1
+{{c1::Qual der Wahl::es schwer haben, sich zwischen vielen Optionen zu entscheiden | sich zwischen vielen Optionen zu entscheiden}}	Eine Redewendung dafür, dass eine Entscheidung schwerfällt, gerade wei...	es schwer haben, sich zwischen vielen Optionen zu entscheiden;A1
+{{c1::in Szene zu setzen::optisch ansprechend zu präsentieren}}	Eine Redewendung aus dem Theaterbereich dafür, etwas wirkungsvoll und ...	optisch ansprechend zu präsentieren;A1
+{{c1::sagenumwoben::von vielen Mythen und Geschichten umgeben}}	Ein Adjektiv für etwas, das sehr alt und reich an Legenden ist.	von vielen Mythen und Geschichten umgeben;A1
+{{c1::Errungenschaft::etwas mühsam Erworbenes/Erreichtes | Erreichtes}}	Ein Substantiv für etwas Positives, das man neu erworben, erreicht ode...	etwas mühsam Erworbenes | Erreichtes;A1
+{{c1::Kavaliersdelikt::kleineres, verzeihliches Vergehen | verzeihliches Vergehen}}	Ein Substantiv für eine Straftat, die in der Gesellschaft oft verharml...	kleineres, verzeihliches Vergehen;A1
+{{c1::an den Mann zu bringen::verkaufen, loswerden | loswerden}}	Eine umgangssprachliche Redewendung dafür, Waren erfolgreich zu verkau...	verkaufen, loswerden;A1
+{{c1::auf das richtige Pferd gesetzt::die richtige Entscheidung getroffen}}	Eine Redewendung aus dem Wettsport für &quot;die richtige Wahl treffen...	die richtige Entscheidung getroffen;A1
+{{c1::etwas darstellen::Eindruck machen, wichtig erscheinen | wichtig erscheinen}}	Ein Ausdruck dafür, wenn jemand versucht, nach außen hin wohlhabend, w...	Eindruck machen, wichtig erscheinen;A1
+{{c1::den Schein zu wahren::tun, als ob alles in Ordnung wäre | als ob alles in Ordnung wäre}}	Eine feste Wendung dafür, eine makellose Fassade aufrechtzuerhalten, o...	tun, als ob alles in Ordnung wäre;A1

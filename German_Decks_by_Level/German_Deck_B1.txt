@@ -1,0 +1,9 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::B1
+{{c1::die Luftfeuchtigkeit::der Wassergehalt | die Feuchtigkeit}}	{{c1::Die Luftfeuchtigkeit::der Wassergehalt|die Feuchtigkeit}} ist sehr hoch.	Alltag;Nomen;B1
+{{c1::die Verzweiflung::die Hoffnungslosigkeit | die Ausweglosigkeit}}	Er gab sich der {{c1::Verzweiflung::die Hoffnungslosigkeit|die Ausweglosigkeit}} hin.	Emotionen;Nomen;B1
+{{c1::Abgesehen davon::Außerdem|Nebenbei|Noch dazu}}	Abgesehen davon ist alles gut.	Satzmuster;Satz;B1
+{{c1::Im Gegensatz zu...::Anders als...|Anders als...|Anders als...}}	Im Gegensatz zu mir ist sie fleißig.	Satzmuster;Satz;B1
+{{c1::Um ehrlich zu sein::Ehrlich gesagt|Offen gesagt|Offen gesagt}}	Um ehrlich zu sein, weiß ich das auch nicht.	Satzmuster;Satz;B1

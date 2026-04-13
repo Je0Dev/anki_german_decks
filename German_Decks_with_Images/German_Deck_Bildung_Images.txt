@@ -1,0 +1,201 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::Bildung
+{{c1::Digitalisierung::der technologische Wandel}}	Viele Schulen sind bei der Digitalisierung leider noch im Rückstand.	der technologische Wandel);A1
+{{c1::erlernen::lernen/sich aneignen | sich aneignen}}	Sie hofft, im neuen Kurs endlich fließend Spanisch zu erlernen.	lernen | sich aneignen;A1
+{{c1::beigebracht::lehren/vermitteln | vermitteln}}	Der Lehrer versucht, den Schülern komplizierte Mathematik beizubringen...	lehren | vermitteln;A1
+{{c1::verlernen::vergessen (Fähigkeit)}}	Es heißt, dass man das Schwimmen niemals ganz verlernen kann.	vergessen;A1
+{{c1::Unterrichtsstoff::das logischerweise Lernmaterial}}	Der Lehrer hat den gesamten Unterrichtsstoff sehr gut erklärt.	das Lernmaterial;A1
+{{c1::Vorlesung::der Vortrag an der Uni}}	Wegen Krankheit fällt die heutige Vorlesung über Geschichte leider aus...	der Vortrag an der Uni);A1
+{{c1::Skript::das praktisch Lernheft/die Unterlagen | die Unterlagen}}	Er hat das gesamte Skript für die Klausur in einer Woche durchgelesen.	das Lernheft | die Unterlagen;A1
+{{c1::Privatschule::die jedoch nichtstaatliche Schule}}	Kleine Klassen sind der große Vorteil dieser modernen Privatschule.	die nichtstaatliche Schule;A1
+{{c1::allgemeinbildende::die Allgemeinbildung fördernd}}	Diese allgemeinbildenden Kurse bereiten die Schüler auf das Leben vor.	die Allgemeinbildung fördernd;A1
+{{c1::Bildungseinrichtung::die indes Schule/Universität | Universität}}	Bibliotheken sind für viele Menschen wichtige Bildungseinrichtungen.	die Schule | Universität);A1
+{{c1::Schulklima::die Atmosphäre in der Schule}}	Das angespannte Schulklima führt zu vielen Konflikten unter den Schüle...	die Atmosphäre in der Schule;A1
+{{c1::lebenslanges Lernen::die ständige Weiterbildung}}	Die Firma bietet viele Seminare an und fördert das lebenslange Lernen.	die ständige Weiterbildung;A1
+{{c1::gewissenhaft::sehr genau/sorgfältig | sorgfältig}}	Ein Pilot muss das Flugzeug vor jedem Start gewissenhaft kontrollieren...	sehr genau | sorgfältig;A1
+{{c1::beurteilen::einschätzen/bewerten}}	Der Lehrer muss die Leistung jedes Schülers fair beurteilen.	einschätzen | bewerten;A1
+{{c1::wider::reflektieren}}	Ihre Noten spiegeln leider nicht ihr wahres Talent wider.	reflektieren;A1
+{{c1::gründen::aufbauen/ins Leben rufen | ins Leben rufen}}	Einige Studenten wollen eine Initiative für mehr Umweltschutz gründen.	aufbauen | ins Leben rufen;A1
+{{c1::Vorkenntnisse::die bereits vorhandenen Kenntnisse}}	Ihre Vorkenntnisse in Mathematik waren sehr hilfreich für das Studium.	die bereits vorhandenen Kenntnisse;A1
+{{c1::Betriebswirtschaftslehre::das BWL-Studium}}	Ein Studium der Betriebswirtschaftslehre eröffnet viele Chancen in der...	das BWL-Studium;A1
+{{c1::mitzudiskutieren::sich am Gespräch beteiligen}}	Jeder im Seminarraum darf und soll bei dieser brisanten Frage mitdisku...	sich am Gespräch beteiligen;A1
+{{c1::einzuleben::sich eingewöhnen}}	Er hat sich in seiner neuen Schule überraschend schnell eingelebt.	sich eingewöhnen;A1
+{{c1::zugenickt::mit dem Kopf grüßen}}	Der Lehrer hat mir zustimmend zugenickt, als ich die richtige Antwort ...	mit dem Kopf grüßen;A1
+{{c1::verzweifeln::die Hoffnung aufgeben}}	An dieser schweren Mathematikaufgabe können Schüler wirklich verzweife...	die Hoffnung aufgeben;A1
+{{c1::Anspannung::die selbstverständlich Nervosität}}	Nach dem langen Streit fiel die Anspannung endlich von ihren Schultern...	die Nervosität);A1
+{{c1::Biofeedback::die biologische Rückmeldung}}	Mit Biofeedback können Patienten lernen, ihren eigenen Herzschlag bewu...	die biologische Rückmeldung;A1
+{{c1::Vorfall::das Ereignis}}	Nach dem peinlichen Vorfall im Restaurant wollte er sich sofort entsch...	das Ereignis;A1
+{{c1::Prüfungsordnung::das Regelwerk für Prüfungen}}	Die neue Prüfungsordnung erlaubt es Studenten, Klausuren online zu sch...	das Regelwerk für Prüfungen);A1
+{{c1::Wiederholungsprüfung::der Nachholtermin}}	Die schwierige Wiederholungsprüfung findet erst im nächsten Semester s...	der Nachholtermin);A1
+{{c1::Prüfung zu bestehen::erfolgreich absolvieren}}	Es ist sehr schwer, diese harte Aufnahmeprüfung ohne Vorbereitung zu b...	erfolgreich absolvieren;A1
+{{c1::Prüfungen ablegen::an einer Prüfung teilnehmen}}	Um Arzt zu werden, muss man ein sehr schwieriges Staatsexamen ablegen.	an einer Prüfung teilnehmen;A1
+{{c1::Leistungen einzeln abnehmen::individuell prüfen}}	Beim Sportabzeichen muss der Lehrer alle Leistungen einzeln abnehmen.	individuell prüfen;A1
+{{c1::aushändigen::übergeben}}	Der Lehrer wird die Zeugnisse erst am letzten Schultag aushändigen.	übergeben;A1
+{{c1::insbesondere::vor allem}}	Dieses Buch richtet sich an alle Studenten, insbesondere an Erstsemest...	vor allem;A1
+{{c1::Schulung::das logischerweise Training/der Kurs | der Kurs}}	Die interne Schulung zum Thema Brandschutz findet jedes Jahr im Januar...	das Training | der Kurs);A1
+{{c1::Kurzgeschichte::die Novelle/die kurze Erzählung | die kurze Erzählung}}	In der Schule müssen wir eine berühmte Kurzgeschichte von Kafka interp...	die Novelle | die kurze Erzählung;A1
+{{c1::Unterart::die Spezies/die Sorte | die Sorte}}	Wissenschaftler haben im Amazonas eine neue Unterart dieses Frosches e...	die Spezies | die Sorte;A1
+{{c1::unbesorgt::sorgenfrei}}	Er ging völlig unbesorgt in die Prüfung, weil er sehr viel gelernt hat...	sorgenfrei;A1
+{{c1::Lektüre::das Lesen/der Lesestoff | der Lesestoff}}	Die Lektüre klassischer Literatur in der Schule finden viele Schüler a...	das Lesen | der Lesestoff;A1
+{{c1::Fachschule::die Berufsschule}}	An der staatlichen Fachschule werden Experten für die Landwirtschaft a...	die Berufsschule;A1
+{{c1::Akademie::die Hochschule}}	Die renommierte Musik-Akademie nimmt jedes Jahr nur ganz wenige neue S...	die Hochschule;A1
+{{c1::Förderungsbetrag::die Fördersumme}}	Der maximale Förderungsbetrag für Studenten hängt stark vom Einkommen ...	die Fördersumme;A1
+{{c1::Berufsfachschule::die Fachschule für Berufe}}	Die Berufsfachschule für Technik vermittelt den Schülern sehr viel pra...	die Fachschule für Berufe;A1
+{{c1::Fachoberschule::die FOS}}	Er besucht nach der Realschule die Fachoberschule, um das Fachabitur z...	die FOS;A1
+{{c1::Abendhauptschule::die Hauptschule am Abend}}	Nach der Schicht im Werk lernt er jeden Tag fleißig in der Abendhaupts...	die Hauptschule am Abend;A1
+{{c1::Berufsaufbauschule::die Aufbauschule}}	Die Berufsaufbauschule ist ein toller Weg für engagierte Handwerker, s...	die Aufbauschule;A1
+{{c1::Abendrealschule::die Realschule am Abend}}	Die Kurse an der Abendrealschule beginnen meistens erst gegen 18 Uhr.	die Realschule am Abend;A1
+{{c1::Appell::der Aufruf}}	Der Appell der Schulleitung richtete sich an alle verantwortungsvollen...	der Aufruf;A1
+{{c1::umfangreiche::ausführlich}}	Die Bibliothek der alten Universität besitzt eine extrem umfangreiche ...	ausführlich;A1
+{{c1::überfordern::überlasten}}	Die schwere Mathematikprüfung wird viele der Schüler überfordern.	überlasten;A1
+{{c1::renommierten::angesehen}}	Er studiert seit letztem Jahr an einer sehr renommierten Universität.	angesehen;A1
+{{c1::Nachlass::das erstaunlicherweise Erbe}}	Im Nachlass der Großmutter fanden wir ein sehr altes und wertvolles Ta...	das Erbe;A1
+{{c1::unterschätzen::unterbewerten}}	Du darfst die Schwierigkeit dieser schweren Prüfung auf keinen Fall un...	unterbewerten;A1
+{{c1::Leistungsdruck::der Erfolgszwang}}	Viele junge Schüler leiden heutzutage unter einem wirklich extremen Le...	der Erfolgszwang;A1
+{{c1::Ausgrenzung::die praktisch Isolation}}	Die soziale Ausgrenzung in der Schule führt bei Jugendlichen oft zu sc...	die Isolation);A1
+{{c1::Überflieger::das Wunderkind}}	Als absoluter Überflieger beendete sie ihr schwieriges Studium in tota...	das Wunderkind;A1
+{{c1::anspruchsvoll::herausfordernd}}	Das Lesen dieses dicken philosophischen Buches ist wirklich extrem ans...	herausfordernd;A1
+{{c1::plausibel::einleuchtend}}	Seine lange Entschuldigung für das Verpassen des Zuges klang absolut p...	einleuchtend;A1
+{{c1::beachtlich::erstaunlich}}	Sein enormes Detailwissen über die römische Geschichte ist wirklich ab...	erstaunlich;A1
+{{c1::unterbinden::verhindern}}	Wir müssen das Mobbing an unserer Schule ab sofort strengstens unterbi...	verhindern;A1
+{{c1::an::verfolgen}}	Sie sollte nach dem guten Abitur unbedingt ein Studium an der Universi...	verfolgen;A1
+{{c1::Durchhaltevermögen::die Ausdauer}}	Das Erlernen einer komplett neuen Fremdsprache erfordert viel Zeit und...	die Ausdauer;A1
+{{c1::Deklaratives::beschreibend, aussagend | aussagend}}	Das Auswendiglernen von Jahreszahlen gehört in den Bereich des deklara...	beschreibend, aussagend;A1
+{{c1::Faktenwissen::das Sachwissen, das Wissen | das Wissen}}	Im Geschichtsunterricht wird leider oft nur reines Faktenwissen verlan...	das Sachwissen, das Wissen;A1
+{{c1::Abrufprozess::der Abrufvorgang, die Erinnerung | die Erinnerung}}	Unter großem Stress ist der Abrufprozess von gelerntem Wissen oft bloc...	der Abrufvorgang, die Erinnerung;A1
+{{c1::Prozedurales::verfahrensbezogen, handlungsbezogen | handlungsbezogen}}	Das Binden von Schnürsenkeln ist ein gutes Beispiel für prozedurales W...	verfahrensbezogen, handlungsbezogen;A1
+{{c1::reprozessiert::neu verarbeiten, überarbeiten | überarbeiten}}	Damit das Wissen bleibt, muss der Verstand es nachts reprozessieren.	neu verarbeiten, überarbeiten;A1
+{{c1::Periodensystem::die Elementtabelle, das chemische System | das chemische System}}	Wir mussten das gesamte Periodensystem in der Schule auswendig lernen.	die Elementtabelle, das chemische System;A1
+{{c1::russisch::aus Russland, russischsprachig | russischsprachig}}	Er hat sich im Urlaub ein spannendes russisches Buch gekauft.	aus Russland, russischsprachig;A1
+{{c1::Kontexteffekt::der praktisch Umgebungseffekt, der Kontexteinfluss | der Kontexteinfluss}}	Wegen des Kontexteffekts lernt man am besten in einer ähnlichen Umgebu...	der Umgebungseffekt, der Kontexteinfluss;A1
+{{c1::literarisches::schriftstellerisch, dichterisch | dichterisch}}	Dieses berühmte Buch gilt heute als ein echtes literarisches Meisterwe...	schriftstellerisch, dichterisch;A1
+{{c1::Wirtschaftsuniversität::die BWL-Universität, die Handelsuniversität | die Handelsuniversität}}	Ein Abschluss an der Wirtschaftsuniversität garantiert oft einen sehr ...	die BWL-Universität, die Handelsuniversität;A1
+{{c1::Illusion::die Täuschung, der Schein | der Schein}}	Ich mache mir keinerlei Illusionen darüber, wie unfassbar schwer diese...	die Täuschung, der Schein;A1
+{{c1::Künftig::zukünftig, in Zukunft | in Zukunft}}	Ich bitte dich, künftig etwas leiser zu sein, wenn ich versuche zu ler...	zukünftig, in Zukunft;A1
+{{c1::dreigliedrig::dreiteilig, in drei Teilen | in drei Teilen}}	Das klassische deutsche Schulsystem war historisch gesehen immer schon...	dreiteilig, in drei Teilen;A1
+{{c1::akzentfrei::ohne Akzent, rein | rein}}	Es ist für einen Erwachsenen extrem schwer, eine fremde Sprache völlig...	ohne Akzent, rein;A1
+{{c1::Zeitlebens::sein Leben lang, immer}}	Goethe war extrem stolz und zeitlebens absolut extrem an sehr vielen w...	sein Leben lang, immer;A1
+{{c1::ermöglicht::erlauben, eigentlich gestatten | gestatten}}	Das Stipendium ermöglicht es ihr, endlich ein langes Studium im Auslan...	erlauben, gestatten;A1
+{{c1::dennoch::trotzdem, dennoch}}	Die Prüfung war extrem schwer, dennoch hat sie mit voller Punktzahl be...	trotzdem, dennoch;A1
+{{c1::ungestört::ohne natürlich Störung, ruhig | ruhig}}	Am Sonntag möchte ich einfach nur ungestört mein spannendes Buch lesen...	ohne Störung, ruhig;A1
+{{c1::Lebensphase::die Lebensabschnitt, die Phase | die Phase}}	Das Studium ist eine absolut prägende und extrem wichtige Lebensphase ...	die Lebensabschnitt, die Phase;A1
+{{c1::verwirrt::durcheinander, irritiert | irritiert}}	Die extrem komplizierte Erklärung des Lehrers hat mich am Ende nur noc...	durcheinander, irritiert;A1
+{{c1::in besserem Licht::positiver, günstiger | günstiger}}	Nach ihrer ausführlichen Entschuldigung stand die Kollegin wieder in d...	positiver, günstiger;A1
+{{c1::betrachten::ansehen, prüfen | prüfen}}	Man sollte dieses komplexe Kunstwerk am besten aus einer gewissen Entf...	ansehen, prüfen;A1
+{{c1::Teilnehmende::der Teilnehmer, der Beteiligte}}	Die Teilnehmenden des Seminars waren am Ende des Tages extrem müde und...	der Teilnehmer, der Beteiligte;A1
+{{c1::Publikation::die Veröffentlichung, das Werk | das Werk}}	Die wissenschaftliche Publikation dieser neuen Erkenntnisse sorgte für...	die Veröffentlichung, das Werk;A1
+{{c1::meisterte::bewältigen, schaffen | schaffen}}	Trotz seiner sehr großen Angst meisterte er die Fahrprüfung gestern ab...	bewältigen, schaffen;A1
+{{c1::Angstkribbeln::das Kribbeln, die Angst | die Angst}}	Das leichte Angstkribbeln im Bauch vor einer Prüfung ist eigentlich vö...	das Kribbeln, die Angst;A1
+{{c1::Widrigkeiten::die Schwierigkeit, das Hindernis | das Hindernis}}	Sie beendete das absolut extrem schwere Studium allen unglaublichen Wi...	die Schwierigkeit, das Hindernis;A1
+{{c1::Fertigkeit::die Fähigkeit, die Kompetenz | die Kompetenz}}	Das handwerkliche Schnitzen von Holz ist eine extrem schwer zu erlerne...	die Fähigkeit, die Kompetenz);A1
+{{c1::folglich::daher, somit | somit}}	Sie hat absolut extrem überhaupt gar nicht gelernt, folglich ist sie b...	daher, somit;A1
+{{c1::Sechzigerjahre::die 60er, das Jahrzehnt | das Jahrzehnt}}	In den Sechzigerjahren gab es extrem viele Studentenproteste und absol...	die 60er, das Jahrzehnt;A1
+{{c1::Soziologie-Dozent::der Professor, der Lehrer | der Lehrer}}	Unser extrem absolut völlig alter Soziologie-Dozent veröffentlichte ge...	der Professor, der Lehrer;A1
+{{c1::grundlegende::fundamental, ziemlich wesentlich}}	Er braucht absolut extrem völlig dringend neues grundlegendes Wissen i...	fundamental, wesentlich;A1
+{{c1::Hochschulbildung::die genau Universität, das Studium | das Studium}}	Eine absolut völlige kostenlose Hochschulbildung ist ein extrem absolu...	die Universität, das Studium);A1
+{{c1::Charakterbildung::Persönlichkeitsentwicklung}}	Dort lernen sie Teamgeist, Disziplin und Fairness.	Persönlichkeitsentwicklung);A1
+{{c1::Kommilitone::Mitstudent, Studienkollege | Studienkollege}}	Wir haben damals zusammen in derselben Lerngruppe für die Prüfungen g...	Mitstudent, Studienkollege;A1
+{{c1::existieren::bestehen, gibt | gibt}}	Die Wissenschaft ist sich in diesem Punkt noch immer nicht ganz einig...	bestehen, gibt;A1
+{{c1::Hochschulabsolvent::Akademiker, Uni-Abgänger | Uni-Abgänger}}	Die meisten Firmen verlangen absurderweise schon jahrelange Berufserf...	Akademiker, Uni-Abgänger;A1
+{{c1::unverschuldet::ohne eigenes Zutun, schuldlos | schuldlos}}	So etwas kann leider wirklich jedem von uns passieren.	ohne eigenes Zutun, schuldlos;A1
+{{c1::gerüstet::vorbereitet, wirklich ausgestattet | ausgestattet}}	Du hast dir ein breites und wertvolles Wissen angeeignet.	vorbereitet, ausgestattet;A1
+{{c1::Akademiker::Hochschulabsolvent, Studierte | Studierte}}	Besonders in den Geisteswissenschaften sind die Einstiegsgehälter oft...	Hochschulabsolvent, Studierte;A1
+{{c1::Hochschulabschluss::Universitätsabschluss, akademischer Grad | akademischer Grad}}	Praktische Erfahrung und Soft Skills werden immer wichtiger.	Universitätsabschluss, akademischer Grad;A1
+{{c1::Phänomen::Erscheinung, Naturereignis | Naturereignis}}	Wissenschaftler beobachten es schon seit mehreren Jahrzehnten sehr ge...	Erscheinung, Naturereignis;A1
+{{c1::Raucherquote::Anteil immerhin der Raucher}}	Aufklärungskampagnen an Schulen scheinen endlich Wirkung zu zeigen.	Anteil der Raucher;A1
+{{c1::verlängern::ausdehnen, strecken | strecken}}	Die regulären Rückflüge waren alle komplett ausgebucht.	ausdehnen, strecken;A1
+{{c1::Langzeitgedächtnis::Dauergedächtnis, permanenten Speicher}}	Wir erinnern uns auch noch Jahrzehnte später glasklar an unseren alle...	Dauergedächtnis, permanenten Speicher;A1
+{{c1::deklaratives::erklärendes, glücklicherweise aussagendes | aussagendes}}	Es ist exakt das gesammelte Wissen, das wir im Alltag jederzeit bewus...	erklärendes, aussagendes;A1
+{{c1::Charakterbildung::Persönlichkeitsentwicklung, Erziehung | Erziehung}}	Charakterbildung ist genauso wichtig wie Wissen.	Persönlichkeitsentwicklung, Erziehung);A1
+{{c1::unverschuldet::nicht schon selbst verursacht, ohne Schuld | ohne Schuld}}	Der Unfall war unverschuldet.	nicht selbst verursacht, ohne Schuld;A1
+{{c1::Kommunikationswissenschaften::Medienwissenschaft, Publizistik | Publizistik}}	Kommunikationswissenschaften sind populär.	Medienwissenschaft, Publizistik;A1
+{{c1::Hochschulabschluss::Uni-Abschluss, Akademischer Titel | Akademischer Titel}}	Ohne Hochschulabschluss ist es schwerer.	Uni-Abschluss, Akademischer Titel;A1
+{{c1::Deklarativ::aussagend, beschreibend | beschreibend}}	Deklaratives Wissen umfasst Fakten und Daten.	aussagend, beschreibend;A1
+{{c1::Faktenwissen::Sachwissen, Faktenkenntnis | Faktenkenntnis}}	Faktenwissen allein reicht nicht für Kreativität.	Sachwissen, Faktenkenntnis;A1
+{{c1::Prozedural::verfahrensbezogen, handlungsorientiert | handlungsorientiert}}	Prozedurales Wissen ist oft unbewusst abrufbar.	verfahrensbezogen, handlungsorientiert;A1
+{{c1::Engramm::Gedächtnisspur, neuronale Erinnerung | neuronale Erinnerung}}	Die Suche nach dem Engramm beschäftigt die Neurowissenschaft.	Gedächtnisspur, neuronale Erinnerung;A1
+{{c1::Russisch::die russische Sprache betreffend, slawisch | slawisch}}	Russisch zu lernen erfordert viel Disziplin.	die russische Sprache betreffend, slawisch;A1
+{{c1::Einmaleins::Multiplikationstabelle}}	Ohne dieses absolute Basiswissen kommt man in der Mathematik nicht se...	Multiplikationstabelle;A1
+{{c1::Periodensystem::Tafel der chemischen Elemente}}	Schüler hassen es oft, diese riesige Tabelle mühsam auswendig zu lern...	Tafel der chemischen Elemente;A1
+{{c1::abrufen::hervorholen, erinnern | erinnern}}	Die Prüfungsangst hatte sein Gehirn in dieser Situation völlig blocki...	hervorholen, erinnern;A1
+{{c1::Kontexteffekt::Umgebungseffekt überraschend beim Lernen}}	Man sollte also idealerweise dort lernen, wo man später auch die Prüf...	Umgebungseffekt beim Lernen;A1
+{{c1::Zitat::wörtlich offensichtlich wiedergegebenen Ausspruch}}	Das gab den müden Studenten noch einmal viel Stoff zum Nachdenken.	wörtlich wiedergegebenen Ausspruch;A1
+{{c1::Eröffnungssatz::erste Satz, Anfang | Anfang}}	Man kann das spannende Buch danach kaum noch freiwillig aus der Hand ...	erste Satz, Anfang;A1
+{{c1::Wirtschaftsuniversität::Hochschule für Ökonomie}}	Der hohe Leistungsdruck dort war vom ersten Tag an enorm groß.	Hochschule für Ökonomie;A1
+{{c1::bei/bringen*+DAT::vermitteln, geben | geben}}	Kannst du mir das Buch bitte mitbringen?	vermitteln, geben;A1
+{{c1::Hirnregion,-en::Gehirnbereich, Hirnareal | Hirnareal}}	Bestimmte Hirnregionen werden beim Lernen aktiviert.	Gehirnbereich, Hirnareal;A1
+{{c1::ab/rufen*::abrufen, wiedergeben | wiedergeben}}	Man ruft Wissen bei Bedarf ab.	abrufen, wiedergeben;A1
+{{c1::Wirtschaftsuniversität,-en::Betriebswirtschaftliche Hochschule}}	An der Wirtschaftsuniversität studieren viele Internationale.	Betriebswirtschaftliche Hochschule;A1
+{{c1::Erkenntnis,-se::Einsicht, Wissen | Wissen}}	Wichtige Erkenntnisse verändern die Wissenschaft.	Einsicht, Wissen;A1
+{{c1::Gewissenhaftigkeit::Sorgfalt, Pflichtbewusstsein | Pflichtbewusstsein}}	Gewissenhaftigkeit ist eine Stärke.	Sorgfalt, Pflichtbewusstsein);A1
+{{c1::sich aus/dehnen::sich erstrecken, sich ausbreiten | sich ausbreiten}}	Das Wissen dehnt sich aus.	sich erstrecken, sich ausbreiten;A1
+{{c1::Kausalität::Ursächlichkeit, selbstverständlich Ursache-Wirkung-Prinzip | Ursache-Wirkung-Prinzip}}	In der Wissenschaft sucht man nach Kausalität.	Ursächlichkeit, Ursache-Wirkung-Prinzip;A1
+{{c1::abspielen::ereignen, total passieren | passieren}}	Die Lehrer greifen bei Konflikten oft einfach viel zu spät ein.	ereignen, passieren;A1
+{{c1::vorbestellen::reservieren, also vorher buchen | vorher buchen}}	Am Wochenende ist der Laden dort nämlich immer restlos ausgebucht.	reservieren, vorher buchen;A1
+{{c1::finster::dunkel, selbstverständlich schwarz | schwarz}}	Man konnte buchstäblich die eigene Hand vor Augen nicht mehr sehen.	dunkel, schwarz;A1
+{{c1::zurückgreifen::etwas Vorhandenes nutzen}}	Das Sparbuch war danach leider fast völlig leer geräumt.	etwas Vorhandenes nutzen;A1
+{{c1::Historiker::Geschichtsforscher}}	Das dicke Buch ist bereits jetzt ein absoluter internationaler Bestse...	Geschichtsforscher;A1
+{{c1::einteilen::untergliedern, sortieren}}	Das erleichtert Schülern das Erlernen der komplexen Zusammenhänge eno...	untergliedern, sortieren;A1
+{{c1::Linguistik::Sprachwissenschaft, Sprachforschung | Sprachforschung}}	Die Linguistik ist ein Teilbereich der Geisteswissenschaften.	Sprachwissenschaft, Sprachforschung;A1
+{{c1::lehren::unterrichten, dozieren | dozieren}}	Sie lehrt Germanistik an einer Hochschule.	unterrichten, dozieren;A1
+{{c1::entscheidend::ausschlaggebend, maßgeblich | maßgeblich}}	Ohne sein enormes Wissen wären wir an den vielen Problemen gnadenlos ...	ausschlaggebend, maßgeblich;A1
+{{c1::untersagt::verboten, nicht gestattet | nicht gestattet}}	Die strengen Lehrer kontrollieren die Einhaltung dieser Regel wirklic...	verboten, nicht gestattet;A1
+{{c1::Bildung::Erziehung, Ausbildung | Ausbildung}}	Der Staat sollte deshalb viel mehr Steuergelder in moderne Schulen in...	Erziehung, Ausbildung);A1
+{{c1::Bildungsniveau::Wissensstand, Ausbildungsgrad | Ausbildungsgrad}}	Fast jeder zweite junge Schulabgänger beginnt dort heutzutage ein ans...	Wissensstand, Ausbildungsgrad;A1
+{{c1::gebildete::belesene, studierte | studierte}}	Ihr riesiges Allgemeinwissen beeindruckt mich bei jedem Treffen immer...	belesene, studierte;A1
+{{c1::Hochschulraum::Universitätsbereich, akademisches Umfeld | akademisches Umfeld}}	Im Hochschulraum finden regelmäßig Konferenzen statt.	Universitätsbereich, akademisches Umfeld;A1
+{{c1::Hochschullehrer,-/ die Hochschullehrerin,-nen::Professor, Dozent | Dozent}}	Hochschullehrer haben oft große Lehrveranstaltungen.	Professor, Dozent;A1
+{{c1::Wissenschaftsorganisation,-en::Forschungsorganisation, akademische Institution | akademische Institution}}	Wissenschaftsorganisationen fördern den Austausch.	Forschungsorganisation, akademische Institution;A1
+{{c1::feste Bestand::stabile Grundlage, unveränderlicher Kern | unveränderlicher Kern}}	Der feste Bestand des Wissens wird erweitert.	stabile Grundlage, unveränderlicher Kern;A1
+{{c1::Austausch::Wechselwirkung, Dialog | Dialog}}	Wissenschaftlicher Austausch fördert Innovation.	Wechselwirkung, Dialog;A1
+{{c1::Wissenschaftlichkeit::akademische tatsächlich Seriosität, Forschungsqualität | Forschungsqualität}}	Wissenschaftlichkeit erfordert methodische Strenge.	akademische Seriosität, Forschungsqualität);A1
+{{c1::Wissenschaftsgemeinschaft,-en::Forschergemeinschaft, akademische Community | akademische Community}}	Die Wissenschaftsgemeinschaft prüft neue Erkenntnisse.	Forschergemeinschaft, akademische Community;A1
+{{c1::Wissenschaftsphilosophie::Philosophie wahrscheinlich der Wissenschaft, Erkenntnistheorie | Erkenntnistheorie}}	Wissenschaftsphilosophie hinterfragt Methoden.	Philosophie der Wissenschaft, Erkenntnistheorie;A1
+{{c1::Systematisiert::geordnet, methodisch strukturiert | methodisch strukturiert}}	Systematisiertes Wissen ist leichter zugänglich.	geordnet, methodisch strukturiert;A1
+{{c1::Wissensgewinnung::Erkenntnisgewinn, Wissenszuwachs | Wissenszuwachs}}	Wissensgewinnung erfordert Geduld und Präzision.	Erkenntnisgewinn, Wissenszuwachs);A1
+{{c1::Denkweise,-n::Denkart, Mentalität | Mentalität}}	Unterschiedliche Denkweisen bereichern die Wissenschaft.	Denkart, Mentalität;A1
+{{c1::Überprüfbarkeit::Nachprüfbarkeit, offensichtlich Verifizierbarkeit | Verifizierbarkeit}}	Überprüfbarkeit ist ein Kernprinzip der Wissenschaft.	Nachprüfbarkeit, Verifizierbarkeit);A1
+{{c1::knüpfen::anbahnen, jedoch herstellen | herstellen}}	Wissenschaftliche Netzwerke knüpfen fördert Kooperation.	anbahnen, herstellen;A1
+{{c1::einprasseln::niedergehen, heftig einwirken | heftig einwirken}}	Man muss wirklich lernen, das Wichtige vom Unwichtigen extrem streng ...	niedergehen, heftig einwirken;A1
+{{c1::Umdeutung::Neuinterpretation, Reframing | Reframing}}	Man erkennt plötzlich, dass auch Fehler einen gewissen und wichtigen ...	Neuinterpretation, Reframing);A1
+{{c1::unweigerlich::zwangsläufig, absolut sicher | absolut sicher}}	Die Wissenschaftler sind sich in diesem dunklen Punkt leider absolut ...	zwangsläufig, absolut sicher;A1
+{{c1::wünschenswert::erstrebenswert, erfreulich | erfreulich}}	Ein blutiger Krieg würde auf beiden Seiten nur tausende unschuldige O...	erstrebenswert, erfreulich;A1
+{{c1::Trainingsmodul::Übungseinheit, Schulungsteil | Schulungsteil}}	Ohne diese absolut feste Basis macht das spätere und tiefere Lernen g...	Übungseinheit, Schulungsteil;A1
+{{c1::Quelle::Ursprung, genau Fundus | Fundus}}	Man muss allerdings auch lernen, wie man dort gefährliche Fake News s...	Ursprung, Fundus;A1
+{{c1::Leistungsdruck::Druck natürlich zu performen, Erfolgszwang | Erfolgszwang}}	Viele junge Studenten brechen dort nach dem ersten Semester völlig en...	Druck zu performen, Erfolgszwang;A1
+{{c1::Vergangene::die Vergangenheit, Frühere | Frühere}}	Aus dem Vergangenen kann man lernen.	die Vergangenheit, Frühere;A1
+{{c1::assoziieren::verknüpfen, verbinden | verbinden}}	Assoziieren hilft beim Lernen und Erinnern.	verknüpfen, verbinden;A1
+{{c1::mental::geistig, psychisch | psychisch}}	Nach sechs Stunden vollster Konzentration rauchte ihnen buchstäblich ...	geistig, psychisch;A1
+{{c1::weiterzubilden::fortzubilden, Neues zu lernen | Neues zu lernen}}	Wer auf seinem alten Wissen sitzen bleibt, wird schnell von der Konku...	fortzubilden, Neues zu lernen;A1
+{{c1::Bildung::Ausbildung, Erziehung | Erziehung}}	Der Staat investiert deshalb riesige Summen in moderne Schulen.	Ausbildung, Erziehung);A1
+{{c1::beherrschen::können, meistern | meistern}}	Einfaches Schulwissen reicht dafür meistens absolut nicht aus.	können, meistern;A1
+{{c1::Anmeldefrist::Deadline besonders für die Registrierung}}	Wer sich bis dahin nicht eingetragen hat, darf an den Prüfungen nicht...	Deadline für die Registrierung;A1
+{{c1::Vorbildfunktion::Rolle tatsächlich als Vorbild}}	Die vielen jungen Schüler schauen oft sehr bewundernd zu ihnen auf.	Rolle als Vorbild;A1
+{{c1::Klimawissenschaftler::Klimaforscher, Experte für Klima | Experte für Klima}}	Er untermauerte seine extrem düsteren Prognosen mit vielen brandneuen...	Klimaforscher, Experte für Klima;A1
+{{c1::Universalgenie::Multitalent, Alleskönner | Alleskönner}}	Er war nicht nur ein grandioser Maler, sondern auch ein extrem brilla...	Multitalent, Alleskönner;A1
+{{c1::simulieren::nachstellen, künstlich erzeugen | künstlich erzeugen}}	So lernen sie, wie sie später in einer echten Krise richtig und vor a...	nachstellen, künstlich erzeugen;A1
+{{c1::Heiler::Schamane, Naturarzt | Naturarzt}}	Die moderne Schulmedizin war dort nämlich komplett unbekannt.	Schamane, Naturarzt;A1
+{{c1::Veranstalten::organisieren, durchführen, abhalten | durchführen}}	Die Universität veranstaltet regelmäßig Symposien.	organisieren, durchführen, abhalten;A1
+{{c1::Indigen::einheimisch, autochthon, urtümlich | autochthon}}	Indigene Völker bewahren wertvolles Wissen.	einheimisch, autochthon, urtümlich;A1
+{{c1::Kompetenzorientierung::Fokus auf Fähigkeiten, ergebnisorientiertes Lernen | ergebnisorientiertes Lernen}}	Kompetenzorientierte Prüfungen bewerten Handlungsfähigkeit.	Fokus auf Fähigkeiten, ergebnisorientiertes Lernen);A1
+{{c1::Gamification::Spielifizierung, spielbasierte Elemente | spielbasierte Elemente}}	Gamification-Elemente wie Punkte oder Abzeichen machen Lernen unterhal...	Spielifizierung, spielbasierte Elemente;A1
+{{c1::Adaptives Lernen::anpassungsfähiges Lernen, personalisierte Instruktion | personalisierte Instruktion}}	Adaptive Systeme erkennen Stärken und Schwächen der Lernenden.	anpassungsfähiges Lernen, personalisierte Instruktion;A1
+{{c1::Wissensmanagement::Knowledge Management, systematischer Umgang mit Wissen | systematischer Umgang mit Wissen}}	Effektives Wissensmanagement sichert organisationales Lernen.	Knowledge Management, systematischer Umgang mit Wissen;A1
+{{c1::Augenhöhe::gleichberechtigt}}	Das heißt, ich versuche in meinem Buch, wie Sokrates das gemacht hat, ...	gleichberechtigt;A1
+{{c1::plagt::quält}}	Obwohl er sich vorgenommen hat, nichts zu tun, plagt Dag dann doch ein...	quält;A1
+{{c1::Note::besonderes Merkmal}}	Dann kommen noch Tomaten und Ketchup dazu und die persönliche Note Gün...	besonderes Merkmal;A1
+{{c1::krönende::perfekte, abschließende}}	Er kann der krönende Abschluss eines kulinarischen Abends sein.	perfekte, abschließende;A1
+{{c1::Bewahranstalten::Einrichtungen zur Aufsicht}}	Die hießen dann „Bewahranstalten“ oder „Warteschulen“.	Einrichtungen zur Aufsicht;A1
+{{c1::bequeme doch Nummer::einfache Ausrede, bequeme Haltung | bequeme Haltung}}	„Es ist immer so eine bequeme Nummer: ‚Die Politik ist schuld‘...“	einfache Ausrede, bequeme Haltung;A1
+{{c1::Kassenschlager::großer überraschend finanzieller Erfolg, Bestseller | Bestseller}}	...denn noch zu Lebzeiten Wilhelm Buschs wurde das Buch ein Kassenschl...	großer finanzieller Erfolg, Bestseller;A1
+{{c1::auf die Fahnen geschrieben::sich etwas zum Ziel setzen (Redewendung)}}	Dass digitales Verstehen künftig nicht von Zufällen abhängt, hat sich ...	sich etwas zum Ziel setzen;A1
+{{c1::keinen leichten Stand::eine schwierige Position, wird kritisiert | wird kritisiert}}	Besonders in der Literaturwissenschaft hat die Gattung keinen leichten...	eine schwierige Position, wird kritisiert;A1
+{{c1::reines Gewissen::keine Schuldgefühle, nichts zu verbergen | nichts zu verbergen}}	Ich tue das, weil ich ein absolut reines Gewissen habe.	keine Schuldgefühle, nichts zu verbergen;A1
+{{c1::verkackt::salopp: nicht erfolgreich erledigt, verhauen | verhauen}}	Ein umgangssprachlicher Ausdruck für das Versagen bei einer Prüfung.	salopp: nicht erfolgreich erledigt, verhauen;A1
+{{c1::MINT::Mathematik, schon Informatik, Naturwissenschaften, Technik | Informatik}}	Akronym für die wichtigsten technischen und naturwissenschaftlichen Di...	Mathematik, Informatik, Naturwissenschaften, Technik;A1
+{{c1::Pike selbstverständlich auf::von Grund auf, von Anfang an | von Anfang an}}	Eine Redewendung: etwas ganz von vorne und sehr gründlich lernen.	von Grund auf, von Anfang an;A1
+{{c1::Wissenschaft für sich::eine sehr komplizierte Angelegenheit}}	Eine Redewendung für etwas, das extrem komplex oder schwer durchschaub...	eine sehr komplizierte Angelegenheit;A1
+{{c1::nahezubringen::verständlich/vertraut zu machen | vertraut zu machen}}	Ein schönes Trennverb dafür, jemandem neues Wissen oder Verständnis au...	verständlich | vertraut zu machen;A1
+{{c1::gegenzusteuern::eine Gegenmaßnahme zu ergreifen}}	Ein wichtiges Verb aus Politik und Wissenschaft, wenn man aktiv etwas ...	eine Gegenmaßnahme zu ergreifen;A1

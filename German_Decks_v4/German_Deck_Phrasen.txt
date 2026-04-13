@@ -1,0 +1,34 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::Phrasen
+{{c1::Guten Tag::Hallo/Grüß Gott|Grüß Gott}}	Guten Tag, wie geht es Ihnen?	Phrasen;Phrase;A1
+{{c1::Auf Wiedersehen::Tschüss/Bis bald|Bis bald}}	Auf Wiedersehen und vielen Dank!	Phrasen;Phrase;A1
+{{c1::Danke schön::Vielen Dank/Danke schön|Danke schön}}	Danke schön für Ihre Hilfe.	Phrasen;Phrase;A1
+{{c1::Bitte schön::Gerne/Bitte sehr|Bitte sehr}}	Hier ist Ihre Bestellung, bitte schön.	Phrasen;Phrase;A1
+{{c1::Entschuldigung::Sorry/Verzeihung|Verzeihung}}	Entschuldigung, wo ist der Bahnhof?	Phrasen;Phrase;A1
+{{c1::Wie viel Uhr ist es?::Wie spät ist es?|Wie spät?}}	Wie viel Uhr ist es jetzt?	Phrasen;Phrase;A1
+{{c1::Ich verstehe::Das verstehe ich|Alles klar|Alles klar}}	Ich verstehe jetzt besser.	Phrasen;Phrase;A1
+{{c1::Ich verstehe nicht::Das weiß ich nicht|Keine Ahnung|Keine Ahnung}}	Ich verstehe leider nicht.	Phrasen;Phrase;A1
+{{c1::Können Sie das wiederholen?::Nochmal/Bitte nochmal|Bitte nochmal}}	Können Sie das bitte wiederholen?	Phrasen;Phrase;A1
+{{c1::Sprechen Sie Deutsch?::Reden Sie Deutsch?|Deutsch bitte|Deutsch bitte}}	Sprechen Sie Deutsch?	Phrasen;Phrase;A1
+{{c1::Ich heiße...::Mein Name ist...|Ich bin...|Ich bin...}}	Ich heiße Maria.	Phrasen;Phrase;A1
+{{c1::Wo wohnen Sie?::Wo leben Sie?|Wo sind Sie?|Wo sind Sie?}}	Wo wohnen Sie in Berlin?	Phrasen;Phrase;A1
+{{c1::Was machen Sie beruflich?::Was ist Ihr Beruf?|Was arbeiten Sie?|Was arbeiten Sie?}}	Was machen Sie beruflich?	Phrasen;Phrase;A1
+{{c1::Ich komme aus...::Ich stamme aus...|Ich bin aus...|Ich bin aus...}}	Ich komme aus Italien.	Phrasen;Phrase;A1
+{{c1::Wie alt sind Sie?::Ihr Alter?|Wie viel Jahre?|Wie viel Jahre?}}	Wie alt sind Sie?	Phrasen;Phrase;A1
+{{c1::Haben Sie...::Gibt es...|Ist da...|Ist da...}}	Haben Sie Zeit am Freitag?	Phrasen;Phrase;A1
+{{c1::Ich möchte...::Ich will...|Ich hätte gern...|Ich hätte gern...}}	Ich möchte einen Kaffee.	Phrasen;Phrase;A1
+{{c1::Kann ich...::Darf ich...|Würde es gehen?|Würde es gehen?}}	Kann ich Ihnen helfen?	Phrasen;Phrase;A1
+{{c1::Das ist...::Das heißt...|Das bedeutet...|Das bedeutet...}}	Das ist sehr gut.	Phrasen;Phrase;A1
+{{c1::Ich habe...::Mir gehört...|Ich besitze...|Ich besitze...}}	Ich have Hunger.	Phrasen;Phrase;A1
+{{c1::Mir ist kalt::Ich friere|Es ist kalt|Es ist kalt}}	Mir ist kalt heute.	Phrasen;Phrase;A1
+{{c1::Mir ist langweilig::Es langweilt mich|Ich langweile mich|Ich langweile mich}}	Mir ist total langweilig.	Phrasen;Phrase;A1
+{{c1::Ich bin müde::Ich bin fertig|Ich brauche Schlaf|Ich brauche Schlaf}}	Ich bin wirklich müde.	Phrasen;Phrase;A1
+{{c1::Alles klar::Alles gut|In Ordnung|In Ordnung}}	Alles klar, verstanden!	Phrasen;Phrase;A1
+{{c1::Kein Problem::Keine Sorge|Genau|Genau}}	Kein Problem, das machen wir.	Phrasen;Phrase;A1
+{{c1::Natürlich::Klar|Selbstverständlich|Selbstverständlich}}	Natürlich, gerne!	Phrasen;Phrase;A1
+{{c1::Leider nicht::Schade|Bedauerlicherweise|Bedauerlicherweise}}	Leider kann ich nicht kommen.	Phrasen;Phrase;A1
+{{c1::Vielleicht::Möglicherweise|Eventuell|Eventuell}}	Vielleicht am Wochenende.	Phrasen;Phrase;A1
+{{c1::Auf jeden Fall::Sicherlich|Unbedingt|Unbedingt}}	Ich komme auf jeden Fall.	Phrasen;Phrase;A1
+{{c1::Das macht nichts::Schon okay|Egal|Egal}}	Das macht nichts, kein Problem.	Phrasen;Phrase;A1

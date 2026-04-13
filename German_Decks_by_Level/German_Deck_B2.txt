@@ -1,0 +1,5 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::B2
+{{c1::Das hängt davon ab::Es kommt darauf an|Es kommt auf... an|Es kommt auf... an}}	Das hängt davon ab, wie viel Zeit wir haben.	Satzmuster;Satz;B2

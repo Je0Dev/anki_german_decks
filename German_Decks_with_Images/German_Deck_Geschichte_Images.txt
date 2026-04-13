@@ -1,0 +1,34 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::Geschichte
+{{c1::gut erhalten::in gutem Zustand}}	Das antike Buch aus dem 18. Jahrhundert ist erstaunlich gut erhalten.	in gutem Zustand;A1
+{{c1::unglaublich::unfassbar}}	Er hat mir eine völlig unglaubliche Geschichte über seine Reise erzähl...	unfassbar;A1
+{{c1::lehren::unterrichten}}	Die Geschichte sollte uns eigentlich lehren, solche schrecklichen Krie...	unterrichten;A1
+{{c1::Antike::das Altertum, die alte Zeit | die alte Zeit}}	In Rom kann man heute noch unfassbar viele beeindruckende Bauwerke aus...	das Altertum, die alte Zeit;A1
+{{c1::Mittelalter::die total mittlere Zeit, das Mittelalter | das Mittelalter}}	Im Mittelalter glaubten noch absolut sehr viele Menschen an gefährlich...	die mittlere Zeit, das Mittelalter;A1
+{{c1::ab::darstellen, zeigen | zeigen}}	Das alte Gemälde soll angeblich den damaligen König in all seiner Prac...	darstellen, zeigen;A1
+{{c1::erscheint::veröffentlicht natürlich werden, herauskommen | herauskommen}}	Mir erscheint diese seltsame Geschichte wirklich komplett erfunden zu ...	veröffentlicht werden, herauskommen;A1
+{{c1::literarisches::die Literatur betreffendes, bellettristisches | bellettristisches}}	Er hat gefühlt alle großen Klassiker der Weltgeschichte aufmerksam ge...	die Literatur betreffendes, bellettristisches;A1
+{{c1::Hildesheimer::Einwohner von Hildesheim}}	Die Hildesheimer sind stolz auf ihre Geschichte.	Einwohner von Hildesheim;A1
+{{c1::Antike::Altertum, griechisch-römische Zeit | griechisch-römische Zeit}}	Die Antike ist eine faszinierende Epoche.	Altertum, griechisch-römische Zeit;A1
+{{c1::Mittelalter::mittleres Zeitalter, Mittelalter}}	Das Mittelalter war eine Zeit des Wandels.	mittleres Zeitalter, Mittelalter;A1
+{{c1::Antike::Altertum}}	Die damaligen Philosophen legten den absoluten Grundstein für unser h...	Altertum;A1
+{{c1::industrielle Revolution::Industrialisierung}}	Menschen zogen massenhaft vom ruhigen Land in die lauten, schmutzigen...	Industrialisierung;A1
+{{c1::industrielle Revolution::Industrialisierung, technische Wende | technische Wende}}	Die industrielle Revolution begann im 18. Jahrhundert.	Industrialisierung, technische Wende;A1
+{{c1::Sozialismus::sozialistische Ideologie, linke Gesellschaftsform | linke Gesellschaftsform}}	Der Sozialismus war im 20. Jahrhundert einflussreich.	sozialistische Ideologie, linke Gesellschaftsform;A1
+{{c1::Ur-Entwurf,&quot;-e::Originalentwurf, Erstkonzept | Erstkonzept}}	Der Ur-Entwurf war revolutionär für seine Zeit.	Originalentwurf, Erstkonzept;A1
+{{c1::Beinamen::Zusatznamen}}	Den Beinamen „Märchenkönig“ erhielt er wegen seiner Schlossbauten.	Zusatznamen;A1
+{{c1::frankophil::Frankreich sehr liebend}}	Vor allem auch in Frankreich, denn er war ja frankophil und hat den So...	Frankreich liebend;A1
+{{c1::menschenscheue::Kontakt meidende}}	Der menschenscheue König hasste München.	Kontakt meidende;A1
+{{c1::präsent::gegenwärtig}}	„Der König ist irgendwie allen präsent, weil das einfach auch ‘n ganz ...	gegenwärtig;A1
+{{c1::ranken::winden, flechten | flechten}}	Um die Person Ludwigs II. ranken sich viele Geschichten.	winden, flechten;A1
+{{c1::verschuldete::in Schulden stürzte}}	...weil er das Königreich immer weiter verschuldete.	in Schulden stürzte;A1
+{{c1::grollte::donnerte, zürnte | zürnte}}	Das Schicksal hatte es wohl nicht gut gemeint mit dem König. Der Himme...	donnerte, zürnte;A1
+{{c1::Spukgeschichten::Gruselgeschichten}}	...dann wurden abends dann bei Petroleum Spukgeschichten erzählt...	Gruselgeschichten;A1
+{{c1::Grundstein::Basis, natürlich Fundament}}	Sie haben hier den Grundstein für die Geschichte, für den Erfolg geleg...	Basis, Fundament;A1
+{{c1::Einschnitt::markante Veränderung, Zäsur | Zäsur}}	Einen Einschnitt in der Erfolgsgeschichte erlebt das KaDeWe 1961 mit d...	markante Veränderung, Zäsur;A1
+{{c1::revolutionär::grundlegend neu, umstürzlerisch | umstürzlerisch}}	...das war von Fröbel eher revolutionär.“	grundlegend neu, umstürzlerisch;A1
+{{c1::Licht ins Dunkel::etwas Unbekanntes aufklären (Redewendung)}}	Der Briefwechsel [...] bringt ein wenig Licht ins Dunkel der Geschicht...	etwas Unbekanntes aufklären;A1
+{{c1::Mantel des Schweigens::etwas verheimlichen, absichtlich nicht darüber reden (Redewendung) | absichtlich nicht darüber reden (Redewendung)}}	Adolf kam erst danach auf die Welt und breitete über diese Geschichte ...	etwas verheimlichen, absichtlich nicht darüber reden;A1
+{{c1::ihresgleichen sucht::einzigartig ist, unvergleichlich ist (Redewendung) | unvergleichlich ist (Redewendung)}}	Es ist eine Erfolgsgeschichte, die ihresgleichen sucht.	einzigartig ist, unvergleichlich ist;A1

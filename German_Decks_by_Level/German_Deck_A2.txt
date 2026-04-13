@@ -1,0 +1,23 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::A2
+{{c1::der Sturm::die starke Luft | die Bö}}	{{c1::Der Sturm::die starke Luft|die Bö}} hat viele Bäume umgeknickt.	Alltag;Nomen;A2
+{{c1::der Blitz::der elektrische Strahl | das Licht}}	{{c1::Der Blitz::der elektrische Strahl|das Licht}} erhellte den Himmel.	Alltag;Nomen;A2
+{{c1::der Donner::der laute Klang | das Grollen}}	{{c1::Der Donner::der laute Klang|das Grollen}} war in der Ferne zu hören.	Alltag;Nomen;A2
+{{c1::der Nebel::die Dunst | die Sichtbegrenzung}}	{{c1::Der Nebel::die Dunst|die Sichtbegrenzung}} ist heute sehr dicht.	Alltag;Nomen;A2
+{{c1::der Zorn::die Wut | der Ärger}}	Sein {{c1::Zorn::die Wut|der Ärger}} war kaum zu bändigen.	Emotionen;Nomen;A2
+{{c1::der Hass::die Abneigung | der Groll}}	Sein {{c1::Hass::die Abneigung|der Groll}} war unbegründet.	Emotionen;Nomen;A2
+{{c1::die Enttäuschung::die Frustration | der Ärger}}	Meine {{c1::Enttäuschung::die Frustration|der Ärger}} war groß.	Emotionen;Nomen;A2
+{{c1::der Neid::die Eifersucht | die Missgunst}}	Sein {{c1::Neid::die Eifersucht|die Missgunst}} war offensichtlich.	Emotionen;Nomen;A2
+{{c1::die Dankbarkeit::die Erkenntlichkeit | die Wertschätzung}}	Ich empfinde tiefere {{c1::Dankbarkeit::die Erkenntlichkeit|die Wertschätzung}}.	Emotionen;Nomen;A2
+{{c1::der Stolz::der Hochmut | die Würde}}	Er empfindet großen {{c1::Stolz::der Hochmut|die Würde}} auf seine Arbeit.	Emotionen;Nomen;A2
+{{c1::die Scham::die Peinlichkeit | die Verlegenheit}}	Seine {{c1::Scham::die Peinlichkeit|die Verlegenheit}} war ihm anzusehen.	Emotionen;Nomen;A2
+{{c1::-enttäuscht::entmutigt/frustriert|frustriert}}	Ich bin wirklich enttäuscht.	Gefühle;Adjektiv;A2
+{{c1::eifersüchtig::neidisch/gespielt|gespielt}}	Sie ist immer eifersüchtig.	Gefühle;Adjektiv;A2
+{{c1::sorgenfrei::entspannt/r sorglos|r sorglos}}	Endlich kann ich sorgenfrei sein.	Gefühle;Adjektiv;A2
+{{c1::der Enkel::der Enkelkind/der Nachkomme|der Enkelkind}}	Der Enkel besucht die Großeltern.	Familie;Nomen;A2
+{{c1::der Fuchs::der Rotpelz/die Wildkatze|der Rotpelz}}	Der Fuchs läuft durch den Wald.	Tiere;Nomen;A2
+{{c1::Ich bin allergisch gegen...::Ich vertrage nicht...|Ich darf nicht...|Ich darf nicht...}}	Ich bin allergisch gegen Nüsse.	Satzmuster;Satz;A2
+{{c1::Das ist verboten::Das darf man nicht|Man darf nicht|Man darf nicht}}	Rauchen ist verboten. Das ist verboten.	Satzmuster;Satz;A2
+{{c1::Ich bin einverstanden::Ich stimme zu|Okay|Okay}}	Ich bin einverstanden damit.	Satzmuster;Satz;A2

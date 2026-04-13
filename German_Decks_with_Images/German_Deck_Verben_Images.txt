@@ -1,0 +1,34 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::Verben
+{{c1::sein::existieren/leben|existieren}}	Ich bin müde. Du bist hier. Er ist fertig.	Verb;Verb;A1
+{{c1::haben::besitzen/bekommen|bekommen}}	Ich habe Zeit. Du hast Hunger. Er hat Geld.	Verb;Verb;A1
+{{c1::werden::bleiben/tanzen|tanzen}}	Ich werde müde. Du wirst Arzt. Das wird gut.	Verb;Verb;A1
+{{c1::machen::tun/erstellen|erstellen}}	Ich mache das. Du machst Mist. Er macht Kaffee.	Verb;Verb;A1
+{{c1::sagen::reden/sprechen|sprechen}}	Ich sage die Wahrheit. Du sagst nichts. Er sagt danke.	Verb;Verb;A1
+{{c1::können::dürfen/wissen|wissen}}	Ich kann Deutsch. Du kannst kommen. Er kann helfen.	Verb;Verb;A1
+{{c1::wollen::mögen/wünschen|wünschen}}	Ich will nach Hause. Du willst es wissen. Er will essen.	Verb;Verb;A1
+{{c1::müssen::sollen/müssen|sollen}}	Ich muss arbeiten. Du musst kommen. Er muss gehen.	Verb;Verb;A1
+{{c1::sollen::müssen/empfehlen|empfehlen}}	Ich soll das machen. Du sollst warten. Er soll kommen.	Verb;Verb;A1
+{{c1::dürfen::können/erlauben|erlauben}}	Ich darf das. Du darfst rauchen. Er darf bleiben.	Verb;Verb;A1
+{{c1::gehen::laufen/verlassen|verlassen}}	Ich gehe nach Hause. Du gehst ins Kino. Er geht weg.	Verb;Verb;A1
+{{c1::kommen::ankommen/reisen|reisen}}	Ich komme morgen. Du kommst sicher. Er kommt später.	Verb;Verb;A1
+{{c1::bleiben::stay/stillstehen|stillstehen}}	Ich bleibe hier. Du bleibst cool. Er bleibt ruhig.	Verb;Verb;A1
+{{c1::geben::austragen/liefern|liefern}}	Ich gebe dir das. Du gibst mir Zeit. Er gibt nichts.	Verb;Verb;A1
+{{c1::nehmen::benutzen/greifen|greifen}}	Ich nehme Kaffee. Du nimmst den Bus. Er nimmt alles.	Verb;Verb;A1
+{{c1::sehen::watch/betrachten|betrachten}}	Ich sehe dich. Du siehst gut aus. Er sieht alles.	Verb;Verb;A1
+{{c1::wissen::kennen/erfahren|erfahren}}	Ich weiß das. Du weißt nichts. Er weiß mehr.	Verb;Verb;A1
+{{c1::finden::entdecken/ermitteln|ermitteln}}	Ich finde den Weg. Du findest Zeit. Er findet Arbeit.	Verb;Verb;A1
+{{c1::stehen::stehen/stehen|stehen}}	Ich stehe früh auf. Du stehst auf. Er steht dort.	Verb;Verb;A1
+{{c1::liegen::sein/ ruhen| ruhen}}	Ich liege im Bett. Du liegst daneben. Er liegt krank.	Verb;Verb;A1
+{{c1::sitzen::sich setzen/platzieren|platzieren}}	Ich sitze hier. Du sitzt am Fenster. Er sitzt da.	Verb;Verb;A1
+{{c1::fallen::stürzen/ablegen|ablegen}}	Ich fall nicht auf. Du fällst auf. Er fällt um.	Verb;Verb;A1
+{{c1::halten::stoppen/aufhalten|aufhalten}}	Ich halte inne. Du hältst an. Er hält durch.	Verb;Verb;A1
+{{c1::laufen::rennen/bewegen|bewegen}}	Ich laufe schnell. Du läufst mit. Er läuft weg.	Verb;Verb;A1
+{{c1::tragen::bringen/schleppen|schleppen}}	Ich trage alles. Du trägst schwer. Er trägt rot.	Verb;Verb;A1
+{{c1::schlagen::treffen/prügeln|prügeln}}	Ich schlage vor. Du schlägst zu. Er schlägt Alarm.	Verb;Verb;A1
+{{c1::schlagen::gewinnen/übertreffen|übertreffen}}	Ich schlage dich. Du schlägst mich. Er schlägt alle.	Verb;Verb;A1
+{{c1::treffen::begegnen/entscheiden|entscheiden}}	Ich treffe dich. Du triffst Mich. Er triff mich.	Verb;Verb;A1
+{{c1::helfen::unterstützen/unterstützen|unterstützen}}	Ich helfe dir. Du hilfst mir. Er hilft uns.	Verb;Verb;A1
+{{c1::sprechen::reden/erzählen|erzählen}}	Ich spreche Deutsch. Du sprichst laut. Er spricht viel.	Verb;Verb;A1
