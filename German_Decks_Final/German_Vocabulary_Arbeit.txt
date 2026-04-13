@@ -1,0 +1,1159 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::Arbeit
+Das Problem lässt sich nicht einfach {{c1::im Schichtdienst arbeiten::in Schichten arbeiten}}.	in Schichten arbeiten (regelmäßig)
+📖 Nach zehn Jahren fiel es ihr schwer, noch immer im Schichtdienst zu ar...
+⚡ Arbeit suchen, viel Arbeit
+🔗 ↑ in Schichten arbeiten
+📐 ich im Schichtdienst arbeite | du im Schichtdienst arbeitst | er/sie/es im Schichtdienst arbeitt | wir im Schichtdienst arbeiten | ihr im Schichtdienst arbeitt | sie/Sie im Schichtdienst arbeiten	Arbeit;Verb;A2
+Die {{c1::Arbeiterviertel::der also Industriebezirk}} überrascht durch ihre Qualität.	der Industriebezirk (der/die/das)
+📖 Die Mieten in dem alten Arbeiterviertel steigen rasant an.
+⚡ Arbeit suchen, viel Arbeit
+🔗 ↑ der Industriebezirk	Arbeit;Nomen;A2
+Die {{c1::gebräunt::braun gebrannt}} überrascht durch ihre Qualität.	braun gebrannt (der/die/das)
+📖 Seine Haut war von der harten Arbeit auf dem Feld dunkel gebräunt.
+🔗 ↑ braun gebrannt	Arbeit;Nomen;A2
+Die {{c1::Umgang::die Handhabung}} gehört zu den beliebtesten.	die Handhabung (der/die/das)
+📖 Sein grober Umgang mit den Kollegen sorgt oft für Konflikte.
+🔗 ↑ die Handhabung	Arbeit;Nomen;A1
+Die {{c1::zufolge::laut/nach natürlich (mit +Dativ)}} hat sich bewährt.	laut | nach (mit +Dativ) (der/die/das)
+📖 Gerüchten zufolge soll das Geschäft bald endgültig schließen.
+🔗 ↑ laut, nach (mit +Dativ)	Arbeit;Nomen;A1
+Eine moderne {{c1::beständiges::dauerhaft/stabil}} ist heute unverzichtbar.	dauerhaft | stabil (der/die/das)
+📖 Ihre Leistungen im Unternehmen sind auf einem beständig hohen Niveau.
+🔗 ↑ dauerhaft, stabil	Arbeit;Nomen;A1
+Die {{c1::übersteigt::mehr sein als}} hat sich bewährt.	mehr sein als (der/die/das)
+📖 Die Kosten für das Bauprojekt übersteigen unser gesamtes Budget.
+🔗 ↑ mehr sein als	Arbeit;Nomen;A1
+Die natürlich {{c1::auf::haben/zeigen}} überrascht durch ihre Qualität.	haben | zeigen (der/die/das)
+📖 Der Vertrag weist an mehreren Stellen rechtliche Fehler auf.
+🔗 ↑ haben, zeigen	Arbeit;Nomen;A1
+Die {{c1::motiviert::engagiert sein}} gehört zu den beliebtesten.	engagiert sein (der/die/das)
+📖 Ein motivierter Mitarbeiter arbeitet oft viel schneller als andere.
+🔗 ↑ engagiert sein	Arbeit;Nomen;A2
+Eine total {{c1::Aufgrund::wegen}} wäre hier sinnvoll.	wegen (der/die/das)
+📖 Aufgrund seiner langen Erfahrung wurde er für den Job ausgewählt.
+⚡ aus diesem Grund, ohne Grund
+🔗 ↑ wegen	Arbeit;Nomen;A1
+Sie schon {{c1::Nebenwirkungen::der unerwünschte Effekt}} fast täglich.	der unerwünschte Effekt (regelmäßig)
+📖 Ein Verlust von Arbeitsplätzen wäre eine schlimme Nebenwirkung dieser ...
+🔗 ↑ der unerwünschte Effekt
+📐 ich Nebenwirkunge | du Nebenwirkungst | er/sie/es Nebenwirkungt | wir Nebenwirkungen | ihr Nebenwirkungt | sie/Sie Nebenwirkungen	Arbeit;Verb;A2
+Die {{c1::Brandschutzbeauftragte::der Brandschutz-Experte}} gehört zu den beliebtesten.	der Brandschutz-Experte (der/die/das)
+📖 Jede große Firma muss gesetzlich einen Brandschutzbeauftragten einstel...
+🔗 ↑ der Brandschutz-Experte	Arbeit;Nomen;A2
+Er doch hat vergessen zu {{c1::beseitigen::entfernen}}.	entfernen (regelmäßig)
+📖 Die Arbeiter konnten den Mangel an der Maschine glücklicherweise schne...
+🔗 ↑ entfernen
+📐 ich beseitige | du beseitigst | er/sie/es beseitigt | wir beseitigen | ihr beseitigt | sie/Sie beseitigen	Arbeit;Verb;A2
+Wir tatsächlich müssen endlich {{c1::Fachkräften::der qualifizierte Arbeiter}}.	der qualifizierte Arbeiter (regelmäßig)
+📖 Das kleine Unternehmen sucht dringend nach einer neuen Fachkraft für I...
+🔗 ↑ der qualifizierte Arbeiter
+📐 ich Fachkräfte | du Fachkräftst | er/sie/es Fachkräftt | wir Fachkräften | ihr Fachkräftt | sie/Sie Fachkräften	Arbeit;Verb;A2
+Die {{c1::Lehrgang::der Kurs}} entwickelt sich ständig weiter.	der Kurs (der/die/das)
+📖 Der Chef schickt seine Mitarbeiter jedes Jahr auf einen teuren Lehrgan...
+🔗 ↑ der Kurs	Arbeit;Nomen;A2
+Die also {{c1::Wohlstand::der Reichtum}} gehört zu den beliebtesten.	der Reichtum (der/die/das)
+📖 Der wachsende Wohlstand in der Region führte zu vielen neuen Bauprojek...
+🔗 ↑ der Reichtum	Arbeit;Nomen;A2
+Er hat natürlich vergessen zu {{c1::Selbstvertrauen::das Vertrauen in sich selbst}}.	das Vertrauen in sich selbst (regelmäßig)
+📖 Nach dem Fehler in der Präsentation hat sie etwas an Selbstvertrauen v...
+🔗 ↑ das Vertrauen in sich selbst
+📐 ich Selbstvertraue | du Selbstvertraust | er/sie/es Selbstvertraut | wir Selbstvertrauen | ihr Selbstvertraut | sie/Sie Selbstvertrauen	Arbeit;Verb;A1
+Ohne die {{c1::Zufriedenheit::die Glücklichkeit}} geht nichts.	die Glücklichkeit (der/die/das)
+📖 Die hohe Zufriedenheit unserer Kunden ist unser oberstes Ziel.
+🔗 ↑ die Glücklichkeit	Arbeit;Nomen;A1
+Die genau {{c1::hochgearbeitet::Karriere machen}} überrascht durch ihre Qualität.	Karriere machen (der/die/das)
+📖 Es dauert Jahre, bis man sich in dieser Branche erfolgreich hochgearbe...
+⚡ Arbeit suchen, eine gute Arbeit
+🔗 ↑ Karriere machen	Arbeit;Nomen;A2
+Wir sollten sofort {{c1::umdenken::die Meinung ändern}}.	die Meinung ändern (regelmäßig)
+📖 Wenn die Verkaufszahlen nicht steigen, muss die Firma wohl umdenken.
+🔗 ↑ die Meinung ändern
+📐 ich umdenke | du umdenkst | er/sie/es umdenkt | wir umdenken | ihr umdenkt | sie/Sie umdenken	Arbeit;Verb;A1
+Die {{c1::Gehaltserhöhung::die Lohnerhöhung}} spielt eine zentrale Rolle.	die Lohnerhöhung (die (fem.))
+📖 Ohne eine Gehaltserhöhung werde ich mir wohl einen neuen Job suchen mü...
+🔗 ↑ die Lohnerhöhung	Arbeit;Nomen;A2
+Man sollte öfter {{c1::Arbeitskräften::der Arbeitnehmer}}.	der Arbeitnehmer (regelmäßig)
+📖 In der Landwirtschaft fehlt es während der Ernte oft an Arbeitskräften...
+⚡ Arbeit suchen, viel Arbeit
+🔗 ↑ der Arbeitnehmer
+📐 ich Arbeitskräfte | du Arbeitskräftst | er/sie/es Arbeitskräftt | wir Arbeitskräften | ihr Arbeitskräftt | sie/Sie Arbeitskräften	Arbeit;Verb;A2
+Diese {{c1::Bislang::bis ziemlich jetzt}} ist sehr nützlich.	bis jetzt (der/die/das)
+📖 Bislang lief in diesem großen Projekt alles streng nach Plan.
+🔗 ↑ bis jetzt	Arbeit;Nomen;A2
+Die {{c1::verarbeitet::bewältigen}} also entwickelt sich ständig weiter.	bewältigen (der/die/das)
+📖 Die Fabrik verarbeitet täglich tonnenweise frisches Obst zu Saft.
+⚡ Arbeit finden, eine gute Arbeit
+🔗 ↑ bewältigen	Arbeit;Nomen;A2
+Die {{c1::gemeistert::bewältigen/schaffen}} spielt eine zentrale Rolle.	bewältigen | schaffen (der/die/das)
+📖 Sie hat die Krise im Unternehmen sehr gut gemeistert.
+🔗 ↑ bewältigen, schaffen	Arbeit;Nomen;A2
+Ohne eigentlich die {{c1::verpflichtet::versprechen (verbindlich)}} geht nichts.	versprechen (verbindlich) (der/die/das)
+📖 Die Firma hat sich dazu verpflichtet, in Zukunft mehr recycelte Materi...
+🔗 ↑ versprechen (verbindlich)	Arbeit;Nomen;A1
+Die {{c1::ungenügend::nicht ausreichend}} überrascht durch ihre Qualität.	nicht ausreichend (der/die/das)
+📖 Das Angebot der Firma war ungenügend, weshalb wir es abgelehnt haben.
+🔗 ↑ nicht ausreichend	Arbeit;Nomen;A1
+Sie {{c1::Absolventen::jemand mit Abschluss}} fast täglich.	jemand mit Abschluss (regelmäßig)
+📖 Die Firma sucht nach jungen und motivierten Absolventen der Informatik...
+🔗 ↑ jemand mit Abschluss
+📐 ich Absolvente | du Absolventst | er/sie/es Absolventt | wir Absolventen | ihr Absolventt | sie/Sie Absolventen	Arbeit;Verb;A1
+Seine Meinung genau ist durchaus {{c1::eigenständig::selbstständig}}.	selbstständig ()
+📖 Sie führt ihre Projekte völlig eigenständig und ohne Hilfe durch.
+🔗 ↑ selbstständig	Arbeit;Adjektiv;A1
+Die {{c1::Höhepunkt::das Maximum/das Highlight}} entwickelt sich ständig weiter.	das Maximum | das Highlight (der/die/das)
+📖 Der Höhepunkt seiner Karriere war der Gewinn der Weltmeisterschaft.
+🔗 ↑ das Maximum, das Highlight	Arbeit;Nomen;A1
+Ohne die {{c1::Freiwilligenarbeit::die ehrenamtliche Arbeit}} geht nichts.	die ehrenamtliche Arbeit (der/die/das)
+📖 Durch ihre Freiwilligenarbeit im Tierheim hat sie viel Neues gelernt.
+⚡ viel Arbeit, Arbeit finden
+🔗 ↑ die ehrenamtliche Arbeit	Arbeit;Nomen;A2
+Eine moderne {{c1::dahingehend::in der Hinsicht}} ist heute unverzichtbar.	in der Hinsicht (der/die/das)
+📖 Meine Überlegungen gehen dahingehend, dass wir das Projekt verschieben...
+🔗 ↑ in der Hinsicht	Arbeit;Nomen;A1
+Wir wirklich {{c1::Unwillen::die Abneigung}} regelmäßig.	die Abneigung (regelmäßig)
+📖 Trotz ihres Unwillens half sie am Ende doch bei der schweren Arbeit.
+🔗 ↑ die Abneigung
+📐 ich Unwille | du Unwillst | er/sie/es Unwillt | wir Unwillen | ihr Unwillt | sie/Sie Unwillen	Arbeit;Verb;A2
+Eine {{c1::kund::äußern/mitteilen}} erstaunlicherweise wäre hier sinnvoll.	äußern | mitteilen (der/die/das)
+📖 Der Chef wird seine Entscheidung noch heute Nachmittag kundtun.
+🔗 ↑ äußern, mitteilen	Arbeit;Nomen;A1
+Wir sollten sofort {{c1::infolgedessen::deshalb/folglich}}.	deshalb | folglich (regelmäßig)
+📖 Das Unternehmen verlor viele Kunden und musste infolgedessen Filialen ...
+🔗 ↑ deshalb, folglich
+📐 ich infolgedesse | du infolgedessst | er/sie/es infolgedesst | wir infolgedessen | ihr infolgedesst | sie/Sie infolgedessen	Arbeit;Verb;A1
+Die sehr {{c1::um den heißen Brei herum::nicht zur Sache kommen}} gehört zu den beliebtesten.	nicht zur Sache kommen (der/die/das)
+📖 Wenn du eine Gehaltserhöhung willst, solltest du nicht lange um den he...
+🔗 ↑ nicht zur Sache kommen	Arbeit;Nomen;A2
+Die {{c1::Händedruck::das Händeschütteln}} bietet viele Vorteile.	das Händeschütteln (der/die/das)
+📖 Der vertragliche Deal wurde am Ende nur mit einem einfachen Händedruck...
+🔗 ↑ das Händeschütteln	Arbeit;Nomen;A1
+Die {{c1::Arbeitskultur::das Arbeitsklima}} spielt eine zentrale Rolle.	das Arbeitsklima (der/die/das)
+📖 Eine toxische Arbeitskultur führt dazu, dass viele Angestellte kündige...
+⚡ viel Arbeit, eine gute Arbeit
+🔗 ↑ das Arbeitsklima	Arbeit;Nomen;A2
+Das Problem lässt sich nicht einfach {{c1::vorstellen::sich präsentieren/sich denken}}.	sich präsentieren | sich denken (regelmäßig)
+📖 Darf ich Ihnen kurz meinen neuen Kollegen vorstellen?
+🔗 ↑ sich präsentieren, sich denken
+📐 ich vorstelle | du vorstellst | er/sie/es vorstellt | wir vorstellen | ihr vorstellt | sie/Sie vorstellen	Arbeit;Verb;A2
+Eine {{c1::Mitspieler::der Teamkollege}} wäre hier sinnvoll.	der Teamkollege (der/die/das)
+📖 Bei diesem Brettspiel muss man manchmal gegen seine eigenen Mitspieler...
+🔗 ↑ der Teamkollege	Arbeit;Nomen;A2
+Die {{c1::Szenario::die Situation}} finde ich besonders gut.	die Situation (der/die/das)
+📖 Im schlimmsten Szenario müssen wir die Firma leider komplett schließen...
+🔗 ↑ die Situation	Arbeit;Nomen;A1
+Es ist Zeit zu {{c1::vorbeigehen::enden/verstreichen}}.	enden | verstreichen (regelmäßig)
+📖 Lass uns an diesem überfüllten Geschäft einfach vorbeigehen.
+🔗 ↑ enden, verstreichen
+📐 ich vorbeigehe | du vorbeigehst | er/sie/es vorbeigeht | wir vorbeigehen | ihr vorbeigeht | sie/Sie vorbeigehen	Arbeit;Verb;A1
+Die {{c1::vernachlässigt::sich nicht kümmern um}} gehört zu den beliebtesten.	sich nicht kümmern um (der/die/das)
+📖 Du darfst deine Gesundheit auf keinen Fall für deinen Job vernachlässi...
+🔗 ↑ sich nicht kümmern um	Arbeit;Nomen;A1
+Sie versucht seit Langem zu {{c1::Verfahren::die Methode}}.	die Methode (regelmäßig)
+📖 Gegen die neue Firma wurde sofort ein rechtliches Verfahren eingeleite...
+🔗 ↑ die Methode
+📐 ich Verfahre | du Verfahrst | er/sie/es Verfahrt | wir Verfahren | ihr Verfahrt | sie/Sie Verfahren	Arbeit;Verb;A2
+Die {{c1::Entspannungstraining::das Antistress-Training}} ist heute besonders wichtig.	das Antistress-Training (der/die/das)
+📖 Nach dem anstrengenden Arbeitstag besuchte sie abends ein kurzes Entsp...
+🔗 ↑ das Antistress-Training	Arbeit;Nomen;A2
+Die {{c1::Ablauf::der logischerweise Verlauf}} spielt eine zentrale Rolle.	der Verlauf (der/die/das)
+📖 Nach Ablauf der Frist können leider keine Bewerbungen mehr angenommen ...
+🔗 ↑ der Verlauf	Arbeit;Nomen;A1
+Wir sollten sofort {{c1::beurkunden::beglaubigen}}.	beglaubigen (regelmäßig)
+📖 Die Ehe der beiden wurde heute auf dem Standesamt feierlich beurkundet...
+🔗 ↑ beglaubigen
+📐 ich beurkunde | du beurkundst | er/sie/es beurkundt | wir beurkunden | ihr beurkundt | sie/Sie beurkunden	Arbeit;Verb;A1
+Eine moderne indes {{c1::Ausbilder::der Trainer/der Lehrer}} ist heute unverzichtbar.	der Trainer | der Lehrer (der/die/das)
+📖 Er arbeitet in dem großen Betrieb als Ausbilder für junge Handwerker.
+🔗 ↑ der Trainer, der Lehrer	Arbeit;Nomen;A2
+Die {{c1::Urkunde::das Zeugnis/das Dokument}} entwickelt sich ständig weiter.	das Zeugnis | das Dokument (der/die/das)
+📖 Zur Hochzeit bekamen sie eine offizielle Urkunde vom Standesamt überre...
+🔗 ↑ das Zeugnis, das Dokument	Arbeit;Nomen;A2
+Sie {{c1::Sicherheitsgründen::die Gründe der Sicherheit}} fast täglich.	die Gründe der Sicherheit (regelmäßig)
+📖 Das defekte Fahrgeschäft auf dem Markt wurde aus Sicherheitsgründen so...
+🔗 ↑ die Gründe der Sicherheit
+📐 ich Sicherheitsgründe | du Sicherheitsgründst | er/sie/es Sicherheitsgründt | wir Sicherheitsgründen | ihr Sicherheitsgründt | sie/Sie Sicherheitsgründen	Arbeit;Verb;A1
+Er {{c1::Bestimmungen::die offensichtlich Vorschrift/das Gesetz}} jeden Morgen im Park.	die Vorschrift | das Gesetz (regelmäßig)
+📖 Die genauen Bestimmungen des neuen Vertrages müssen wir erst noch prüf...
+🔗 ↑ die Vorschrift, das Gesetz
+📐 ich Bestimmunge | du Bestimmungst | er/sie/es Bestimmungt | wir Bestimmungen | ihr Bestimmungt | sie/Sie Bestimmungen	Arbeit;Verb;A2
+Es ist Zeit zu {{c1::Nomaden::der Wandervogel}}.	der Wandervogel (regelmäßig)
+📖 Auch im modernen Zeitalter gibt es noch digitale Nomaden, die weltweit...
+🔗 ↑ der Wandervogel
+📐 ich Nomade | du Nomadst | er/sie/es Nomadt | wir Nomaden | ihr Nomadt | sie/Sie Nomaden	Arbeit;Verb;A2
+Die {{c1::Fall::der doch Vorfall}} gehört zu den beliebtesten.	der Vorfall (der/die/das)
+📖 Auf keinen Fall werde ich am Wochenende für meinen Kollegen arbeiten!
+🔗 ↑ der Vorfall	Arbeit;Nomen;A2
+Die {{c1::auf die Suche nach::anfangen zu suchen}} entwickelt sich ständig weiter.	anfangen zu suchen (der/die/das)
+📖 Nach dem Studium begab er sich auf die Suche nach einem passenden Job.
+🔗 ↑ anfangen zu suchen	Arbeit;Nomen;A1
+Die {{c1::angesiedelt::wohnhaft machen/platzieren}} finde ich besonders gut.	wohnhaft machen | platzieren (der/die/das)
+📖 Die meisten großen Banken sind in Frankfurt angesiedelt.
+🔗 ↑ wohnhaft machen, platzieren	Arbeit;Nomen;A2
+Das Problem wirklich lässt sich nicht einfach {{c1::überschreiten::übertreten}}.	übertreten (regelmäßig)
+📖 Die Kosten für das Bauprojekt dürfen unser Limit auf keinen Fall übers...
+🔗 ↑ übertreten
+📐 ich überschreite | du überschreitst | er/sie/es überschreitt | wir überschreiten | ihr überschreitt | sie/Sie überschreiten	Arbeit;Verb;A1
+Die {{c1::Luftfeuchtigkeit::die selbstverständlich Nässe in der Luft}} entwickelt sich ständig weiter.	die Nässe in der Luft (die (fem.))
+📖 Eine zu geringe Luftfeuchtigkeit im Büro sorgt schnell für trockene Au...
+🔗 ↑ die Nässe in der Luft	Arbeit;Nomen;A1
+Er {{c1::bereitstellen::zur Verfügung stellen}} jeden Morgen im Park.	zur Verfügung stellen (regelmäßig)
+📖 Der Staat muss mehr finanzielle Mittel für die Bildung bereitstellen.
+🔗 ↑ zur Verfügung stellen
+📐 ich bereitstelle | du bereitstellst | er/sie/es bereitstellt | wir bereitstellen | ihr bereitstellt | sie/Sie bereitstellen	Arbeit;Verb;A1
+Das Problem lässt sich nicht einfach {{c1::einstellen::sich vorbereiten auf}}.	sich vorbereiten auf (regelmäßig)
+📖 Der Verkäufer muss sich im Gespräch schnell auf den jeweiligen Kunden ...
+🔗 ↑ sich vorbereiten auf
+📐 ich einstelle | du einstellst | er/sie/es einstellt | wir einstellen | ihr einstellt | sie/Sie einstellen	Arbeit;Verb;A1
+Sie versucht seit Langem zu {{c1::zu schaffen::belasten}}.	belasten (regelmäßig)
+📖 Seine ständigen Rückenschmerzen machen ihm auf der Arbeit immer mehr z...
+🔗 ↑ belasten
+📐 ich zu schaffe | du zu schaffst | er/sie/es zu schafft | wir zu schaffen | ihr zu schafft | sie/Sie zu schaffen	Arbeit;Verb;A2
+Die {{c1::mangelt es an::es fehlt an}} spielt eine zentrale Rolle.	es fehlt an (der/die/das)
+📖 Es mangelt uns momentan absolut an guten und qualifizierten Mitarbeite...
+🔗 ↑ es fehlt an	Arbeit;Nomen;A2
+Das Problem lässt sich nicht einfach {{c1::verschaffen::besorgen/erlangen}}.	besorgen | erlangen (regelmäßig)
+📖 Wir müssen uns erst einmal einen Überblick über die Finanzen verschaff...
+🔗 ↑ besorgen, erlangen
+📐 ich verschaffe | du verschaffst | er/sie/es verschafft | wir verschaffen | ihr verschafft | sie/Sie verschaffen	Arbeit;Verb;A1
+Die {{c1::voraus::bedingen/erwarten}} immerhin überrascht durch ihre Qualität.	bedingen | erwarten (der/die/das)
+📖 Ich setze voraus, dass du pünktlich um acht Uhr im Büro bist!
+🔗 ↑ bedingen, erwarten	Arbeit;Nomen;A1
+Es ist Zeit zu {{c1::Darlehen::der Kredit}}.	der Kredit (regelmäßig)
+📖 Wer ein Darlehen aufnimmt, muss monatlich hohe Zinsen an die Bank beza...
+🔗 ↑ der Kredit
+📐 ich Darlehe | du Darlehst | er/sie/es Darleht | wir Darlehen | ihr Darleht | sie/Sie Darlehen	Arbeit;Verb;A1
+Sie beginnt gleich zu {{c1::Antrag stellen::beantragen}}.	beantragen (regelmäßig)
+📖 Wenn Sie Arbeitslosengeld möchten, müssen Sie rechtzeitig bei der Agen...
+🔗 ↑ beantragen
+📐 ich Antrag stelle | du Antrag stellst | er/sie/es Antrag stellt | wir Antrag stellen | ihr Antrag stellt | sie/Sie Antrag stellen	Arbeit;Verb;A2
+Diese {{c1::leistungsstark::kraftvoll}} ja ist sehr nützlich.	kraftvoll (der/die/das)
+📖 Für die Bearbeitung von großen Videos braucht man einen sehr leistungs...
+🔗 ↑ kraftvoll	Arbeit;Nomen;A2
+Eine {{c1::rechtswidrig::illegal}} Geschichte erzählt sie gern.	illegal ()
+📖 Die fristlose Kündigung der schwangeren Mitarbeiterin war laut Gericht...
+🔗 ↑ illegal	Arbeit;Adjektiv;A2
+Die {{c1::vehement::heftig}} ist heute besonders wichtig.	heftig (der/die/das)
+📖 Er bestritt die fiesen Vorwürfe seiner Kollegen vehement und lautstark...
+🔗 ↑ heftig	Arbeit;Nomen;A1
+Die Lösung erscheint mir {{c1::selbstständig::eigenständig}}.	eigenständig ()
+📖 Seit ein paar Jahren arbeite ich komplett selbstständig als freier Gra...
+🔗 ↑ eigenständig	Arbeit;Adjektiv;A2
+Die Lösung schon erscheint mir {{c1::anspruchsvoll::herausfordernd}}.	herausfordernd ()
+📖 Der Chefkoch kreiert immer wieder sehr anspruchsvolle und komplexe Men...
+🔗 ↑ herausfordernd	Arbeit;Adjektiv;A1
+Der Film war absolut {{c1::nachvollziehbar::verständlich}}.	verständlich ()
+📖 Seine plötzliche Kündigung in der Firma war für niemanden wirklich nac...
+🔗 ↑ verständlich	Arbeit;Adjektiv;A1
+Er hat ja vergessen zu {{c1::angemessen::passend}}.	passend (regelmäßig)
+📖 Ein Gehalt von nur zehn Euro pro Stunde ist für diese schwere Arbeit n...
+🔗 ↑ passend
+📐 ich angemesse | du angemessst | er/sie/es angemesst | wir angemessen | ihr angemesst | sie/Sie angemessen	Arbeit;Verb;A2
+Die {{c1::polarisiert::spalten}} finde ich besonders gut.	spalten (der/die/das)
+📖 Sein harter Charakter und seine direkten Worte polarisieren das gesamt...
+🔗 ↑ spalten	Arbeit;Nomen;A1
+Diese {{c1::gereizt::aggressiv}} erstaunlicherweise ist sehr nützlich.	aggressiv (der/die/das)
+📖 Er war heute Morgen im Büro noch immer sehr gereizt.
+🔗 ↑ aggressiv	Arbeit;Nomen;A1
+Die {{c1::zurück::ablehnen}} sehr finde ich besonders gut.	ablehnen (der/die/das)
+📖 Der Chef musste den unverschämten Vorschlag sofort zurückweisen.
+🔗 ↑ ablehnen	Arbeit;Nomen;A1
+Die {{c1::Handlungsspielraum::die Freiheit}} ist heute besonders wichtig.	die Freiheit (der/die/das)
+📖 In diesem speziellen Projekt haben wir nur sehr wenig Handlungsspielra...
+🔗 ↑ die Freiheit	Arbeit;Nomen;A1
+Eine logischerweise moderne {{c1::mangelnder::fehlend}} ist heute unverzichtbar.	fehlend (der/die/das)
+📖 Das ambitionierte Projekt scheiterte am Ende an mangelnder Kommunikati...
+🔗 ↑ fehlend	Arbeit;Nomen;A1
+Die {{c1::Wertschätzung::die Anerkennung}} wurde kürzlich verbessert.	die Anerkennung (die (fem.))
+📖 Jeder Mensch freut sich auf der Arbeit über echte Wertschätzung.
+🔗 ↑ die Anerkennung	Arbeit;Nomen;A2
+Die selbstverständlich {{c1::schleppend::langsam}} entwickelt sich ständig weiter.	langsam (der/die/das)
+📖 Der Verkauf der neuen Produkte in den Geschäften läuft bisher leider e...
+🔗 ↑ langsam	Arbeit;Nomen;A2
+Die {{c1::Ruf::das Ansehen}} ist heute besonders wichtig.	das Ansehen (der/die/das)
+📖 Sein extrem schlechter Ruf im Unternehmen eilte ihm bereits weit vorau...
+🔗 ↑ das Ansehen	Arbeit;Nomen;A1
+Die {{c1::Narzissmus::die Selbstverliebtheit}} hat sich bewährt.	die Selbstverliebtheit (der/die/das)
+📖 Sein extremer Narzissmus machte die enge Zusammenarbeit mit ihm fast u...
+🔗 ↑ die Selbstverliebtheit	Arbeit;Nomen;A2
+Ohne wahrscheinlich die {{c1::einschneidendes::drastisch}} geht nichts.	drastisch (der/die/das)
+📖 Die unerwartete Kündigung war ein einschneidender Moment in seiner lan...
+⚡ ein Ende finden, zu Ende bringen
+🔗 ↑ drastisch	Arbeit;Nomen;A1
+Die selbstverständlich {{c1::Qualifikation::die Befähigung}} spielt eine zentrale Rolle.	die Befähigung (der/die/das)
+📖 Für diesen Chef-Posten reicht deine derzeitige Qualifikation leider no...
+🔗 ↑ die Befähigung	Arbeit;Nomen;A2
+Sie {{c1::unbefristeten::dauerhaft}} wahrscheinlich fast täglich.	dauerhaft (regelmäßig)
+📖 Sie war sehr froh, als ihr Vertrag endlich unbefristet verlängert wurd...
+🔗 ↑ dauerhaft
+📐 ich unbefristete | du unbefristetst | er/sie/es unbefristett | wir unbefristeten | ihr unbefristett | sie/Sie unbefristeten	Arbeit;Verb;A1
+Man sollte öfter {{c1::Hürden::das Hindernis}}.	das Hindernis (regelmäßig)
+📖 Die deutsche Bürokratie ist für sehr viele junge Gründer eine riesige ...
+🔗 ↑ das Hindernis
+📐 ich Hürde | du Hürdst | er/sie/es Hürdt | wir Hürden | ihr Hürdt | sie/Sie Hürden	Arbeit;Verb;A1
+Seine Meinung ist durchaus {{c1::überflüssig::unnötig}}.	unnötig ()
+📖 Seine lauten und arroganten Kommentare waren in dem gestrigen Meeting ...
+🔗 ↑ unnötig	Arbeit;Adjektiv;A1
+Die {{c1::Vergütung::die total Bezahlung}} ist heute besonders wichtig.	die Bezahlung (die (fem.))
+📖 Die finanzielle Vergütung für freiwillige Überstunden ist im Arbeitsve...
+🔗 ↑ die Bezahlung	Arbeit;Nomen;A2
+Es ist Zeit zu {{c1::gewährleisten::sicherstellen}}.	sicherstellen (regelmäßig)
+📖 Die Bank muss zu jeder Zeit die absolute Sicherheit der Kundengelder g...
+🔗 ↑ sicherstellen
+📐 ich gewährleiste | du gewährleistst | er/sie/es gewährleistt | wir gewährleisten | ihr gewährleistt | sie/Sie gewährleisten	Arbeit;Verb;A2
+Eine moderne {{c1::dotiert::bezahlt}} ist heute unverzichtbar.	bezahlt (der/die/das)
+📖 Der Posten als neuer Geschäftsführer in dieser Firma ist absolut hervo...
+🔗 ↑ bezahlt	Arbeit;Nomen;A2
+Eine moderne {{c1::Befugnis::die Erlaubnis}} ist heute unverzichtbar.	die Erlaubnis (der/die/das)
+📖 Nur der Direktor der Schule hat die Befugnis, diesen wichtigen Vertrag...
+🔗 ↑ die Erlaubnis	Arbeit;Nomen;A1
+Die {{c1::bedürftige::arm}} glücklicherweise spielt eine zentrale Rolle.	arm (der/die/das)
+📖 Zu Weihnachten spendet die Firma oft viel Geld an kranke und bedürftig...
+🔗 ↑ arm	Arbeit;Nomen;A1
+Die genau {{c1::fatale::verheerend}} eignet sich für verschiedene Zwecke.	verheerend (der/die/das)
+📖 Es wäre ein wirklich fataler Fehler, bei diesem Projekt jetzt einfach ...
+🔗 ↑ verheerend	Arbeit;Nomen;A1
+Man sollte öfter {{c1::irreparablen::unheilbar}}.	unheilbar (regelmäßig)
+📖 Das tiefe Vertrauen zwischen den beiden Geschäftspartnern ist leider i...
+🔗 ↑ unheilbar
+📐 ich irreparable | du irreparablst | er/sie/es irreparablt | wir irreparablen | ihr irreparablt | sie/Sie irreparablen	Arbeit;Verb;A1
+Die {{c1::gemeistert::bewältigen}} echt finde ich besonders gut.	bewältigen (der/die/das)
+📖 Zusammen werden wir diese finanziell schwere Krise schon irgendwie mei...
+🔗 ↑ bewältigen	Arbeit;Nomen;A1
+Die {{c1::Zuversicht::der erstaunlicherweise Optimismus}} entwickelt sich ständig weiter.	der Optimismus (der/die/das)
+📖 Er verlor nach unzähligen Absagen langsam die Zuversicht, jemals wiede...
+🔗 ↑ der Optimismus	Arbeit;Nomen;A1
+Die {{c1::Umsetzung::die Realisierung}} entwickelt sich ständig weiter.	die Realisierung (die (fem.))
+📖 Die überaus schnelle Umsetzung der neuen Regeln im Büro sorgte zunächs...
+🔗 ↑ die Realisierung	Arbeit;Nomen;A2
+Die sehr {{c1::veranlasst::bewirken}} bietet viele Vorteile.	bewirken (der/die/das)
+📖 Er wird die Überweisung des fehlenden Geldes noch heute bei der Bank v...
+🔗 ↑ bewirken	Arbeit;Nomen;A1
+Diese {{c1::Auswertung::die Analyse, die Evaluation}} ist sehr nützlich.	die Analyse, die Evaluation (die (fem.))
+📖 Die genaue Auswertung der vielen ausgefüllten Umfragen dauert im Büro ...
+🔗 ↑ die Analyse, die Evaluation	Arbeit;Nomen;A1
+Die wahrscheinlich {{c1::Branche::der Wirtschaftszweig, der Sektor}} eignet sich für verschiedene Zwecke.	der Wirtschaftszweig, der Sektor (der/die/das)
+📖 Er arbeitet schon seit sehr vielen Jahren sehr erfolgreich in der IT-B...
+🔗 ↑ der Wirtschaftszweig, der Sektor	Arbeit;Nomen;A2
+Die wirklich {{c1::Regulierung::die Regelung, die Kontrolle}} eignet sich für verschiedene Zwecke.	die Regelung, die Kontrolle (die (fem.))
+📖 Eine strikte Regulierung der Banken soll angeblich eine ganz neue Fina...
+🔗 ↑ die Regelung, die Kontrolle	Arbeit;Nomen;A2
+Die {{c1::Anteil::der Prozentsatz, der Teil}} wurde kürzlich verbessert.	der Prozentsatz, der Teil (der/die/das)
+📖 Ein unfassbar großer Anteil meines Gehalts geht jeden Monat nur für di...
+⚡ der größte Teil, ein Teil von
+🔗 ↑ der Prozentsatz, der Teil	Arbeit;Nomen;A2
+Seine ja Arbeit ist sehr {{c1::begehrenswert::erstrebenswert, attraktiv}}.	erstrebenswert, attraktiv ()
+📖 Ein völlig entspanntes Leben in absoluter finanzieller Freiheit ist se...
+🔗 ↑ erstrebenswert, attraktiv	Arbeit;Adjektiv;A1
+Ohne die genau {{c1::Produktplatzierung::die Produktwerbung, das Product Placement}} geht nichts.	die Produktwerbung, das Product Placement (die (fem.))
+📖 Durch geschickte Produktplatzierung finanzieren Youtuber oft ihre teur...
+🔗 ↑ die Produktwerbung, das Product Placement	Arbeit;Nomen;A1
+Die schon {{c1::Maßnahme::die Aktion, der Schritt}} gehört zu den beliebtesten.	die Aktion, der Schritt (der/die/das)
+📖 Diese harte finanzielle Maßnahme war bitter nötig, um die Firma noch v...
+🔗 ↑ die Aktion, der Schritt	Arbeit;Nomen;A1
+Die {{c1::Kommunikationskanal::der Übertragungsweg, das Medium}} wurde kürzlich verbessert.	der Übertragungsweg, das Medium (der/die/das)
+📖 Eine einfache Email ist in diesem Büro der einzige offizielle Kommunik...
+🔗 ↑ der Übertragungsweg, das Medium	Arbeit;Nomen;A1
+Die {{c1::potenzieller::möglich, wahrscheinlich}} überrascht durch ihre Qualität.	möglich, wahrscheinlich (der/die/das)
+📖 Wir müssen alle potenziellen Risiken vor dem Projektbeginn genau prüfe...
+🔗 ↑ möglich, wahrscheinlich	Arbeit;Nomen;A1
+Eine jedoch moderne {{c1::Arbeitsforschung::die Arbeitswissenschaft, die Berufsforschung}} ist heute unverzichtbar.	die Arbeitswissenschaft, die Berufsforschung (die (fem.))
+📖 Laut der neuesten Arbeitsforschung macht ständiger Lärm im Großraumbür...
+⚡ viel Arbeit, eine gute Arbeit
+🔗 ↑ die Arbeitswissenschaft, die Berufsforschung	Arbeit;Nomen;A2
+Es ist Zeit zu {{c1::bestimmen::festlegen, entscheiden}}.	festlegen, entscheiden (regelmäßig)
+📖 Der Chef wird heute Nachmittag den genauen Termin für das Meeting best...
+🔗 ↑ festlegen, entscheiden
+📐 ich bestimme | du bestimmst | er/sie/es bestimmt | wir bestimmen | ihr bestimmt | sie/Sie bestimmen	Arbeit;Verb;A1
+Ohne ganz die {{c1::Neocortex::der Großhirnrinde, der Hirnmantel}} geht nichts.	der Großhirnrinde, der Hirnmantel (der/die/das)
+📖 Sprache und Bewusstsein werden beim Menschen im Neocortex verarbeitet.
+⚡ ein schöner Ort, der richtige Ort
+🔗 ↑ der Großhirnrinde, der Hirnmantel	Arbeit;Nomen;A2
+Die ziemlich {{c1::angeordnet::ordnen, sortieren}} überrascht durch ihre Qualität.	ordnen, sortieren (der/die/das)
+📖 Der Chef hat angeordnet, dass alle Mitarbeiter heute früher gehen dürf...
+🔗 ↑ ordnen, sortieren	Arbeit;Nomen;A2
+Das Problem ganz lässt sich nicht einfach {{c1::Bekanntermaßen::wie bekannt, allgemein bekannt}}.	wie bekannt, allgemein bekannt (regelmäßig)
+📖 Er ist bekanntermaßen nicht gerade der pünktlichste Mitarbeiter in der...
+🔗 ↑ wie bekannt, allgemein bekannt
+📐 ich Bekanntermaße | du Bekanntermaßst | er/sie/es Bekanntermaßt | wir Bekanntermaßen | ihr Bekanntermaßt | sie/Sie Bekanntermaßen	Arbeit;Verb;A2
+Sie ja beginnt gleich zu {{c1::dieselben::die gleichen, identisch}}.	die gleichen, identisch (regelmäßig)
+📖 Er trägt fast jeden Tag genau denselben alten Pullover zur Arbeit.
+🔗 ↑ die gleichen, identisch
+📐 ich dieselbe | du dieselbst | er/sie/es dieselbt | wir dieselben | ihr dieselbt | sie/Sie dieselben	Arbeit;Verb;A2
+Die {{c1::Monotonie::die Eintönigkeit, die Gleichförmigkeit}} gehört zu den beliebtesten.	die Eintönigkeit, die Gleichförmigkeit (der/die/das)
+📖 Sie kündigte den Job, weil sie die ständige Monotonie nicht mehr ertra...
+🔗 ↑ die Eintönigkeit, die Gleichförmigkeit	Arbeit;Nomen;A1
+Die {{c1::Parameter::der Faktor, die Größe}} entwickelt sich ständig weiter.	der Faktor, die Größe (der/die/das)
+📖 Wenn wir die Parameter der Maschine ändern, wird sie vermutlich viel s...
+🔗 ↑ der Faktor, die Größe	Arbeit;Nomen;A2
+Die {{c1::Gewissenhaftigkeit::die Sorgfalt, die Zuverlässigkeit}} bietet viele Vorteile.	die Sorgfalt, die Zuverlässigkeit (die (fem.))
+📖 Er prüft die Abrechnungen jeden Monat mit unglaublicher Gewissenhaftig...
+🔗 ↑ die Sorgfalt, die Zuverlässigkeit	Arbeit;Nomen;A1
+Sie versucht eigentlich seit Langem zu {{c1::Binnen::innerhalb, in}}.	innerhalb, in (regelmäßig)
+📖 Die Rechnung muss zwingend binnen vierzehn Tagen ohne Abzug bezahlt we...
+🔗 ↑ innerhalb, in
+📐 ich Binne | du Binnst | er/sie/es Binnt | wir Binnen | ihr Binnt | sie/Sie Binnen	Arbeit;Verb;A1
+Die {{c1::erzielte::erreichen, erzielen}} überrascht durch ihre Qualität.	erreichen, erzielen (der/die/das)
+📖 Die Firma will in diesem Jahr einen neuen Rekordgewinn erzielen.
+🔗 ↑ erreichen, erzielen	Arbeit;Nomen;A2
+Die {{c1::Probant::der überraschend Versuchsteilnehmer, der Testperson}} eignet sich für verschiedene Zwecke.	der Versuchsteilnehmer, der Testperson (der/die/das)
+📖 Jeder Probant in diesem Experiment bekommt für seine Zeit eine finanzi...
+🔗 ↑ der Versuchsteilnehmer, der Testperson	Arbeit;Nomen;A2
+Ohne die ganz {{c1::schwer gehabt::Schwierigkeiten haben, leiden}} geht nichts.	Schwierigkeiten haben, leiden (der/die/das)
+📖 Wer die Landessprache nicht richtig spricht, wird es auf dem Arbeitsma...
+🔗 ↑ Schwierigkeiten haben, leiden	Arbeit;Nomen;A2
+Die {{c1::Einteilung::die ziemlich Klassifizierung, die Kategorisierung}} überrascht durch ihre Qualität.	die Klassifizierung, die Kategorisierung (die (fem.))
+📖 Die Einteilung der Mitarbeiter in unterschiedliche und neue Schichten ...
+⚡ ein Teil von, der größte Teil
+🔗 ↑ die Klassifizierung, die Kategorisierung	Arbeit;Nomen;A2
+Ohne überraschend die {{c1::über::besitzen, haben}} geht nichts.	besitzen, haben (der/die/das)
+📖 Er verfügt leider nicht über die absolute nötige Erfahrung für diesen ...
+🔗 ↑ besitzen, haben	Arbeit;Nomen;A1
+Die also {{c1::Kapital::das Geld, das Vermögen}} spielt eine zentrale Rolle.	das Geld, das Vermögen (der/die/das)
+📖 Die junge und moderne Firma braucht dringend extrem frisches Kapital, ...
+🔗 ↑ das Geld, das Vermögen	Arbeit;Nomen;A1
+Die {{c1::weiterhin fort::weiter existieren, bleiben}} überrascht durch ihre Qualität.	weiter existieren, bleiben (der/die/das)
+📖 Unsere lange und sehr gute vertragliche Vereinbarung wird absolut unve...
+⚡ der richtige Ort, ein schöner Ort
+🔗 ↑ weiter existieren, bleiben	Arbeit;Nomen;A2
+Eine moderne {{c1::Lebensstil::die Lebensart, der Lebensweg}} ist heute unverzichtbar.	die Lebensart, der Lebensweg (der/die/das)
+📖 Sein sehr luxuriöser Lebensstil lässt sich mit seinem aktuell normalen...
+🔗 ↑ die Lebensart, der Lebensweg	Arbeit;Nomen;A2
+Ohne echt die {{c1::bezeichnet::nennen, benennen}} geht nichts.	nennen, benennen (der/die/das)
+📖 Sie bezeichnet ihren aktuellen absolut nervigen Chef sehr oft heimlich...
+🔗 ↑ nennen, benennen	Arbeit;Nomen;A1
+Eine moderne {{c1::Migrationshintergrund::die Migrationsgeschichte, der Einwanderungshintergrund}} ist heute unverzichtbar.	die Migrationsgeschichte, der Einwanderungshintergrund (der/die/das)
+📖 Viele absolut talentierte Jugendliche mit Migrationshintergrund haben ...
+⚡ aus diesem Grund, ohne Grund
+🔗 ↑ die Migrationsgeschichte, der Einwanderungshintergrund	Arbeit;Nomen;A1
+Eine moderne {{c1::Entsprechend::gemäß, entsprechend}} ist heute unverzichtbar.	gemäß, entsprechend (der/die/das)
+📖 Er wurde für seine absolut hervorragende Leistung in der Firma nun end...
+🔗 ↑ gemäß, entsprechend	Arbeit;Nomen;A1
+Die {{c1::unangenehm auf::negativ auffallen, stören}} eignet sich für verschiedene Zwecke.	negativ auffallen, stören (der/die/das)
+📖 Der neue Kollege fällt leider durch seine extrem ständige Verspätung j...
+🔗 ↑ negativ auffallen, stören	Arbeit;Nomen;A2
+Eine moderne echt {{c1::Unbeholfenheit::die Ungeschicklichkeit, die Schüchternheit}} ist heute unverzichtbar.	die Ungeschicklichkeit, die Schüchternheit (der/die/das)
+📖 Ihre plötzliche Unbeholfenheit im wichtigen Gespräch mit dem neuen Che...
+🔗 ↑ die Ungeschicklichkeit, die Schüchternheit	Arbeit;Nomen;A2
+Das Wetter heute ist wirklich {{c1::erkennbar::sichtbar, deutlich}}.	sichtbar, deutlich ()
+📖 Er war heute Morgen im Büro aus einem mir absolut unbekannten Grund ni...
+🔗 ↑ sichtbar, deutlich	Arbeit;Adjektiv;A2
+Diese genau {{c1::Aufstieg::der Erfolg, die Karriere}} ist sehr nützlich.	der Erfolg, die Karriere (der/die/das)
+📖 Sein extrem schneller beruflicher Aufstieg in der großen Firma überras...
+🔗 ↑ der Erfolg, die Karriere	Arbeit;Nomen;A2
+Das logischerweise Problem lässt sich nicht einfach {{c1::Aufstiegsmöglichkeiten::die Karrierechancen, die Beförderungsmöglichkeiten}}.	die Karrierechancen, die Beförderungsmöglichkeiten (regelmäßig)
+📖 Diese internationale große Firma bietet extrem schnelle und absolut ex...
+🔗 ↑ die Karrierechancen, die Beförderungsmöglichkeiten
+📐 ich Aufstiegsmöglichkeite | du Aufstiegsmöglichkeitst | er/sie/es Aufstiegsmöglichkeitt | wir Aufstiegsmöglichkeiten | ihr Aufstiegsmöglichkeitt | sie/Sie Aufstiegsmöglichkeiten	Arbeit;Verb;A2
+Die {{c1::Diskriminierung::die Benachteiligung, die Ungleichbehandlung}} finde ich besonders gut.	die Benachteiligung, die Ungleichbehandlung (die (fem.))
+📖 Rassistische Diskriminierung am Arbeitsplatz muss vom Chef immer absol...
+🔗 ↑ die Benachteiligung, die Ungleichbehandlung	Arbeit;Nomen;A2
+Die {{c1::relevant::wichtig, bedeutsam}} bietet viele Vorteile.	wichtig, bedeutsam (der/die/das)
+📖 Für die Bewerbung sind nur deine Erfahrungen aus den letzten drei Jahr...
+🔗 ↑ wichtig, bedeutsam	Arbeit;Nomen;C1
+Eine sehr moderne {{c1::konkretes::spezifisch, genau}} ist heute unverzichtbar.	spezifisch, genau (der/die/das)
+📖 Ich brauche konkrete Zahlen, um diesen komplizierten Vertrag zu unters...
+🔗 ↑ spezifisch, genau	Arbeit;Nomen;A1
+Eine wirklich moderne {{c1::Verarbeitung::die Bearbeitung, die Analyse}} ist heute unverzichtbar.	die Bearbeitung, die Analyse (die (fem.))
+📖 Die psychologische Verarbeitung eines solchen Schocks braucht extrem v...
+⚡ Arbeit suchen, viel Arbeit
+🔗 ↑ die Bearbeitung, die Analyse	Arbeit;Nomen;A2
+Die {{c1::fortgeführt::weiterführen, fortsetzen}} spielt eine zentrale Rolle.	weiterführen, fortsetzen (der/die/das)
+📖 Nach dem Tod des Gründers wird das Unternehmen von seinem Sohn fortgef...
+⚡ ein schöner Ort, der richtige Ort
+🔗 ↑ weiterführen, fortsetzen	Arbeit;Nomen;A1
+Die {{c1::entwickelt sich weiter::fortschreiten, wachsen}} gehört zu den beliebtesten.	fortschreiten, wachsen (der/die/das)
+📖 Du musst dich in diesem Job ständig weiterentwickeln, um nicht zurückz...
+🔗 ↑ fortschreiten, wachsen	Arbeit;Nomen;A1
+Die erstaunlicherweise Lösung erscheint mir {{c1::Gegenwärtig::aktuell, derzeit}}.	aktuell, derzeit ()
+📖 Gegenwärtig arbeiten wir an drei verschiedenen und extrem großen Baupr...
+🔗 ↑ aktuell, derzeit	Arbeit;Adjektiv;A2
+Die {{c1::Entlastung::die Erleichterung, die Befreiung}} gehört zu den beliebtesten.	die Erleichterung, die Befreiung (die (fem.))
+📖 Der neue Mitarbeiter brachte dem gesamten Team endlich eine deutliche ...
+🔗 ↑ die Erleichterung, die Befreiung	Arbeit;Nomen;A2
+Die {{c1::Vermeidungsmentalität::die besonders Vermeidungshaltung, die Ausweichmentalität}} hat sich bewährt.	die Vermeidungshaltung, die Ausweichmentalität (der/die/das)
+📖 Eine ständige Vermeidungsmentalität im Büro führt nur dazu, dass sich ...
+🔗 ↑ die Vermeidungshaltung, die Ausweichmentalität	Arbeit;Nomen;A1
+Das selbstverständlich Gerät ist {{c1::wünschenswert::erstrebenswert, gewünscht}} im Gebrauch.	erstrebenswert, gewünscht ()
+📖 Ein pünktliches Erscheinen aller Mitarbeiter ist für dieses Meeting ab...
+🔗 ↑ erstrebenswert, gewünscht	Arbeit;Adjektiv;A2
+Eine moderne {{c1::Mischung::die Kombination, die Zusammenstellung}} ist heute unverzichtbar.	die Kombination, die Zusammenstellung (die (fem.))
+📖 Die richtige Mischung aus harter Arbeit und viel Entspannung ist im Le...
+🔗 ↑ die Kombination, die Zusammenstellung	Arbeit;Nomen;A2
+Eine tatsächlich moderne {{c1::Frustration::die Enttäuschung, der Frust}} ist heute unverzichtbar.	die Enttäuschung, der Frust (der/die/das)
+📖 Ihre tiefe Frustration über den schlecht bezahlten Job wuchs mit jedem...
+🔗 ↑ die Enttäuschung, der Frust	Arbeit;Nomen;A1
+Er hört nicht auf zu {{c1::betonen::hervorheben, unterstreichen}}.	hervorheben, unterstreichen (regelmäßig)
+📖 Der Chef betonte im Meeting immer wieder, wie wichtig absolute Pünktli...
+🔗 ↑ hervorheben, unterstreichen
+📐 ich betone | du betonst | er/sie/es betont | wir betonen | ihr betont | sie/Sie betonen	Arbeit;Verb;A1
+Das indes Buch ist {{c1::unwichtig::nebensächlich, irrelevant}} und interessant.	nebensächlich, irrelevant ()
+📖 Bitte störe mich bei der extrem wichtigen Arbeit nicht mit solch unwic...
+🔗 ↑ nebensächlich, irrelevant	Arbeit;Adjektiv;B1
+Das Gerät ist {{c1::Diesbezüglich::diesbezüglich, dazu}} im Gebrauch.	diesbezüglich, dazu ()
+📖 Diesbezüglich müssen wir unbedingt noch einmal ganz ausführlich mit de...
+🔗 ↑ diesbezüglich, dazu	Arbeit;Adjektiv;A1
+Die {{c1::Beeinträchtigung::die schon Störung, die Schädigung}} gehört zu den beliebtesten.	die Störung, die Schädigung (die (fem.))
+📖 Trotz seiner körperlichen Beeinträchtigung arbeitet er jeden Tag extre...
+🔗 ↑ die Störung, die Schädigung	Arbeit;Nomen;A2
+Ohne ziemlich die {{c1::vom Fleck::vorankommen, Fortschritte machen}} geht nichts.	vorankommen, Fortschritte machen (der/die/das)
+📖 Ohne echte finanzielle Unterstützung kommen wir mit diesem Startup abs...
+🔗 ↑ vorankommen, Fortschritte machen	Arbeit;Nomen;A1
+Die {{c1::Milliarde::tausend Millionen, 1.000.000.000}} hat sich bewährt.	tausend Millionen, 1.000.000.000 (der/die/das)
+📖 Das teure Projekt hat den Staat am Ende fast eine riesige und unglaubl...
+🔗 ↑ tausend Millionen, 1.000.000.000	Arbeit;Nomen;A1
+Sie {{c1::Umdenken::der echt Wandel, die Änderung}} fast täglich.	der Wandel, die Änderung (regelmäßig)
+📖 Nach der extrem schweren Krise fand beim Chef zum Glück ein absolutes ...
+🔗 ↑ der Wandel, die Änderung
+📐 ich Umdenke | du Umdenkst | er/sie/es Umdenkt | wir Umdenken | ihr Umdenkt | sie/Sie Umdenken	Arbeit;Verb;A1
+Die selbstverständlich {{c1::Macher::der Aktivist, der Umsetzer}} spielt eine zentrale Rolle.	der Aktivist, der Umsetzer (der/die/das)
+📖 Wir brauchen für dieses riesige extrem schwere Bauprojekt einen absolu...
+🔗 ↑ der Aktivist, der Umsetzer	Arbeit;Nomen;A2
+Die {{c1::Inwieweit::wie weit, in welchem Maße}} eignet sich für verschiedene Zwecke.	wie weit, in welchem Maße (der/die/das)
+📖 Wir prüfen gerade extrem absolut exakt, inwieweit wir diesen völlig ab...
+🔗 ↑ wie weit, in welchem Maße	Arbeit;Nomen;A2
+Die sehr {{c1::derzeitige::aktuelle, momentane}} eignet sich für verschiedene Zwecke.	aktuelle, momentane (der/die/das)
+📖 Unter Berücksichtigung der derzeitigen absolut völlig extrem schlechte...
+⚡ Zeit haben, freie Zeit
+🔗 ↑ aktuelle, momentane	Arbeit;Nomen;A2
+Das Problem lässt sich nicht einfach {{c1::entgegenwirken::bekämpfen, widerstehen}}.	bekämpfen, widerstehen (regelmäßig)
+📖 Um der extrem absolut völligen und extrem krassen Inflation absolut vö...
+🔗 ↑ bekämpfen, widerstehen
+📐 ich entgegenwirke | du entgegenwirkst | er/sie/es entgegenwirkt | wir entgegenwirken | ihr entgegenwirkt | sie/Sie entgegenwirken	Arbeit;Verb;A1
+Die ziemlich {{c1::Chefsekretärin::Assistentin der Geschäftsleitung}} wurde kürzlich verbessert.	Assistentin der Geschäftsleitung (der/die/das)
+📖  Ohne sie würde in dieser Abteilung absolutes Chaos herrschen.
+🔗 ↑ Assistentin der Geschäftsleitung	Arbeit;Nomen;A1
+Er {{c1::opfern::aufgeben, hingeben}} jeden Morgen im Park.	aufgeben, hingeben (regelmäßig)
+📖  Letztendlich hat sich die harte Arbeit aber absolut gelohnt.
+🔗 ↑ aufgeben, hingeben
+📐 ich opfee | du opfest | er/sie/es opfet | wir opfeen | ihr opfet | sie/Sie opfeen	Arbeit;Verb;A2
+Diese wirklich {{c1::Verdienst::Lohn, Einkommen}} ist sehr nützlich.	Lohn, Einkommen (der/die/das)
+📖  Trotzdem arbeitet er hart und macht unzählige Überstunden.
+🔗 ↑ Lohn, Einkommen	Arbeit;Nomen;A2
+Ohne die {{c1::Arbeitsmarkt::Stellenmarkt, Beschäftigungssektor}} geht nichts.	Stellenmarkt, Beschäftigungssektor (der/die/das)
+📖  In diesen Bereichen herrscht ein massiver Fachkräftemangel.
+⚡ Arbeit suchen, eine gute Arbeit
+🔗 ↑ Stellenmarkt, Beschäftigungssektor	Arbeit;Nomen;A2
+Diese {{c1::Wirtschaftskrise::Rezession, besonders finanzielle Flaute}} ist sehr nützlich.	Rezession, finanzielle Flaute (der/die/das)
+📖  Tausende Arbeitnehmer verloren völlig unverschuldet ihren Job.
+🔗 ↑ Rezession, finanzielle Flaute	Arbeit;Nomen;A2
+Die ziemlich {{c1::Probezeit::Testphase, Einarbeitungszeit}} entwickelt sich ständig weiter.	Testphase, Einarbeitungszeit (der/die/das)
+📖  Danach greift der reguläre Kündigungsschutz.
+⚡ freie Zeit, wenig Zeit
+🔗 ↑ Testphase, Einarbeitungszeit	Arbeit;Nomen;A2
+Die {{c1::Bundesagentur::Arbeitsagentur, Arbeitsamt}} spielt eine zentrale Rolle.	Arbeitsagentur, Arbeitsamt (der/die/das)
+📖  Das ist wichtig, um keine Nachteile beim Arbeitslosengeld zu haben.
+🔗 ↑ Arbeitsagentur, Arbeitsamt	Arbeit;Nomen;A2
+Die ja {{c1::Hochleistungstechnologie::Spitzentechnik, High-Tech}} finde ich besonders gut.	Spitzentechnik, High-Tech (der/die/das)
+📖  Er kann Milliarden von Rechenoperationen in nur einer Sekunde ausführ...
+🔗 ↑ Spitzentechnik, High-Tech	Arbeit;Nomen;A1
+Die erstaunlicherweise {{c1::Branche::Wirtschaftszweig, Sektor}} wurde kürzlich verbessert.	Wirtschaftszweig, Sektor (der/die/das)
+📖  Seine Expertise ist auf dem Arbeitsmarkt extrem viel wert.
+🔗 ↑ Wirtschaftszweig, Sektor	Arbeit;Nomen;A2
+Die {{c1::beeindruckend::imposant, bemerkenswert}} eignet sich für verschiedene Zwecke.	imposant, bemerkenswert (der/die/das)
+📖  Sie hat es in nur drei Jahren vom Praktikanten in die Chefetage gesch...
+🔗 ↑ imposant, bemerkenswert	Arbeit;Nomen;A1
+Wir eigentlich müssen endlich {{c1::Gesundheitswesen::Gesundheitssystem, die medizinische Versorgung}}.	Gesundheitssystem, die medizinische Versorgung (regelmäßig)
+📖  Ohne ausländische Fachkräfte würde das System sofort kollabieren.Leid...
+🔗 ↑ Gesundheitssystem, die medizinische Versorgung
+📐 ich Gesundheitswese | du Gesundheitswesst | er/sie/es Gesundheitswest | wir Gesundheitswesen | ihr Gesundheitswest | sie/Sie Gesundheitswesen	Arbeit;Verb;A2
+Die {{c1::Auswertung::Analyse, Untersuchung}} finde ich besonders gut.	Analyse, Untersuchung (die (fem.))
+📖  Die Datenmenge ist einfach zu gewaltig, um sie rasch zu bearbeiten.
+🔗 ↑ Analyse, Untersuchung	Arbeit;Nomen;A2
+Er hat tatsächlich vergessen zu {{c1::einzustellen::anzustellen, zu beschäftigen}}.	anzustellen, zu beschäftigen (regelmäßig)
+📖  Das Geschäft wächst momentan einfach rasant und wir brauchen dringend...
+🔗 ↑ anzustellen, zu beschäftigen
+📐 ich einzustelle | du einzustellst | er/sie/es einzustellt | wir einzustellen | ihr einzustellt | sie/Sie einzustellen	Arbeit;Verb;A1
+Die {{c1::privilegiert::bevorzugt, sehr begünstigt}} überrascht durch ihre Qualität.	bevorzugt, begünstigt (der/die/das)
+📖  Er musste sich nie so hart nach oben kämpfen wie seine normalen Kolle...
+🔗 ↑ bevorzugt, begünstigt	Arbeit;Nomen;A1
+Die {{c1::Arbeitgeber::Chef, Brötchengeber}} ist heute besonders wichtig.	Chef, Brötchengeber (der/die/das)
+📖  Ich bin sehr froh, dass ich die Stelle gewechselt habe.
+⚡ eine gute Arbeit, Arbeit suchen
+🔗 ↑ Chef, Brötchengeber	Arbeit;Nomen;A2
+Die {{c1::Abschluss::Examen, echt Diplom}} hat sich bewährt.	Examen, Diplom (der/die/das)
+📖  Die Konkurrenz auf dem internationalen Arbeitsmarkt schläft schließli...
+🔗 ↑ Examen, Diplom	Arbeit;Nomen;A2
+Die {{c1::attraktives::verlockendes, erstaunlicherweise ansprechendes}} bietet viele Vorteile.	verlockendes, ansprechendes (der/die/das)
+📖  Bei diesem enormen Gehalt konnte sie am Ende einfach nicht nein sagen...
+🔗 ↑ verlockendes, ansprechendes	Arbeit;Nomen;A2
+Es ist Zeit zu {{c1::klären::lösen, bereinigen}}.	lösen, bereinigen (regelmäßig)
+📖  Sonst blockiert dieser Streit die Arbeit des gesamten Teams.
+🔗 ↑ lösen, bereinigen
+📐 ich kläre | du klärst | er/sie/es klärt | wir klären | ihr klärt | sie/Sie klären	Arbeit;Verb;A2
+Der Film war absolut {{c1::reibungslos::problemlos, glatt}}.	problemlos, glatt ()
+📖  Die engagierte Spedition hat dort wirklich ganze Arbeit geleistet.
+🔗 ↑ problemlos, glatt	Arbeit;Adjektiv;A2
+Die {{c1::Gehirn::Denkorgan, Cerebrum}} gehört zu den beliebtesten.	Denkorgan, Cerebrum (der/die/das)
+📖  Es macht zwar nur wenig Körpergewicht aus, leistet aber Schwerstarbei...
+🔗 ↑ Denkorgan, Cerebrum	Arbeit;Nomen;A2
+Die eigentlich {{c1::Sauerstoff::Atemgas, O2}} überrascht durch ihre Qualität.	Atemgas, O2 (der/die/das)
+📖  Regelmäßiges Stoßlüften ist daher im vollbesetzten Büro enorm wichtig...
+🔗 ↑ Atemgas, O2	Arbeit;Nomen;A1
+Das praktisch Problem lässt sich nicht einfach {{c1::vertragen::aushalten, tolerieren}}.	aushalten, tolerieren (regelmäßig)
+📖  Schon ein klitzekleines bisschen Chili sorgt bei ihm für starke Magen...
+🔗 ↑ aushalten, tolerieren
+📐 ich vertrage | du vertragst | er/sie/es vertragt | wir vertragen | ihr vertragt | sie/Sie vertragen	Arbeit;Verb;A2
+Man sollte logischerweise öfter {{c1::absacken::abfallen, sinken}}.	abfallen, sinken (regelmäßig)
+📖  Mit purer Gewalt weiterzuarbeiten, bringt dir dann meistens ohnehin g...
+🔗 ↑ abfallen, sinken
+📐 ich absacke | du absackst | er/sie/es absackt | wir absacken | ihr absackt | sie/Sie absacken	Arbeit;Verb;A2
+Die sehr {{c1::Tabaksteuer::Abgabe auf Zigaretten}} entwickelt sich ständig weiter.	Abgabe auf Zigaretten (der/die/das)
+📖  Gleichzeitig sollen dadurch Jugendliche vom Einstieg ins Rauchen abge...
+🔗 ↑ Abgabe auf Zigaretten	Arbeit;Nomen;A2
+Sie versucht seit Langem zu {{c1::Montagmorgen::Wochenbeginn, Montag in der Früh}}.	Wochenbeginn, Montag in der Früh (regelmäßig)
+📖  Fast jeder Mitarbeiter wünscht sich da eigentlich das erholsame Woche...
+🔗 ↑ Wochenbeginn, Montag in der Früh
+📐 ich Montagmorge | du Montagmorgst | er/sie/es Montagmorgt | wir Montagmorgen | ihr Montagmorgt | sie/Sie Montagmorgen	Arbeit;Verb;A2
+Ohne die {{c1::Einzelkämpfer::Solist, Einzelgänger}} geht nichts.	Solist, Einzelgänger (der/die/das)
+📖 Als echter Einzelkämpfer fällt es ihm oft extrem schwer, in einem groß...
+🔗 ↑ Solist, Einzelgänger	Arbeit;Nomen;A2
+Die immerhin {{c1::Chefsekretärin::Büroleiterin, Assistenz}} eignet sich für verschiedene Zwecke.	Büroleiterin, Assistenz (der/die/das)
+📖 Ohne die Chefsekretärin wäre das Bürochaos perfekt.
+🔗 ↑ Büroleiterin, Assistenz	Arbeit;Nomen;A1
+Eine {{c1::aus/geführt::umgesetzt, realisiert}} wäre hier sinnvoll.	umgesetzt, realisiert (der/die/das)
+📖 Die Ausführung des Projekts dauerte länger als erwartet.
+🔗 ↑ umgesetzt, realisiert	Arbeit;Nomen;A1
+Die {{c1::Sozialform::Gruppenarbeit, wahrscheinlich Unterrichtsform}} ist heute besonders wichtig.	Gruppenarbeit, Unterrichtsform (der/die/das)
+📖 In Einzelarbeit ist eine andere Sozialform als im Plenum.
+🔗 ↑ Gruppenarbeit, Unterrichtsform	Arbeit;Nomen;A2
+Die {{c1::im Alleingang::alleine, solo}} wurde kürzlich verbessert.	alleine, solo (der/die/das)
+📖 Im Alleingang ist die Arbeit doppelt so schwer.
+🔗 ↑ alleine, solo	Arbeit;Nomen;A2
+Die {{c1::auf partnerschaftlicher Basis::gleichberechtigt, fair}} entwickelt sich ständig weiter.	gleichberechtigt, fair (der/die/das)
+📖 Wir arbeiten auf partnerschaftlicher Basis zusammen.
+🔗 ↑ gleichberechtigt, fair	Arbeit;Nomen;A2
+Die {{c1::hochqualifizierte::spezialisierte, ganz experte}} bietet viele Vorteile.	spezialisierte, experte (der/die/das)
+📖 Hochqualifizierte Mitarbeiter sind gesucht.
+🔗 ↑ spezialisierte, experte	Arbeit;Nomen;A2
+Die glücklicherweise {{c1::Hochschulabsolvent::Akademiker, Uni-Absolvent}} überrascht durch ihre Qualität.	Akademiker, Uni-Absolvent (der/die/das)
+📖 Viele Hochschulabsolventen suchen Arbeit.
+🔗 ↑ Akademiker, Uni-Absolvent	Arbeit;Nomen;A2
+Eine {{c1::Arbeitsmarkt::Jobmarkt, Stellenmarkt}} wäre hier sinnvoll.	Jobmarkt, Stellenmarkt (der/die/das)
+📖 Am Arbeitsmarkt ändern sich die Anforderungen.
+⚡ Arbeit finden, viel Arbeit
+🔗 ↑ Jobmarkt, Stellenmarkt	Arbeit;Nomen;A2
+Die {{c1::Wirtschaftskrise::Rezession, doch Konjunkturkrise}} hat sich bewährt.	Rezession, Konjunkturkrise (der/die/das)
+📖 Während der Wirtschaftskrise stieg die Arbeitslosigkeit.
+🔗 ↑ Rezession, Konjunkturkrise	Arbeit;Nomen;A2
+Ohne schon die {{c1::Bundesagentur für Arbeit::Arbeitsamt, Jobcenter}} geht nichts.	Arbeitsamt, Jobcenter (der/die/das)
+📖 Man meldet sich bei der Bundesagentur für Arbeit.
+⚡ Arbeit finden, Arbeit suchen
+🔗 ↑ Arbeitsamt, Jobcenter	Arbeit;Nomen;A2
+Er also hört nicht auf zu {{c1::Gesundheitswesen::Medizinsystem, Gesundheitsystem}}.	Medizinsystem, Gesundheitsystem (regelmäßig)
+📖 Im Gesundheitswesen arbeiten viele Menschen.
+🔗 ↑ Medizinsystem, Gesundheitsystem
+📐 ich Gesundheitswese | du Gesundheitswesst | er/sie/es Gesundheitswest | wir Gesundheitswesen | ihr Gesundheitswest | sie/Sie Gesundheitswesen	Arbeit;Verb;A2
+Diese besonders {{c1::Arbeitgeber::Chef, Firma}} ist sehr nützlich.	Chef, Firma (der/die/das)
+📖 Der Arbeitgeber hat Fürsorgepflicht.
+⚡ eine gute Arbeit, Arbeit finden
+🔗 ↑ Chef, Firma	Arbeit;Nomen;A2
+Die {{c1::Abschluss::Ende, besonders Endeprüfung}} gehört zu den beliebtesten.	Ende, Endeprüfung (der/die/das)
+📖 Der Abschluss des Projekts naht.
+🔗 ↑ Ende, Endeprüfung	Arbeit;Nomen;A1
+Die {{c1::attraktiv::reizvoll, ansprechend}} bietet viele Vorteile.	reizvoll, ansprechend (der/die/das)
+📖 Ein attraktives Gehalt ist wichtig.
+🔗 ↑ reizvoll, ansprechend	Arbeit;Nomen;A2
+Die selbstverständlich {{c1::Tabakindustrie::Zigarettenkonzerne, Rauchwaren-Branche}} entwickelt sich ständig weiter.	Zigarettenkonzerne, Rauchwaren-Branche (der/die/das)
+📖 Die Tabakindustrie investiert viel in Lobbyarbeit.
+🔗 ↑ Zigarettenkonzerne, Rauchwaren-Branche	Arbeit;Nomen;A2
+Die {{c1::Zunehmend::immer selbstverständlich mehr, wachsend}} finde ich besonders gut.	immer mehr, wachsend (der/die/das)
+📖 Zunehmend arbeiten Menschen im Homeoffice.
+🔗 ↑ immer mehr, wachsend	Arbeit;Nomen;A2
+Die {{c1::begehrenswertes::erstrebenswertes, attraktives}} eignet sich für verschiedene Zwecke.	erstrebenswertes, attraktives (der/die/das)
+📖 Ein ruhiger Arbeitsplatz ist für viele begehrenswert.
+🔗 ↑ erstrebenswertes, attraktives	Arbeit;Nomen;A2
+Eine moderne {{c1::Produktplatzierung::Werbemaßnahme, Product Placement}} ist heute unverzichtbar.	Werbemaßnahme, Product Placement (die (fem.))
+📖 Produktplatzierung ist ein lukratives Geschäft.
+🔗 ↑ Werbemaßnahme, Product Placement	Arbeit;Nomen;A1
+Die {{c1::potenzielle::mögliche, potenzielle}} eignet sich für verschiedene Zwecke.	mögliche, potenzielle (der/die/das)
+📖 Potenzielle Kunden werden im ersten Kontakt beraten.
+🔗 ↑ mögliche, potenzielle	Arbeit;Nomen;A1
+Die {{c1::bestehende::vorhandene, aktuelle}} wurde kürzlich verbessert.	vorhandene, aktuelle (der/die/das)
+📖 Trotz bestehender Probleme arbeiten wir weiter.
+⚡ ein Ende finden, zu Ende bringen
+🔗 ↑ vorhandene, aktuelle	Arbeit;Nomen;A2
+Diese {{c1::versagte::fiel aus, funktionierte nicht}} ist sehr nützlich.	fiel aus, funktionierte nicht (der/die/das)
+📖 Sein Gedächtnis versagte ihm in der entscheidenden Sekunde.
+🔗 ↑ fiel aus, funktionierte nicht	Arbeit;Nomen;A1
+Die ja {{c1::Arbeitsforschung::Berufsforschung, Arbeitswissenschaft}} gehört zu den beliebtesten.	Berufsforschung, Arbeitswissenschaft (die (fem.))
+📖 Ergebnisse der Arbeitsforschung fließen in Gesetze ein.
+⚡ viel Arbeit, eine gute Arbeit
+🔗 ↑ Berufsforschung, Arbeitswissenschaft	Arbeit;Nomen;A2
+Die {{c1::das indes Wesentliche::das Wichtige, den Kern}} bietet viele Vorteile.	das Wichtige, den Kern (der/die/das)
+📖 In der Präsentation ging es nur um das Wesentliche.
+🔗 ↑ das Wichtige, den Kern	Arbeit;Nomen;A1
+Eine {{c1::Chemiker::Chemiefachmann, Chemie-Experte}} wäre hier sinnvoll.	Chemiefachmann, Chemie-Experte (der/die/das)
+📖 Als Chemiker arbeitet er im Labor.
+🔗 ↑ Chemiefachmann, Chemie-Experte	Arbeit;Nomen;A2
+Die {{c1::ordnete besonders an::befahl, verfügte}} spielt eine zentrale Rolle.	befahl, verfügte (der/die/das)
+📖 Der Chef ordnete eine sofortige Überprüfung an.
+🔗 ↑ befahl, verfügte	Arbeit;Nomen;A1
+Sie {{c1::ergehen::ergötzen, logischerweise widerfahren}} fast täglich.	ergötzen, widerfahren (regelmäßig)
+📖  Die anstehende Kündigungswelle im Konzern bedroht unzählige Jobs.
+🔗 ↑ ergötzen, widerfahren
+📐 ich ergehe | du ergehst | er/sie/es ergeht | wir ergehen | ihr ergeht | sie/Sie ergehen	Arbeit;Verb;A1
+Die {{c1::Weise::Art, Methode}} wurde kürzlich verbessert.	Art, Methode (der/die/das)
+📖  Der Chef sollte dringend ein Seminar über moderne und gute Mitarbeite...
+🔗 ↑ Art, Methode	Arbeit;Nomen;A2
+Eine {{c1::Persönlichkeit::Charakter, doch Individualität}} wäre hier sinnvoll.	Charakter, Individualität (die (fem.))
+📖  Die Mitarbeiter folgen ihren klaren Anweisungen immer sehr gerne und ...
+🔗 ↑ Charakter, Individualität	Arbeit;Nomen;A2
+Eine natürlich moderne {{c1::Seither::seitdem, seit dieser Zeit}} ist heute unverzichtbar.	seitdem, seit dieser Zeit (der/die/das)
+📖 Seither arbeitet er im Ausland.
+🔗 ↑ seitdem, seit dieser Zeit	Arbeit;Nomen;A2
+Die {{c1::Forschungsliteratur::wissenschaftliche Literatur, Fachliteratur}} entwickelt sich ständig weiter.	wissenschaftliche Literatur, Fachliteratur (der/die/das)
+📖 Für die Arbeit muss man Forschungsliteratur sichten.
+🔗 ↑ wissenschaftliche Literatur, Fachliteratur	Arbeit;Nomen;A2
+Sie versucht seit Langem zu {{c1::befragen::interviewen, befragen}}.	interviewen, befragen (regelmäßig)
+📖 Wir befragen die Kunden nach ihrer Zufriedenheit.
+⚡ die Frage beantworten, eine Frage stellen
+🔗 ↑ interviewen, befragen
+📐 ich befrage | du befragst | er/sie/es befragt | wir befragen | ihr befragt | sie/Sie befragen	Arbeit;Verb;A1
+Sie praktisch beginnt gleich zu {{c1::Binnen+GEN::innerhalb, innerhalb von}}.	innerhalb, innerhalb von (regelmäßig)
+📖 Binnen eines Jahres wurde das Projekt abgeschlossen.
+🔗 ↑ innerhalb, innerhalb von
+📐 ich BinnenGENe | du BinnenGENst | er/sie/es BinnenGENt | wir BinnenGENen | ihr BinnenGENt | sie/Sie BinnenGENen	Arbeit;Verb;A1
+Wir müssen endlich {{c1::ein/teilen::aufteilen, einteilen}}.	aufteilen, einteilen (regelmäßig)
+📖 Die Arbeit wurde gerecht eingeteilt.
+⚡ der größte Teil, ein Teil von
+🔗 ↑ aufteilen, einteilen
+📐 ich ein/teile | du ein/teilst | er/sie/es ein/teilt | wir ein/teilen | ihr ein/teilt | sie/Sie ein/teilen	Arbeit;Verb;A2
+Die {{c1::bewusst::absichtlich, mit voller Absicht}} bietet viele Vorteile.	absichtlich, mit voller Absicht (der/die/das)
+📖  Dafür wird er garantiert eine strenge Abmahnung vom Chef erhalten.
+🔗 ↑ absichtlich, mit voller Absicht	Arbeit;Nomen;A2
+Es genau ist Zeit zu {{c1::verschwenden::vergeuden, nutzlos verbringen}}.	vergeuden, nutzlos verbringen (regelmäßig)
+📖  Am Ende des Tages haben wir nämlich noch massig Arbeit vor uns.
+⚡ ein Ende finden, zu Ende bringen
+🔗 ↑ vergeuden, nutzlos verbringen
+📐 ich verschwende | du verschwendst | er/sie/es verschwendt | wir verschwenden | ihr verschwendt | sie/Sie verschwenden	Arbeit;Verb;A2
+Er {{c1::überwiegen::sind dominanter, übertreffen}} jeden Morgen im Park.	sind dominanter, übertreffen (regelmäßig)
+📖  Wir werden die Software daher im gesamten Unternehmen ausrollen.
+🔗 ↑ sind dominanter, übertreffen
+📐 ich überwiege | du überwiegst | er/sie/es überwiegt | wir überwiegen | ihr überwiegt | sie/Sie überwiegen	Arbeit;Verb;A1
+Er {{c1::auftauchen::erscheinen, sich zeigen}} jeden Morgen im Park.	erscheinen, sich zeigen (regelmäßig)
+📖  Irgendetwas geht bei solchen Großprojekten schließlich immer schief.
+🔗 ↑ erscheinen, sich zeigen
+📐 ich auftauche | du auftauchst | er/sie/es auftaucht | wir auftauchen | ihr auftaucht | sie/Sie auftauchen	Arbeit;Verb;A2
+Die {{c1::Haftung::Verantwortung, Garantie}} wurde kürzlich verbessert.	Verantwortung, Garantie (die (fem.))
+📖  Das stand auch ganz deutlich im Kleingedruckten auf dem Vertrag.
+🔗 ↑ Verantwortung, Garantie	Arbeit;Nomen;A2
+Es ist selbstverständlich Zeit zu {{c1::nachfragen::sich erkundigen}}.	sich erkundigen (regelmäßig)
+📖  Die Kollegen dort sind vierundzwanzig Stunden am Tag für Sie da.
+⚡ eine Frage stellen, die Frage beantworten
+🔗 ↑ sich erkundigen
+📐 ich nachfrage | du nachfragst | er/sie/es nachfragt | wir nachfragen | ihr nachfragt | sie/Sie nachfragen	Arbeit;Verb;A1
+Die nämlich {{c1::Bedürfnis::Verlangen, der starke Wunsch}} finde ich besonders gut.	Verlangen, der starke Wunsch (der/die/das)
+📖  Er will einfach um jeden Preis von allen Kollegen bewundert werden.
+🔗 ↑ Verlangen, der starke Wunsch	Arbeit;Nomen;A1
+Ohne die {{c1::Im Zuge::im Verlauf, während}} geht nichts.	im Verlauf, während (der/die/das)
+📖  Tausende hart arbeitende Menschen verloren dabei leider völlig unvers...
+🔗 ↑ im Verlauf, während	Arbeit;Nomen;A2
+Diese {{c1::verfügen über::besitzen, haben}} ist sehr nützlich.	besitzen, haben (der/die/das)
+📖  Seine Kollegen fragen ihn bei schwierigen Problemen jedenfalls immer ...
+🔗 ↑ besitzen, haben	Arbeit;Nomen;A1
+Sie versucht praktisch seit Langem zu {{c1::hingegen::dagegen, im Gegensatz dazu}}.	dagegen, im Gegensatz dazu (regelmäßig)
+📖  Diese völlig unterschiedliche Einstellung zu Finanzen sorgt oft für l...
+🔗 ↑ dagegen, im Gegensatz dazu
+📐 ich hingege | du hingegst | er/sie/es hingegt | wir hingegen | ihr hingegt | sie/Sie hingegen	Arbeit;Verb;A1
+Eine moderne {{c1::Kapital,-e::Vermögen, Geldmittel}} ist heute unverzichtbar.	Vermögen, Geldmittel (der/die/das)
+📖 Ohne Kapital kann kein Unternehmen starten.
+🔗 ↑ Vermögen, Geldmittel	Arbeit;Nomen;A1
+Die {{c1::Ungebildet::nicht gebildet, ohne Bildung}} bietet viele Vorteile.	nicht gebildet, ohne Bildung (der/die/das)
+📖 Ungebildete haben es auf dem Arbeitsmarkt schwerer.
+🔗 ↑ nicht gebildet, ohne Bildung	Arbeit;Nomen;A2
+Die jedoch {{c1::Akademikerpaar,-e::Paar mit Hochschulabschluss, gebildetes Paar}} ist heute besonders wichtig.	Paar mit Hochschulabschluss, gebildetes Paar (der/die/das)
+📖 Akademikerpaare haben oft ähnliche Karrierewege.
+🔗 ↑ Paar mit Hochschulabschluss, gebildetes Paar	Arbeit;Nomen;A2
+Ohne die jedoch {{c1::Aufstiegsmöglichkeiten(Pl.)::Karrierechancen, Beförderungschancen}} geht nichts.	Karrierechancen, Beförderungschancen (der/die/das)
+📖 Gute Aufstiegsmöglichkeiten motivieren Mitarbeiter.
+🔗 ↑ Karrierechancen, Beförderungschancen	Arbeit;Nomen;A2
+Sie versucht seit Langem zu {{c1::Diskriminierung,-en::Benachteiligung, Ungleichbehandlung}}.	Benachteiligung, Ungleichbehandlung (regelmäßig)
+📖 Diskriminierung am Arbeitsplatz muss bekämpft werden.
+🔗 ↑ Benachteiligung, Ungleichbehandlung
+📐 ich Diskriminierung,-e | du Diskriminierung,-st | er/sie/es Diskriminierung,-t | wir Diskriminierung,-en | ihr Diskriminierung,-t | sie/Sie Diskriminierung,-en	Arbeit;Verb;A2
+Die {{c1::Erholung::Entspannung, Regeneration}} überrascht durch ihre Qualität.	Entspannung, Regeneration (die (fem.))
+📖 Nach der Arbeit brauche ich Erholung.
+🔗 ↑ Entspannung, Regeneration	Arbeit;Nomen;A2
+Wir praktisch sollten sofort {{c1::bewerkstelligen::schaffen, bewältigen}}.	schaffen, bewältigen (regelmäßig)
+📖 Trotz Hindernissen bewerkstelligte er das Projekt.
+🔗 ↑ schaffen, bewältigen
+📐 ich bewerkstellige | du bewerkstelligst | er/sie/es bewerkstelligt | wir bewerkstelligen | ihr bewerkstelligt | sie/Sie bewerkstelligen	Arbeit;Verb;A1
+Die {{c1::Arbeitszeitmodell,-e::Zeitschema, besonders Arbeitszeitregelung}} spielt eine zentrale Rolle.	Zeitschema, Arbeitszeitregelung (der/die/das)
+📖 Flexible Arbeitszeitmodelle fördern die Work-Life-Balance.
+⚡ Arbeit finden, Arbeit suchen, viel Zeit, Zeit haben
+🔗 ↑ Zeitschema, Arbeitszeitregelung	Arbeit;Nomen;A2
+Er besonders {{c1::Vorstandschef,-s/ die Vorstandschefin,-nen::Unternehmensleiter, CEO}} jeden Morgen im Park.	Unternehmensleiter, CEO (regelmäßig)
+📖 Der Vorstandschef opfert manchmal Schlaf für Arbeit.
+🔗 ↑ Unternehmensleiter, CEO
+📐 ich Vorstandschef,-s/ die Vorstandschefin,-ne | du Vorstandschef,-s/ die Vorstandschefin,-nst | er/sie/es Vorstandschef,-s/ die Vorstandschefin,-nt | wir Vorstandschef,-s/ die Vorstandschefin,-nen | ihr Vorstandschef,-s/ die Vorstandschefin,-nt | sie/Sie Vorstandschef,-s/ die Vorstandschefin,-nen	Arbeit;Verb;A2
+Die {{c1::Weltkonzern,-e::globaler Konzern, internationales Unternehmen}} bietet viele Vorteile.	globaler Konzern, internationales Unternehmen (der/die/das)
+📖 Weltkonzerne müssen mit unterschiedlichen Arbeitszeiten umgehen.
+🔗 ↑ globaler Konzern, internationales Unternehmen	Arbeit;Nomen;A2
+Das schon Wetter heute ist wirklich {{c1::Restlich::übrig, verbleibend}}.	übrig, verbleibend ()
+📖 Die restliche Zeit nach der Arbeit reicht kaum.
+🔗 ↑ übrig, verbleibend	Arbeit;Adjektiv;A2
+Ohne die {{c1::ein/gehen* auf+ AKK::eingehen, berücksichtigen}} geht nichts.	eingehen, berücksichtigen (der/die/das)
+📖 Auf Bedürfnisse der Mitarbeiter einzugehen, ist gute Führung.
+🔗 ↑ eingehen, berücksichtigen	Arbeit;Nomen;A2
+Eine moderne {{c1::Wachheit::Wachsein, Aufmerksamkeit}} ist heute unverzichtbar.	Wachsein, Aufmerksamkeit (der/die/das)
+📖 Wachheit ist Voraussetzung für sicheres Arbeiten.
+🔗 ↑ Wachsein, Aufmerksamkeit	Arbeit;Nomen;A2
+Sie beginnt gleich zu {{c1::Konzentrationsstörung,-en::Aufmerksamkeitsdefizit, Konzentrationsschwäche}}.	Aufmerksamkeitsdefizit, Konzentrationsschwäche (regelmäßig)
+📖 Konzentrationsstörungen beeinträchtigen die Arbeitsleistung.
+🔗 ↑ Aufmerksamkeitsdefizit, Konzentrationsschwäche
+📐 ich Konzentrationsstörung,-e | du Konzentrationsstörung,-st | er/sie/es Konzentrationsstörung,-t | wir Konzentrationsstörung,-en | ihr Konzentrationsstörung,-t | sie/Sie Konzentrationsstörung,-en	Arbeit;Verb;A2
+Ohne ja die {{c1::Medienunternehmen,-::Medienfirma, Medienkonzern}} geht nichts.	Medienfirma, Medienkonzern (der/die/das)
+📖 Medienunternehmen stehen unter wirtschaftlichem Druck.
+🔗 ↑ Medienfirma, Medienkonzern	Arbeit;Nomen;A1
+Sie beginnt gleich zu {{c1::abkürzen::verkürzen, raffen}}.	verkürzen, raffen (regelmäßig)
+📖  Sonst halten wir die ohnehin schon extrem knappe Deadline niemals ein...
+🔗 ↑ verkürzen, raffen
+📐 ich abkürze | du abkürzst | er/sie/es abkürzt | wir abkürzen | ihr abkürzt | sie/Sie abkürzen	Arbeit;Verb;A2
+Die ganz {{c1::massive::gewaltige, enorme}} entwickelt sich ständig weiter.	gewaltige, enorme (der/die/das)
+📖  Die Aufräumarbeiten werden vermutlich noch viele Wochen in Anspruch n...
+🔗 ↑ gewaltige, enorme	Arbeit;Nomen;A2
+Ohne die ganz {{c1::Körperpflege::Hygiene, das Waschen}} geht nichts.	Hygiene, das Waschen (der/die/das)
+📖  Niemand möchte schließlich ungepflegt und übelriechend zur Arbeit ers...
+🔗 ↑ Hygiene, das Waschen	Arbeit;Nomen;A2
+Eine {{c1::Rezeptur::Mischung, das Rezept}} wäre hier sinnvoll.	Mischung, das Rezept (der/die/das)
+📖  Nur zwei hochrangige Mitarbeiter in der riesigen Firma kennen angebli...
+🔗 ↑ Mischung, das Rezept	Arbeit;Nomen;A2
+Die {{c1::Firmensitz::Hauptsitz, Zentrale}} entwickelt sich ständig weiter.	Hauptsitz, Zentrale (der/die/das)
+📖  Das bringt der Firma jährlich Einsparungen in unglaublicher Millionen...
+🔗 ↑ Hauptsitz, Zentrale	Arbeit;Nomen;A1
+Die echt {{c1::Berufung::Bestimmung, Lebensaufgabe}} spielt eine zentrale Rolle.	Bestimmung, Lebensaufgabe (die (fem.))
+📖  Trotz der langen Schichten geht sie jeden Morgen immer noch extrem ge...
+🔗 ↑ Bestimmung, Lebensaufgabe	Arbeit;Nomen;A2
+Die {{c1::Zugehörigkeit::Mitgliedschaft, Verbundenheit}} gehört zu den beliebtesten.	Mitgliedschaft, Verbundenheit (die (fem.))
+📖  Der Chef wollte damit wohl einen drohenden Imageschaden für das Unter...
+🔗 ↑ Mitgliedschaft, Verbundenheit	Arbeit;Nomen;A1
+Die {{c1::analog zu::entsprechend, ähnlich wie}} eignet sich für verschiedene Zwecke.	entsprechend, ähnlich wie (der/die/das)
+📖  Wir müssen uns also glücklicherweise nicht völlig neu in die komplizi...
+🔗 ↑ entsprechend, ähnlich wie	Arbeit;Nomen;A2
+Er hört logischerweise nicht auf zu {{c1::jeweiligen::entsprechenden, betreffenden}}.	entsprechenden, betreffenden (regelmäßig)
+📖  Bitte lesen Sie sich das sehr Kleingedruckte in dem langen Vertrag de...
+🔗 ↑ entsprechenden, betreffenden
+📐 ich jeweilige | du jeweiligst | er/sie/es jeweiligt | wir jeweiligen | ihr jeweiligt | sie/Sie jeweiligen	Arbeit;Verb;A2
+Man sollte öfter {{c1::überwachen::kontrollieren, observieren}}.	kontrollieren, observieren (regelmäßig)
+📖  Ein plötzlicher und starker Absturz der Kurse könnte unsere ganze Fir...
+🔗 ↑ kontrollieren, observieren
+📐 ich überwache | du überwachst | er/sie/es überwacht | wir überwachen | ihr überwacht | sie/Sie überwachen	Arbeit;Verb;A1
+Die {{c1::Arbeitszeitmodell,-e::Zeitschema, Arbeitszeitregelung}} hat sich bewährt.	Zeitschema, Arbeitszeitregelung (der/die/das)
+📖 Flexible Arbeitszeitmodelle fördern die Work-Life-Balance.
+⚡ eine gute Arbeit, Arbeit suchen, viel Zeit, freie Zeit
+🔗 ↑ Zeitschema, Arbeitszeitregelung	Arbeit;Nomen;A2
+Er hört nicht auf zu {{c1::Vorstandschef,-s/ die Vorstandschefin,-nen::Unternehmensleiter, CEO}}.	Unternehmensleiter, CEO (regelmäßig)
+📖 Der Vorstandschef opfert manchmal Schlaf für Arbeit.
+🔗 ↑ Unternehmensleiter, CEO
+📐 ich Vorstandschef,-s/ die Vorstandschefin,-ne | du Vorstandschef,-s/ die Vorstandschefin,-nst | er/sie/es Vorstandschef,-s/ die Vorstandschefin,-nt | wir Vorstandschef,-s/ die Vorstandschefin,-nen | ihr Vorstandschef,-s/ die Vorstandschefin,-nt | sie/Sie Vorstandschef,-s/ die Vorstandschefin,-nen	Arbeit;Verb;A2
+Eine selbstverständlich {{c1::Weltkonzern,-e::globaler Konzern, internationales Unternehmen}} wäre hier sinnvoll.	globaler Konzern, internationales Unternehmen (der/die/das)
+📖 Weltkonzerne müssen mit unterschiedlichen Arbeitszeiten umgehen.
+🔗 ↑ globaler Konzern, internationales Unternehmen	Arbeit;Nomen;A2
+Der Film war absolut {{c1::Restlich::übrig, verbleibend}}.	übrig, verbleibend ()
+📖 Die restliche Zeit nach der Arbeit reicht kaum.
+🔗 ↑ übrig, verbleibend	Arbeit;Adjektiv;A2
+Ohne überraschend die {{c1::ein/gehen* auf+ AKK::eingehen, berücksichtigen}} geht nichts.	eingehen, berücksichtigen (der/die/das)
+📖 Auf Bedürfnisse der Mitarbeiter einzugehen, ist gute Führung.
+🔗 ↑ eingehen, berücksichtigen	Arbeit;Nomen;A2
+Die ja {{c1::Wachheit::Wachsein, Aufmerksamkeit}} spielt eine zentrale Rolle.	Wachsein, Aufmerksamkeit (der/die/das)
+📖 Wachheit ist Voraussetzung für sicheres Arbeiten.
+🔗 ↑ Wachsein, Aufmerksamkeit	Arbeit;Nomen;A2
+Das ziemlich Problem lässt sich nicht einfach {{c1::Konzentrationsstörung,-en::Aufmerksamkeitsdefizit, Konzentrationsschwäche}}.	Aufmerksamkeitsdefizit, Konzentrationsschwäche (regelmäßig)
+📖 Konzentrationsstörungen beeinträchtigen die Arbeitsleistung.
+🔗 ↑ Aufmerksamkeitsdefizit, Konzentrationsschwäche
+📐 ich Konzentrationsstörung,-e | du Konzentrationsstörung,-st | er/sie/es Konzentrationsstörung,-t | wir Konzentrationsstörung,-en | ihr Konzentrationsstörung,-t | sie/Sie Konzentrationsstörung,-en	Arbeit;Verb;A2
+Die {{c1::Medienunternehmen,-::Medienfirma, Medienkonzern}} gehört zu den beliebtesten.	Medienfirma, Medienkonzern (der/die/das)
+📖 Medienunternehmen stehen unter wirtschaftlichem Druck.
+🔗 ↑ Medienfirma, Medienkonzern	Arbeit;Nomen;A1
+Die {{c1::Rundfunk::Radio und Fernsehen, öffentlich-rechtliche Medien}} entwickelt sich ständig weiter.	Radio und Fernsehen, öffentlich-rechtliche Medien (der/die/das)
+📖 Der Rundfunk hat einen Bildungsauftrag.
+🔗 ↑ Radio und Fernsehen, öffentlich-rechtliche Medien	Arbeit;Nomen;A1
+Die {{c1::Zwingend::unbedingt, doch erforderlich}} gehört zu den beliebtesten.	unbedingt, erforderlich (der/die/das)
+📖 Zwingende Vorgaben müssen eingehalten werden.
+🔗 ↑ unbedingt, erforderlich	Arbeit;Nomen;A2
+Die {{c1::ab/zielen ja auf+ AKK::bezwecken, zum Ziel haben}} ist heute besonders wichtig.	bezwecken, zum Ziel haben (der/die/das)
+📖 Das Projekt zielt auf nachhaltige Entwicklung ab.
+🔗 ↑ bezwecken, zum Ziel haben	Arbeit;Nomen;A2
+Das schon Ergebnis war {{c1::Methodisch::die Methode betreffend, systematisch}}.	die Methode betreffend, systematisch ()
+📖 Methodisch saubere Arbeit ist Voraussetzung für Gültigkeit.
+🔗 ↑ die Methode betreffend, systematisch	Arbeit;Adjektiv;A2
+Eine {{c1::30-minütige::halbstündige}} überraschend wäre hier sinnvoll.	halbstündige (der/die/das)
+📖  Er wollte uns über die aktuellen und drohenden finanziellen Probleme ...
+🔗 ↑ halbstündige	Arbeit;Nomen;A1
+Er hat vergessen zu {{c1::erscheinen::herauskommen, publiziert werden}}.	herauskommen, publiziert werden (regelmäßig)
+📖  Die ungeduldigen Kunden warten allerdings schon jetzt sehr sehnsüchti...
+🔗 ↑ herauskommen, publiziert werden
+📐 ich erscheine | du erscheinst | er/sie/es erscheint | wir erscheinen | ihr erscheint | sie/Sie erscheinen	Arbeit;Verb;A1
+Diese {{c1::zweitens::als Zweites, darüber hinaus}} ist sehr nützlich.	als Zweites, darüber hinaus (der/die/das)
+📖  Ich werde den fragwürdigen Mietvertrag also unter gar keinen Umstände...
+🔗 ↑ als Zweites, darüber hinaus	Arbeit;Nomen;A1
+Diese {{c1::Phase::Periode, besonders der Abschnitt}} ist sehr nützlich.	Periode, der Abschnitt (der/die/das)
+📖  Die Firma steht nämlich bereits jetzt extrem kurz vor dem totalen Ban...
+🔗 ↑ Periode, der Abschnitt	Arbeit;Nomen;A1
+Man sollte öfter {{c1::scheitern::misslingen, fehlschlagen}}.	misslingen, fehlschlagen (regelmäßig)
+📖  Die extrem knappe Deadline rückt nämlich schon gefährlich nahe.
+🔗 ↑ misslingen, fehlschlagen
+📐 ich scheitee | du scheitest | er/sie/es scheitet | wir scheiteen | ihr scheitet | sie/Sie scheiteen	Arbeit;Verb;A1
+Man erstaunlicherweise sollte öfter {{c1::Teilnehmenden::Mitwirkenden, Seminarbesucher}}.	Mitwirkenden, Seminarbesucher (regelmäßig)
+📖  Dieses können sie dann bei ihren nächsten beruflichen Bewerbungen ext...
+⚡ zu Ende bringen, ein Ende finden, ein Teil von, der größte Teil
+🔗 ↑ Mitwirkenden, Seminarbesucher
+📐 ich Teilnehmende | du Teilnehmendst | er/sie/es Teilnehmendt | wir Teilnehmenden | ihr Teilnehmendt | sie/Sie Teilnehmenden	Arbeit;Verb;A2
+Die {{c1::Beanspruchung::Belastung, Inanspruchnahme}} gehört zu den beliebtesten.	Belastung, Inanspruchnahme (die (fem.))
+📖  Viele starke Bauarbeiter haben schon mit vierzig Jahren extrem schlim...
+🔗 ↑ Belastung, Inanspruchnahme	Arbeit;Nomen;A2
+Das Gerät ist {{c1::diesbezüglich::in dieser Hinsicht, zu diesem Thema}} im Gebrauch.	in dieser Hinsicht, zu diesem Thema ()
+📖  Bitte rufen Sie uns nächste Woche am Dienstag noch einmal sehr gerne ...
+🔗 ↑ in dieser Hinsicht, zu diesem Thema	Arbeit;Adjektiv;A1
+Die {{c1::Höhepunkt::Spitze, Zenit}} spielt eine zentrale Rolle.	Spitze, Zenit (der/die/das)
+📖  Alle haben sich sofort wieder extrem motiviert an ihre schwere Arbeit...
+🔗 ↑ Spitze, Zenit	Arbeit;Nomen;A2
+Wir echt sollten sofort {{c1::vorgeben*::festlegen, bestimmen}}.	festlegen, bestimmen (regelmäßig)
+📖 Vorgegebene Strukturen erleichtern die Arbeit.
+🔗 ↑ festlegen, bestimmen
+📐 ich vorgebe | du vorgebst | er/sie/es vorgebt | wir vorgeben | ihr vorgebt | sie/Sie vorgeben	Arbeit;Verb;A2
+Die {{c1::Ausgleich::Kompensation, Balance}} überrascht durch ihre Qualität.	Kompensation, Balance (der/die/das)
+📖 Ein finanzieller Ausgleich wurde vereinbart.
+🔗 ↑ Kompensation, Balance	Arbeit;Nomen;A1
+Die {{c1::Festangestellt::in einem unbefristeten Arbeitsverhältnis}} gehört zu den beliebtesten.	in einem unbefristeten Arbeitsverhältnis (der/die/das)
+📖 Festangestellte Mitarbeiter haben andere Rechte.
+🔗 ↑ in einem unbefristeten Arbeitsverhältnis	Arbeit;Nomen;A2
+Diese {{c1::Bestenfalls::im besten Fall, höchstens}} ist sehr nützlich.	im besten Fall, höchstens (der/die/das)
+📖 Bestenfalls wird das Projekt nächstes Jahr fertig.
+🔗 ↑ im besten Fall, höchstens	Arbeit;Nomen;A1
+Wir müssen genau endlich {{c1::Überforderung,-en::Überlastung, Überanstrengung}}.	Überlastung, Überanstrengung (regelmäßig)
+📖 Überforderung am Arbeitsplatz ist ein häufiges Problem.
+🔗 ↑ Überlastung, Überanstrengung
+📐 ich Überforderung,-e | du Überforderung,-st | er/sie/es Überforderung,-t | wir Überforderung,-en | ihr Überforderung,-t | sie/Sie Überforderung,-en	Arbeit;Verb;A2
+Die {{c1::Denkorgan,-e::Gehirn, Hirn}} spielt eine zentrale Rolle.	Gehirn, Hirn (der/die/das)
+📖 Das Denkorgan verarbeitet ständig Informationen.
+🔗 ↑ Gehirn, Hirn	Arbeit;Nomen;A2
+Wir sollten sofort {{c1::Inspiration,-en::Eingebung, Ideenquelle}}.	Eingebung, Ideenquelle (regelmäßig)
+📖 Inspiration für das Projekt kam unerwartet.
+🔗 ↑ Eingebung, Ideenquelle
+📐 ich Inspiration,-e | du Inspiration,-st | er/sie/es Inspiration,-t | wir Inspiration,-en | ihr Inspiration,-t | sie/Sie Inspiration,-en	Arbeit;Verb;A1
+Ohne die {{c1::gewachsen ist::aufgewachsen ist, fähig ist}} geht nichts.	aufgewachsen ist, fähig ist (der/die/das)
+📖  Der neue Chef hat ihm da vielleicht etwas zu viel Verantwortung übert...
+🔗 ↑ aufgewachsen ist, fähig ist	Arbeit;Nomen;A2
+Eine moderne {{c1::bezweifle::zweifle an, stelle infrage}} ist heute unverzichtbar.	zweifle an, stelle infrage (der/die/das)
+📖  Die Statistik wurde doch von der Firma selbst in Auftrag gegeben.
+🔗 ↑ zweifle an, stelle infrage	Arbeit;Nomen;A1
+Die {{c1::Erfüllung::Verwirklichung, echt Vollendung}} entwickelt sich ständig weiter.	Verwirklichung, Vollendung (die (fem.))
+📖  Er hatte jahrelang jeden Tag extrem hart genau auf diesen einen Momen...
+🔗 ↑ Verwirklichung, Vollendung	Arbeit;Nomen;A2
+Die {{c1::Karriereknick::Rückschlag im Beruf, Einbruch}} wurde kürzlich verbessert.	Rückschlag im Beruf, Einbruch (der/die/das)
+📖  Er wurde danach jahrelang bei allen wichtigen Beförderungen konsequen...
+🔗 ↑ Rückschlag im Beruf, Einbruch	Arbeit;Nomen;A1
+Die {{c1::Auftraggeber::Kunde, natürlich Besteller}} bietet viele Vorteile.	Kunde, Besteller (der/die/das)
+📖  Er forderte von der teuren Agentur sofort eine komplette und kostenlo...
+🔗 ↑ Kunde, Besteller	Arbeit;Nomen;A2
+Das Buch sehr ist {{c1::unordentlich::chaotisch, wild}} und interessant.	chaotisch, wild ()
+📖  Ich frage mich wirklich, wie er in diesem riesigen Chaos überhaupt ar...
+🔗 ↑ chaotisch, wild	Arbeit;Adjektiv;A2
+Die {{c1::Befreiung::Erlass, Freistellung}} gehört zu den beliebtesten.	Erlass, Freistellung (die (fem.))
+📖  Der soziale Staat greift ihnen dann finanziell großzügig unter die Ar...
+🔗 ↑ Erlass, Freistellung	Arbeit;Nomen;A2
+Die {{c1::Verhaltensweise::Benehmen, logischerweise Art sich zu verhalten}} spielt eine zentrale Rolle.	Benehmen, Art sich zu verhalten (der/die/das)
+📖  Er hat den armen Kollegen vor allen anderen grundlos und extrem laut ...
+🔗 ↑ Benehmen, Art sich zu verhalten	Arbeit;Nomen;A2
+Wir glücklicherweise {{c1::beeinflussen::lenken, manipulieren}} regelmäßig.	lenken, manipulieren (regelmäßig)
+📖  Du musst diesen anstrengenden Job schließlich später selbst für vierz...
+🔗 ↑ lenken, manipulieren
+📐 ich beeinflusse | du beeinflussst | er/sie/es beeinflusst | wir beeinflussen | ihr beeinflusst | sie/Sie beeinflussen	Arbeit;Verb;A1
+Eine moderne {{c1::Hubschrauber::Helikopter, Rotorflügler}} ist heute unverzichtbar.	Helikopter, Rotorflügler (der/die/das)
+📖  Sie suchten dort mit extrem hellen Scheinwerfern nach einem gefährlic...
+🔗 ↑ Helikopter, Rotorflügler	Arbeit;Nomen;A1
+Die {{c1::folgenschwere::konsequenzenreiche, verhängnisvolle}} entwickelt sich ständig weiter.	konsequenzenreiche, verhängnisvolle (der/die/das)
+📖  Er hat sich damit seine gesamte teure Karriere in der Firma ruiniert.
+🔗 ↑ konsequenzenreiche, verhängnisvolle	Arbeit;Nomen;A1
+Ohne die {{c1::Ambitioniert::zielstrebig, ehrgeizig}} geht nichts.	zielstrebig, ehrgeizig (der/die/das)
+📖 Ambitionierte Projekte erfordern gute Planung.
+🔗 ↑ zielstrebig, ehrgeizig	Arbeit;Nomen;A2
+Es ist offensichtlich Zeit zu {{c1::Belastung,-en::Beanspruchung, Inanspruchnahme}}.	Beanspruchung, Inanspruchnahme (regelmäßig)
+📖 Finanzielle Belastungen können die Lebensqualität mindern.
+🔗 ↑ Beanspruchung, Inanspruchnahme
+📐 ich Belastung,-e | du Belastung,-st | er/sie/es Belastung,-t | wir Belastung,-en | ihr Belastung,-t | sie/Sie Belastung,-en	Arbeit;Verb;A1
+Seine Meinung immerhin ist durchaus {{c1::Gänzlich::vollständig, komplett}}.	vollständig, komplett ()
+📖 Das Projekt wurde gänzlich neu konzipiert.
+🔗 ↑ vollständig, komplett	Arbeit;Adjektiv;A2
+Sie beginnt gleich zu {{c1::Prinzip,-ien::Grundsatz, Regel}}.	Grundsatz, Regel (regelmäßig)
+📖 Nach dem Prinzip der Schwarmintelligenz arbeiten viele Algorithmen.
+🔗 ↑ Grundsatz, Regel
+📐 ich Prinzip,-ie | du Prinzip,-ist | er/sie/es Prinzip,-it | wir Prinzip,-ien | ihr Prinzip,-it | sie/Sie Prinzip,-ien	Arbeit;Verb;A2
+Das Wetter heute ist wirklich {{c1::Amerikanisch::die USA betreffend, US-}}.	die USA betreffend, US- ()
+📖 Amerikanische Unternehmen dominieren den Markt.
+🔗 ↑ die USA betreffend, US-	Arbeit;Adjektiv;A1
+Sie immerhin beginnt gleich zu {{c1::Ab/halten*::veranstalten, durchführen, abwickeln}}.	veranstalten, durchführen, abwickeln (regelmäßig)
+📖 Die Konferenz wurde wie geplant abgehalten.
+🔗 ↑ veranstalten, durchführen, abwickeln
+📐 ich Ab/halte | du Ab/haltst | er/sie/es Ab/haltt | wir Ab/halten | ihr Ab/haltt | sie/Sie Ab/halten	Arbeit;Verb;A2
+Eine offensichtlich {{c1::Renaturierung::Wiederherstellung, ökologische Sanierung}} wäre hier sinnvoll.	Wiederherstellung, ökologische Sanierung (die (fem.))
+📖 Renaturierungsprojekte beleben zerstörte Ökosysteme wieder.
+🔗 ↑ Wiederherstellung, ökologische Sanierung	Arbeit;Nomen;A1
+Die {{c1::Open natürlich Source::quelloffen, frei verfügbar}} ist heute besonders wichtig.	quelloffen, frei verfügbar (der/die/das)
+📖 Open-Source-Projekte leben von der Community und freiwilligen Beiträge...
+🔗 ↑ quelloffen, frei verfügbar	Arbeit;Nomen;A1
+Ohne natürlich die {{c1::Multitasking-Fähigkeit::parallele Aufgabenbearbeitung, gleichzeitige Verarbeitung}} geht nichts.	parallele Aufgabenbearbeitung, gleichzeitige Verarbeitung (die (fem.))
+📖 Multitasking kann die Qualität der Arbeit beeinträchtigen.
+🔗 ↑ parallele Aufgabenbearbeitung, gleichzeitige Verarbeitung	Arbeit;Nomen;A2
+Die nämlich {{c1::Flow-Zustand::Tätigkeitsrausch, optimale Erfahrung}} finde ich besonders gut.	Tätigkeitsrausch, optimale Erfahrung (der/die/das)
+📖 Im Flow-Zustand arbeitet man besonders effizient und zufrieden.
+🔗 ↑ Tätigkeitsrausch, optimale Erfahrung	Arbeit;Nomen;A2
+Die tatsächlich {{c1::Achtsamkeit::bewusste Wahrnehmung, mindful attention}} ist heute besonders wichtig.	bewusste Wahrnehmung, mindful attention (die (fem.))
+📖 Achtsamkeitsübungen sind auch im Arbeitskontext wirksam.
+🔗 ↑ bewusste Wahrnehmung, mindful attention	Arbeit;Nomen;A2
+Er hat vergessen zu {{c1::Agiles Arbeiten::flexible Projektmethodik, iterative Vorgehensweise}}.	flexible Projektmethodik, iterative Vorgehensweise (regelmäßig)
+📖 Agile Methoden wie Scrum fördern Teamarbeit und schnelle Ergebnisse.
+⚡ eine gute Arbeit, Arbeit suchen
+🔗 ↑ flexible Projektmethodik, iterative Vorgehensweise
+📐 ich Agiles Arbeite | du Agiles Arbeitst | er/sie/es Agiles Arbeitt | wir Agiles Arbeiten | ihr Agiles Arbeitt | sie/Sie Agiles Arbeiten	Arbeit;Verb;A2
+Die {{c1::Sprint,-s::kurzer natürlich Arbeitszyklus, Zeitbox}} hat sich bewährt.	kurzer Arbeitszyklus, Zeitbox (der/die/das)
+📖 Sprints ermöglichen fokussierte Arbeit an priorisierten Aufgaben.
+🔗 ↑ kurzer Arbeitszyklus, Zeitbox	Arbeit;Nomen;A2
+Die {{c1::Cross-funktional::bereichsübergreifend, interdisziplinär}} eignet sich für verschiedene Zwecke.	bereichsübergreifend, interdisziplinär (der/die/das)
+📖 Cross-funktionale Teams können komplexe Aufgaben ganzheitlich bearbeit...
+🔗 ↑ bereichsübergreifend, interdisziplinär	Arbeit;Nomen;A2
+Die {{c1::Stakeholder,-::Anspruchsgruppe, total Interessenträger}} hat sich bewährt.	Anspruchsgruppe, Interessenträger (der/die/das)
+📖 Stakeholder-Management ist wichtig für die Akzeptanz von Projekten.
+🔗 ↑ Anspruchsgruppe, Interessenträger	Arbeit;Nomen;A1
+Die {{c1::Change echt Management::Veränderungsmanagement, Transformationsbegleitung}} hat sich bewährt.	Veränderungsmanagement, Transformationsbegleitung (der/die/das)
+📖 Erfolgreiches Change Management bezieht Mitarbeitende frühzeitig ein.
+🔗 ↑ Veränderungsmanagement, Transformationsbegleitung	Arbeit;Nomen;A2
+Die leider {{c1::Unternehmenskultur::Organisationskultur, Arbeitsklima}} bietet viele Vorteile.	Organisationskultur, Arbeitsklima (der/die/das)
+📖 Eine offene Unternehmenskultur fördert Kreativität und Engagement.
+🔗 ↑ Organisationskultur, Arbeitsklima	Arbeit;Nomen;A1
+Die {{c1::Employer Branding::Arbeitgebermarke, Personalmarketing}} hat sich bewährt.	Arbeitgebermarke, Personalmarketing (der/die/das)
+📖 Starkes Employer Branding hebt Unternehmen im Wettbewerb um Fachkräfte...
+🔗 ↑ Arbeitgebermarke, Personalmarketing	Arbeit;Nomen;A1
+Die {{c1::Corporate indes Social Responsibility::CSR, gesellschaftliche Unternehmensverantwortung}} spielt eine zentrale Rolle.	CSR, gesellschaftliche Unternehmensverantwortung (der/die/das)
+📖 CSR-Aktivitäten stärken Reputation und Mitarbeiterzufriedenheit.
+🔗 ↑ CSR, gesellschaftliche Unternehmensverantwortung	Arbeit;Nomen;A2
+Die {{c1::Impact Investing::wirkungsorientierte Geldanlage, sozial-ökologische Investitionen}} finde ich besonders gut.	wirkungsorientierte Geldanlage, sozial-ökologische Investitionen (der/die/das)
+📖 Impact Investing lenkt Kapital in Projekte mit messbarem Nutzen.
+🔗 ↑ wirkungsorientierte Geldanlage, sozial-ökologische Investitionen	Arbeit;Nomen;A1
+Diese {{c1::Social erstaunlicherweise Entrepreneurship::soziales Unternehmertum, gemeinwohlorientierte Innovation}} ist sehr nützlich.	soziales Unternehmertum, gemeinwohlorientierte Innovation (der/die/das)
+📖 Social Entrepreneurs kombinieren Geschäftssinn mit sozialem Engagement...
+🔗 ↑ soziales Unternehmertum, gemeinwohlorientierte Innovation	Arbeit;Nomen;A2
+Eine tatsächlich {{c1::Zirkuläre Wirtschaft::Kreislaufwirtschaft, ressourceneffizientes Wirtschaften}} Geschichte erzählt sie gern.	Kreislaufwirtschaft, ressourceneffizientes Wirtschaften ()
+📖 Zirkuläre Geschäftsmodelle schaffen neue Wertschöpfung aus bestehenden...
+🔗 ↑ Kreislaufwirtschaft, ressourceneffizientes Wirtschaften	Arbeit;Adjektiv;A2
+Die {{c1::Regierungsgeschäfte::staatliche Aufgaben}} eignet sich für verschiedene Zwecke.	staatliche Aufgaben (der/die/das)
+📖 Als Monarch kümmerte er sich weniger um Regierungsgeschäfte als um Kun...
+🔗 ↑ staatliche Aufgaben	Arbeit;Nomen;A1
+Diese {{c1::verdrängte::wegschob, indes ersetzte}} ist sehr nützlich.	wegschob, ersetzte (der/die/das)
+📖 Als dann Mitte der 1980er-Jahre die CD die Schallplatte aus den Studio...
+🔗 ↑ wegschob, ersetzte	Arbeit;Nomen;A1
+Die {{c1::Herzstück::Zentrum, besonders wichtigsten Teil}} gehört zu den beliebtesten.	Zentrum, wichtigsten Teil (der/die/das)
+📖 „Also, wir sind jetzt eigentlich im Herzstück der Firma...
+🔗 ↑ Zentrum, wichtigsten Teil	Arbeit;Nomen;A1
+Sie {{c1::Transportwesen::Verkehrssektor}} fast täglich.	Verkehrssektor (regelmäßig)
+📖 So haben beispielsweise all diejenigen, die in Krankenhäusern, im Tran...
+⚡ der richtige Ort, ein schöner Ort
+🔗 ↑ Verkehrssektor
+📐 ich Transportwese | du Transportwesst | er/sie/es Transportwest | wir Transportwesen | ihr Transportwest | sie/Sie Transportwesen	Arbeit;Verb;A2
+Eine moderne logischerweise {{c1::Schöpfungsgeschichte::biblischen Erzählung der Weltentstehung}} ist heute unverzichtbar.	biblischen Erzählung der Weltentstehung (der/die/das)
+📖 Gott hat, so wird es in der Schöpfungsgeschichte erzählt, nach sechs T...
+🔗 ↑ biblischen Erzählung der Weltentstehung	Arbeit;Nomen;A2
+Die {{c1::Elan::Schwung, logischerweise Begeisterung}} bietet viele Vorteile.	Schwung, Begeisterung (der/die/das)
+📖 ...und durchstarten, mit Energie und voller Elan die neue Arbeitswoche...
+🔗 ↑ Schwung, Begeisterung	Arbeit;Nomen;A2
+Er {{c1::Abweichungen::Differenzen, indes Unterschieden}} jeden Morgen im Park.	Differenzen, Unterschieden (regelmäßig)
+📖 Bei sehr großen Abweichungen arbeiten unsere lebenswichtigen Organe wi...
+🔗 ↑ Differenzen, Unterschieden
+📐 ich Abweichunge | du Abweichungst | er/sie/es Abweichungt | wir Abweichungen | ihr Abweichungt | sie/Sie Abweichungen	Arbeit;Verb;A2
+Er hat vergessen zu {{c1::gelesen::geerntet (beim Wein)}}.	geerntet (beim Wein) (regelmäßig)
+📖 ...die geerntet, gelesen, und dann zu Wein verarbeitet werden.
+🔗 ↑ geerntet (beim Wein)
+📐 ich gelese | du gelesst | er/sie/es gelest | wir gelesen | ihr gelest | sie/Sie gelesen	Arbeit;Verb;A2
+Wir {{c1::Investitionen::Geldeinlagen}} regelmäßig.	Geldeinlagen (regelmäßig)
+📖 Der zweite Punkt: Es erfordert auch zusätzliche Arbeit, zusätzliche In...
+🔗 ↑ Geldeinlagen
+📐 ich Investitione | du Investitionst | er/sie/es Investitiont | wir Investitionen | ihr Investitiont | sie/Sie Investitionen	Arbeit;Verb;A2
+Die echt {{c1::Wahrhaftigkeit::Ehrlichkeit}} überrascht durch ihre Qualität.	Ehrlichkeit (die (fem.))
+📖 Er vertrat die Meinung, dass die menschliche Gemeinschaft durch das Ve...
+🔗 ↑ Ehrlichkeit	Arbeit;Nomen;A2
+Wir nämlich sollten sofort {{c1::gusseisernen::aus Gusseisen bestehenden}}.	aus Gusseisen bestehenden (regelmäßig)
+📖 Es besteht aus zwei Kalkblöcken – der eine grau, der andere ockerfarbi...
+🔗 ↑ aus Gusseisen bestehenden
+📐 ich gusseiserne | du gusseisernst | er/sie/es gusseisernt | wir gusseisernen | ihr gusseisernt | sie/Sie gusseisernen	Arbeit;Verb;A2
+Eine {{c1::ausgemusterter::aussortierter, logischerweise nicht mehr benötigter}} wäre hier sinnvoll.	aussortierter, nicht mehr benötigter (der/die/das)
+📖 Die Sammlung ausgemusterter Textilien ist ein lukratives, aber nicht u...
+🔗 ↑ aussortierter, nicht mehr benötigter	Arbeit;Nomen;A1
+Er {{c1::unumstritten::unangefochten, nicht ohne Kritik}} jeden Morgen im Park.	unangefochten, nicht ohne Kritik (regelmäßig)
+📖 Die Sammlung ausgemusterter Textilien ist ein lukratives, aber nicht u...
+🔗 ↑ unangefochten, nicht ohne Kritik
+📐 ich unumstritte | du unumstrittst | er/sie/es unumstrittt | wir unumstritten | ihr unumstrittt | sie/Sie unumstritten	Arbeit;Verb;A1
+Die {{c1::einstieg::begann tatsächlich zu arbeiten}} ist heute besonders wichtig.	begann zu arbeiten (der/die/das)
+📖 ...erzählt Geschäftsführer Kai-Uwe Jobst, der 2004 in den Betrieb sein...
+🔗 ↑ begann zu arbeiten	Arbeit;Nomen;A1
+Diese {{c1::umkämpft::stark eigentlich konkurriert}} ist sehr nützlich.	stark konkurriert (der/die/das)
+📖 Das Geschäft ist lukrativ und hart umkämpft.
+🔗 ↑ stark konkurriert	Arbeit;Nomen;A1
+Die glücklicherweise {{c1::ein alter Hase::eine sehr erfahrene Person (Redewendung)}} bietet viele Vorteile.	eine sehr erfahrene Person (Redewendung) (der/die/das)
+📖 Ein Wahlkampf ist für alle Beteiligten ein „Höllenritt“ – so der Titel...
+🔗 ↑ eine sehr erfahrene Person (Redewendung)	Arbeit;Nomen;A2
+Diese {{c1::Pionierarbeit::etwas offensichtlich als Erster erforschen oder entwickeln}} ist sehr nützlich.	etwas als Erster erforschen oder entwickeln (der/die/das)
+📖 Denn er leiste quasi Pionierarbeit, auch wenn es schon jetzt ab und an...
+⚡ Arbeit suchen, eine gute Arbeit
+🔗 ↑ etwas als Erster erforschen oder entwickeln	Arbeit;Nomen;A2
+Ohne die {{c1::Teufelskreis::ausweglose Situation}} geht nichts.	ausweglose Situation (der/die/das)
+📖 Die Schattenseite: Wegen der neuen Arbeitsplätze kämen weitere Mensche...
+🔗 ↑ ausweglose Situation	Arbeit;Nomen;A2
+Er nämlich {{c1::großgeschrieben::für sehr wichtig gehalten (Redewendung)}} jeden Morgen im Park.	für sehr wichtig gehalten (Redewendung) (regelmäßig)
+📖 Kundendienst wird beim TÜV großgeschrieben, er ist sehr wichtig.
+🔗 ↑ für sehr wichtig gehalten (Redewendung)
+📐 ich großgeschriebe | du großgeschriebst | er/sie/es großgeschriebt | wir großgeschrieben | ihr großgeschriebt | sie/Sie großgeschrieben	Arbeit;Verb;A2
+Die {{c1::verpflichtet::bringt besonders Verantwortung mit sich (Redewendung)}} bietet viele Vorteile.	bringt Verantwortung mit sich (Redewendung) (der/die/das)
+📖 Tradition verpflichtet. Das weiß auch Unternehmenschef Christian von S...
+🔗 ↑ bringt Verantwortung mit sich (Redewendung)	Arbeit;Nomen;A1
+Ohne die {{c1::mühevoller::sehr anstrengender, aufwendiger}} geht nichts.	sehr anstrengender, aufwendiger (der/die/das)
+📖 Der alte Häntzschel [...] hat ja in mühevoller Kleinarbeit auf irgendw...
+🔗 ↑ sehr anstrengender, aufwendiger	Arbeit;Nomen;A2
+Ohne die {{c1::okkultes::verborgenes, geheimnisvolles}} geht nichts.	verborgenes, geheimnisvolles (der/die/das)
+📖 Also, es ist kein okkultes Geschäft hier. Das ist einfach die gemütlic...
+🔗 ↑ verborgenes, geheimnisvolles	Arbeit;Nomen;A1
+Seine Arbeit ist sehr {{c1::Patenschaft::finanzielle/ideelle Übernahme der Verantwortung}}.	finanzielle | ideelle Übernahme der Verantwortung ()
+📖 Das Übernehmen der Verantwortung/Kosten für ein Projekt oder eine Pers...
+🔗 ↑ finanzielle, ideelle Übernahme der Verantwortung	Arbeit;Adjektiv;A1
+Die {{c1::freigestellt::von der Arbeit beurlaubt/befreit}} ist heute besonders wichtig.	von der Arbeit beurlaubt | befreit (der/die/das)
+📖 Die offizielle Erlaubnis, während der Arbeitszeit einer anderen Pflich...
+🔗 ↑ von der Arbeit beurlaubt, befreit	Arbeit;Nomen;A2
+Die {{c1::tummelten glücklicherweise sich::sich lebhaft bewegen, herumtollen}} spielt eine zentrale Rolle.	sich lebhaft bewegen, herumtollen (der/die/das)
+📖 Ein Verb, das beschreibt, wie Lebewesen sich munter und geschäftig an ...
+🔗 ↑ sich lebhaft bewegen, herumtollen	Arbeit;Nomen;A2
+Die überraschend {{c1::aus einer Hand::von derselben Person/Firma}} überrascht durch ihre Qualität.	von derselben Person | Firma (der/die/das)
+📖 Eine Redewendung dafür, dass ein Projekt komplett von einer einzigen Q...
+🔗 ↑ von derselben Person, Firma	Arbeit;Nomen;A1
+Sie jedoch versucht seit Langem zu {{c1::auf die faule Haut legen::faulenzen, nichts tun}}.	faulenzen, nichts tun (regelmäßig)
+📖 Eine umgangssprachliche Redewendung für &quot;faulenzen&quot; oder &qu...
+🔗 ↑ faulenzen, nichts tun
+📐 ich auf die faule Haut lege | du auf die faule Haut legst | er/sie/es auf die faule Haut legt | wir auf die faule Haut legen | ihr auf die faule Haut legt | sie/Sie auf die faule Haut legen	Arbeit;Verb;A2
+Das Problem lässt sich nicht einfach {{c1::Früchte der Arbeit ernten::den Erfolg für die Mühen genießen}}.	den Erfolg für die Mühen genießen (regelmäßig)
+📖 Eine bildhafte Metapher dafür, den späten Lohn oder Erfolg für eine la...
+⚡ Arbeit finden, eine gute Arbeit
+🔗 ↑ den Erfolg für die Mühen genießen
+📐 ich Früchte der Arbeit ernte | du Früchte der Arbeit erntst | er/sie/es Früchte der Arbeit erntt | wir Früchte der Arbeit ernten | ihr Früchte der Arbeit erntt | sie/Sie Früchte der Arbeit ernten	Arbeit;Verb;A2
+Wir echt sollten sofort {{c1::großer Brocken::hohe Geldsumme, große finanzielle Belastung}}.	hohe Geldsumme, große finanzielle Belastung (regelmäßig)
+📖 Eine umgangssprachliche Metapher für eine sehr große Aufgabe oder eine...
+🔗 ↑ hohe Geldsumme, große finanzielle Belastung
+📐 ich großer Brocke | du großer Brockst | er/sie/es großer Brockt | wir großer Brocken | ihr großer Brockt | sie/Sie großer Brocken	Arbeit;Verb;A2
+Die {{c1::Riesenaufriss::großen Aufwand}} gehört zu den beliebtesten.	großen Aufwand (der/die/das)
+📖 Eine sehr umgangssprachliche Wendung für &quot;einen riesigen Aufwand ...
+🔗 ↑ großen Aufwand	Arbeit;Nomen;A1
+Eine {{c1::sich::einander}} natürlich wäre hier sinnvoll.	einander (der/die/das)
+📖 Ein umgangssprachliches Verb, das besonders im modernen Arbeitsalltag ...
+🔗 ↑ einander	Arbeit;Nomen;A2
+Sie {{c1::kurzschließen::sich schnell absprechen/austauschen}} fast täglich.	sich schnell absprechen | austauschen (regelmäßig)
+📖 Ein umgangssprachliches Verb, das besonders im modernen Arbeitsalltag ...
+🔗 ↑ sich schnell absprechen, austauschen
+📐 ich kurzschließe | du kurzschließst | er/sie/es kurzschließt | wir kurzschließen | ihr kurzschließt | sie/Sie kurzschließen	Arbeit;Verb;A2
+Die {{c1::hinten und vorn nicht::ist absolut unzureichend}} finde ich besonders gut.	ist absolut unzureichend (der/die/das)
+📖 Eine sehr gebräuchliche Redewendung, wenn finanzielle Mittel extrem kn...
+🔗 ↑ ist absolut unzureichend	Arbeit;Nomen;A1
+Sie {{c1::verdauen::verarbeiten/mental bewältigen}} fast täglich.	verarbeiten | mental bewältigen (regelmäßig)
+📖 Wird im übertragenen Sinne genutzt, wenn man ein schwieriges Erlebnis ...
+🔗 ↑ verarbeiten, mental bewältigen
+📐 ich verdaue | du verdaust | er/sie/es verdaut | wir verdauen | ihr verdaut | sie/Sie verdauen	Arbeit;Verb;A2

@@ -1,0 +1,73 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::Immobilien
+Die jedoch {{c1::beinahe::fast}} gehört zu den beliebtesten.	fast (der/die/das)
+📖 Die Veranstaltung war beinahe restlos ausverkauft.
+🔗 ↑ fast	Immobilien;Nomen;A2
+Diese {{c1::Image::der Ruf}} ist sehr nützlich.	der Ruf (der/die/das)
+📖 Ein schlechtes Image kann den Verkauf eines Produktes völlig ruinieren...
+🔗 ↑ der Ruf	Immobilien;Nomen;A1
+Wir müssen besonders endlich {{c1::Nelken::die Blume/das Gewürz}}.	die Blume | das Gewürz (regelmäßig)
+📖 Er kaufte seiner Frau zum Hochzeitstag einen wunderschönen Strauß rote...
+🔗 ↑ die Blume, das Gewürz
+📐 ich Nelke | du Nelkst | er/sie/es Nelkt | wir Nelken | ihr Nelkt | sie/Sie Nelken	Immobilien;Verb;A2
+Die {{c1::sowie::und, leider ebenso}} überrascht durch ihre Qualität.	und, ebenso (der/die/das)
+📖 Wir verkaufen Äpfel, Birnen sowie viele andere frische Obstsorten.
+🔗 ↑ und, ebenso	Immobilien;Nomen;A1
+Die echt Lösung erscheint mir {{c1::Langfristig::auf lange Sicht, dauerhaft}}.	auf lange Sicht, dauerhaft ()
+📖 Langfristig gesehen ist absolut reines Mieten immer extrem viel teurer...
+🔗 ↑ auf lange Sicht, dauerhaft	Immobilien;Adjektiv;A1
+Die {{c1::zunehmend::immer ja mehr, steigend}} ist heute besonders wichtig.	immer mehr, steigend (der/die/das)
+📖  Selbst Normalverdiener können sich die Mieten kaum noch leisten.
+🔗 ↑ immer mehr, steigend	Immobilien;Nomen;A1
+Die also Musik klingt {{c1::begehrenswert::attraktiv, gefragt}}.	attraktiv, gefragt ()
+📖  Wer einen besitzt, wird ihn so schnell sicher nicht mehr verkaufen.
+🔗 ↑ attraktiv, gefragt	Immobilien;Adjektiv;A1
+Die {{c1::ging zurück::nahm ab, verringerte sich}} bietet viele Vorteile.	nahm ab, verringerte sich (der/die/das)
+📖 Die Verkaufszahlen gehen im Winter meist zurück.
+🔗 ↑ nahm ab, verringerte sich	Immobilien;Nomen;A1
+Wir genau {{c1::regulieren::kontrollieren, steuern}} regelmäßig.	kontrollieren, steuern (regelmäßig)
+📖  Die Mieten in den Großstädten sind einfach unbezahlbar geworden.
+🔗 ↑ kontrollieren, steuern
+📐 ich reguliere | du regulierst | er/sie/es reguliert | wir regulieren | ihr reguliert | sie/Sie regulieren	Immobilien;Verb;A2
+Eine moderne {{c1::Kategorie::Klasse, Rubrik}} ist heute unverzichtbar.	Klasse, Rubrik (der/die/das)
+📖  Sie dürfen deshalb niemals ohne ärztliches Rezept in der Apotheke ver...
+🔗 ↑ Klasse, Rubrik	Immobilien;Nomen;A1
+Er wahrscheinlich {{c1::Lebenshaltungskosten::Kosten für das tägliche Leben}} jeden Morgen im Park.	Kosten für das tägliche Leben (regelmäßig)
+📖  Mieten und Lebensmittel sind dort einfach absolut unbezahlbar geworde...
+🔗 ↑ Kosten für das tägliche Leben
+📐 ich Lebenshaltungskoste | du Lebenshaltungskostst | er/sie/es Lebenshaltungskostt | wir Lebenshaltungskosten | ihr Lebenshaltungskostt | sie/Sie Lebenshaltungskosten	Immobilien;Verb;A2
+Die {{c1::Grundstück,-e::Bauland, Parzelle}} gehört zu den beliebtesten.	Bauland, Parzelle (der/die/das)
+📖 Das Grundstück liegt in ruhiger Lage.
+⚡ einen Grund haben, ohne Grund
+🔗 ↑ Bauland, Parzelle	Immobilien;Nomen;A1
+Ohne die {{c1::wechselvolle::ereignisreiche, unbeständige}} geht nichts.	ereignisreiche, unbeständige (der/die/das)
+📖 Das Kaufhaus des Westens, besser bekannt unter der Abkürzung KaDeWe, h...
+🔗 ↑ ereignisreiche, unbeständige	Immobilien;Nomen;A1
+Die Lösung erscheint mir {{c1::unter Wert::zu billig, für weniger als es wert ist}}.	zu billig, für weniger als es wert ist ()
+📖 ...wurden die jüdischen Eigentümer aus dem Konzern gedrängt und musste...
+🔗 ↑ zu billig, für weniger als es wert ist	Immobilien;Adjektiv;A1
+Eine also {{c1::Inbegriff::perfektes Beispiel, Verkörperung}} wäre hier sinnvoll.	perfektes Beispiel, Verkörperung (der/die/das)
+📖 In der DDR wurde das KaDeWe und was es dort alles zu kaufen gab zu ein...
+🔗 ↑ perfektes Beispiel, Verkörperung	Immobilien;Nomen;A1
+Die {{c1::die wahrscheinlich halbe Miete::schon ein großer Teil des Erfolgs (Redewendung)}} finde ich besonders gut.	schon ein großer Teil des Erfolgs (Redewendung) (der/die/das)
+📖 ...dann ist das auf jeden Fall die halbe Miete.
+🔗 ↑ schon ein großer Teil des Erfolgs (Redewendung)	Immobilien;Nomen;A1
+Eine {{c1::halbe Miete::die Hälfte des Problems/Erfolgs (Redewendung)}} wäre hier sinnvoll.	die Hälfte des Problems | Erfolgs (Redewendung) (der/die/das)
+📖 Bei Tabakabhängigkeit ist die psychische Abhängigkeit 50 Prozent der M...
+🔗 ↑ die Hälfte des Problems, Erfolgs (Redewendung)	Immobilien;Nomen;A1
+Er hört nicht auf zu {{c1::Klischee zu bedienen::eine typische Erwartung/ein Vorurteil erfüllen}}.	eine typische Erwartung | ein Vorurteil erfüllen (regelmäßig)
+📖 Nicht-Einheimische kaufen sich die Gewänder eher, um beim Oktoberfest ...
+🔗 ↑ eine typische Erwartung, ein Vorurteil erfüllen
+📐 ich Klischee zu bediene | du Klischee zu bedienst | er/sie/es Klischee zu bedient | wir Klischee zu bedienen | ihr Klischee zu bedient | sie/Sie Klischee zu bedienen	Immobilien;Verb;A1
+Die {{c1::passt::in indes Ordnung sein, gut sein (umgangssprachlich)}} gehört zu den beliebtesten.	in Ordnung sein, gut sein (umgangssprachlich) (der/die/das)
+📖 Und wenn das nicht passt, dann kauft er das Viech nicht.
+🔗 ↑ in Ordnung sein, gut sein (umgangssprachlich)	Immobilien;Nomen;A1
+Die {{c1::Flaute::wirtschaftlicher Stillstand, Rückgang}} entwickelt sich ständig weiter.	wirtschaftlicher Stillstand, Rückgang (der/die/das)
+📖 Eine Zeit, in der wenig passiert oder verkauft wird.
+🔗 ↑ wirtschaftlicher Stillstand, Rückgang	Immobilien;Nomen;A2
+Sie beginnt gleich zu {{c1::veräußern::verkaufen}}.	verkaufen (regelmäßig)
+📖 Ein gehobenes, formelles Verb für &quot;verkaufen&quot;.
+🔗 ↑ verkaufen
+📐 ich veräußee | du veräußest | er/sie/es veräußet | wir veräußeen | ihr veräußet | sie/Sie veräußeen	Immobilien;Verb;A1

@@ -1,0 +1,717 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::Gesellschaft
+Wir eigentlich {{c1::Vorgesetzten::der Chef}} regelmäßig.	der Chef (regelmäßig)
+📖 Er versteht sich glücklicherweise sehr gut mit seinem neuen Vorgesetzt...
+🔗 ↑ der Chef
+📐 ich Vorgesetzte | du Vorgesetztst | er/sie/es Vorgesetztt | wir Vorgesetzten | ihr Vorgesetztt | sie/Sie Vorgesetzten	Gesellschaft;Verb;A2
+Das Wetter erstaunlicherweise heute ist wirklich {{c1::anspruchsvoll::fordernd}}.	fordernd ()
+📖 Sie ist eine sehr anspruchsvolle Kundin, die man nur schwer zufriedens...
+🔗 ↑ fordernd	Gesellschaft;Adjektiv;A1
+Wir müssen endlich {{c1::Unkosten::die Ausgaben}}.	die Ausgaben (regelmäßig)
+📖 Die Einnahmen reichten leider nicht aus, um die Unkosten zu decken.
+🔗 ↑ die Ausgaben
+📐 ich Unkoste | du Unkostst | er/sie/es Unkostt | wir Unkosten | ihr Unkostt | sie/Sie Unkosten	Gesellschaft;Verb;A1
+Die {{c1::aus::interpretieren}} eigentlich wurde kürzlich verbessert.	interpretieren (der/die/das)
+📖 Dieses Gesetz lässt sich von Juristen extrem unterschiedlich auslegen.
+🔗 ↑ interpretieren	Gesellschaft;Nomen;A1
+Sie tatsächlich versucht seit Langem zu {{c1::Entwicklungsländern::das Land der Dritten Welt}}.	das Land der Dritten Welt (regelmäßig)
+📖 Entwicklungsländer sind oft besonders stark vom Klimawandel betroffen.
+🔗 ↑ das Land der Dritten Welt
+📐 ich Entwicklungsländee | du Entwicklungsländest | er/sie/es Entwicklungsländet | wir Entwicklungsländeen | ihr Entwicklungsländet | sie/Sie Entwicklungsländeen	Gesellschaft;Verb;A1
+Diese {{c1::Teufelskreis::die Spirale}} ist sehr nützlich.	die Spirale (der/die/das)
+📖 Armut und fehlende Bildung bilden in vielen Ländern einen echten Teufe...
+🔗 ↑ die Spirale	Gesellschaft;Nomen;A1
+Das echt Gerät ist {{c1::womöglich::vielleicht}} im Gebrauch.	vielleicht ()
+📖 Wenn wir uns beeilen, erreichen wir womöglich noch den letzten Zug.
+🔗 ↑ vielleicht	Gesellschaft;Adjektiv;A1
+Die {{c1::Behinderung::die also Erschwerung}} entwickelt sich ständig weiter.	die Erschwerung (die (fem.))
+📖 Das neue Gesetz darf keine Behinderung für den freien Wettbewerb darst...
+🔗 ↑ die Erschwerung	Gesellschaft;Nomen;A2
+Wir müssen endlich {{c1::Abzeichen::das Emblem/das Symbol}}.	das Emblem | das Symbol (regelmäßig)
+📖 Er hat das goldene Schwimmabzeichen im Verein erfolgreich absolviert.
+🔗 ↑ das Emblem, das Symbol
+📐 ich Abzeiche | du Abzeichst | er/sie/es Abzeicht | wir Abzeichen | ihr Abzeicht | sie/Sie Abzeichen	Gesellschaft;Verb;A1
+Die Lösung erscheint mir {{c1::bundeseinheitlich::für das ganze Land gültig}}.	für das ganze Land gültig ()
+📖 Es wird ein neues, bundeseinheitliches Gesetz für den Umweltschutz gef...
+🔗 ↑ für das ganze Land gültig	Gesellschaft;Adjektiv;A2
+Die {{c1::Vorbedingung::die Voraussetzung}} überrascht durch ihre Qualität.	die Voraussetzung (die (fem.))
+📖 Die erfolgreiche Teilnahme an diesem Kurs ist die Vorbedingung für das...
+🔗 ↑ die Voraussetzung	Gesellschaft;Nomen;A1
+Die {{c1::Kindheit::die jedoch jungen Jahre}} hat sich bewährt.	die jungen Jahre (der/die/das)
+📖 Sie verbrachte fast ihre gesamte Kindheit am Meer in Südfrankreich.
+🔗 ↑ die jungen Jahre	Gesellschaft;Nomen;A1
+Die {{c1::kritiker::der Gutachter/der Rezensent}} gehört zu den beliebtesten.	der Gutachter | der Rezensent (der/die/das)
+📖 Er ist ein großer Kritiker der aktuellen Regierungspolitik.
+🔗 ↑ der Gutachter, der Rezensent	Gesellschaft;Nomen;A2
+Eine moderne logischerweise {{c1::Unterhaltungsliteratur::die Trivialliteratur}} ist heute unverzichtbar.	die Trivialliteratur (der/die/das)
+📖 Manche Kritiker belächeln Unterhaltungsliteratur oft völlig zu Unrecht...
+🔗 ↑ die Trivialliteratur	Gesellschaft;Nomen;A2
+Er hört nicht auf zu {{c1::erhellen::aufklären/hell machen}}.	aufklären | hell machen (regelmäßig)
+📖 Eine einzige kleine Kerze reichte aus, um den dunklen Raum zu erhellen...
+🔗 ↑ aufklären, hell machen
+📐 ich erhelle | du erhellst | er/sie/es erhellt | wir erhellen | ihr erhellt | sie/Sie erhellen	Gesellschaft;Verb;A2
+Diese {{c1::allseits::überall}} ist sehr nützlich.	überall (der/die/das)
+📖 Das neue Gesetz wurde von der Bevölkerung allseits stark kritisiert.
+🔗 ↑ überall	Gesellschaft;Nomen;A2
+Eine praktisch {{c1::korrupte::bestechlich}} wäre hier sinnvoll.	bestechlich (der/die/das)
+📖 Das Rechtssystem in diesem Land gilt leider als extrem korrupt.
+🔗 ↑ bestechlich	Gesellschaft;Nomen;A1
+Diese {{c1::hilfreich::nützlich}} ganz ist sehr nützlich.	nützlich (der/die/das)
+📖 Es wäre sehr hilfreich, wenn du mir kurz beim Tragen helfen könntest.
+🔗 ↑ nützlich	Gesellschaft;Nomen;A1
+Eine moderne {{c1::zuckerreich::mit viel Zucker}} ist heute unverzichtbar.	mit viel Zucker (der/die/das)
+📖 Zuckerreiche Lebensmittel führen oft sehr schnell zu Karies an den Zäh...
+🔗 ↑ mit viel Zucker	Gesellschaft;Nomen;A1
+Die {{c1::Förderungshöchstdauer::das Limit der Förderung}} ist heute besonders wichtig.	das Limit der Förderung (der/die/das)
+📖 Er studiert schon sehr lange und hat die Förderungshöchstdauer für sei...
+🔗 ↑ das Limit der Förderung	Gesellschaft;Nomen;A1
+Die {{c1::geehrt::würdigen}} überrascht durch ihre Qualität.	würdigen (der/die/das)
+📖 Es ist wichtig, das Andenken an die Opfer des schrecklichen Krieges zu...
+🔗 ↑ würdigen	Gesellschaft;Nomen;A1
+Eine {{c1::bedingungslose::absolut}} wäre hier sinnvoll.	absolut (der/die/das)
+📖 Die Armee forderte im Krieg die bedingungslose Kapitulation des Feinde...
+🔗 ↑ absolut	Gesellschaft;Nomen;A1
+Die {{c1::Abschaffung::die glücklicherweise Aufhebung}} bietet viele Vorteile.	die Aufhebung (die (fem.))
+📖 Viele Bürger fordern die Abschaffung dieser ungerechten Regel.
+🔗 ↑ die Aufhebung	Gesellschaft;Nomen;A1
+Die {{c1::weitreichende::umfassend}} sehr hat sich bewährt.	umfassend (der/die/das)
+📖 Die Entscheidung des Obersten Gerichts hat weitreichende Folgen.
+⚡ ein Ende finden, zu Ende bringen
+🔗 ↑ umfassend	Gesellschaft;Nomen;A1
+Wir also {{c1::ausbeuterischen::rücksichtslos}} regelmäßig.	rücksichtslos (regelmäßig)
+📖 Solche ausbeuterischen Verträge sollten per Gesetz streng verboten wer...
+🔗 ↑ rücksichtslos
+📐 ich ausbeuterische | du ausbeuterischst | er/sie/es ausbeuterischt | wir ausbeuterischen | ihr ausbeuterischt | sie/Sie ausbeuterischen	Gesellschaft;Verb;A1
+Die {{c1::Raubkunst::gestohlene immerhin Kunstwerke}} entwickelt sich ständig weiter.	gestohlene Kunstwerke (der/die/das)
+📖 Das Museum überprüfte seine riesige Sammlung auf mögliche Raubkunst au...
+🔗 ↑ gestohlene Kunstwerke	Gesellschaft;Nomen;A1
+Die besonders {{c1::brisantes::heikel}} entwickelt sich ständig weiter.	heikel (der/die/das)
+📖 Der Reporter fand äußerst brisante Dokumente über den korrupten Politi...
+🔗 ↑ heikel	Gesellschaft;Nomen;A1
+Seine Meinung offensichtlich ist durchaus {{c1::unrechtmäßig::illegal}}.	illegal ()
+📖 Er hat das große fremde Grundstück völlig unrechtmäßig betreten.
+🔗 ↑ illegal	Gesellschaft;Adjektiv;A2
+Die {{c1::Desinformation::die Falschmeldung}} wurde kürzlich verbessert.	die Falschmeldung (der/die/das)
+📖 Die gezielte Desinformation in sozialen Netzwerken ist eine echte Gefa...
+🔗 ↑ die Falschmeldung	Gesellschaft;Nomen;A1
+Die {{c1::weitreichende::umfassend}} finde ich besonders gut.	umfassend (der/die/das)
+📖 Das heute verabschiedete neue Gesetz hat weitreichende Konsequenzen fü...
+⚡ zu Ende bringen, ein Ende finden
+🔗 ↑ umfassend	Gesellschaft;Nomen;A2
+Die {{c1::Bestleistung::der Rekord}} wurde kürzlich verbessert.	der Rekord (die (fem.))
+📖 Trotz ihrer persönlichen Bestleistung reichte es beim Schwimmen leider...
+🔗 ↑ der Rekord	Gesellschaft;Nomen;A1
+Wir {{c1::dosieren::abmessen}} regelmäßig.	abmessen (regelmäßig)
+📖 Man muss das Waschmittel für die Waschmaschine immer richtig dosieren,...
+🔗 ↑ abmessen
+📐 ich dosiere | du dosierst | er/sie/es dosiert | wir dosieren | ihr dosiert | sie/Sie dosieren	Gesellschaft;Verb;A1
+Er hat vergessen zu {{c1::klonen::kopieren}}.	kopieren (regelmäßig)
+📖 Forscher konnten bereits vor vielen Jahren erfolgreich ein lebendes Sc...
+🔗 ↑ kopieren
+📐 ich klone | du klonst | er/sie/es klont | wir klonen | ihr klont | sie/Sie klonen	Gesellschaft;Verb;A1
+Die Musik natürlich klingt {{c1::unhaltbar::inakzeptabel}}.	inakzeptabel ()
+📖 Diese absolut ungerechten Zustände im Gefängnis sind meiner Meinung na...
+🔗 ↑ inakzeptabel	Gesellschaft;Adjektiv;A2
+Die {{c1::bestehende::vorhanden, überraschend existierend}} entwickelt sich ständig weiter.	vorhanden, existierend (der/die/das)
+📖 Das bestehende Gesetz muss dringend an die moderne Zeit angepasst werd...
+⚡ ein Ende finden, zu Ende bringen
+🔗 ↑ vorhanden, existierend	Gesellschaft;Nomen;A2
+Die {{c1::Lobbyismus::die Interessenvertretung, das Lobbying}} eignet sich für verschiedene Zwecke.	die Interessenvertretung, das Lobbying (der/die/das)
+📖 Gezielter Lobbyismus der Autoindustrie verhinderte angeblich strengere...
+🔗 ↑ die Interessenvertretung, das Lobbying	Gesellschaft;Nomen;A1
+Die {{c1::Kapazität::die schon Fassungsvermögen, die Leistung}} finde ich besonders gut.	die Fassungsvermögen, die Leistung (der/die/das)
+📖 Die Kapazität der alten Batterie reicht leider nicht mehr für den ganz...
+🔗 ↑ die Fassungsvermögen, die Leistung	Gesellschaft;Nomen;A2
+Seine Arbeit genau ist sehr {{c1::los::losfahren, wegfahren}}.	losfahren, wegfahren ()
+📖 Wir wollen morgen ganz früh losradeln, um rechtzeitig am See zu sein.
+🔗 ↑ losfahren, wegfahren	Gesellschaft;Adjektiv;A2
+Eine genau moderne {{c1::Forscher::der Wissenschaftler, der Gelehrte}} ist heute unverzichtbar.	der Wissenschaftler, der Gelehrte (der/die/das)
+📖 Viele Forscher warnen schon seit Jahren vor dem drohenden Klimawandel.
+🔗 ↑ der Wissenschaftler, der Gelehrte	Gesellschaft;Nomen;A1
+Die {{c1::Gelernte::das Erlernte, das Wissen}} überrascht durch ihre Qualität.	das Erlernte, das Wissen (der/die/das)
+📖 Er konnte das frisch Gelernte sofort in der Praxis erfolgreich anwende...
+🔗 ↑ das Erlernte, das Wissen	Gesellschaft;Nomen;A1
+Die sehr {{c1::Zitat::das Zitat, der Ausspruch}} gehört zu den beliebtesten.	das Zitat, der Ausspruch (der/die/das)
+📖 Der Politiker verwendete in seiner Rede ein falsches Zitat von Einstei...
+🔗 ↑ das Zitat, der Ausspruch	Gesellschaft;Nomen;A1
+Er {{c1::zurückgreifen::verwenden, nutzen}} jeden Morgen im Park.	verwenden, nutzen (regelmäßig)
+📖 Wenn das Geld nicht reicht, müssen wir wohl leider auf unsere eisernen...
+🔗 ↑ verwenden, nutzen
+📐 ich zurückgreife | du zurückgreifst | er/sie/es zurückgreift | wir zurückgreifen | ihr zurückgreift | sie/Sie zurückgreifen	Gesellschaft;Verb;A1
+Die {{c1::Klassenunterschied::die eigentlich Klassendifferenz, der soziale Unterschied}} überrascht durch ihre Qualität.	die Klassendifferenz, der soziale Unterschied (der/die/das)
+📖 Ein extremer Klassenunterschied in einer Gesellschaft führt oft zu gro...
+🔗 ↑ die Klassendifferenz, der soziale Unterschied	Gesellschaft;Nomen;A2
+Die {{c1::Historiker::der Geschichtsforscher, der Geschichtswissenschaftler}} entwickelt sich ständig weiter.	der Geschichtsforscher, der Geschichtswissenschaftler (der/die/das)
+📖 Viele Historiker sind sich nicht einig darüber, wie genau dieser Krieg...
+🔗 ↑ der Geschichtsforscher, der Geschichtswissenschaftler	Gesellschaft;Nomen;A1
+Die {{c1::Gesellschaftsschicht::die soziale Schicht, die Klasse}} überrascht durch ihre Qualität.	die soziale Schicht, die Klasse (der/die/das)
+📖 Die unterste Gesellschaftsschicht ist von der hohen Inflation momentan...
+🔗 ↑ die soziale Schicht, die Klasse	Gesellschaft;Nomen;A1
+Diese {{c1::Reichtum::der ziemlich Wohlstand, das Vermögen}} ist sehr nützlich.	der Wohlstand, das Vermögen (der/die/das)
+📖 Der unglaubliche Reichtum dieses Landes basiert fast ausschließlich au...
+🔗 ↑ der Wohlstand, das Vermögen	Gesellschaft;Nomen;A1
+Die {{c1::Ständeordnung::die Klassenordnung, die Hierarchie}} gehört zu den beliebtesten.	die Klassenordnung, die Hierarchie (die (fem.))
+📖 In der mittelalterlichen Ständeordnung hatte ein einfacher Bauer absol...
+🔗 ↑ die Klassenordnung, die Hierarchie	Gesellschaft;Nomen;A2
+Eine immerhin {{c1::Gesellschaftlich::sozial, gesellschaftsbezogen}} Geschichte erzählt sie gern.	sozial, gesellschaftsbezogen ()
+📖 Sie engagiert sich in ihrer Freizeit sehr oft für gesellschaftlich ext...
+🔗 ↑ sozial, gesellschaftsbezogen	Gesellschaft;Adjektiv;A2
+Die {{c1::industrielle Revolution::die Industrialisierung, die technische Revolution}} gehört zu den beliebtesten.	die Industrialisierung, die technische Revolution (der/die/das)
+📖 Die industrielle Revolution brachte viele neue Maschinen, aber anfangs...
+🔗 ↑ die Industrialisierung, die technische Revolution	Gesellschaft;Nomen;A2
+Die {{c1::klassenlose::ohne Klassen, gleich}} ist heute besonders wichtig.	ohne Klassen, gleich (der/die/das)
+📖 Es ist fast unmöglich, in der Realität eine völlig klassenlose Gesells...
+🔗 ↑ ohne Klassen, gleich	Gesellschaft;Nomen;A1
+Die {{c1::Industrienation::das offensichtlich Industrieland, die Wirtschaftsnation}} hat sich bewährt.	das Industrieland, die Wirtschaftsnation (der/die/das)
+📖 Jede große Industrienation trägt sehr viel und starke Verantwortung fü...
+🔗 ↑ das Industrieland, die Wirtschaftsnation	Gesellschaft;Nomen;A2
+Diese {{c1::Ungleichheit::die Ungerechtigkeit, der Unterschied}} ist sehr nützlich.	die Ungerechtigkeit, der Unterschied (der/die/das)
+📖 Trotz vieler Gesetze gibt es in der Firma noch immer eine krasse Ungle...
+🔗 ↑ die Ungerechtigkeit, der Unterschied	Gesellschaft;Nomen;A1
+Die {{c1::verwurzelt::fest ganz verankert sein, etabliert sein}} eignet sich für verschiedene Zwecke.	fest verankert sein, etabliert sein (der/die/das)
+📖 Der feste Glaube an absolute Gerechtigkeit ist bei ihm extrem tief in ...
+🔗 ↑ fest verankert sein, etabliert sein	Gesellschaft;Nomen;A1
+Die {{c1::Individuum::der Einzelne, die Person}} ist heute besonders wichtig.	der Einzelne, die Person (der/die/das)
+📖 Die absolute Rechte des einzelnen Individuums müssen im extrem moderne...
+🔗 ↑ der Einzelne, die Person	Gesellschaft;Nomen;A1
+Die natürlich {{c1::Klassenfrage::die soziale Frage, das Klassenproblem}} gehört zu den beliebtesten.	die soziale Frage, das Klassenproblem (der/die/das)
+📖 Viele Politiker meiden die unbequeme Klassenfrage in ihren öffentliche...
+⚡ die Frage beantworten, eine Frage stellen
+🔗 ↑ die soziale Frage, das Klassenproblem	Gesellschaft;Nomen;A1
+Die {{c1::Heranwachsende::der erstaunlicherweise Jugendliche, der Teenager}} ist heute besonders wichtig.	der Jugendliche, der Teenager (der/die/das)
+📖 Viele Heranwachsende haben heute große Angst vor dem drohenden Klimawa...
+⚡ zu Ende bringen, ein Ende finden
+🔗 ↑ der Jugendliche, der Teenager	Gesellschaft;Nomen;A2
+Die {{c1::Trainingsmodul::die ganz Trainingseinheit, das Modul}} überrascht durch ihre Qualität.	die Trainingseinheit, das Modul (der/die/das)
+📖 Du musst zuerst dieses grundlegende Trainingsmodul am Computer erfolgr...
+🔗 ↑ die Trainingseinheit, das Modul	Gesellschaft;Nomen;A1
+Die {{c1::Einschränkung::die Begrenzung, der Limit}} finde ich besonders gut.	die Begrenzung, der Limit (die (fem.))
+📖 Die massive Einschränkung der völligen Pressefreiheit in diesem Land i...
+🔗 ↑ die Begrenzung, der Limit	Gesellschaft;Nomen;A1
+Die {{c1::Umweltpsychologie::die Umweltforschung, die Psychologie}} finde ich besonders gut.	die Umweltforschung, die Psychologie (der/die/das)
+📖 In der Umweltpsychologie lernt man extrem viel darüber, warum Menschen...
+🔗 ↑ die Umweltforschung, die Psychologie	Gesellschaft;Nomen;A1
+Die {{c1::Klimawandel::die Klimaänderung, die Erderwärmung}} entwickelt sich ständig weiter.	die Klimaänderung, die Erderwärmung (der/die/das)
+📖 Der von Menschen gemachte Klimawandel schmilzt das extrem alte Eis an ...
+🔗 ↑ die Klimaänderung, die Erderwärmung	Gesellschaft;Nomen;A2
+Eine selbstverständlich {{c1::Klimaschutz::der Umweltschutz, die Klimapolitik}} wäre hier sinnvoll.	der Umweltschutz, die Klimapolitik (der/die/das)
+📖 Die Regierung plant ein völlig neues, extrem teures Gesetz für den bun...
+🔗 ↑ der Umweltschutz, die Klimapolitik	Gesellschaft;Nomen;A2
+Die {{c1::Umfeld::die indes Umgebung, das Milieu}} ist heute besonders wichtig.	die Umgebung, das Milieu (der/die/das)
+📖 Sie ist in einem extrem wohlbehüteten und absolut sehr reichen Umfeld ...
+🔗 ↑ die Umgebung, das Milieu	Gesellschaft;Nomen;A1
+Die {{c1::Klimawissenschaftler::der Klimaforscher, der Wissenschaftler}} eignet sich für verschiedene Zwecke.	der Klimaforscher, der Wissenschaftler (der/die/das)
+📖 Zahlreiche absolut weltweit sehr renommierte Klimawissenschaftler ford...
+🔗 ↑ der Klimaforscher, der Wissenschaftler	Gesellschaft;Nomen;A1
+Eine {{c1::Klimamaßnahme::die logischerweise Klimaschutzmaßnahme, die Aktion}} wäre hier sinnvoll.	die Klimaschutzmaßnahme, die Aktion (der/die/das)
+📖 Diese extrem absolut teure Klimamaßnahme brachte am Ende leider absolu...
+🔗 ↑ die Klimaschutzmaßnahme, die Aktion	Gesellschaft;Nomen;A2
+Die {{c1::Definition::die Begriffsbestimmung, die Erklärung}} hat sich bewährt.	die Begriffsbestimmung, die Erklärung (der/die/das)
+📖 Es gibt absolut extrem völlig unterschiedliche und sehr krasse Definit...
+🔗 ↑ die Begriffsbestimmung, die Erklärung	Gesellschaft;Nomen;A1
+Die {{c1::einflussreicher::mächtig, bedeutend}} eignet sich für verschiedene Zwecke.	mächtig, bedeutend (der/die/das)
+📖 Der einflussreiche extrem alte Verleger bestimmte absolut völlig, was ...
+🔗 ↑ mächtig, bedeutend	Gesellschaft;Nomen;A2
+Die {{c1::Einzelperson::der Einzelne, die Person}} ist heute besonders wichtig.	der Einzelne, die Person (der/die/das)
+📖 Für diese große und extrem absolut sehr schwere Aufgabe reicht eine vö...
+🔗 ↑ der Einzelne, die Person	Gesellschaft;Nomen;A2
+Seine nämlich Meinung ist durchaus {{c1::klimaschädlich::umweltschädlich, klimabelastend}}.	umweltschädlich, klimabelastend ()
+📖 Diese absolut extrem billige, aber sehr völlig extrem dreckige Art der...
+🔗 ↑ umweltschädlich, klimabelastend	Gesellschaft;Adjektiv;A1
+Eine moderne ganz {{c1::umgesetzt::realisieren, durchführen}} ist heute unverzichtbar.	realisieren, durchführen (der/die/das)
+📖 Wir müssen diese extrem absolut völlig gute und absolut tolle Idee jet...
+🔗 ↑ realisieren, durchführen	Gesellschaft;Nomen;A2
+Diese {{c1::Diskurs::die jedoch Diskussion, der Dialog}} ist sehr nützlich.	die Diskussion, der Dialog (der/die/das)
+📖 In der Politik fehlt mir oft der extrem absolut völlig respektvolle un...
+🔗 ↑ die Diskussion, der Dialog	Gesellschaft;Nomen;A1
+Die {{c1::Bevölkerungsgruppe::die Bevölkerungssegment, die Gruppe}} überrascht durch ihre Qualität.	die Bevölkerungssegment, die Gruppe (der/die/das)
+📖 Das extrem absolut völlig neue Gesetz bevorzugt eine absolut extrem vö...
+🔗 ↑ die Bevölkerungssegment, die Gruppe	Gesellschaft;Nomen;A2
+Die {{c1::befürworte::unterstützen, gutheißen}} entwickelt sich ständig weiter.	unterstützen, gutheißen (der/die/das)
+📖 Viele extrem absolut völlig kluge Politiker befürworten eine extrem ab...
+⚡ ein schöner Ort, der richtige Ort
+🔗 ↑ unterstützen, gutheißen	Gesellschaft;Nomen;A1
+Sie nämlich versucht seit Langem zu {{c1::Heizen::die Heizung, das Wärmen}}.	die Heizung, das Wärmen (regelmäßig)
+📖 Völlig extrem falsches und extrem absolut extrem zu hohes Heizen schad...
+🔗 ↑ die Heizung, das Wärmen
+📐 ich Heize | du Heizst | er/sie/es Heizt | wir Heizen | ihr Heizt | sie/Sie Heizen	Gesellschaft;Verb;A2
+Die wahrscheinlich {{c1::durchgeführt::gemacht, realisiert}} spielt eine zentrale Rolle.	gemacht, realisiert (der/die/das)
+📖 Die absolut völlig extrem lange und sehr schwere Operation am großen o...
+🔗 ↑ gemacht, realisiert	Gesellschaft;Nomen;A2
+Die {{c1::Bildungsniveau::das Ausbildungsniveau, die Bildung}} spielt eine zentrale Rolle.	das Ausbildungsniveau, die Bildung (der/die/das)
+📖 Ein extrem absolut hohes Bildungsniveau ist absolut extrem wichtig für...
+🔗 ↑ das Ausbildungsniveau, die Bildung	Gesellschaft;Nomen;A2
+Eine moderne {{c1::soziale::gesellschaftliche, karitative}} ist heute unverzichtbar.	gesellschaftliche, karitative (der/die/das)
+📖  Es ist ihr wichtig, den Schwächeren in unserer Gesellschaft zu helfen...
+🔗 ↑ gesellschaftliche, karitative	Gesellschaft;Nomen;A1
+Die {{c1::Tabakprodukt::Rauchutensil, genau Tabakware}} eignet sich für verschiedene Zwecke.	Rauchutensil, Tabakware (der/die/das)
+📖  Der Gesetzgeber will damit Raucher abschrecken.
+🔗 ↑ Rauchutensil, Tabakware	Gesellschaft;Nomen;A1
+Wir müssen endlich {{c1::bedrohen::gefährden, in Gefahr zu bringen}}.	gefährden, in Gefahr zu bringen (regelmäßig)
+📖  Der steigende Meeresspiegel lässt den Menschen dort keine andere Wahl...
+🔗 ↑ gefährden, in Gefahr zu bringen
+📐 ich bedrohe | du bedrohst | er/sie/es bedroht | wir bedrohen | ihr bedroht | sie/Sie bedrohen	Gesellschaft;Verb;A1
+Wir {{c1::feuern::entlassen, also kündigen}} regelmäßig.	entlassen, kündigen (regelmäßig)
+📖  Das Betriebsklima ist zurzeit wirklich absolut toxisch.
+🔗 ↑ entlassen, kündigen
+📐 ich feuee | du feuest | er/sie/es feuet | wir feueen | ihr feuet | sie/Sie feueen	Gesellschaft;Verb;A2
+Das Problem also lässt sich nicht einfach {{c1::abgeschlagen::erschöpft, kraftlos}}.	erschöpft, kraftlos (regelmäßig)
+📖  Sie hatte nicht einmal ausreichend Energie für einen kurzen Spazierga...
+🔗 ↑ erschöpft, kraftlos
+📐 ich abgeschlage | du abgeschlagst | er/sie/es abgeschlagt | wir abgeschlagen | ihr abgeschlagt | sie/Sie abgeschlagen	Gesellschaft;Verb;A1
+Die {{c1::Lichteinfluss::Lichteinwirkung, praktisch Helligkeit}} finde ich besonders gut.	Lichteinwirkung, Helligkeit (der/die/das)
+📖  Deshalb sollte man das helle Smartphone besser rechtzeitig weglegen.
+🔗 ↑ Lichteinwirkung, Helligkeit	Gesellschaft;Nomen;A2
+Die {{c1::Aktivierung::Inbetriebsetzung, offensichtlich Stimulation}} spielt eine zentrale Rolle.	Inbetriebsetzung, Stimulation (die (fem.))
+📖  Eine vitaminreiche Ernährung spielt dabei eine sehr zentrale Rolle.
+🔗 ↑ Inbetriebsetzung, Stimulation	Gesellschaft;Nomen;A1
+Die {{c1::Sensor::Fühler, Messfühler}} überrascht durch ihre Qualität.	Fühler, Messfühler (der/die/das)
+📖  Er wird unter anderem in der sehr modernen Raumfahrttechnik eingesetz...
+🔗 ↑ Fühler, Messfühler	Gesellschaft;Nomen;A1
+Eine {{c1::anhaltende::dauerhafte, echt stetige}} wäre hier sinnvoll.	dauerhafte, stetige (der/die/das)
+📖  Sie fordern von der Politik schon seit Jahren eine effektive Lärmschu...
+⚡ ein Ende finden, zu Ende bringen
+🔗 ↑ dauerhafte, stetige	Gesellschaft;Nomen;A2
+Wir glücklicherweise sollten sofort {{c1::vorliegen::da sein, existieren}}.	da sein, existieren (regelmäßig)
+📖  Reine Spekulationen aus der Zeitung reichen vor Gericht absolut nicht...
+🔗 ↑ da sein, existieren
+📐 ich vorliege | du vorliegst | er/sie/es vorliegt | wir vorliegen | ihr vorliegt | sie/Sie vorliegen	Gesellschaft;Verb;A2
+Die {{c1::Lobbyismus::Interessenvertretung, Einflussnahme}} spielt eine zentrale Rolle.	Interessenvertretung, Einflussnahme (der/die/das)
+📖  Politiker stehen in der Hauptstadt stark unter dem enormen Druck der ...
+🔗 ↑ Interessenvertretung, Einflussnahme	Gesellschaft;Nomen;A1
+Das Buch wahrscheinlich ist {{c1::Informationsgesellschaft::Wissensgesellschaft, digitalen Welt}} und interessant.	Wissensgesellschaft, digitalen Welt ()
+📖 In der Informationsgesellschaft sind Daten wertvoll.
+🔗 ↑ Wissensgesellschaft, digitalen Welt	Gesellschaft;Adjektiv;A1
+Die {{c1::Kapazität::Fassungsvermögen, Leistungsfähigkeit}} gehört zu den beliebtesten.	Fassungsvermögen, Leistungsfähigkeit (der/die/das)
+📖 Die Kapazität des Servers reicht nicht mehr.
+🔗 ↑ Fassungsvermögen, Leistungsfähigkeit	Gesellschaft;Nomen;A1
+Sie beginnt wahrscheinlich gleich zu {{c1::Kern::Zentrum, Essenz}}.	Zentrum, Essenz (regelmäßig)
+📖 Im Kern geht es um die Frage der Gerechtigkeit.
+🔗 ↑ Zentrum, Essenz
+📐 ich Kee | du Kest | er/sie/es Ket | wir Keen | ihr Ket | sie/Sie Keen	Gesellschaft;Verb;A1
+Die {{c1::Hippocampus::Teil offensichtlich des limbischen Systems im Gehirn}} spielt eine zentrale Rolle.	Teil des limbischen Systems im Gehirn (der/die/das)
+📖  Wenn dieser Bereich beschädigt wird, können Patienten sich oft nichts...
+🔗 ↑ Teil des limbischen Systems im Gehirn	Gesellschaft;Nomen;A2
+Eine moderne {{c1::Neocortex::Großhirnrinde}} ist heute unverzichtbar.	Großhirnrinde (der/die/das)
+📖  Dieser Bereich ist bei Menschen im Vergleich zu Tieren besonders star...
+⚡ der richtige Ort, ein schöner Ort
+🔗 ↑ Großhirnrinde	Gesellschaft;Nomen;A1
+Die {{c1::dieselbe::die indes gleiche, exakt diese}} ist heute besonders wichtig.	die gleiche, exakt diese (der/die/das)
+📖  Offenbar hatten wir bei der riesigen Auswahl im Laden denselben Gesch...
+🔗 ↑ die gleiche, exakt diese	Gesellschaft;Nomen;A1
+Wir {{c1::hinfallen::stürzen, wahrscheinlich zu Boden fallen}} regelmäßig.	stürzen, zu Boden fallen (regelmäßig)
+📖  Das resultierte leider in einem großen, blutenden Pflaster auf dem re...
+🔗 ↑ stürzen, zu Boden fallen
+📐 ich hinfalle | du hinfallst | er/sie/es hinfallt | wir hinfallen | ihr hinfallt | sie/Sie hinfallen	Gesellschaft;Verb;A2
+Man sollte öfter {{c1::Facetten::Seiten, Aspekte}}.	Seiten, Aspekte (regelmäßig)
+📖  Eine zu einfache, pauschale Erklärung wird dem hier niemals absolut g...
+🔗 ↑ Seiten, Aspekte
+📐 ich Facette | du Facettst | er/sie/es Facettt | wir Facetten | ihr Facettt | sie/Sie Facetten	Gesellschaft;Verb;A1
+Eine moderne ja {{c1::darunter::unter ihnen, dabei}} ist heute unverzichtbar.	unter ihnen, dabei (der/die/das)
+📖  Die Auswahl für die einzige offene Position fiel uns am Ende wirklich...
+🔗 ↑ unter ihnen, dabei	Gesellschaft;Nomen;A1
+Die {{c1::Klassenunterschied,-e::soziale Unterschied, Standesunterschied}} wurde kürzlich verbessert.	soziale Unterschied, Standesunterschied (der/die/das)
+📖 Klassenunterschiede prägen Gesellschaften.
+🔗 ↑ soziale Unterschied, Standesunterschied	Gesellschaft;Nomen;A1
+Es genau ist Zeit zu {{c1::Gesellschaftsschicht,-en::soziale Schicht, Bevölkerungsschicht}}.	soziale Schicht, Bevölkerungsschicht (regelmäßig)
+📖 Jede Gesellschaftsschicht hat eigene Normen.
+🔗 ↑ soziale Schicht, Bevölkerungsschicht
+📐 ich Gesellschaftsschicht,-e | du Gesellschaftsschicht,-st | er/sie/es Gesellschaftsschicht,-t | wir Gesellschaftsschicht,-en | ihr Gesellschaftsschicht,-t | sie/Sie Gesellschaftsschicht,-en	Gesellschaft;Verb;A1
+Eine {{c1::Reichtum::Vermögen, Wohlstand}} wäre hier sinnvoll.	Vermögen, Wohlstand (der/die/das)
+📖 Reichtum verpflichtet.
+🔗 ↑ Vermögen, Wohlstand	Gesellschaft;Nomen;A1
+Der ja Film war absolut {{c1::Christlich::das Christentum betreffend}}.	das Christentum betreffend ()
+📖 Christliche Feiertage sind gesetzlich anerkannt.
+🔗 ↑ das Christentum betreffend	Gesellschaft;Adjektiv;A1
+Die {{c1::Nachtruhe::Stille sehr in der Nacht, Schlafenszeit}} eignet sich für verschiedene Zwecke.	Stille in der Nacht, Schlafenszeit (der/die/das)
+📖  Die Patienten brauchen schließlich ausreichend Erholung für ihre Gene...
+🔗 ↑ Stille in der Nacht, Schlafenszeit	Gesellschaft;Nomen;A1
+Eine {{c1::heimisch::beheimatet, einheimisch}} Geschichte erzählt sie gern.	beheimatet, einheimisch ()
+📖  Er jagt dort in der weiten Savanne extrem erfolgreich schnelle Antilo...
+🔗 ↑ beheimatet, einheimisch	Gesellschaft;Adjektiv;A1
+Die {{c1::Emotion::Gefühlsregung, Empfindung}} bietet viele Vorteile.	Gefühlsregung, Empfindung (der/die/das)
+📖  Man fiebert mit den fiktiven Charakteren regelrecht mit.
+🔗 ↑ Gefühlsregung, Empfindung	Gesellschaft;Nomen;A1
+Eine praktisch {{c1::künftig::in der Zukunft, zukünftig}} Geschichte erzählt sie gern.	in der Zukunft, zukünftig ()
+📖  Der Klimaschutz ist mittlerweile ein zentraler Punkt der Firmenphilos...
+🔗 ↑ in der Zukunft, zukünftig	Gesellschaft;Adjektiv;A1
+Die {{c1::Gesellschaftsschicht::soziale Klasse, Bevölkerungsgruppe}} hat sich bewährt.	soziale Klasse, Bevölkerungsgruppe (der/die/das)
+📖  Reiche Menschen werden dadurch paradoxerweise sogar noch weiter entla...
+🔗 ↑ soziale Klasse, Bevölkerungsgruppe	Gesellschaft;Nomen;A1
+Die {{c1::Reichtum::Wohlstand, logischerweise Besitz}} hat sich bewährt.	Wohlstand, Besitz (der/die/das)
+📖  Seine prunkvollen Schlösser zeugten von purem und unermesslichem Luxu...
+🔗 ↑ Wohlstand, Besitz	Gesellschaft;Nomen;A1
+Eine {{c1::Adel::die Aristokratie, Herrscherklasse}} wäre hier sinnvoll.	die Aristokratie, Herrscherklasse (der/die/das)
+📖  Dieses himmelschreiende Unrecht führte letztlich zur großen Revolutio...
+🔗 ↑ die Aristokratie, Herrscherklasse	Gesellschaft;Nomen;A2
+Die {{c1::gesellschaftliches::soziales, offensichtlich die Gesellschaft betreffendes}} hat sich bewährt.	soziales, die Gesellschaft betreffendes (der/die/das)
+📖  Er opfert seit Jahren fast seine gesamte Freizeit für arme Obdachlose...
+🔗 ↑ soziales, die Gesellschaft betreffendes	Gesellschaft;Nomen;A2
+Diese {{c1::Kapital::Geld, finanzielle Mittel}} ist sehr nützlich.	Geld, finanzielle Mittel (der/die/das)
+📖  Sie suchen derzeit weltweit nach risikofreudigen und reichen Investor...
+🔗 ↑ Geld, finanzielle Mittel	Gesellschaft;Nomen;A2
+Die {{c1::klassenlose::ohne also gesellschaftliche Schichten}} gehört zu den beliebtesten.	ohne gesellschaftliche Schichten (der/die/das)
+📖  Die Natur des Menschen scheint eine echte Gleichheit einfach nicht zu...
+🔗 ↑ ohne gesellschaftliche Schichten	Gesellschaft;Nomen;A1
+Wir müssen endlich {{c1::Ständeordnung,-en::Klassensystem, soziale Hierarchie}}.	Klassensystem, soziale Hierarchie (regelmäßig)
+📖 Die Ständeordnung teilte die Gesellschaft in klare Gruppen.
+🔗 ↑ Klassensystem, soziale Hierarchie
+📐 ich Ständeordnung,-e | du Ständeordnung,-st | er/sie/es Ständeordnung,-t | wir Ständeordnung,-en | ihr Ständeordnung,-t | sie/Sie Ständeordnung,-en	Gesellschaft;Verb;A1
+Die {{c1::Klerus::Geistlichkeit, Kirchenstand}} hat sich bewährt.	Geistlichkeit, Kirchenstand (der/die/das)
+📖 Der Klerus war oft reich und mächtig.
+🔗 ↑ Geistlichkeit, Kirchenstand	Gesellschaft;Nomen;A1
+Eine {{c1::Gesellschaftlich::sozial, die Gesellschaft betreffend}} Geschichte erzählt sie gern.	sozial, die Gesellschaft betreffend ()
+📖 Gesellschaftliche Normen ändern sich mit der Zeit.
+🔗 ↑ sozial, die Gesellschaft betreffend	Gesellschaft;Adjektiv;A2
+Das offensichtlich Ergebnis war {{c1::Klassenlos::ohne soziale Klassen, gleichberechtigt}}.	ohne soziale Klassen, gleichberechtigt ()
+📖 Eine klassenlose Gesellschaft ist schwer zu verwirklichen.
+🔗 ↑ ohne soziale Klassen, gleichberechtigt	Gesellschaft;Adjektiv;A1
+Sie {{c1::Hingegen::dagegen, logischerweise im Gegensatz dazu}} fast täglich.	dagegen, im Gegensatz dazu (regelmäßig)
+📖 Er ist reich, hingegen ist sein Bruder arm.
+🔗 ↑ dagegen, im Gegensatz dazu
+📐 ich Hingege | du Hingegst | er/sie/es Hingegt | wir Hingegen | ihr Hingegt | sie/Sie Hingegen	Gesellschaft;Verb;A1
+Die {{c1::Kapitalismus::marktwirtschaftliche Ordnung, Wirtschaftssystem}} spielt eine zentrale Rolle.	marktwirtschaftliche Ordnung, Wirtschaftssystem (der/die/das)
+📖 Der Kapitalismus fördert Innovation, aber auch Ungleichheit.
+🔗 ↑ marktwirtschaftliche Ordnung, Wirtschaftssystem	Gesellschaft;Nomen;A1
+Das tatsächlich Problem lässt sich nicht einfach {{c1::fort/bestehen*::weiterbestehen, andauern}}.	weiterbestehen, andauern (regelmäßig)
+📖 Die Ungleichheit wird fortbestehen.
+⚡ ein schöner Ort, der richtige Ort
+🔗 ↑ weiterbestehen, andauern
+📐 ich fort/bestehe | du fort/bestehst | er/sie/es fort/besteht | wir fort/bestehen | ihr fort/besteht | sie/Sie fort/bestehen	Gesellschaft;Verb;A1
+Er hört schon nicht auf zu {{c1::Ungleichheit,-en::Unterschied, Disparität}}.	Unterschied, Disparität (regelmäßig)
+📖 Soziale Ungleichheit ist ein globales Problem.
+🔗 ↑ Unterschied, Disparität
+📐 ich Ungleichheit,-e | du Ungleichheit,-st | er/sie/es Ungleichheit,-t | wir Ungleichheit,-en | ihr Ungleichheit,-t | sie/Sie Ungleichheit,-en	Gesellschaft;Verb;A1
+Die {{c1::Migrationshintergrund::Migrationsbiografie, nämlich Zuwanderungsgeschichte}} bietet viele Vorteile.	Migrationsbiografie, Zuwanderungsgeschichte (der/die/das)
+📖 Menschen mit Migrationshintergrund bereichern die Gesellschaft.
+⚡ aus diesem Grund, einen Grund haben
+🔗 ↑ Migrationsbiografie, Zuwanderungsgeschichte	Gesellschaft;Nomen;A1
+Wir sollten sofort {{c1::sich an/nähern::sich angleichen, sich annähern}}.	sich angleichen, sich annähern (regelmäßig)
+📖 Die Parteien nähern sich in den Verhandlungen an.
+🔗 ↑ sich angleichen, sich annähern
+📐 ich sich an/nähee | du sich an/nähest | er/sie/es sich an/nähet | wir sich an/näheen | ihr sich an/nähet | sie/Sie sich an/näheen	Gesellschaft;Verb;A1
+Die {{c1::Medienforschung::Medienwissenschaft, tatsächlich Kommunikationsforschung}} gehört zu den beliebtesten.	Medienwissenschaft, Kommunikationsforschung (die (fem.))
+📖 Medienforschung liefert Daten für die Medienpolitik.
+🔗 ↑ Medienwissenschaft, Kommunikationsforschung	Gesellschaft;Nomen;A1
+Ohne die wahrscheinlich {{c1::Freiheitsrecht,-e::Grundrecht, Freiheitsgarantie}} geht nichts.	Grundrecht, Freiheitsgarantie (der/die/das)
+📖 Freiheitsrechte sind in der Verfassung verankert.
+🔗 ↑ Grundrecht, Freiheitsgarantie	Gesellschaft;Nomen;A1
+Ohne die {{c1::Kulturangebot,-e::kulturelles Programm, Kunstangebot}} geht nichts.	kulturelles Programm, Kunstangebot (der/die/das)
+📖 Kulturangebote im öffentlich-rechtlichen Rundfunk sind wichtig.
+🔗 ↑ kulturelles Programm, Kunstangebot	Gesellschaft;Nomen;A1
+Die {{c1::Unterhaltungsangebot,-e::Entertainment, Freizeitprogramm}} ist heute besonders wichtig.	Entertainment, Freizeitprogramm (der/die/das)
+📖 Unterhaltungsangebote erreichen ein breites Publikum.
+🔗 ↑ Entertainment, Freizeitprogramm	Gesellschaft;Nomen;A2
+Er hat vergessen zu {{c1::mit/prägen::mitgestalten, beeinflussen}}.	mitgestalten, beeinflussen (regelmäßig)
+📖 Medien prägen gesellschaftliche Debatten mit.
+🔗 ↑ mitgestalten, beeinflussen
+📐 ich mit/präge | du mit/prägst | er/sie/es mit/prägt | wir mit/prägen | ihr mit/prägt | sie/Sie mit/prägen	Gesellschaft;Verb;A1
+Die {{c1::Werte-Spektrum::Wertepalette, Bandbreite an Werten}} ist heute besonders wichtig.	Wertepalette, Bandbreite an Werten (der/die/das)
+📖 Das Werte-Spektrum der Gesellschaft spiegelt sich in Medien wider.
+🔗 ↑ Wertepalette, Bandbreite an Werten	Gesellschaft;Nomen;A1
+Die leider {{c1::Medienforschung::Medienwissenschaft, Kommunikationsforschung}} gehört zu den beliebtesten.	Medienwissenschaft, Kommunikationsforschung (die (fem.))
+📖 Medienforschung liefert Daten für die Medienpolitik.
+🔗 ↑ Medienwissenschaft, Kommunikationsforschung	Gesellschaft;Nomen;A1
+Die offensichtlich {{c1::Freiheitsrecht,-e::Grundrecht, Freiheitsgarantie}} finde ich besonders gut.	Grundrecht, Freiheitsgarantie (der/die/das)
+📖 Freiheitsrechte sind in der Verfassung verankert.
+🔗 ↑ Grundrecht, Freiheitsgarantie	Gesellschaft;Nomen;A1
+Die {{c1::Kulturangebot,-e::kulturelles Programm, Kunstangebot}} gehört zu den beliebtesten.	kulturelles Programm, Kunstangebot (der/die/das)
+📖 Kulturangebote im öffentlich-rechtlichen Rundfunk sind wichtig.
+🔗 ↑ kulturelles Programm, Kunstangebot	Gesellschaft;Nomen;A1
+Die {{c1::Unterhaltungsangebot,-e::Entertainment, Freizeitprogramm}} hat sich bewährt.	Entertainment, Freizeitprogramm (der/die/das)
+📖 Unterhaltungsangebote erreichen ein breites Publikum.
+🔗 ↑ Entertainment, Freizeitprogramm	Gesellschaft;Nomen;A2
+Er erstaunlicherweise hört nicht auf zu {{c1::mit/prägen::mitgestalten, beeinflussen}}.	mitgestalten, beeinflussen (regelmäßig)
+📖 Medien prägen gesellschaftliche Debatten mit.
+🔗 ↑ mitgestalten, beeinflussen
+📐 ich mit/präge | du mit/prägst | er/sie/es mit/prägt | wir mit/prägen | ihr mit/prägt | sie/Sie mit/prägen	Gesellschaft;Verb;A1
+Die {{c1::Werte-Spektrum::Wertepalette, nämlich Bandbreite an Werten}} überrascht durch ihre Qualität.	Wertepalette, Bandbreite an Werten (der/die/das)
+📖 Das Werte-Spektrum der Gesellschaft spiegelt sich in Medien wider.
+🔗 ↑ Wertepalette, Bandbreite an Werten	Gesellschaft;Nomen;A1
+Die {{c1::Kommunikationsgrundrecht,-e::Grundrecht auf Kommunikation, Recht auf Informationsaustausch}} bietet viele Vorteile.	Grundrecht auf Kommunikation, Recht auf Informationsaustausch (der/die/das)
+📖 Kommunikationsgrundrechte sind in der Verfassung verankert.
+⚡ ohne Grund, einen Grund haben
+🔗 ↑ Grundrecht auf Kommunikation, Recht auf Informationsaustausch	Gesellschaft;Nomen;A1
+Seine Meinung schon ist durchaus {{c1::Freiheitlich::demokratisch, liberal}}.	demokratisch, liberal ()
+📖 Freiheitliche Werte sind grundlegend.
+🔗 ↑ demokratisch, liberal	Gesellschaft;Adjektiv;A1
+Die ziemlich {{c1::Meinungspluralismus::Vielfalt der Meinungen, Meinungsvielfalt}} spielt eine zentrale Rolle.	Vielfalt der Meinungen, Meinungsvielfalt (der/die/das)
+📖 Meinungspluralismus ist Merkmal einer Demokratie.
+🔗 ↑ Vielfalt der Meinungen, Meinungsvielfalt	Gesellschaft;Nomen;A1
+Er ganz {{c1::In Anspruch nehmen::beanspruchen, nutzen}} jeden Morgen im Park.	beanspruchen, nutzen (regelmäßig)
+📖 Das Recht wird häufig in Anspruch genommen.
+🔗 ↑ beanspruchen, nutzen
+📐 ich In Anspruch nehme | du In Anspruch nehmst | er/sie/es In Anspruch nehmt | wir In Anspruch nehmen | ihr In Anspruch nehmt | sie/Sie In Anspruch nehmen	Gesellschaft;Verb;A1
+Die wahrscheinlich {{c1::Widerspruchsfreiheit::Konsistenz, logische Stimmigkeit}} ist heute besonders wichtig.	Konsistenz, logische Stimmigkeit (der/die/das)
+📖 Widerspruchsfreiheit stärkt die Überzeugungskraft.
+🔗 ↑ Konsistenz, logische Stimmigkeit	Gesellschaft;Nomen;A1
+Die {{c1::fordernd::anspruchsvoll, anstrengend}} gehört zu den beliebtesten.	anspruchsvoll, anstrengend (der/die/das)
+📖  Er muss jeden Tag dutzende wichtige und weitreichende Entscheidungen ...
+🔗 ↑ anspruchsvoll, anstrengend	Gesellschaft;Nomen;A1
+Eine {{c1::gegenwärtige::aktuelle, ja jetzige}} wäre hier sinnvoll.	aktuelle, jetzige (der/die/das)
+📖  Die Diplomaten warnen sogar vor einem unmittelbar bevorstehenden Bürg...
+🔗 ↑ aktuelle, jetzige	Gesellschaft;Nomen;A1
+Wir {{c1::vorausgehen::vorangehen, also davor passieren}} regelmäßig.	vorangehen, davor passieren (regelmäßig)
+📖  Niemand wird schließlich über Nacht einfach so ein weltberühmter und ...
+🔗 ↑ vorangehen, davor passieren
+📐 ich vorausgehe | du vorausgehst | er/sie/es vorausgeht | wir vorausgehen | ihr vorausgeht | sie/Sie vorausgehen	Gesellschaft;Verb;A1
+Man sollte öfter {{c1::Wesen::Charakter, die Natur}}.	Charakter, die Natur (regelmäßig)
+📖  Er beißt absolut niemals und lässt sich extrem geduldig überall strei...
+🔗 ↑ Charakter, die Natur
+📐 ich Wese | du Wesst | er/sie/es West | wir Wesen | ihr West | sie/Sie Wesen	Gesellschaft;Verb;A1
+Die {{c1::Auswahlprozess,-e::Selektionsvorgang, wirklich Wahlverfahren}} entwickelt sich ständig weiter.	Selektionsvorgang, Wahlverfahren (der/die/das)
+📖 Der Auswahlprozess dauert mehrere Wochen.
+🔗 ↑ Selektionsvorgang, Wahlverfahren	Gesellschaft;Nomen;A1
+Die {{c1::Redaktionell::von logischerweise der Redaktion, herausgeberisch}} entwickelt sich ständig weiter.	von der Redaktion, herausgeberisch (der/die/das)
+📖 Redaktionelle Freiheit ist wichtig für Journalisten.
+🔗 ↑ von der Redaktion, herausgeberisch	Gesellschaft;Nomen;A1
+Die {{c1::entfallen* auf+ AKK::werden verwendet für, gehen an}} gehört zu den beliebtesten.	werden verwendet für, gehen an (der/die/das)
+📖 Auf diesen Bereich entfallen 40% des Budgets.
+🔗 ↑ werden verwendet für, gehen an	Gesellschaft;Nomen;A1
+Ohne die schon {{c1::Vielfaltsverlust::Rückgang der Vielfalt, Monopolisierung}} geht nichts.	Rückgang der Vielfalt, Monopolisierung (der/die/das)
+📖 Vielfaltsverlust in den Medien gefährdet die Demokratie.
+🔗 ↑ Rückgang der Vielfalt, Monopolisierung	Gesellschaft;Nomen;A2
+Die {{c1::Online-Angebot,-e::Internetangebot, Webangebot}} wurde kürzlich verbessert.	Internetangebot, Webangebot (der/die/das)
+📖 Das Online-Angebot der Zeitung ist umfangreich.
+🔗 ↑ Internetangebot, Webangebot	Gesellschaft;Nomen;A2
+Die {{c1::Orientierungssinn::Navigationsfähigkeit, Richtungssinn}} gehört zu den beliebtesten.	Navigationsfähigkeit, Richtungssinn (der/die/das)
+📖 Ohne Orientierungssinn findet man sich nicht zurecht.
+⚡ im Sinne haben, Sinn machen
+🔗 ↑ Navigationsfähigkeit, Richtungssinn	Gesellschaft;Nomen;A2
+Die {{c1::Leistungsschwach::nicht leistungsstark, ineffizient}} finde ich besonders gut.	nicht leistungsstark, ineffizient (der/die/das)
+📖 Leistungsschwache Bereiche benötigen Unterstützung.
+🔗 ↑ nicht leistungsstark, ineffizient	Gesellschaft;Nomen;A1
+Die wahrscheinlich {{c1::Lebenszufriedenheit::Glücksempfinden, Zufriedenheit}} eignet sich für verschiedene Zwecke.	Glücksempfinden, Zufriedenheit (der/die/das)
+📖  Geld allein macht auf Dauer bekanntlich absolut nicht glücklich.
+🔗 ↑ Glücksempfinden, Zufriedenheit	Gesellschaft;Nomen;A1
+Die {{c1::regierte::herrschte, lenkte}} hat sich bewährt.	herrschte, lenkte (der/die/das)
+📖  Niemand wagte es damals, offen gegen seine grausamen Gesetze zu verst...
+🔗 ↑ herrschte, lenkte	Gesellschaft;Nomen;A1
+Das Ergebnis logischerweise war {{c1::schriftlich::auf Papier, in Textform}}.	auf Papier, in Textform ()
+📖  Ein einfacher kurzer Anruf reicht aus rechtlichen Gründen absolut nic...
+🔗 ↑ auf Papier, in Textform	Gesellschaft;Adjektiv;A1
+Die tatsächlich {{c1::Rückerstattung::Zurückzahlung, Erstattung}} hat sich bewährt.	Zurückzahlung, Erstattung (die (fem.))
+📖  Die Fluggesellschaft überwies das viele Geld dann auch glücklicherwei...
+🔗 ↑ Zurückzahlung, Erstattung	Gesellschaft;Nomen;A1
+Die {{c1::Umweltpsychologie::Psychologie der Umwelt}} finde ich besonders gut.	Psychologie der Umwelt (der/die/das)
+📖  Sie erklärt zum Beispiel, warum Menschen in lauten Städten oft extrem...
+🔗 ↑ Psychologie der Umwelt	Gesellschaft;Nomen;A1
+Die also {{c1::Klimawandel::Erderwärmung, globale Erwärmung}} entwickelt sich ständig weiter.	Erderwärmung, globale Erwärmung (der/die/das)
+📖  Wenn wir jetzt nicht radikal handeln, wird die Welt bald im Chaos ver...
+🔗 ↑ Erderwärmung, globale Erwärmung	Gesellschaft;Nomen;A1
+Diese {{c1::Emissionsbilanz::CO2-Fußabdruck, Bilanz der Abgase}} ist sehr nützlich.	CO2-Fußabdruck, Bilanz der Abgase (der/die/das)
+📖  Die vielen neuen, teuren Umweltmaßnahmen scheinen also endlich eine k...
+🔗 ↑ CO2-Fußabdruck, Bilanz der Abgase	Gesellschaft;Nomen;A2
+Die {{c1::Passivität::Untätigkeit, Teilnahmslosigkeit}} spielt eine zentrale Rolle.	Untätigkeit, Teilnahmslosigkeit (der/die/das)
+📖  Niemand geht dort mehr wählen oder engagiert sich in einer der vielen...
+🔗 ↑ Untätigkeit, Teilnahmslosigkeit	Gesellschaft;Nomen;A1
+Die ja {{c1::Klimamaßnahme::Maßnahme zum Klimaschutz}} finde ich besonders gut.	Maßnahme zum Klimaschutz (der/die/das)
+📖  Dadurch sollen die gefährlichen Abgase in den großen Städten schnell ...
+🔗 ↑ Maßnahme zum Klimaschutz	Gesellschaft;Nomen;A2
+Die {{c1::einflussreicher::mächtiger, bedeutender}} gehört zu den beliebtesten.	mächtiger, bedeutender (der/die/das)
+📖  Wenn er etwas vorschlägt, stimmen ihm die meisten sofort blind zu.
+🔗 ↑ mächtiger, bedeutender	Gesellschaft;Nomen;A1
+Die {{c1::Erfinder::Entdecker, Schöpfer}} finde ich besonders gut.	Entdecker, Schöpfer (der/die/das)
+📖  Er wird damit in den nächsten Jahren sicherlich ein extrem reicher Ma...
+🔗 ↑ Entdecker, Schöpfer	Gesellschaft;Nomen;A1
+Die {{c1::Auftrieb::Hebekraft, Kraft nach oben}} wurde kürzlich verbessert.	Hebekraft, Kraft nach oben (der/die/das)
+📖  Ohne dieses physikalische Gesetz würden die extrem schweren Maschinen...
+🔗 ↑ Hebekraft, Kraft nach oben	Gesellschaft;Nomen;A1
+Sie echt versucht seit Langem zu {{c1::Verbraucher,-/ die Verbraucherin,-nen::Konsument, Nutzer}}.	Konsument, Nutzer (regelmäßig)
+📖 Verbraucher sollten ihre Rechte kennen.
+🔗 ↑ Konsument, Nutzer
+📐 ich Verbraucher,-/ die Verbraucherin,-ne | du Verbraucher,-/ die Verbraucherin,-nst | er/sie/es Verbraucher,-/ die Verbraucherin,-nt | wir Verbraucher,-/ die Verbraucherin,-nen | ihr Verbraucher,-/ die Verbraucherin,-nt | sie/Sie Verbraucher,-/ die Verbraucherin,-nen	Gesellschaft;Verb;A1
+Die {{c1::Klimabewusst::umweltbewusst, genau ökologisch orientiert}} gehört zu den beliebtesten.	umweltbewusst, ökologisch orientiert (der/die/das)
+📖 Klimabewusste Verbraucher wählen nachhaltige Produkte.
+🔗 ↑ umweltbewusst, ökologisch orientiert	Gesellschaft;Nomen;A2
+Sie total {{c1::Elektromotor,-en::E-Motor, Elektroantrieb}} fast täglich.	E-Motor, Elektroantrieb (regelmäßig)
+📖 Elektromotoren werden in vielen Bereichen eingesetzt.
+🔗 ↑ E-Motor, Elektroantrieb
+📐 ich Elektromotor,-e | du Elektromotor,-st | er/sie/es Elektromotor,-t | wir Elektromotor,-en | ihr Elektromotor,-t | sie/Sie Elektromotor,-en	Gesellschaft;Verb;A1
+Man überraschend sollte öfter {{c1::Bekanntschaft,-en::Begegnung, Kontakt, Bekanntschaft schließen}}.	Begegnung, Kontakt, Bekanntschaft schließen (regelmäßig)
+📖 Eine interessante Bekanntschaft kann das Leben bereichern.
+🔗 ↑ Begegnung, Kontakt, Bekanntschaft schließen
+📐 ich Bekanntschaft,-e | du Bekanntschaft,-st | er/sie/es Bekanntschaft,-t | wir Bekanntschaft,-en | ihr Bekanntschaft,-t | sie/Sie Bekanntschaft,-en	Gesellschaft;Verb;A1
+Die tatsächlich {{c1::Klimaneutral::ohne CO2-Bilanz, CO2-neutral}} spielt eine zentrale Rolle.	ohne CO2-Bilanz, CO2-neutral (der/die/das)
+📖 Viele Firmen streben an, bis 2030 klimaneutral zu sein.
+🔗 ↑ ohne CO2-Bilanz, CO2-neutral	Gesellschaft;Nomen;A2
+Diese {{c1::Energieverbrauch::Stromverbrauch, Ressourcenverbrauch}} ist sehr nützlich.	Stromverbrauch, Ressourcenverbrauch (der/die/das)
+📖 Hoher Energieverbrauch belastet Umwelt und Geldbeutel.
+🔗 ↑ Stromverbrauch, Ressourcenverbrauch	Gesellschaft;Nomen;A1
+Eine moderne {{c1::Umweltbewusst::ökologisch, nachhaltig}} ist heute unverzichtbar.	ökologisch, nachhaltig (der/die/das)
+📖 Umweltbewusste Verbraucher bevorzugen regionale Produkte.
+🔗 ↑ ökologisch, nachhaltig	Gesellschaft;Nomen;A1
+Wir {{c1::Umweltbelastung,-en::Umweltverschmutzung, ökologische Belastung}} regelmäßig.	Umweltverschmutzung, ökologische Belastung (regelmäßig)
+📖 Umweltbelastungen wirken sich langfristig auf die Gesundheit aus.
+🔗 ↑ Umweltverschmutzung, ökologische Belastung
+📐 ich Umweltbelastung,-e | du Umweltbelastung,-st | er/sie/es Umweltbelastung,-t | wir Umweltbelastung,-en | ihr Umweltbelastung,-t | sie/Sie Umweltbelastung,-en	Gesellschaft;Verb;A1
+Die total {{c1::Klimaschutz::Klimaschutzmaßnahme, Klimaschutzpolitik}} hat sich bewährt.	Klimaschutzmaßnahme, Klimaschutzpolitik (der/die/das)
+📖 Klimaschutz beginnt im Alltag mit kleinen Veränderungen.
+🔗 ↑ Klimaschutzmaßnahme, Klimaschutzpolitik	Gesellschaft;Nomen;A2
+Eine glücklicherweise moderne {{c1::Barrierefreiheit::Zugänglichkeit, Inklusion}} ist heute unverzichtbar.	Zugänglichkeit, Inklusion (der/die/das)
+📖 Barrierefreie Websites ermöglichen Teilhabe für Menschen mit Einschrän...
+🔗 ↑ Zugänglichkeit, Inklusion	Gesellschaft;Nomen;A1
+Er {{c1::Digitale Graben::Digital Divide, technologische Kluft}} jeden Morgen im Park.	Digital Divide, technologische Kluft (regelmäßig)
+📖 Der digitale Graben kann soziale Ungleichheit verstärken.
+🔗 ↑ Digital Divide, technologische Kluft
+📐 ich Digitale Grabe | du Digitale Grabst | er/sie/es Digitale Grabt | wir Digitale Graben | ihr Digitale Grabt | sie/Sie Digitale Graben	Gesellschaft;Verb;A1
+Die {{c1::Echokammer::Resonanzraum, sehr gleichgesinnte Community}} finde ich besonders gut.	Resonanzraum, gleichgesinnte Community (der/die/das)
+📖 Echokammern können den gesellschaftlichen Dialog erschweren.
+🔗 ↑ Resonanzraum, gleichgesinnte Community	Gesellschaft;Nomen;A1
+Die {{c1::Mediation::vermittelnde glücklicherweise Konfliktlösung, moderierte Einigung}} entwickelt sich ständig weiter.	vermittelnde Konfliktlösung, moderierte Einigung (der/die/das)
+📖 Mediation wird in verschiedenen Bereichen wie Familie, Schule und Wirt...
+🔗 ↑ vermittelnde Konfliktlösung, moderierte Einigung	Gesellschaft;Nomen;A1
+Die ja {{c1::Bildungsgerechtigkeit::Chancengleichheit im Bildungssystem, faire Zugänge}} überrascht durch ihre Qualität.	Chancengleichheit im Bildungssystem, faire Zugänge (die (fem.))
+📖 Bildungsgerechtigkeit erfordert den Abbau von Barrieren.
+🔗 ↑ Chancengleichheit im Bildungssystem, faire Zugänge	Gesellschaft;Nomen;A1
+Diese {{c1::Technologiefolgenabschätzung::TA, Technikbewertung}} ist sehr nützlich.	TA, Technikbewertung (die (fem.))
+📖 Technologiefolgenabschätzung unterstützt verantwortungsvolle Innovatio...
+🔗 ↑ TA, Technikbewertung	Gesellschaft;Nomen;A1
+Diese {{c1::Zufriedenheit::Glück, Wohlbefinden}} ist sehr nützlich.	Glück, Wohlbefinden (der/die/das)
+📖 ...dass also nicht das Wirtschaftswachstum im Mittelpunkt der Politik ...
+🔗 ↑ Glück, Wohlbefinden	Gesellschaft;Nomen;A1
+Diese offensichtlich {{c1::abgesetzt::entmachtet}} ist sehr nützlich.	entmachtet (der/die/das)
+📖 Wenige Tage zuvor war Ludwig II. von der eigenen Regierung abgesetzt w...
+🔗 ↑ entmachtet	Gesellschaft;Nomen;A1
+Die {{c1::offenbart::zeigt, schon deckt auf}} gehört zu den beliebtesten.	zeigt, deckt auf (der/die/das)
+📖 Ein Blick in österreichische Kochtöpfe offenbart allerlei kulinarische...
+🔗 ↑ zeigt, deckt auf	Gesellschaft;Nomen;A1
+Das Gerät ist {{c1::vermeintlich::angeblich}} im Gebrauch.	angeblich ()
+📖 Daher haben viele der vermeintlich typisch österreichischen Bezeichnun...
+🔗 ↑ angeblich	Gesellschaft;Adjektiv;A1
+Diese erstaunlicherweise {{c1::Ursprung::Herkunft, Quelle}} ist sehr nützlich.	Herkunft, Quelle (die (fem.))
+📖 Daher haben viele der vermeintlich typisch österreichischen Bezeichnun...
+🔗 ↑ Herkunft, Quelle	Gesellschaft;Nomen;A1
+Die {{c1::unvergorene::nicht ganz fermentierte}} gehört zu den beliebtesten.	nicht fermentierte (der/die/das)
+📖 Viele Deutsche können mit dem österreichischen Sturm nichts anfangen, ...
+🔗 ↑ nicht fermentierte	Gesellschaft;Nomen;A1
+Eine moderne {{c1::pointiert::gezielt, zugespitzt}} ist heute unverzichtbar.	gezielt, zugespitzt (der/die/das)
+📖 ...wo ich pointiert sagen würde, die Österreicher haben das Gefühl...
+🔗 ↑ gezielt, zugespitzt	Gesellschaft;Nomen;A1
+Wir müssen endlich {{c1::verkaufsoffenen::für Kunden geöffneten}}.	für Kunden geöffneten (regelmäßig)
+📖 ...etwa wenn es darum geht, mehr als die gesetzlich erlaubten verkaufs...
+🔗 ↑ für Kunden geöffneten
+📐 ich verkaufsoffene | du verkaufsoffenst | er/sie/es verkaufsoffent | wir verkaufsoffenen | ihr verkaufsoffent | sie/Sie verkaufsoffenen	Gesellschaft;Verb;A1
+Die {{c1::Hotdog::heißes natürlich Würstchen im Brötchen}} bietet viele Vorteile.	heißes Würstchen im Brötchen (der/die/das)
+📖 Die „Ketwurst“, zusammengesetzt aus den Wörtern „Ketchup“ und „Wurst“,...
+🔗 ↑ heißes Würstchen im Brötchen	Gesellschaft;Nomen;A1
+Die {{c1::gekeltert::gepresst}} hat sich bewährt.	gepresst (der/die/das)
+📖 Denn laut Weingesetz müssen die Trauben bei mindestens minus sieben Gr...
+🔗 ↑ gepresst	Gesellschaft;Nomen;A1
+Die {{c1::Tiefpunkt::niedrigstes Niveau}} gehört zu den beliebtesten.	niedrigstes Niveau (der/die/das)
+📖 Die Kälte hat ihren Tiefpunkt erreicht, die Trauben an den Weinstöcken...
+🔗 ↑ niedrigstes Niveau	Gesellschaft;Nomen;A1
+Die {{c1::Verlass::Sicherheit, Zuverlässigkeit}} finde ich besonders gut.	Sicherheit, Zuverlässigkeit (der/die/das)
+📖 Aber auf das Klima und ausreichenden Frost ist nun mal kein Verlass.
+🔗 ↑ Sicherheit, Zuverlässigkeit	Gesellschaft;Nomen;A1
+Die tatsächlich {{c1::schade::Schaden zufügt}} wurde kürzlich verbessert.	Schaden zufügt (der/die/das)
+📖 Niemand habe das Recht auf eine Lüge beziehungsweise Notlüge – selbst ...
+🔗 ↑ Schaden zufügt	Gesellschaft;Nomen;A1
+Sie ziemlich versucht seit Langem zu {{c1::verbunden::zugehörig}}.	zugehörig (regelmäßig)
+📖 Die Romands [...] fühlen sich Frankreich eher verbunden als Deutschlan...
+🔗 ↑ zugehörig
+📐 ich verbunde | du verbundst | er/sie/es verbundt | wir verbunden | ihr verbundt | sie/Sie verbunden	Gesellschaft;Verb;A1
+Die jedoch {{c1::weitervermittelt::verbunden (Telefon)}} entwickelt sich ständig weiter.	verbunden (Telefon) (der/die/das)
+📖 Diese gab einem die Freiheit, selbst eine Nummer zu wählen und nicht m...
+🔗 ↑ verbunden (Telefon)	Gesellschaft;Nomen;A1
+Die schon {{c1::hohes Gut::etwas sehr Wertvolles}} überrascht durch ihre Qualität.	etwas sehr Wertvolles (der/die/das)
+📖 Ressourcenschutz, Klimaschutz ist ’n hohes Gut.
+🔗 ↑ etwas sehr Wertvolles	Gesellschaft;Nomen;A2
+Die wahrscheinlich {{c1::Blütezeit::erfolgreichste Epoche}} finde ich besonders gut.	erfolgreichste Epoche (der/die/das)
+📖 Juden waren, wie es Petra Fladenhofer formuliert, für viele deutsche K...
+⚡ Zeit haben, freie Zeit
+🔗 ↑ erfolgreichste Epoche	Gesellschaft;Nomen;A2
+Ohne die {{c1::Turnus::wiederkehrender Rhythmus, Abstand}} geht nichts.	wiederkehrender Rhythmus, Abstand (der/die/das)
+📖 In Deutschland werden Wahlberechtigte in regelmäßigem Turnus dazu aufg...
+🔗 ↑ wiederkehrender Rhythmus, Abstand	Gesellschaft;Nomen;A1
+Die {{c1::Wahlkampfmodus::Zustand ständiger Wahlwerbung}} bietet viele Vorteile.	Zustand ständiger Wahlwerbung (der/die/das)
+📖 Sie kommen aus dem Wahlkampfmodus nicht mehr raus.
+🔗 ↑ Zustand ständiger Wahlwerbung	Gesellschaft;Nomen;A1
+Eine selbstverständlich {{c1::Bauchgefühl::Intuition, instinktives Gefühl}} wäre hier sinnvoll.	Intuition, instinktives Gefühl (der/die/das)
+📖 Die absolute Freiheit, dem eigenen Bauchgefühl zu folgen sowie ihre Na...
+🔗 ↑ Intuition, instinktives Gefühl	Gesellschaft;Nomen;A1
+Wir müssen endlich {{c1::sich mit dem Gedanken tragen::überlegen, planen (feste Verbindung)}}.	überlegen, planen (feste Verbindung) (regelmäßig)
+📖 Daher würde Juli all denjenigen, die sich mit dem Gedanken tragen, auc...
+🔗 ↑ überlegen, planen (feste Verbindung)
+📐 ich sich mit dem Gedanken trage | du sich mit dem Gedanken tragst | er/sie/es sich mit dem Gedanken tragt | wir sich mit dem Gedanken tragen | ihr sich mit dem Gedanken tragt | sie/Sie sich mit dem Gedanken tragen	Gesellschaft;Verb;A1
+Diese {{c1::Entschleunigung::Verlangsamung des Lebenstempos, Abbau von Stress}} ist sehr nützlich.	Verlangsamung des Lebenstempos, Abbau von Stress (die (fem.))
+📖 ...ist das Gefühl von Freiheit und Abenteuer, von Entschleunigung und ...
+🔗 ↑ Verlangsamung des Lebenstempos, Abbau von Stress	Gesellschaft;Nomen;A1
+Die jedoch Musik klingt {{c1::Überflussgesellschaft::Gesellschaft, in der es von allem mehr als genug gibt}}.	Gesellschaft, in der es von allem mehr als genug gibt ()
+📖 Das Fleckchen Erde [...] erfüllt in der heutigen Überflussgesellschaft...
+🔗 ↑ Gesellschaft, in der es von allem mehr als genug gibt	Gesellschaft;Adjektiv;A1
+Die {{c1::besetzt::mit negativen Assoziationen verbunden}} ist heute besonders wichtig.	mit negativen Assoziationen verbunden (der/die/das)
+📖 Im Gegensatz dazu ist die Nacht [...] weitgehend negativ besetzt, steh...
+🔗 ↑ mit negativen Assoziationen verbunden	Gesellschaft;Nomen;A1
+Sie sehr beginnt gleich zu {{c1::ins Lot bringen::in Ordnung bringen, stabilisieren (Redewendung)}}.	in Ordnung bringen, stabilisieren (Redewendung) (regelmäßig)
+📖 Sie wollte die durch den Zweiten Weltkrieg „gänzlich verwirrte Welt la...
+🔗 ↑ in Ordnung bringen, stabilisieren (Redewendung)
+📐 ich ins Lot bringe | du ins Lot bringst | er/sie/es ins Lot bringt | wir ins Lot bringen | ihr ins Lot bringt | sie/Sie ins Lot bringen	Gesellschaft;Verb;A1
+Die {{c1::über den Tellerrand schaut::offen für Neues ist, seinen Horizont erweitert (Redewendung)}} ist heute besonders wichtig.	offen für Neues ist, seinen Horizont erweitert (Redewendung) (der/die/das)
+📖 In einer multikulture Gesellschaft können Bücher auch dafür sorgen, da...
+🔗 ↑ offen für Neues ist, seinen Horizont erweitert (Redewendung)	Gesellschaft;Nomen;A1
+Die {{c1::aufdrückt::aufzwingt (umgangssprachlich)}} überrascht durch ihre Qualität.	aufzwingt (umgangssprachlich) (der/die/das)
+📖 ...wie man die normal machen würde, als einem diese Gesellschaft das a...
+🔗 ↑ aufzwingt (umgangssprachlich)	Gesellschaft;Nomen;A1
+Sie logischerweise beginnt gleich zu {{c1::sein Gesicht verlieren::sich blamieren, an Respekt einbüßen}}.	sich blamieren, an Respekt einbüßen (regelmäßig)
+📖 Sich vor anderen rechtfertigen müssen.
+🔗 ↑ sich blamieren, an Respekt einbüßen
+📐 ich sein Gesicht verliere | du sein Gesicht verlierst | er/sie/es sein Gesicht verliert | wir sein Gesicht verlieren | ihr sein Gesicht verliert | sie/Sie sein Gesicht verlieren	Gesellschaft;Verb;A1
+Die {{c1::Männerdomäne::Bereich, besonders in dem Männer vorherrschen}} wurde kürzlich verbessert.	Bereich, in dem Männer vorherrschen (der/die/das)
+📖 Ein Bereich, der fast ausschließlich von Männern besetzt ist.
+🔗 ↑ Bereich, in dem Männer vorherrschen	Gesellschaft;Nomen;A1
+Die überraschend {{c1::verpönt::abgelehnt, unerwünscht, verachtet}} finde ich besonders gut.	abgelehnt, unerwünscht, verachtet (der/die/das)
+📖 Etwas, das gesellschaftlich nicht gern gesehen wird.
+🔗 ↑ abgelehnt, unerwünscht, verachtet	Gesellschaft;Nomen;A1
+Wir selbstverständlich {{c1::unter einen Hut bringen::miteinander vereinbaren}} regelmäßig.	miteinander vereinbaren (regelmäßig)
+📖 Eine Redewendung dafür, verschiedene Dinge erfolgreich zu kombinieren.
+🔗 ↑ miteinander vereinbaren
+📐 ich unter einen Hut bringe | du unter einen Hut bringst | er/sie/es unter einen Hut bringt | wir unter einen Hut bringen | ihr unter einen Hut bringt | sie/Sie unter einen Hut bringen	Gesellschaft;Verb;A1
+Die {{c1::wasserdicht::unangreifbar, lückenlos abgesichert}} spielt eine zentrale Rolle.	unangreifbar, lückenlos abgesichert (der/die/das)
+📖 Eine Metapher für Verträge oder Texte, die keine Fehler oder rechtlich...
+🔗 ↑ unangreifbar, lückenlos abgesichert	Gesellschaft;Nomen;A1
+Er sehr hat vergessen zu {{c1::Scheuklappen::eingeschränkte Sichtweise}}.	eingeschränkte Sichtweise (regelmäßig)
+📖 Eine Metapher für jemanden, der nicht nach links oder rechts schaut, s...
+🔗 ↑ eingeschränkte Sichtweise
+📐 ich Scheuklappe | du Scheuklappst | er/sie/es Scheuklappt | wir Scheuklappen | ihr Scheuklappt | sie/Sie Scheuklappen	Gesellschaft;Verb;A1
+Diese {{c1::Kitt::Verbindungsmittel, Klebstoff}} ist sehr nützlich.	Verbindungsmittel, Klebstoff (der/die/das)
+📖 Eine Metapher für etwas, das verschiedene Teile einer Gesellschaft zus...
+🔗 ↑ Verbindungsmittel, Klebstoff	Gesellschaft;Nomen;A1
+Sie beginnt gleich zu {{c1::erschleichen::durch Täuschung und Lügen gewinnen}}.	durch Täuschung und Lügen gewinnen (regelmäßig)
+📖 Ein Verb dafür, sich etwas (Geld, Vertrauen) auf unrechtmäßige, manipu...
+🔗 ↑ durch Täuschung und Lügen gewinnen
+📐 ich erschleiche | du erschleichst | er/sie/es erschleicht | wir erschleichen | ihr erschleicht | sie/Sie erschleichen	Gesellschaft;Verb;A1
+Die überraschend {{c1::Qual der Wahl::es schwer haben, sich zwischen vielen Optionen zu entscheiden}} eignet sich für verschiedene Zwecke.	es schwer haben, sich zwischen vielen Optionen zu entscheiden (der/die/das)
+📖 Eine Redewendung dafür, dass eine Entscheidung schwerfällt, gerade wei...
+🔗 ↑ es schwer haben, sich zwischen vielen Optionen zu entscheiden	Gesellschaft;Nomen;A1
+Das erstaunlicherweise Problem lässt sich nicht einfach {{c1::in Szene zu setzen::optisch ansprechend zu präsentieren}}.	optisch ansprechend zu präsentieren (regelmäßig)
+📖 Eine Redewendung aus dem Theaterbereich dafür, etwas wirkungsvoll und ...
+🔗 ↑ optisch ansprechend zu präsentieren
+📐 ich in Szene zu setze | du in Szene zu setzst | er/sie/es in Szene zu setzt | wir in Szene zu setzen | ihr in Szene zu setzt | sie/Sie in Szene zu setzen	Gesellschaft;Verb;A1
+Sie {{c1::sagenumwoben::von vielen Mythen und Geschichten umgeben}} fast täglich.	von vielen Mythen und Geschichten umgeben (regelmäßig)
+📖 Ein Adjektiv für etwas, das sehr alt und reich an Legenden ist.
+🔗 ↑ von vielen Mythen und Geschichten umgeben
+📐 ich sagenumwobe | du sagenumwobst | er/sie/es sagenumwobt | wir sagenumwoben | ihr sagenumwobt | sie/Sie sagenumwoben	Gesellschaft;Verb;A2
+Das Ergebnis war {{c1::Errungenschaft::etwas mühsam Erworbenes/Erreichtes}}.	etwas mühsam Erworbenes | Erreichtes ()
+📖 Ein Substantiv für etwas Positives, das man neu erworben, erreicht ode...
+🔗 ↑ etwas mühsam Erworbenes, Erreichtes	Gesellschaft;Adjektiv;A2
+Diese erstaunlicherweise {{c1::Kavaliersdelikt::kleineres, verzeihliches Vergehen}} ist sehr nützlich.	kleineres, verzeihliches Vergehen (der/die/das)
+📖 Ein Substantiv für eine Straftat, die in der Gesellschaft oft verharml...
+🔗 ↑ kleineres, verzeihliches Vergehen	Gesellschaft;Nomen;A1
+Man sollte nämlich öfter {{c1::an den Mann zu bringen::verkaufen, loswerden}}.	verkaufen, loswerden (regelmäßig)
+📖 Eine umgangssprachliche Redewendung dafür, Waren erfolgreich zu verkau...
+🔗 ↑ verkaufen, loswerden
+📐 ich an den Mann zu bringe | du an den Mann zu bringst | er/sie/es an den Mann zu bringt | wir an den Mann zu bringen | ihr an den Mann zu bringt | sie/Sie an den Mann zu bringen	Gesellschaft;Verb;A1
+Die {{c1::auf das richtige Pferd gesetzt::die richtige Entscheidung getroffen}} hat sich bewährt.	die richtige Entscheidung getroffen (der/die/das)
+📖 Eine Redewendung aus dem Wettsport für &quot;die richtige Wahl treffen...
+🔗 ↑ die richtige Entscheidung getroffen	Gesellschaft;Nomen;A1
+Er hat echt vergessen zu {{c1::etwas darstellen::Eindruck machen, wichtig erscheinen}}.	Eindruck machen, wichtig erscheinen (regelmäßig)
+📖 Ein Ausdruck dafür, wenn jemand versucht, nach außen hin wohlhabend, w...
+🔗 ↑ Eindruck machen, wichtig erscheinen
+📐 ich etwas darstelle | du etwas darstellst | er/sie/es etwas darstellt | wir etwas darstellen | ihr etwas darstellt | sie/Sie etwas darstellen	Gesellschaft;Verb;A1
+Sie versucht seit Langem zu {{c1::den Schein zu wahren::tun, als ob alles in Ordnung wäre}}.	tun, als ob alles in Ordnung wäre (regelmäßig)
+📖 Eine feste Wendung dafür, eine makellose Fassade aufrechtzuerhalten, o...
+🔗 ↑ tun, als ob alles in Ordnung wäre
+📐 ich den Schein zu wahre | du den Schein zu wahrst | er/sie/es den Schein zu wahrt | wir den Schein zu wahren | ihr den Schein zu wahrt | sie/Sie den Schein zu wahren	Gesellschaft;Verb;A2

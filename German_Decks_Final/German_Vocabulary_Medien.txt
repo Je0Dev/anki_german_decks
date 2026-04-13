@@ -1,0 +1,49 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::Medien
+Seine Meinung ist durchaus {{c1::befremdlich::seltsam/irritierend}}.	seltsam | irritierend ()
+📖 Ihre kalte Reaktion auf die gute Nachricht wirkte sehr befremdlich.
+🔗 ↑ seltsam, irritierend	Medien;Adjektiv;A2
+Wir sollten sofort {{c1::erfahren::erleben}}.	erleben (regelmäßig)
+📖 Wir haben erst gestern durch die Zeitung von diesem Unfall erfahren.
+🔗 ↑ erleben
+📐 ich erfahre | du erfahrst | er/sie/es erfahrt | wir erfahren | ihr erfahrt | sie/Sie erfahren	Medien;Verb;A2
+Sie versucht seit Langem zu {{c1::schlucken::herunterschlucken/einnehmen}}.	herunterschlucken | einnehmen (regelmäßig)
+📖 Er musste bei der schlechten Nachricht erst einmal schwer schlucken.
+🔗 ↑ herunterschlucken, einnehmen
+📐 ich schlucke | du schluckst | er/sie/es schluckt | wir schlucken | ihr schluckt | sie/Sie schlucken	Medien;Verb;A1
+Das Problem schon lässt sich nicht einfach {{c1::renommierten::angesehen}}.	angesehen (regelmäßig)
+📖 Er wurde gestern von einem überaus renommierten Magazin für sein Foto ...
+🔗 ↑ angesehen
+📐 ich renommierte | du renommiertst | er/sie/es renommiertt | wir renommierten | ihr renommiertt | sie/Sie renommierten	Medien;Verb;A1
+Die ganz {{c1::Standardsprache::die Hochsprache, die Normsprache}} bietet viele Vorteile.	die Hochsprache, die Normsprache (der/die/das)
+📖 Im offiziellen Fernsehen wird eigentlich fast immer nur die völlig rei...
+🔗 ↑ die Hochsprache, die Normsprache	Medien;Nomen;A1
+Die selbstverständlich {{c1::Objekt::Gegenstand, Ding}} hat sich bewährt.	Gegenstand, Ding (der/die/das)
+📖  Manche Boulevardzeitungen sprachen sofort von einem außerirdischen Ra...
+🔗 ↑ Gegenstand, Ding	Medien;Nomen;A2
+Wir sollten sofort {{c1::Produzent,-en/ die Produzentin,-nen::Hersteller, Erzeuger}}.	Hersteller, Erzeuger (regelmäßig)
+📖 Produzenten von Nachrichten müssen objektiv bleiben.
+🔗 ↑ Hersteller, Erzeuger
+📐 ich Produzent,-en/ die Produzentin,-ne | du Produzent,-en/ die Produzentin,-nst | er/sie/es Produzent,-en/ die Produzentin,-nt | wir Produzent,-en/ die Produzentin,-nen | ihr Produzent,-en/ die Produzentin,-nt | sie/Sie Produzent,-en/ die Produzentin,-nen	Medien;Verb;A1
+Wir müssen sehr endlich {{c1::Produzent,-en/ die Produzentin,-nen::Hersteller, Erzeuger}}.	Hersteller, Erzeuger (regelmäßig)
+📖 Produzenten von Nachrichten müssen objektiv bleiben.
+🔗 ↑ Hersteller, Erzeuger
+📐 ich Produzent,-en/ die Produzentin,-ne | du Produzent,-en/ die Produzentin,-nst | er/sie/es Produzent,-en/ die Produzentin,-nt | wir Produzent,-en/ die Produzentin,-nen | ihr Produzent,-en/ die Produzentin,-nt | sie/Sie Produzent,-en/ die Produzentin,-nen	Medien;Verb;A1
+Die wahrscheinlich {{c1::Fernsehsender,-/ der Radiosender,-::TV-Station, Rundfunkstation}} wurde kürzlich verbessert.	TV-Station, Rundfunkstation (der/die/das)
+📖 Der Sender hat sein Programm erweitert.
+⚡ zu Ende bringen, ein Ende finden
+🔗 ↑ TV-Station, Rundfunkstation	Medien;Nomen;A1
+Eine {{c1::Dauerschleife::ständige, endlose Wiederholung}} wäre hier sinnvoll.	ständige, endlose Wiederholung (der/die/das)
+📖 Schlechte Nachrichten in Dauerschleife: Überschwemmungen, Unglücke, Bo...
+🔗 ↑ ständige, endlose Wiederholung	Medien;Nomen;A1
+Ohne die {{c1::omnipräsent::allgegenwärtig, überall vorhanden}} geht nichts.	allgegenwärtig, überall vorhanden (der/die/das)
+📖 Man sieht das ja omnipräsent im Fernsehen, dass irgendwelche Köche irg...
+🔗 ↑ allgegenwärtig, überall vorhanden	Medien;Nomen;A1
+Eine {{c1::die Runde gemacht::sich schnell verbreiten, bekannt werden}} wäre hier sinnvoll.	sich schnell verbreiten, bekannt werden (der/die/das)
+📖 Eine Redewendung dafür, dass eine Nachricht, ein Lied oder ein Gerücht...
+🔗 ↑ sich schnell verbreiten, bekannt werden	Medien;Nomen;A1
+Die {{c1::geistert::spukt/kursiert}} überrascht durch ihre Qualität.	spukt | kursiert (der/die/das)
+📖 Ein tolles Verb, um zu beschreiben, dass ein Thema (oft ein Gerücht od...
+🔗 ↑ spukt, kursiert	Medien;Nomen;A1

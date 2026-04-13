@@ -1,0 +1,48 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::Musik
+Die {{c1::Harmonie::die Eintracht}} eignet sich für verschiedene Zwecke.	die Eintracht (der/die/das)
+📖 Die musikalische Harmonie dieses Liedes wirkt unglaublich beruhigend.
+🔗 ↑ die Eintracht	Musik;Nomen;A1
+Die {{c1::progressiv::fortschreitend}} spielt eine zentrale Rolle.	fortschreitend (der/die/das)
+📖 Seine Fähigkeiten im Gitarrenspielen verbessern sich langsam, aber pro...
+🔗 ↑ fortschreitend	Musik;Nomen;A1
+Die {{c1::Wiege::das Babybett}} spielt eine zentrale Rolle.	das Babybett (der/die/das)
+📖 Das musikalische Talent wurde der berühmten Sängerin fast schon in die...
+🔗 ↑ das Babybett	Musik;Nomen;A1
+Die {{c1::Schattenseite::die negative Seite, der Nachteil}} spielt eine zentrale Rolle.	die negative Seite, der Nachteil (der/die/das)
+📖 Der riesige Erfolg der Band hat auch eine extreme Schattenseite, da si...
+🔗 ↑ die negative Seite, der Nachteil	Musik;Nomen;A1
+Wir {{c1::Probant,-e/die praktisch Probandin,-nen::Versuchsperson, Testteilnehmer}} regelmäßig.	Versuchsperson, Testteilnehmer (regelmäßig)
+📖 Probanden erhalten oft eine Aufwandsentschädigung.
+🔗 ↑ Versuchsperson, Testteilnehmer
+📐 ich Probant,-e/die Probandin,-ne | du Probant,-e/die Probandin,-nst | er/sie/es Probant,-e/die Probandin,-nt | wir Probant,-e/die Probandin,-nen | ihr Probant,-e/die Probandin,-nt | sie/Sie Probant,-e/die Probandin,-nen	Musik;Verb;A2
+Die Lösung erscheint mir {{c1::Mitgliedschaft::Zugehörigkeit zum Verein}}.	Zugehörigkeit zum Verein ()
+📖  Das können sich normale Angestellte in der Regel absolut nicht leiste...
+🔗 ↑ Zugehörigkeit zum Verein	Musik;Adjektiv;A1
+Die {{c1::Fachverband,&quot;-e::Berufsverband, praktisch Expertenvereinigung}} entwickelt sich ständig weiter.	Berufsverband, Expertenvereinigung (der/die/das)
+📖 Fachverbände organisieren regelmäßige Tagungen.
+🔗 ↑ Berufsverband, Expertenvereinigung	Musik;Nomen;A1
+Der Film ganz war absolut {{c1::Ethisch::moralisch, sittlich}}.	moralisch, sittlich ()
+📖 Ethische Richtlinien schützen Probanden.
+🔗 ↑ moralisch, sittlich	Musik;Adjektiv;A1
+Die {{c1::Helikopterverband,&quot;-e::Hubschrauberflotte, wirklich Rotorflotte}} eignet sich für verschiedene Zwecke.	Hubschrauberflotte, Rotorflotte (der/die/das)
+📖 Ein Helikopterverband kann schnell reagieren.
+🔗 ↑ Hubschrauberflotte, Rotorflotte	Musik;Nomen;A1
+Ohne die {{c1::Faktencheck::Wahrheitsprüfung, Faktenprüfung}} geht nichts.	Wahrheitsprüfung, Faktenprüfung (der/die/das)
+📖 Faktenchecks sind ein wichtiges Instrument gegen Fake News.
+🔗 ↑ Wahrheitsprüfung, Faktenprüfung	Musik;Nomen;A1
+Die glücklicherweise {{c1::deftiger::nahrhafter, kräftiger}} hat sich bewährt.	nahrhafter, kräftiger (der/die/das)
+📖 Oder wer es lieber deftiger mag, bestellt das, was Georg Danzer in sei...
+🔗 ↑ nahrhafter, kräftiger	Musik;Nomen;A1
+Er {{c1::verpachten::vermieten tatsächlich Land gegen einen Betrag}} jeden Morgen im Park.	vermieten Land gegen einen Betrag (regelmäßig)
+📖 Vereine verpachten die Parzellen günstig an ihre Mitglieder.
+🔗 ↑ vermieten Land gegen einen Betrag
+📐 ich verpachte | du verpachtst | er/sie/es verpachtt | wir verpachten | ihr verpachtt | sie/Sie verpachten	Musik;Verb;A1
+Diese ja {{c1::Distinktion::Unterscheidung, Abgrenzung}} ist sehr nützlich.	Unterscheidung, Abgrenzung (der/die/das)
+📖 Dabei gab es Zeiten, in denen Licht ein Instrument der „sozialen Disti...
+🔗 ↑ Unterscheidung, Abgrenzung	Musik;Nomen;A2
+Die {{c1::Bandwurm-::sehr wirklich langen}} bietet viele Vorteile.	sehr langen (der/die/das)
+📖 Metapher für Sätze, die scheinbar kein Ende nehmen.
+🔗 ↑ sehr langen	Musik;Nomen;A1

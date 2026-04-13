@@ -1,0 +1,231 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::Wirtschaft
+Die {{c1::Wandel::die logischerweise Veränderung}} entwickelt sich ständig weiter.	die Veränderung (der/die/das)
+📖 Der demografische Wandel stellt unsere Wirtschaft vor große Probleme.
+🔗 ↑ die Veränderung	Wirtschaft;Nomen;A2
+Die {{c1::Produktionsablauf::der Herstellungsprozess}} finde ich besonders gut.	der Herstellungsprozess (der/die/das)
+📖 Ein kleiner Fehler störte den gesamten Produktionsablauf der Fabrik.
+🔗 ↑ der Herstellungsprozess	Wirtschaft;Nomen;A2
+Die nämlich {{c1::Infolge::wegen/aufgrund}} gehört zu den beliebtesten.	wegen | aufgrund (der/die/das)
+📖 Infolge der rasanten Inflation stiegen die Preise im Supermarkt drasti...
+🔗 ↑ wegen, aufgrund	Wirtschaft;Nomen;A1
+Die {{c1::richtet sich nach::abhängig sein von}} wurde kürzlich verbessert.	abhängig sein von (der/die/das)
+📖 Der Preis für das Gemüse auf dem Markt richtet sich nach dem aktuellen...
+🔗 ↑ abhängig sein von	Wirtschaft;Nomen;A1
+Diese doch {{c1::Skulptur::die Plastik}} ist sehr nützlich.	die Plastik (der/die/das)
+📖 Die abstrakte und moderne Skulptur auf dem Marktplatz gefällt nicht je...
+🔗 ↑ die Plastik	Wirtschaft;Nomen;A1
+Die {{c1::Infrastruktur::die Versorgungseinrichtungen}} hat sich bewährt.	die Versorgungseinrichtungen (der/die/das)
+📖 Eine intakte Infrastruktur ist unfassbar wichtig für die Wirtschaft de...
+🔗 ↑ die Versorgungseinrichtungen	Wirtschaft;Nomen;A1
+Die {{c1::fundiertes::tiefgründig}} hat sich bewährt.	tiefgründig (der/die/das)
+📖 Der Journalist schrieb einen sehr fundierten Artikel über die drohende...
+🔗 ↑ tiefgründig	Wirtschaft;Nomen;A1
+Die {{c1::Markteinführung::die Präsentation}} eignet sich für verschiedene Zwecke.	die Präsentation (die (fem.))
+📖 Die weltweite Markteinführung des neuen Videospiels wurde kurzfristig ...
+🔗 ↑ die Präsentation	Wirtschaft;Nomen;A2
+Das Problem lässt sich nicht einfach {{c1::nachgelagerten::nachfolgend, später}}.	nachfolgend, später (regelmäßig)
+📖 Bei Fehlern in der Produktion leiden auch alle nachgelagerten Abteilun...
+🔗 ↑ nachfolgend, später
+📐 ich nachgelagerte | du nachgelagertst | er/sie/es nachgelagertt | wir nachgelagerten | ihr nachgelagertt | sie/Sie nachgelagerten	Wirtschaft;Verb;A1
+Diese {{c1::Produktionsmittel::die Produktionsfaktoren, die Arbeitsmittel}} ist sehr nützlich.	die Produktionsfaktoren, die Arbeitsmittel (der/die/das)
+📖 Wer die Kontrolle über die wichtigsten Produktionsmittel besitzt, hat ...
+🔗 ↑ die Produktionsfaktoren, die Arbeitsmittel	Wirtschaft;Nomen;A1
+Ohne besonders die {{c1::Unterscheidungsmerkmal::das Merkmal, das Kriterium}} geht nichts.	das Merkmal, das Kriterium (der/die/das)
+📖 Der hohe Preis ist leider oft das einzige Unterscheidungsmerkmal bei d...
+🔗 ↑ das Merkmal, das Kriterium	Wirtschaft;Nomen;A1
+Die {{c1::Eben::genau, gerade}} spielt eine zentrale Rolle.	genau, gerade (der/die/das)
+📖 Ich habe ihn eben noch drüben im Supermarkt an der Kasse gesehen.
+🔗 ↑ genau, gerade	Wirtschaft;Nomen;A1
+Die tatsächlich {{c1::Norm::der Standard, die Regel}} hat sich bewährt.	der Standard, die Regel (der/die/das)
+📖 Die Bauteile müssen zwingend einer extrem wichtigen industriellen Norm...
+🔗 ↑ der Standard, die Regel	Wirtschaft;Nomen;A1
+Sie überraschend {{c1::Handeln::die Tat, die Aktion}} fast täglich.	die Tat, die Aktion (regelmäßig)
+📖 Das zögerliche Handeln der Polizei wurde später extrem hart und absolu...
+🔗 ↑ die Tat, die Aktion
+📐 ich Handee | du Handest | er/sie/es Handet | wir Handeen | ihr Handet | sie/Sie Handeen	Wirtschaft;Verb;A1
+Die total {{c1::Wirtschaftsweise::die Wirtschaftsmethode, das System}} eignet sich für verschiedene Zwecke.	die Wirtschaftsmethode, das System (der/die/das)
+📖 Wir brauchen eine extrem absolut völlig nachhaltige Wirtschaftsweise, ...
+🔗 ↑ die Wirtschaftsmethode, das System	Wirtschaft;Nomen;A2
+Diese jedoch {{c1::Industrieproduktion::die Produktion, die Herstellung}} ist sehr nützlich.	die Produktion, die Herstellung (der/die/das)
+📖 Während der absolut extrem tiefen Krise brach die gesamte Industriepro...
+🔗 ↑ die Produktion, die Herstellung	Wirtschaft;Nomen;A1
+Eine moderne ziemlich {{c1::begehrt::gefragt, populär}} ist heute unverzichtbar.	gefragt, populär (der/die/das)
+📖  Auf dem Schwarzmarkt werden sie jetzt zu horrenden Preisen gehandelt.
+🔗 ↑ gefragt, populär	Wirtschaft;Nomen;A1
+Man eigentlich sollte öfter {{c1::Anwachsen::Steigen, Zunehmen}}.	Steigen, Zunehmen (regelmäßig)
+📖  Wir müssen dringend nachhaltigere Wege der Nahrungsmittelproduktion f...
+🔗 ↑ Steigen, Zunehmen
+📐 ich Anwachse | du Anwachsst | er/sie/es Anwachst | wir Anwachsen | ihr Anwachst | sie/Sie Anwachsen	Wirtschaft;Verb;A2
+Die leider {{c1::Exportnation::Ausfuhrland, Industrieland}} gehört zu den beliebtesten.	Ausfuhrland, Industrieland (der/die/das)
+📖  Zölle und Handelsbarrieren treffen unsere Wirtschaft daher besonders ...
+⚡ der richtige Ort, ein schöner Ort
+🔗 ↑ Ausfuhrland, Industrieland	Wirtschaft;Nomen;A1
+Die {{c1::Erhebungsjahr::Untersuchungszeitraum, jedoch Jahr der Datenerfassung}} ist heute besonders wichtig.	Untersuchungszeitraum, Jahr der Datenerfassung (der/die/das)
+📖  Die neuen Produkte wurden vom Markt hervorragend angenommen.
+🔗 ↑ Untersuchungszeitraum, Jahr der Datenerfassung	Wirtschaft;Nomen;A2
+Diese also {{c1::Absatzmarkt::Käufermarkt, Handelsmarkt}} ist sehr nützlich.	Käufermarkt, Handelsmarkt (der/die/das)
+📖  Dort wächst die Mittelschicht rasant und die Kaufkraft steigt.
+🔗 ↑ Käufermarkt, Handelsmarkt	Wirtschaft;Nomen;A1
+Er logischerweise hat vergessen zu {{c1::Tabakkonzern::Zigarettenhersteller, Großunternehmen}}.	Zigarettenhersteller, Großunternehmen (regelmäßig)
+📖  Sie sehen dort den lukrativen Wachstumsmarkt der Zukunft.
+🔗 ↑ Zigarettenhersteller, Großunternehmen
+📐 ich Tabakkonzee | du Tabakkonzest | er/sie/es Tabakkonzet | wir Tabakkonzeen | ihr Tabakkonzet | sie/Sie Tabakkonzeen	Wirtschaft;Verb;A1
+Die {{c1::Vermarktung::Komerzialisierung, das Marketing}} hat sich bewährt.	Komerzialisierung, das Marketing (die (fem.))
+📖  Das Produktionsstudio hofft nun auf rekordverdächtige Einspielergebni...
+🔗 ↑ Komerzialisierung, das Marketing	Wirtschaft;Nomen;A1
+Die {{c1::unbegrenzt::grenzenlos, unendlich}} eignet sich für verschiedene Zwecke.	grenzenlos, unendlich (der/die/das)
+📖  Gefühlt fast wöchentlich kommen wieder völlig neue technologische Inn...
+🔗 ↑ grenzenlos, unendlich	Wirtschaft;Nomen;A2
+Die {{c1::uninteressant::langweilig, öd}} wurde kürzlich verbessert.	langweilig, öd (der/die/das)
+📖 Ein uninteressantes Angebot findet auf dem Markt kaum Beachtung.
+🔗 ↑ langweilig, öd	Wirtschaft;Nomen;A1
+Eine echt moderne {{c1::konkurrieren mit::wetteifern mit, konkurrieren}} ist heute unverzichtbar.	wetteifern mit, konkurrieren (der/die/das)
+📖 Sie konkurrieren mit den Marktführern.
+🔗 ↑ wetteifern mit, konkurrieren	Wirtschaft;Nomen;A1
+Die {{c1::Exportnation::Ausfuhrland, Handelsmacht}} hat sich bewährt.	Ausfuhrland, Handelsmacht (der/die/das)
+📖 Als Exportnation ist man abhängig vom Weltmarkt.
+⚡ ein schöner Ort, der richtige Ort
+🔗 ↑ Ausfuhrland, Handelsmacht	Wirtschaft;Nomen;A1
+Die {{c1::Vermarktung::Verkaufsförderung, Marketing}} wurde kürzlich verbessert.	Verkaufsförderung, Marketing (die (fem.))
+📖 Eine gelungene Vermarktung ist entscheidend für den Erfolg.
+🔗 ↑ Verkaufsförderung, Marketing	Wirtschaft;Nomen;A1
+Man sollte öfter {{c1::bestimmen::ermitteln, festlegen}}.	ermitteln, festlegen (regelmäßig)
+📖 Der Preis wird durch Angebot und Nachfrage bestimmt.
+🔗 ↑ ermitteln, festlegen
+📐 ich bestimme | du bestimmst | er/sie/es bestimmt | wir bestimmen | ihr bestimmt | sie/Sie bestimmen	Wirtschaft;Verb;A1
+Es offensichtlich ist Zeit zu {{c1::Wertvorstellung,-en::Wert, ethische Überzeugung}}.	Wert, ethische Überzeugung (regelmäßig)
+📖 Unsere Wertvorstellungen leiten unser Handeln.
+🔗 ↑ Wert, ethische Überzeugung
+📐 ich Wertvorstellung,-e | du Wertvorstellung,-st | er/sie/es Wertvorstellung,-t | wir Wertvorstellung,-en | ihr Wertvorstellung,-t | sie/Sie Wertvorstellung,-en	Wirtschaft;Verb;A1
+Eine also {{c1::lesenswert::empfehlenswert zu lesen}} Geschichte erzählt sie gern.	empfehlenswert zu lesen ()
+📖  Die behandelten Themen sind nämlich zeitlos und extrem spannend.
+🔗 ↑ empfehlenswert zu lesen	Wirtschaft;Adjektiv;A2
+Die {{c1::christliche::zum Christentum gehörende}} finde ich besonders gut.	zum Christentum gehörende (der/die/das)
+📖  Nahezu alle großen Gemälde behandelten damals primär religiöse Motive...
+🔗 ↑ zum Christentum gehörende	Wirtschaft;Nomen;A2
+Die ja {{c1::Produktionsmittel::Mittel zur Herstellung}} spielt eine zentrale Rolle.	Mittel zur Herstellung (der/die/das)
+📖  Ohne sie könnten wir die gewaltige Masse an Gütern niemals herstellen...
+🔗 ↑ Mittel zur Herstellung	Wirtschaft;Nomen;A2
+Die {{c1::Produktionsmittel,-::Produktionsfaktor, doch Arbeitsmittel}} finde ich besonders gut.	Produktionsfaktor, Arbeitsmittel (der/die/das)
+📖 Maschinen sind wichtige Produktionsmittel.
+🔗 ↑ Produktionsfaktor, Arbeitsmittel	Wirtschaft;Nomen;A1
+Wir {{c1::Industrienation,-en::Industrieland, doch Wirtschaftsmacht}} regelmäßig.	Industrieland, Wirtschaftsmacht (regelmäßig)
+📖 Deutschland ist eine führende Industrienation.
+🔗 ↑ Industrieland, Wirtschaftsmacht
+📐 ich Industrienation,-e | du Industrienation,-st | er/sie/es Industrienation,-t | wir Industrienation,-en | ihr Industrienation,-t | sie/Sie Industrienation,-en	Wirtschaft;Verb;A1
+Ohne die selbstverständlich {{c1::Bildungsangebot,-e::Lernangebot, Bildungsprogramm}} geht nichts.	Lernangebot, Bildungsprogramm (der/die/das)
+📖 Medien bieten auch Bildungsangebote an.
+🔗 ↑ Lernangebot, Bildungsprogramm	Wirtschaft;Nomen;A1
+Die {{c1::Doppelziel,-e::zweifache Zielsetzung, zwei Ziele}} überrascht durch ihre Qualität.	zweifache Zielsetzung, zwei Ziele (der/die/das)
+📖 Das Doppelziel von Unabhängigkeit und Wirtschaftlichkeit ist herausfor...
+🔗 ↑ zweifache Zielsetzung, zwei Ziele	Wirtschaft;Nomen;A1
+Die {{c1::Destillation::Verdampfung, Trennverfahren}} wurde kürzlich verbessert.	Verdampfung, Trennverfahren (der/die/das)
+📖  Das ist ein absolut grundlegender Prozess in der modernen chemischen ...
+🔗 ↑ Verdampfung, Trennverfahren	Wirtschaft;Nomen;A1
+Die wahrscheinlich {{c1::Handelszentrum::Umschlagplatz, Marktplatz}} spielt eine zentrale Rolle.	Umschlagplatz, Marktplatz (der/die/das)
+📖  Kaufleute aus aller Herren Länder trafen sich dort, um teure Waren zu...
+🔗 ↑ Umschlagplatz, Marktplatz	Wirtschaft;Nomen;A1
+Eine {{c1::Schicht::Klasse, Bevölkerungsgruppe}} wäre hier sinnvoll.	Klasse, Bevölkerungsgruppe (der/die/das)
+📖  Für sie wird das tägliche Leben im Supermarkt langsam wirklich absolu...
+🔗 ↑ Klasse, Bevölkerungsgruppe	Wirtschaft;Nomen;A1
+Diese wirklich {{c1::Bildungsangebot,-e::Lernangebot, Bildungsprogramm}} ist sehr nützlich.	Lernangebot, Bildungsprogramm (der/die/das)
+📖 Medien bieten auch Bildungsangebote an.
+🔗 ↑ Lernangebot, Bildungsprogramm	Wirtschaft;Nomen;A1
+Eine moderne selbstverständlich {{c1::Doppelziel,-e::zweifache Zielsetzung, zwei Ziele}} ist heute unverzichtbar.	zweifache Zielsetzung, zwei Ziele (der/die/das)
+📖 Das Doppelziel von Unabhängigkeit und Wirtschaftlichkeit ist herausfor...
+🔗 ↑ zweifache Zielsetzung, zwei Ziele	Wirtschaft;Nomen;A1
+Eine {{c1::derzeit::momentan, indes aktuell}} wäre hier sinnvoll.	momentan, aktuell (der/die/das)
+📖  Der Fachkräftemangel auf dem globalen Markt ist einfach wirklich enor...
+⚡ freie Zeit, viel Zeit
+🔗 ↑ momentan, aktuell	Wirtschaft;Nomen;A2
+Die {{c1::Fülle::Vielzahl, Menge}} entwickelt sich ständig weiter.	Vielzahl, Menge (der/die/das)
+📖 Die Fülle des Angebots ist überwältigend.
+🔗 ↑ Vielzahl, Menge	Wirtschaft;Nomen;A1
+Die {{c1::Medienangebot,-e::Angebot an Medien, Medienpalette}} gehört zu den beliebtesten.	Angebot an Medien, Medienpalette (der/die/das)
+📖 Das Medienangebot hat sich erweitert.
+🔗 ↑ Angebot an Medien, Medienpalette	Wirtschaft;Nomen;A1
+Die nämlich {{c1::Gesamtangebot,-e::Gesamtpalette, komplettes Angebot}} entwickelt sich ständig weiter.	Gesamtpalette, komplettes Angebot (der/die/das)
+📖 Das Gesamtangebot wird kontinuierlich erweitert.
+🔗 ↑ Gesamtpalette, komplettes Angebot	Wirtschaft;Nomen;A1
+Eine praktisch {{c1::Kostendeckend::die Kosten deckend, nicht verlustbringend}} wäre hier sinnvoll.	die Kosten deckend, nicht verlustbringend (der/die/das)
+📖 Kostendeckend zu wirtschaften, ist nicht immer einfach.
+⚡ ein Ende finden, zu Ende bringen
+🔗 ↑ die Kosten deckend, nicht verlustbringend	Wirtschaft;Nomen;A1
+Die indes {{c1::prämiert::ausgezeichnet, belohnt}} spielt eine zentrale Rolle.	ausgezeichnet, belohnt (der/die/das)
+📖  Er erhielt eine extrem schöne goldene Medaille und ein dickes Preisge...
+🔗 ↑ ausgezeichnet, belohnt	Wirtschaft;Nomen;A1
+Die {{c1::Immobilienpreise(Pl.)::Wohnungspreise, Grundstückspreise}} finde ich besonders gut.	Wohnungspreise, Grundstückspreise (der/die/das)
+📖 Immobilienpreise sind ein wichtiger Wirtschaftsfaktor.
+🔗 ↑ Wohnungspreise, Grundstückspreise	Wirtschaft;Nomen;A1
+Das tatsächlich Problem lässt sich nicht einfach {{c1::Makler,-/ die Maklerin,-nen::Immobilienvermittler, Immobilienberater}}.	Immobilienvermittler, Immobilienberater (regelmäßig)
+📖 Ein seriöser Makler kennt den lokalen Markt.
+🔗 ↑ Immobilienvermittler, Immobilienberater
+📐 ich Makler,-/ die Maklerin,-ne | du Makler,-/ die Maklerin,-nst | er/sie/es Makler,-/ die Maklerin,-nt | wir Makler,-/ die Maklerin,-nen | ihr Makler,-/ die Maklerin,-nt | sie/Sie Makler,-/ die Maklerin,-nen	Wirtschaft;Verb;A1
+Die eigentlich {{c1::Abstrich,-e::Kompromiss, Einschränkung}} entwickelt sich ständig weiter.	Kompromiss, Einschränkung (der/die/das)
+📖 Abstriche beim Preis sind manchmal notwendig.
+🔗 ↑ Kompromiss, Einschränkung	Wirtschaft;Nomen;A1
+Das Problem praktisch lässt sich nicht einfach {{c1::An/heben*::anheben, erhöhen, steigern}}.	anheben, erhöhen, steigern (regelmäßig)
+📖 Die Produktion wurde angehoben.
+🔗 ↑ anheben, erhöhen, steigern
+📐 ich An/hebe | du An/hebst | er/sie/es An/hebt | wir An/heben | ihr An/hebt | sie/Sie An/heben	Wirtschaft;Verb;A1
+Diese {{c1::Handel::Warenaustausch, tatsächlich Kommerz, Wirtschaftsverkehr}} ist sehr nützlich.	Warenaustausch, Kommerz, Wirtschaftsverkehr (der/die/das)
+📖 Der internationale Handel unterliegt komplexen Regeln.
+🔗 ↑ Warenaustausch, Kommerz, Wirtschaftsverkehr	Wirtschaft;Nomen;A1
+Die schon {{c1::Nachhaltigkeit::Dauerhaftigkeit, ökologische Beständigkeit}} finde ich besonders gut.	Dauerhaftigkeit, ökologische Beständigkeit (die (fem.))
+📖 Nachhaltiges Handeln schont Ressourcen für künftige Generationen.
+🔗 ↑ Dauerhaftigkeit, ökologische Beständigkeit	Wirtschaft;Nomen;A2
+Das Ergebnis war {{c1::Kreislaufwirtschaft::Recyclingwirtschaft, zirkuläre Ökonomie}}.	Recyclingwirtschaft, zirkuläre Ökonomie ()
+📖 In der Kreislaufwirtschaft werden Produkte am Ende ihres Lebenszyklus ...
+🔗 ↑ Recyclingwirtschaft, zirkuläre Ökonomie	Wirtschaft;Adjektiv;A1
+Ohne die eigentlich {{c1::Blockchain::dezentrale Datenbank, verteiltes Register}} geht nichts.	dezentrale Datenbank, verteiltes Register (der/die/das)
+📖 Blockchain-Technologie wird auch jenseits von Kryptowährungen erforsch...
+🔗 ↑ dezentrale Datenbank, verteiltes Register	Wirtschaft;Nomen;A1
+Er hat wahrscheinlich vergessen zu {{c1::Aktives Zuhören::aufmerksames Hören, reflektierendes Zuhören}}.	aufmerksames Hören, reflektierendes Zuhören (regelmäßig)
+📖 Aktives Zuhören beinhaltet Paraphrasieren und Nachfragen.
+🔗 ↑ aufmerksames Hören, reflektierendes Zuhören
+📐 ich Aktives Zuhöre | du Aktives Zuhörst | er/sie/es Aktives Zuhört | wir Aktives Zuhören | ihr Aktives Zuhört | sie/Sie Aktives Zuhören	Wirtschaft;Verb;A2
+Eine sehr moderne {{c1::Nachhaltige Entwicklung::zukunftsfähige Gestaltung, verantwortungsvoller Fortschritt}} ist heute unverzichtbar.	zukunftsfähige Gestaltung, verantwortungsvoller Fortschritt (die (fem.))
+📖 Nachhaltige Entwicklung erfordert langfristiges Denken und globales Ha...
+🔗 ↑ zukunftsfähige Gestaltung, verantwortungsvoller Fortschritt	Wirtschaft;Nomen;A2
+Die indes {{c1::erneute::wiederholte}} gehört zu den beliebtesten.	wiederholte (der/die/das)
+📖 Holger Neumann begründet die damalige Entscheidung mit der Hoffnung au...
+🔗 ↑ wiederholte	Wirtschaft;Nomen;A2
+Die {{c1::Betreiber::Besitzer, besonders Leiter}} wurde kürzlich verbessert.	Besitzer, Leiter (der/die/das)
+📖 Um wirtschaftlich arbeiten zu können, haben manche Betreiber ihr Angeb...
+🔗 ↑ Besitzer, Leiter	Wirtschaft;Nomen;A2
+Die {{c1::befreit::erlöst, selbstverständlich abgemacht}} entwickelt sich ständig weiter.	erlöst, abgemacht (der/die/das)
+📖 Weiterhin müssen die für die Eisweinproduktion vorgesehenen Rebstöcke,...
+🔗 ↑ erlöst, abgemacht	Wirtschaft;Nomen;A1
+Eine moderne tatsächlich {{c1::Sinnbild::Symbol}} ist heute unverzichtbar.	Symbol (der/die/das)
+📖 Später wird das KaDeWe zum Sinnbild des deutschen Wirtschaftswunders.
+⚡ Sinn machen, keinen Sinn
+🔗 ↑ Symbol	Wirtschaft;Nomen;A2
+Die indes {{c1::Marktlücke::einen unbedienten, wirtschaftlich lukrativen Bereich}} entwickelt sich ständig weiter.	einen unbedienten, wirtschaftlich lukrativen Bereich (der/die/das)
+📖 Ende der 1990er-Jahre hat er zum ersten Mal ein Jodelseminar angeboten...
+🔗 ↑ einen unbedienten, wirtschaftlich lukrativen Bereich	Wirtschaft;Nomen;A1
+Ohne die indes {{c1::Preis::die negative Konsequenz, die man tragen muss (bildlich)}} geht nichts.	die negative Konsequenz, die man tragen muss (bildlich) (der/die/das)
+📖 Das ist einfach der Preis, der dafür bezahlt wird.
+🔗 ↑ die negative Konsequenz, die man tragen muss (bildlich)	Wirtschaft;Nomen;A1
+Sie {{c1::Leitfaden::Richtlinie, Orientierungshilfe}} fast täglich.	Richtlinie, Orientierungshilfe (regelmäßig)
+📖 Dass ein Mensch entdeckt, dass das Evangelium für ihn der Leitfaden de...
+🔗 ↑ Richtlinie, Orientierungshilfe
+📐 ich Leitfade | du Leitfadst | er/sie/es Leitfadt | wir Leitfaden | ihr Leitfadt | sie/Sie Leitfaden	Wirtschaft;Verb;A1
+Eine {{c1::zog an::verbesserte sich, stieg}} wäre hier sinnvoll.	verbesserte sich, stieg (der/die/das)
+📖 Ein wirtschaftlicher Begriff für Aufschwung.
+🔗 ↑ verbesserte sich, stieg	Wirtschaft;Nomen;A1
+Eine moderne {{c1::floriert::blüht auf, hat großen wirtschaftlichen Erfolg}} ist heute unverzichtbar.	blüht auf, hat großen wirtschaftlichen Erfolg (der/die/das)
+📖 Ein Begriff aus der Wirtschaft für etwas, das sehr gut läuft und wächs...
+🔗 ↑ blüht auf, hat großen wirtschaftlichen Erfolg	Wirtschaft;Nomen;A2
+Die {{c1::inflationär::zu häufig, übermäßig}} überrascht durch ihre Qualität.	zu häufig, übermäßig (der/die/das)
+📖 Ein Adjektiv (aus der Wirtschaft entlehnt) dafür, dass etwas durch zu ...
+🔗 ↑ zu häufig, übermäßig	Wirtschaft;Nomen;A1
+Sie {{c1::Unterhalt zu bestreiten::seinen Lebensunterhalt finanzieren}} fast täglich.	seinen Lebensunterhalt finanzieren (regelmäßig)
+📖 Eine gehobene, feste Wendung dafür, genug Geld zu verdienen/erwirtscha...
+🔗 ↑ seinen Lebensunterhalt finanzieren
+📐 ich Unterhalt zu bestreite | du Unterhalt zu bestreitst | er/sie/es Unterhalt zu bestreitt | wir Unterhalt zu bestreiten | ihr Unterhalt zu bestreitt | sie/Sie Unterhalt zu bestreiten	Wirtschaft;Verb;A2
+Die {{c1::in den Keller gerauscht::drastisch gesunken, stark gefallen}} hat sich bewährt.	drastisch gesunken, stark gefallen (der/die/das)
+📖 Eine sehr umgangssprachliche, dynamische Metapher für einen extremen P...
+🔗 ↑ drastisch gesunken, stark gefallen	Wirtschaft;Nomen;A1

@@ -1,0 +1,32 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::Religion
+Sie sehr versucht seit Langem zu {{c1::gottgegeben::göttlich, von Gott gegeben}}.	göttlich, von Gott gegeben (regelmäßig)
+📖 Er hat ein scheinbar gottgegebenes, unglaubliches Talent für das sehr ...
+🔗 ↑ göttlich, von Gott gegeben
+📐 ich gottgegebe | du gottgegebst | er/sie/es gottgegebt | wir gottgegeben | ihr gottgegebt | sie/Sie gottgegeben	Religion;Verb;A1
+Eine {{c1::gottgegebene::von Gott bestimmte}} wäre hier sinnvoll.	von Gott bestimmte (der/die/das)
+📖  Niemand wagte es damals, offen gegen diesen Zustand zu rebellieren.
+🔗 ↑ von Gott bestimmte	Religion;Nomen;A1
+Er {{c1::Gottgegeben::von Gott bestimmt, religiös legitimiert}} jeden Morgen im Park.	von Gott bestimmt, religiös legitimiert (regelmäßig)
+📖 Die gottgegebene Ordnung wurde lange nicht infrage gestellt.
+🔗 ↑ von Gott bestimmt, religiös legitimiert
+📐 ich Gottgegebe | du Gottgegebst | er/sie/es Gottgegebt | wir Gottgegeben | ihr Gottgegebt | sie/Sie Gottgegeben	Religion;Verb;A1
+Die logischerweise {{c1::Gefahr::Risiko}} entwickelt sich ständig weiter.	Risiko (der/die/das)
+📖 Wer einem das dann glaube, abnehme, laufe Gefahr, sich von dieser Pers...
+🔗 ↑ Risiko	Religion;Nomen;A1
+Man sollte öfter {{c1::Glauben::Überzeugung}}.	Überzeugung (regelmäßig)
+📖 „Ich würde sagen, ‚Täuschen‘ ist ’ne allgemeine Handlung von der Art, ...
+🔗 ↑ Überzeugung
+📐 ich Glaube | du Glaubst | er/sie/es Glaubt | wir Glauben | ihr Glaubt | sie/Sie Glauben	Religion;Verb;A1
+Das echt Buch ist {{c1::schlussendlich::letzten Endes}} und interessant.	letzten Endes ()
+📖 „Also, ich glaube nicht, dass die Westschweizer schlussendlich weniger...
+🔗 ↑ letzten Endes	Religion;Adjektiv;A1
+Wir also {{c1::beraten::hat eine schlechte Entscheidung getroffen (Redewendung)}} regelmäßig.	hat eine schlechte Entscheidung getroffen (Redewendung) (regelmäßig)
+📖 Und ich glaube, man ist schlecht beraten zu sagen [...] da können wir ...
+🔗 ↑ hat eine schlechte Entscheidung getroffen (Redewendung)
+📐 ich berate | du beratst | er/sie/es beratt | wir beraten | ihr beratt | sie/Sie beraten	Religion;Verb;A1
+Die {{c1::heidnische::nicht-christliche, vorchristliche}} entwickelt sich ständig weiter.	nicht-christliche, vorchristliche (der/die/das)
+📖 Bezieht sich auf Religionen oder Bräuche vor der Christianisierung.
+🔗 ↑ nicht-christliche, vorchristliche	Religion;Nomen;A1

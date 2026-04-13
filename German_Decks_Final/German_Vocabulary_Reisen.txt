@@ -1,0 +1,234 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::Reisen
+Das Ergebnis ganz war {{c1::zugänglich::offen sein für}}.	offen sein für ()
+📖 Wichtige Regierungsdokumente sind für die Öffentlichkeit nicht zugängl...
+🔗 ↑ offen sein für	Reisen;Adjektiv;A1
+Sie versucht immerhin seit Langem zu {{c1::berücksichtigen::beachten}}.	beachten (regelmäßig)
+📖 Bitte berücksichtigen Sie, dass der Bus am Wochenende seltener fährt.
+🔗 ↑ beachten
+📐 ich berücksichtige | du berücksichtigst | er/sie/es berücksichtigt | wir berücksichtigen | ihr berücksichtigt | sie/Sie berücksichtigen	Reisen;Verb;A1
+Eine {{c1::restliche::übrig}} wäre hier sinnvoll.	übrig (der/die/das)
+📖 Ich werde meine restlichen Urlaubstage im Dezember nehmen.
+🔗 ↑ übrig	Reisen;Nomen;A1
+Die {{c1::Sitten und Bräuche::die Traditionen}} gehört zu den beliebtesten.	die Traditionen (der/die/das)
+📖 Man sollte sich vor einer weiten Reise über die lokalen Sitten und Brä...
+🔗 ↑ die Traditionen	Reisen;Nomen;A1
+Er hört offensichtlich nicht auf zu {{c1::umarmen::in die Arme nehmen}}.	in die Arme nehmen (regelmäßig)
+📖 Die Mutter rannte zum Zug, um ihren Sohn nach der langen Reise endlich...
+🔗 ↑ in die Arme nehmen
+📐 ich umarme | du umarmst | er/sie/es umarmt | wir umarmen | ihr umarmt | sie/Sie umarmen	Reisen;Verb;A1
+Das Problem lässt sich nicht einfach {{c1::durchsuchen::absuchen}}.	absuchen (regelmäßig)
+📖 Der Zöllner am Flughafen wollte meine ganzen Taschen durchsuchen.
+🔗 ↑ absuchen
+📐 ich durchsuche | du durchsuchst | er/sie/es durchsucht | wir durchsuchen | ihr durchsucht | sie/Sie durchsuchen	Reisen;Verb;A1
+Seine Meinung ist durchaus {{c1::gewöhnlich::normalerweise}}.	normalerweise ()
+📖 Für gewöhnlich fährt dieser Bus direkt zum Bahnhof.
+🔗 ↑ normalerweise	Reisen;Adjektiv;A1
+Eine doch moderne {{c1::Griff zur Tablette::die Einnahme von Medikamenten}} ist heute unverzichtbar.	die Einnahme von Medikamenten (der/die/das)
+📖 Statt Sport zu machen, bevorzugen viele Menschen leider den schnellen ...
+🔗 ↑ die Einnahme von Medikamenten	Reisen;Nomen;A1
+Die {{c1::Regelung::die tatsächlich Vorschrift}} spielt eine zentrale Rolle.	die Vorschrift (die (fem.))
+📖 Wir müssen dringend eine faire Regelung für die Urlaubstage im Team fi...
+🔗 ↑ die Vorschrift	Reisen;Nomen;A1
+Wir sollten sofort {{c1::niederlassen::wohnhaft werden}}.	wohnhaft werden (regelmäßig)
+📖 Die Zugvögel werden sich in diesem warmen Gebiet für den Winter nieder...
+🔗 ↑ wohnhaft werden
+📐 ich niederlasse | du niederlassst | er/sie/es niederlasst | wir niederlassen | ihr niederlasst | sie/Sie niederlassen	Reisen;Verb;A1
+Die {{c1::Im praktisch Zuge::im Rahmen}} finde ich besonders gut.	im Rahmen (der/die/das)
+📖 Im Zuge seiner umfassenden Ermittlungen befragte der Detektiv viele Ze...
+🔗 ↑ im Rahmen	Reisen;Nomen;A1
+Er hört doch nicht auf zu {{c1::über den Tellerrand schauen::weltoffen sein}}.	weltoffen sein (regelmäßig)
+📖 Es ist wichtig zu reisen, um auch mal über den eigenen Tellerrand zu s...
+🔗 ↑ weltoffen sein
+📐 ich über den Tellerrand schaue | du über den Tellerrand schaust | er/sie/es über den Tellerrand schaut | wir über den Tellerrand schauen | ihr über den Tellerrand schaut | sie/Sie über den Tellerrand schauen	Reisen;Verb;A1
+Die {{c1::Tätowierung::das Tattoo}} spielt eine zentrale Rolle.	das Tattoo (die (fem.))
+📖 Er hat sich im Urlaub eine riesige Tätowierung auf den Rücken stechen ...
+🔗 ↑ das Tattoo	Reisen;Nomen;A1
+Die sehr {{c1::In Bezug auf::hinsichtlich, bezüglich}} spielt eine zentrale Rolle.	hinsichtlich, bezüglich (der/die/das)
+📖 In Bezug auf seine fehlende Pünktlichkeit müssen wir morgen noch einma...
+🔗 ↑ hinsichtlich, bezüglich	Reisen;Nomen;A1
+Die {{c1::beherrscht::können, selbstverständlich meistern}} finde ich besonders gut.	können, meistern (der/die/das)
+📖 Ein guter Pilot muss sein Flugzeug in jeder Notsituation perfekt beher...
+🔗 ↑ können, meistern	Reisen;Nomen;A2
+Eine wirklich moderne {{c1::Hildesheimer::der Einwohner, der Bürger}} ist heute unverzichtbar.	der Einwohner, der Bürger (der/die/das)
+📖 Der Hildesheimer Dom ist eine sehr bekannte Sehenswürdigkeit in Deutsc...
+🔗 ↑ der Einwohner, der Bürger	Reisen;Nomen;A1
+Eine moderne {{c1::Sonnenseite::die positive Seite, das Gute}} ist heute unverzichtbar.	die positive Seite, das Gute (der/die/das)
+📖 Wir haben im Urlaub extra ein Zimmer auf der warmen Sonnenseite des Ho...
+🔗 ↑ die positive Seite, das Gute	Reisen;Nomen;A1
+Die {{c1::Im Zuge::im Laufe, während}} gehört zu den beliebtesten.	im Laufe, während (der/die/das)
+📖 Im Zuge der laufenden Ermittlungen fand die Polizei gestern extrem neu...
+🔗 ↑ im Laufe, während	Reisen;Nomen;A2
+Die {{c1::bewerkstelligt::schaffen, praktisch bewältigen}} wurde kürzlich verbessert.	schaffen, bewältigen (der/die/das)
+📖 Wie hast du diesen schwierigen Umzug ganz alleine bewerkstelligt?
+🔗 ↑ schaffen, bewältigen	Reisen;Nomen;A1
+Die {{c1::ab::stattfinden, verlaufen}} wurde kürzlich verbessert.	stattfinden, verlaufen (der/die/das)
+📖 Dein alter Reisepass wird leider schon im nächsten Monat endgültig abl...
+🔗 ↑ stattfinden, verlaufen	Reisen;Nomen;A2
+Die {{c1::Angesichts::in genau Anbetracht, aufgrund}} wurde kürzlich verbessert.	in Anbetracht, aufgrund (der/die/das)
+📖 Angesichts der absolut extrem hohen Preise für Benzin fahre ich moment...
+🔗 ↑ in Anbetracht, aufgrund	Reisen;Nomen;A1
+Eine {{c1::Europäer::der jedoch Bürger Europas, der EU-Bürger}} wäre hier sinnvoll.	der Bürger Europas, der EU-Bürger (der/die/das)
+📖 Als überzeugter Europäer liebt er es, extrem absolut völlig ohne extre...
+🔗 ↑ der Bürger Europas, der EU-Bürger	Reisen;Nomen;A1
+Eine selbstverständlich moderne {{c1::durchweg::durchgehend, insgesamt}} ist heute unverzichtbar.	durchgehend, insgesamt (der/die/das)
+📖 Die extrem absolut völlig absolut kritischen absolut völlig großen Bew...
+⚡ der Weg zur Arbeit, vom Weg abkommen
+🔗 ↑ durchgehend, insgesamt	Reisen;Nomen;A2
+Die {{c1::Fluggerät::das glücklicherweise Flugzeug, die Maschine}} hat sich bewährt.	das Flugzeug, die Maschine (der/die/das)
+📖 Der verrückte alte Tüftler baute sich ein extrem gefährliches Fluggerä...
+🔗 ↑ das Flugzeug, die Maschine	Reisen;Nomen;A2
+Er {{c1::konkurrieren::in glücklicherweise Wettbewerb stehen, wetteifern}} jeden Morgen im Park.	in Wettbewerb stehen, wetteifern (regelmäßig)
+📖  Die Preise im Netz sind für sie oft einfach unschlagbar niedrig.
+🔗 ↑ in Wettbewerb stehen, wetteifern
+📐 ich konkurriere | du konkurrierst | er/sie/es konkurriert | wir konkurrieren | ihr konkurriert | sie/Sie konkurrieren	Reisen;Verb;A1
+Die also {{c1::zugleich::gleichzeitig, im selben Moment}} wurde kürzlich verbessert.	gleichzeitig, im selben Moment (der/die/das)
+📖  Die Emotionen haben sie in diesem Moment völlig überwältigt.
+🔗 ↑ gleichzeitig, im selben Moment	Reisen;Nomen;A1
+Die selbstverständlich {{c1::Tabakkonsum::Rauchgebrauch, Zigarettenkonsum}} ist heute besonders wichtig.	Rauchgebrauch, Zigarettenkonsum (der/die/das)
+📖  Der Entzug ist für die meisten Betroffenen extrem unangenehm.
+🔗 ↑ Rauchgebrauch, Zigarettenkonsum	Reisen;Nomen;A1
+Die ja {{c1::Taktik::Vorgehensweise, Strategie}} gehört zu den beliebtesten.	Vorgehensweise, Strategie (der/die/das)
+📖  Sie haben abgewartet und dann eiskalt zugeschlagen.
+🔗 ↑ Vorgehensweise, Strategie	Reisen;Nomen;A2
+Eine {{c1::erholsam::entspannend, regenerierend}} Geschichte erzählt sie gern.	entspannend, regenerierend ()
+📖  Wir haben tagelang einfach nur am Strand gelegen und Romane gelesen.
+🔗 ↑ entspannend, regenerierend	Reisen;Adjektiv;A1
+Eine {{c1::möglicherweise::vielleicht, eventuell}} wäre hier sinnvoll.	vielleicht, eventuell (der/die/das)
+📖  Es zieht nämlich gerade ein sehr schweres Gewitter über den gesamten ...
+🔗 ↑ vielleicht, eventuell	Reisen;Nomen;A1
+Die leider {{c1::In Bezug auf::hinsichtlich, bezüglich}} bietet viele Vorteile.	hinsichtlich, bezüglich (der/die/das)
+📖 In Bezug auf Qualität sind wir führend.
+🔗 ↑ hinsichtlich, bezüglich	Reisen;Nomen;A1
+Eine {{c1::erging offensichtlich ihm::erging, widerfuhr ihm}} wäre hier sinnvoll.	erging, widerfuhr ihm (der/die/das)
+📖 Wie erging es dir im Urlaub?
+🔗 ↑ erging, widerfuhr ihm	Reisen;Nomen;A1
+Die {{c1::in Bezug auf::hinsichtlich, bezüglich}} gehört zu den beliebtesten.	hinsichtlich, bezüglich (der/die/das)
+📖  Es gibt da noch einige ungeklärte Details.
+🔗 ↑ hinsichtlich, bezüglich	Reisen;Nomen;A1
+Eine {{c1::lebhaft::klar, intensiv}} Geschichte erzählt sie gern.	klar, intensiv ()
+📖 Sie erzählte lebhaft von ihren Reisen.
+🔗 ↑ klar, intensiv	Reisen;Adjektiv;A1
+Eine moderne offensichtlich {{c1::Dieselb-::derselbe, dieselbe, dasselbe}} ist heute unverzichtbar.	derselbe, dieselbe, dasselbe (der/die/das)
+📖 Wir fahren mit demselben Zug.
+🔗 ↑ derselbe, dieselbe, dasselbe	Reisen;Nomen;A1
+Die glücklicherweise {{c1::Abreise::Abfahrt, der Aufbruch}} spielt eine zentrale Rolle.	Abfahrt, der Aufbruch (der/die/das)
+📖  Sie mussten endlos lange in der kleinen Halle warten.
+🔗 ↑ Abfahrt, der Aufbruch	Reisen;Nomen;A2
+Wir müssen immerhin endlich {{c1::hinterlegen::abgeben, deponieren}}.	abgeben, deponieren (regelmäßig)
+📖  So laufen Sie nicht Gefahr, ihn am Strand versehentlich zu verlieren.
+🔗 ↑ abgeben, deponieren
+📐 ich hinterlege | du hinterlegst | er/sie/es hinterlegt | wir hinterlegen | ihr hinterlegt | sie/Sie hinterlegen	Reisen;Verb;A1
+Die {{c1::Lobby::Empfangshalle, immerhin Vorhalle}} wurde kürzlich verbessert.	Empfangshalle, Vorhalle (der/die/das)
+📖  Von dort aus nehmen wir dann gemeinsam ein Taxi zum Flughafen.
+🔗 ↑ Empfangshalle, Vorhalle	Reisen;Nomen;A1
+Eine {{c1::Ständeordnung::Gesellschaftsstruktur in Ständen}} wäre hier sinnvoll.	Gesellschaftsstruktur in Ständen (die (fem.))
+📖  Jeder hatte gottgegeben auf seinem ihm zugewiesenen Platz zu bleiben.
+🔗 ↑ Gesellschaftsstruktur in Ständen	Reisen;Nomen;A1
+Ohne jedoch die {{c1::Zugehörigkeit::Zugehörigkeitsgefühl, Mitgliedschaft}} geht nichts.	Zugehörigkeitsgefühl, Mitgliedschaft (die (fem.))
+📖 Die Zugehörigkeit zu einem Team stärkt das Wir-Gefühl.
+🔗 ↑ Zugehörigkeitsgefühl, Mitgliedschaft	Reisen;Nomen;A1
+Wir wirklich müssen endlich {{c1::bevorzugen::ziehen vor, präferieren}}.	ziehen vor, präferieren (regelmäßig)
+📖 Sie bevorzugen die Ruhe am Morgen.
+🔗 ↑ ziehen vor, präferieren
+📐 ich bevorzuge | du bevorzugst | er/sie/es bevorzugt | wir bevorzugen | ihr bevorzugt | sie/Sie bevorzugen	Reisen;Verb;A1
+Sie versucht natürlich seit Langem zu {{c1::versäumen::verpassen, verpassen}}.	verpassen, verpassen (regelmäßig)
+📖 Wer den Wecker übersieht, versäumt den Zug.
+🔗 ↑ verpassen, verpassen
+📐 ich versäume | du versäumst | er/sie/es versäumt | wir versäumen | ihr versäumt | sie/Sie versäumen	Reisen;Verb;A1
+Eine {{c1::Rarität::Seltenheit, Besonderheit}} wäre hier sinnvoll.	Seltenheit, Besonderheit (der/die/das)
+📖  Entsprechend extrem hoch sind auch die Preise für diese seltenen Edel...
+🔗 ↑ Seltenheit, Besonderheit	Reisen;Nomen;A1
+Ohne also die {{c1::mental::geistig, psychisch}} geht nichts.	geistig, psychisch (der/die/das)
+📖  Viele waren danach reif für einen wirklich sehr langen Urlaub am Stra...
+🔗 ↑ geistig, psychisch	Reisen;Nomen;A1
+Die {{c1::Muster::Design, die Verzierung}} gehört zu den beliebtesten.	Design, die Verzierung (der/die/das)
+📖  Ich bevorzuge an den Wänden generell lieber sehr schlichte und absolu...
+🔗 ↑ Design, die Verzierung	Reisen;Nomen;A1
+Man sollte indes öfter {{c1::bevorzugen::ziehen vor, präferieren}}.	ziehen vor, präferieren (regelmäßig)
+📖 Sie bevorzugen die Ruhe am Morgen.
+🔗 ↑ ziehen vor, präferieren
+📐 ich bevorzuge | du bevorzugst | er/sie/es bevorzugt | wir bevorzugen | ihr bevorzugt | sie/Sie bevorzugen	Reisen;Verb;A1
+Er hat vergessen zu {{c1::versäumen::verpassen, verpassen}}.	verpassen, verpassen (regelmäßig)
+📖 Wer den Wecker übersieht, versäumt den Zug.
+🔗 ↑ verpassen, verpassen
+📐 ich versäume | du versäumst | er/sie/es versäumt | wir versäumen | ihr versäumt | sie/Sie versäumen	Reisen;Verb;A1
+Die {{c1::Vorstellung::Idee, natürlich Fantasie}} bietet viele Vorteile.	Idee, Fantasie (die (fem.))
+📖  Er denkt, er kann dort den ganzen Tag nur am Strand liegen und Cockta...
+🔗 ↑ Idee, Fantasie	Reisen;Nomen;A1
+Die {{c1::Flugfähigkeit::Fähigkeit zu fliegen}} überrascht durch ihre Qualität.	Fähigkeit zu fliegen (die (fem.))
+📖  Das Modell sah einfach viel zu klobig und viel zu schwer aus.
+🔗 ↑ Fähigkeit zu fliegen	Reisen;Nomen;A1
+Die {{c1::Fluggerät,-e::Luftfahrzeug, Flugmaschine}} finde ich besonders gut.	Luftfahrzeug, Flugmaschine (der/die/das)
+📖 Moderne Fluggeräte sind hochtechnologisch.
+🔗 ↑ Luftfahrzeug, Flugmaschine	Reisen;Nomen;A1
+Diese nämlich {{c1::Flugfähigkeit::Flugtauglichkeit, Lufttüchtigkeit}} ist sehr nützlich.	Flugtauglichkeit, Lufttüchtigkeit (die (fem.))
+📖 Die Flugfähigkeit muss unter verschiedenen Bedingungen nachgewiesen we...
+🔗 ↑ Flugtauglichkeit, Lufttüchtigkeit	Reisen;Nomen;A1
+Diese {{c1::Lehrplan,&quot;-e::Curriculum, Bildungsplan}} ist sehr nützlich.	Curriculum, Bildungsplan (der/die/das)
+📖 Lehrpläne sollten flexibel genug sein, um auf individuelle Bedürfnisse...
+🔗 ↑ Curriculum, Bildungsplan	Reisen;Nomen;A1
+Die {{c1::Ausreiseantrag::Gesuch, das Land zu verlassen}} ist heute besonders wichtig.	Gesuch, das Land zu verlassen (der/die/das)
+📖 „Ich hatte einen Ausreiseantrag laufen, ja.
+🔗 ↑ Gesuch, das Land zu verlassen	Reisen;Nomen;A1
+Seine Arbeit erstaunlicherweise ist sehr {{c1::hinfällig::ungültig, überflüssig}}.	ungültig, überflüssig ()
+📖 Aurick Günther war 20, als die Berliner Mauer fiel, sein laufender, ge...
+🔗 ↑ ungültig, überflüssig	Reisen;Adjektiv;A1
+Die {{c1::Luftzug::ziehende Luft}} ist heute besonders wichtig.	ziehende Luft (der/die/das)
+📖 Schon ein kühler Luftzug kann ein Frösteln bewirken, und wir bekommen ...
+🔗 ↑ ziehende Luft	Reisen;Nomen;A1
+Wir sollten sofort {{c1::Frösteln::leichtes Frieren}}.	leichtes Frieren (regelmäßig)
+📖 Schon ein kühler Luftzug kann ein Frösteln bewirken, und wir bekommen ...
+🔗 ↑ leichtes Frieren
+📐 ich Fröstee | du Fröstest | er/sie/es Fröstet | wir Frösteen | ihr Fröstet | sie/Sie Frösteen	Reisen;Verb;A1
+Die {{c1::eingeprägt::im praktisch Gedächtnis festgesetzt}} finde ich besonders gut.	im Gedächtnis festgesetzt (der/die/das)
+📖 Und, das hat sich eingeprägt, und ich hab’ auch versucht, die dann wei...
+🔗 ↑ im Gedächtnis festgesetzt	Reisen;Nomen;A1
+Es ist Zeit zu {{c1::erwecken::hervorzurufen}}.	hervorzurufen (regelmäßig)
+📖 ...wo ein Hotelgast seine Koffer vor die Tür stellt, um in anderen den...
+🔗 ↑ hervorzurufen
+📐 ich erwecke | du erweckst | er/sie/es erweckt | wir erwecken | ihr erweckt | sie/Sie erwecken	Reisen;Verb;A1
+Diese {{c1::wehrt::verteidigt, sträubt}} ist sehr nützlich.	verteidigt, sträubt (der/die/das)
+📖 ...wohingegen in der deutschsprachigen Schweiz Deutschland viel stärke...
+🔗 ↑ verteidigt, sträubt	Reisen;Nomen;A1
+Die {{c1::Bezugspunkt::Orientierungsmaßstab}} sehr eignet sich für verschiedene Zwecke.	Orientierungsmaßstab (der/die/das)
+📖 ...wohingegen in der deutschsprachigen Schweiz Deutschland viel stärke...
+🔗 ↑ Orientierungsmaßstab	Reisen;Nomen;A1
+Die {{c1::Schadenfreude::Freude über das Missgeschick anderer}} eignet sich für verschiedene Zwecke.	Freude über das Missgeschick anderer (der/die/das)
+📖 Die Lust an der Schadenfreude behielt Busch trotz der Schläge...
+🔗 ↑ Freude über das Missgeschick anderer	Reisen;Nomen;A1
+Die {{c1::Bahnhof::nichts natürlich verstehen (Redewendung)}} gehört zu den beliebtesten.	nichts verstehen (Redewendung) (der/die/das)
+📖 Bei Schweizer Dialekten verstehen Sprachassistenten zu häufig nur Bahn...
+🔗 ↑ nichts verstehen (Redewendung)	Reisen;Nomen;A1
+Die {{c1::erweitert seinen Horizont::bekommt neue Perspektiven (Redewendung)}} bietet viele Vorteile.	bekommt neue Perspektiven (Redewendung) (der/die/das)
+📖 Reisen öffnet uns die Augen, erweitert unseren Horizont, bietet uns Pe...
+🔗 ↑ bekommt neue Perspektiven (Redewendung)	Reisen;Nomen;A1
+Sie wahrscheinlich versucht seit Langem zu {{c1::Eigenversuchen::Experimenten an sich selbst}}.	Experimenten an sich selbst (regelmäßig)
+📖 Auf seinen Forschungsreisen betrieb er Studien und scheute auch Eigenv...
+🔗 ↑ Experimenten an sich selbst
+📐 ich Eigenversuche | du Eigenversuchst | er/sie/es Eigenversucht | wir Eigenversuchen | ihr Eigenversucht | sie/Sie Eigenversuchen	Reisen;Verb;B1
+Wir sollten immerhin sofort {{c1::aufzugehen::funktionieren, erfolgreich sein}}.	funktionieren, erfolgreich sein (regelmäßig)
+📖 Das Konzept scheint aufzugehen.
+🔗 ↑ funktionieren, erfolgreich sein
+📐 ich aufzugehe | du aufzugehst | er/sie/es aufzugeht | wir aufzugehen | ihr aufzugeht | sie/Sie aufzugehen	Reisen;Verb;A1
+Wir jedoch sollten sofort {{c1::wegzustecken::ertragen, hinnehmen zu können}}.	ertragen, hinnehmen zu können (regelmäßig)
+📖 Umgangssprachlich für das Ertragen von Rückschlägen ohne aufzugeben.
+⚡ vom Weg abkommen, sich auf den Weg machen
+🔗 ↑ ertragen, hinnehmen zu können
+📐 ich wegzustecke | du wegzusteckst | er/sie/es wegzusteckt | wir wegzustecken | ihr wegzusteckt | sie/Sie wegzustecken	Reisen;Verb;A2
+Sie versucht erstaunlicherweise seit Langem zu {{c1::aufs Spiel zu setzen::riskieren, in große Gefahr bringen}}.	riskieren, in große Gefahr bringen (regelmäßig)
+📖 Eine Redewendung dafür, ein extrem hohes (oft lebensgefährliches) Risi...
+🔗 ↑ riskieren, in große Gefahr bringen
+📐 ich aufs Spiel zu setze | du aufs Spiel zu setzst | er/sie/es aufs Spiel zu setzt | wir aufs Spiel zu setzen | ihr aufs Spiel zu setzt | sie/Sie aufs Spiel zu setzen	Reisen;Verb;A1
+Wir nämlich {{c1::selbst treu zu bleiben::seine eigenen Werte bewahren}} regelmäßig.	seine eigenen Werte bewahren (regelmäßig)
+📖 Eine Redewendung dafür, seine eigenen Prinzipien und seinen Charakter ...
+🔗 ↑ seine eigenen Werte bewahren
+📐 ich selbst treu zu bleibe | du selbst treu zu bleibst | er/sie/es selbst treu zu bleibt | wir selbst treu zu bleiben | ihr selbst treu zu bleibt | sie/Sie selbst treu zu bleiben	Reisen;Verb;A1
+Die {{c1::Fernweh::Sehnsucht nach der Ferne}} spielt eine zentrale Rolle.	Sehnsucht nach der Ferne (der/die/das)
+📖 Ein wunderschönes deutsches Wort für die Sehnsucht, in ferne Länder zu...
+🔗 ↑ Sehnsucht nach der Ferne	Reisen;Nomen;A1
+Die {{c1::nichts also am Hut::nichts zu tun/kein Interesse daran}} überrascht durch ihre Qualität.	nichts zu tun | kein Interesse daran (der/die/das)
+📖 Kommt ursprünglich von der Sitte, seine Gruppenzugehörigkeit durch das...
+🔗 ↑ nichts zu tun, kein Interesse daran	Reisen;Nomen;A1

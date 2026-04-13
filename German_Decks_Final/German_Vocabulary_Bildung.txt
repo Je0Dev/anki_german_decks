@@ -1,0 +1,656 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::Bildung
+Eine nämlich {{c1::Digitalisierung::der technologische Wandel}} wäre hier sinnvoll.	der technologische Wandel (die (fem.))
+📖 Viele Schulen sind bei der Digitalisierung leider noch im Rückstand.
+🔗 ↑ der technologische Wandel	Bildung;Nomen;A1
+Sie versucht seit Langem zu {{c1::erlernen::lernen/sich aneignen}}.	lernen | sich aneignen (regelmäßig)
+📖 Sie hofft, im neuen Kurs endlich fließend Spanisch zu erlernen.
+🔗 ↑ lernen, sich aneignen
+📐 ich erlerne | du erlernst | er/sie/es erlernt | wir erlernen | ihr erlernt | sie/Sie erlernen	Bildung;Verb;A2
+Eine {{c1::beigebracht::lehren/vermitteln}} wäre hier sinnvoll.	lehren | vermitteln (der/die/das)
+📖 Der Lehrer versucht, den Schülern komplizierte Mathematik beizubringen...
+🔗 ↑ lehren, vermitteln	Bildung;Nomen;A1
+Wir sollten besonders sofort {{c1::verlernen::vergessen (Fähigkeit)}}.	vergessen (Fähigkeit) (regelmäßig)
+📖 Es heißt, dass man das Schwimmen niemals ganz verlernen kann.
+🔗 ↑ vergessen (Fähigkeit)
+📐 ich verlerne | du verlernst | er/sie/es verlernt | wir verlernen | ihr verlernt | sie/Sie verlernen	Bildung;Verb;A1
+Diese {{c1::Unterrichtsstoff::das logischerweise Lernmaterial}} ist sehr nützlich.	das Lernmaterial (der/die/das)
+📖 Der Lehrer hat den gesamten Unterrichtsstoff sehr gut erklärt.
+🔗 ↑ das Lernmaterial	Bildung;Nomen;A2
+Die eigentlich {{c1::Vorlesung::der Vortrag an der Uni}} wurde kürzlich verbessert.	der Vortrag an der Uni (die (fem.))
+📖 Wegen Krankheit fällt die heutige Vorlesung über Geschichte leider aus...
+🔗 ↑ der Vortrag an der Uni	Bildung;Nomen;A2
+Die {{c1::Skript::das praktisch Lernheft/die Unterlagen}} entwickelt sich ständig weiter.	das Lernheft | die Unterlagen (der/die/das)
+📖 Er hat das gesamte Skript für die Klausur in einer Woche durchgelesen.
+🔗 ↑ das Lernheft, die Unterlagen	Bildung;Nomen;A1
+Die {{c1::Privatschule::die jedoch nichtstaatliche Schule}} wurde kürzlich verbessert.	die nichtstaatliche Schule (der/die/das)
+📖 Kleine Klassen sind der große Vorteil dieser modernen Privatschule.
+🔗 ↑ die nichtstaatliche Schule	Bildung;Nomen;A2
+Die offensichtlich {{c1::allgemeinbildende::die Allgemeinbildung fördernd}} finde ich besonders gut.	die Allgemeinbildung fördernd (der/die/das)
+📖 Diese allgemeinbildenden Kurse bereiten die Schüler auf das Leben vor.
+⚡ zu Ende bringen, ein Ende finden
+🔗 ↑ die Allgemeinbildung fördernd	Bildung;Nomen;A1
+Die {{c1::Bildungseinrichtung::die indes Schule/Universität}} finde ich besonders gut.	die Schule | Universität (die (fem.))
+📖 Bibliotheken sind für viele Menschen wichtige Bildungseinrichtungen.
+🔗 ↑ die Schule, Universität	Bildung;Nomen;A1
+Die {{c1::Schulklima::die Atmosphäre in der Schule}} entwickelt sich ständig weiter.	die Atmosphäre in der Schule (der/die/das)
+📖 Das angespannte Schulklima führt zu vielen Konflikten unter den Schüle...
+🔗 ↑ die Atmosphäre in der Schule	Bildung;Nomen;A1
+Er hört nicht auf zu {{c1::lebenslanges Lernen::die ständige Weiterbildung}}.	die ständige Weiterbildung (regelmäßig)
+📖 Die Firma bietet viele Seminare an und fördert das lebenslange Lernen.
+🔗 ↑ die ständige Weiterbildung
+📐 ich lebenslanges Lerne | du lebenslanges Lernst | er/sie/es lebenslanges Lernt | wir lebenslanges Lernen | ihr lebenslanges Lernt | sie/Sie lebenslanges Lernen	Bildung;Verb;A1
+Das Ergebnis war {{c1::gewissenhaft::sehr genau/sorgfältig}}.	sehr genau | sorgfältig ()
+📖 Ein Pilot muss das Flugzeug vor jedem Start gewissenhaft kontrollieren...
+🔗 ↑ sehr genau, sorgfältig	Bildung;Adjektiv;A1
+Wir {{c1::beurteilen::einschätzen/bewerten}} sehr regelmäßig.	einschätzen | bewerten (regelmäßig)
+📖 Der Lehrer muss die Leistung jedes Schülers fair beurteilen.
+⚡ der größte Teil, ein Teil von
+🔗 ↑ einschätzen, bewerten
+📐 ich beurteile | du beurteilst | er/sie/es beurteilt | wir beurteilen | ihr beurteilt | sie/Sie beurteilen	Bildung;Verb;B2
+Die {{c1::wider::reflektieren}} finde ich besonders gut.	reflektieren (der/die/das)
+📖 Ihre Noten spiegeln leider nicht ihr wahres Talent wider.
+🔗 ↑ reflektieren	Bildung;Nomen;A1
+Wir echt müssen endlich {{c1::gründen::aufbauen/ins Leben rufen}}.	aufbauen | ins Leben rufen (regelmäßig)
+📖 Einige Studenten wollen eine Initiative für mehr Umweltschutz gründen.
+🔗 ↑ aufbauen, ins Leben rufen
+📐 ich gründe | du gründst | er/sie/es gründt | wir gründen | ihr gründt | sie/Sie gründen	Bildung;Verb;A1
+Die {{c1::Vorkenntnisse::die bereits vorhandenen Kenntnisse}} hat sich bewährt.	die bereits vorhandenen Kenntnisse (der/die/das)
+📖 Ihre Vorkenntnisse in Mathematik waren sehr hilfreich für das Studium.
+🔗 ↑ die bereits vorhandenen Kenntnisse	Bildung;Nomen;A1
+Die offensichtlich {{c1::Betriebswirtschaftslehre::das BWL-Studium}} wurde kürzlich verbessert.	das BWL-Studium (der/die/das)
+📖 Ein Studium der Betriebswirtschaftslehre eröffnet viele Chancen in der...
+🔗 ↑ das BWL-Studium	Bildung;Nomen;A1
+Das Problem lässt sich nicht einfach {{c1::mitzudiskutieren::sich am Gespräch beteiligen}}.	sich am Gespräch beteiligen (regelmäßig)
+📖 Jeder im Seminarraum darf und soll bei dieser brisanten Frage mitdisku...
+🔗 ↑ sich am Gespräch beteiligen
+📐 ich mitzudiskutiere | du mitzudiskutierst | er/sie/es mitzudiskutiert | wir mitzudiskutieren | ihr mitzudiskutiert | sie/Sie mitzudiskutieren	Bildung;Verb;A1
+Er hat erstaunlicherweise vergessen zu {{c1::einzuleben::sich eingewöhnen}}.	sich eingewöhnen (regelmäßig)
+📖 Er hat sich in seiner neuen Schule überraschend schnell eingelebt.
+🔗 ↑ sich eingewöhnen
+📐 ich einzulebe | du einzulebst | er/sie/es einzulebt | wir einzuleben | ihr einzulebt | sie/Sie einzuleben	Bildung;Verb;A2
+Ohne die nämlich {{c1::zugenickt::mit dem Kopf grüßen}} geht nichts.	mit dem Kopf grüßen (der/die/das)
+📖 Der Lehrer hat mir zustimmend zugenickt, als ich die richtige Antwort ...
+🔗 ↑ mit dem Kopf grüßen	Bildung;Nomen;A1
+Es ist Zeit zu {{c1::verzweifeln::die Hoffnung aufgeben}}.	die Hoffnung aufgeben (regelmäßig)
+📖 An dieser schweren Mathematikaufgabe können Schüler wirklich verzweife...
+🔗 ↑ die Hoffnung aufgeben
+📐 ich verzweifee | du verzweifest | er/sie/es verzweifet | wir verzweifeen | ihr verzweifet | sie/Sie verzweifeen	Bildung;Verb;A1
+Die {{c1::Anspannung::die selbstverständlich Nervosität}} entwickelt sich ständig weiter.	die Nervosität (die (fem.))
+📖 Nach dem langen Streit fiel die Anspannung endlich von ihren Schultern...
+🔗 ↑ die Nervosität	Bildung;Nomen;A1
+Die {{c1::Biofeedback::die biologische Rückmeldung}} eignet sich für verschiedene Zwecke.	die biologische Rückmeldung (der/die/das)
+📖 Mit Biofeedback können Patienten lernen, ihren eigenen Herzschlag bewu...
+🔗 ↑ die biologische Rückmeldung	Bildung;Nomen;A1
+Die {{c1::Vorfall::das Ereignis}} finde ich besonders gut.	das Ereignis (der/die/das)
+📖 Nach dem peinlichen Vorfall im Restaurant wollte er sich sofort entsch...
+🔗 ↑ das Ereignis	Bildung;Nomen;A1
+Eine immerhin moderne {{c1::Prüfungsordnung::das Regelwerk für Prüfungen}} ist heute unverzichtbar.	das Regelwerk für Prüfungen (die (fem.))
+📖 Die neue Prüfungsordnung erlaubt es Studenten, Klausuren online zu sch...
+🔗 ↑ das Regelwerk für Prüfungen	Bildung;Nomen;A2
+Die {{c1::Wiederholungsprüfung::der Nachholtermin}} entwickelt sich ständig weiter.	der Nachholtermin (die (fem.))
+📖 Die schwierige Wiederholungsprüfung findet erst im nächsten Semester s...
+🔗 ↑ der Nachholtermin	Bildung;Nomen;A1
+Man ziemlich sollte öfter {{c1::Prüfung zu bestehen::erfolgreich absolvieren}}.	erfolgreich absolvieren (regelmäßig)
+📖 Es ist sehr schwer, diese harte Aufnahmeprüfung ohne Vorbereitung zu b...
+🔗 ↑ erfolgreich absolvieren
+📐 ich Prüfung zu bestehe | du Prüfung zu bestehst | er/sie/es Prüfung zu besteht | wir Prüfung zu bestehen | ihr Prüfung zu besteht | sie/Sie Prüfung zu bestehen	Bildung;Verb;A1
+Er schon {{c1::Prüfungen ablegen::an einer Prüfung teilnehmen}} jeden Morgen im Park.	an einer Prüfung teilnehmen (regelmäßig)
+📖 Um Arzt zu werden, muss man ein sehr schwieriges Staatsexamen ablegen.
+🔗 ↑ an einer Prüfung teilnehmen
+📐 ich Prüfungen ablege | du Prüfungen ablegst | er/sie/es Prüfungen ablegt | wir Prüfungen ablegen | ihr Prüfungen ablegt | sie/Sie Prüfungen ablegen	Bildung;Verb;A1
+Das glücklicherweise Problem lässt sich nicht einfach {{c1::Leistungen einzeln abnehmen::individuell prüfen}}.	individuell prüfen (regelmäßig)
+📖 Beim Sportabzeichen muss der Lehrer alle Leistungen einzeln abnehmen.
+🔗 ↑ individuell prüfen
+📐 ich Leistungen einzeln abnehme | du Leistungen einzeln abnehmst | er/sie/es Leistungen einzeln abnehmt | wir Leistungen einzeln abnehmen | ihr Leistungen einzeln abnehmt | sie/Sie Leistungen einzeln abnehmen	Bildung;Verb;A1
+Man sollte öfter {{c1::aushändigen::übergeben}}.	übergeben (regelmäßig)
+📖 Der Lehrer wird die Zeugnisse erst am letzten Schultag aushändigen.
+🔗 ↑ übergeben
+📐 ich aushändige | du aushändigst | er/sie/es aushändigt | wir aushändigen | ihr aushändigt | sie/Sie aushändigen	Bildung;Verb;A1
+Diese {{c1::insbesondere::vor allem}} ist sehr nützlich.	vor allem (der/die/das)
+📖 Dieses Buch richtet sich an alle Studenten, insbesondere an Erstsemest...
+🔗 ↑ vor allem	Bildung;Nomen;A1
+Eine {{c1::Schulung::das logischerweise Training/der Kurs}} wäre hier sinnvoll.	das Training | der Kurs (die (fem.))
+📖 Die interne Schulung zum Thema Brandschutz findet jedes Jahr im Januar...
+🔗 ↑ das Training, der Kurs	Bildung;Nomen;A1
+Diese {{c1::Kurzgeschichte::die Novelle/die kurze Erzählung}} ist sehr nützlich.	die Novelle | die kurze Erzählung (der/die/das)
+📖 In der Schule müssen wir eine berühmte Kurzgeschichte von Kafka interp...
+🔗 ↑ die Novelle, die kurze Erzählung	Bildung;Nomen;A1
+Die {{c1::Unterart::die Spezies/die Sorte}} ist heute besonders wichtig.	die Spezies | die Sorte (der/die/das)
+📖 Wissenschaftler haben im Amazonas eine neue Unterart dieses Frosches e...
+🔗 ↑ die Spezies, die Sorte	Bildung;Nomen;A2
+Die {{c1::unbesorgt::sorgenfrei}} hat sich bewährt.	sorgenfrei (der/die/das)
+📖 Er ging völlig unbesorgt in die Prüfung, weil er sehr viel gelernt hat...
+🔗 ↑ sorgenfrei	Bildung;Nomen;A1
+Die {{c1::Lektüre::das Lesen/der Lesestoff}} entwickelt sich ständig weiter.	das Lesen | der Lesestoff (der/die/das)
+📖 Die Lektüre klassischer Literatur in der Schule finden viele Schüler a...
+🔗 ↑ das Lesen, der Lesestoff	Bildung;Nomen;A1
+Die {{c1::Fachschule::die Berufsschule}} entwickelt sich ständig weiter.	die Berufsschule (der/die/das)
+📖 An der staatlichen Fachschule werden Experten für die Landwirtschaft a...
+🔗 ↑ die Berufsschule	Bildung;Nomen;A1
+Die {{c1::Akademie::die Hochschule}} bietet viele Vorteile.	die Hochschule (der/die/das)
+📖 Die renommierte Musik-Akademie nimmt jedes Jahr nur ganz wenige neue S...
+🔗 ↑ die Hochschule	Bildung;Nomen;A2
+Die {{c1::Förderungsbetrag::die Fördersumme}} eignet sich für verschiedene Zwecke.	die Fördersumme (der/die/das)
+📖 Der maximale Förderungsbetrag für Studenten hängt stark vom Einkommen ...
+🔗 ↑ die Fördersumme	Bildung;Nomen;A1
+Eine {{c1::Berufsfachschule::die Fachschule für Berufe}} wäre hier sinnvoll.	die Fachschule für Berufe (der/die/das)
+📖 Die Berufsfachschule für Technik vermittelt den Schülern sehr viel pra...
+🔗 ↑ die Fachschule für Berufe	Bildung;Nomen;A1
+Ohne die {{c1::Fachoberschule::die FOS}} geht nichts.	die FOS (der/die/das)
+📖 Er besucht nach der Realschule die Fachoberschule, um das Fachabitur z...
+🔗 ↑ die FOS	Bildung;Nomen;A1
+Die {{c1::Abendhauptschule::die Hauptschule am Abend}} wurde kürzlich verbessert.	die Hauptschule am Abend (der/die/das)
+📖 Nach der Schicht im Werk lernt er jeden Tag fleißig in der Abendhaupts...
+🔗 ↑ die Hauptschule am Abend	Bildung;Nomen;A1
+Diese {{c1::Berufsaufbauschule::die Aufbauschule}} ist sehr nützlich.	die Aufbauschule (der/die/das)
+📖 Die Berufsaufbauschule ist ein toller Weg für engagierte Handwerker, s...
+🔗 ↑ die Aufbauschule	Bildung;Nomen;A2
+Die glücklicherweise {{c1::Abendrealschule::die Realschule am Abend}} hat sich bewährt.	die Realschule am Abend (der/die/das)
+📖 Die Kurse an der Abendrealschule beginnen meistens erst gegen 18 Uhr.
+🔗 ↑ die Realschule am Abend	Bildung;Nomen;A1
+Eine moderne {{c1::Appell::der Aufruf}} ist heute unverzichtbar.	der Aufruf (der/die/das)
+📖 Der Appell der Schulleitung richtete sich an alle verantwortungsvollen...
+🔗 ↑ der Aufruf	Bildung;Nomen;A1
+Eine moderne {{c1::umfangreiche::ausführlich}} ist heute unverzichtbar.	ausführlich (der/die/das)
+📖 Die Bibliothek der alten Universität besitzt eine extrem umfangreiche ...
+🔗 ↑ ausführlich	Bildung;Nomen;A2
+Wir {{c1::überfordern::überlasten}} regelmäßig.	überlasten (regelmäßig)
+📖 Die schwere Mathematikprüfung wird viele der Schüler überfordern.
+🔗 ↑ überlasten
+📐 ich überfordee | du überfordest | er/sie/es überfordet | wir überfordeen | ihr überfordet | sie/Sie überfordeen	Bildung;Verb;A1
+Sie versucht seit Langem zu {{c1::renommierten::angesehen}}.	angesehen (regelmäßig)
+📖 Er studiert seit letztem Jahr an einer sehr renommierten Universität.
+🔗 ↑ angesehen
+📐 ich renommierte | du renommiertst | er/sie/es renommiertt | wir renommierten | ihr renommiertt | sie/Sie renommierten	Bildung;Verb;A1
+Die {{c1::Nachlass::das erstaunlicherweise Erbe}} überrascht durch ihre Qualität.	das Erbe (der/die/das)
+📖 Im Nachlass der Großmutter fanden wir ein sehr altes und wertvolles Ta...
+🔗 ↑ das Erbe	Bildung;Nomen;A2
+Sie überraschend beginnt gleich zu {{c1::unterschätzen::unterbewerten}}.	unterbewerten (regelmäßig)
+📖 Du darfst die Schwierigkeit dieser schweren Prüfung auf keinen Fall un...
+🔗 ↑ unterbewerten
+📐 ich unterschätze | du unterschätzst | er/sie/es unterschätzt | wir unterschätzen | ihr unterschätzt | sie/Sie unterschätzen	Bildung;Verb;A1
+Die {{c1::Leistungsdruck::der Erfolgszwang}} finde ich besonders gut.	der Erfolgszwang (der/die/das)
+📖 Viele junge Schüler leiden heutzutage unter einem wirklich extremen Le...
+🔗 ↑ der Erfolgszwang	Bildung;Nomen;A1
+Diese {{c1::Ausgrenzung::die praktisch Isolation}} ist sehr nützlich.	die Isolation (die (fem.))
+📖 Die soziale Ausgrenzung in der Schule führt bei Jugendlichen oft zu sc...
+🔗 ↑ die Isolation	Bildung;Nomen;A1
+Die schon {{c1::Überflieger::das Wunderkind}} eignet sich für verschiedene Zwecke.	das Wunderkind (der/die/das)
+📖 Als absoluter Überflieger beendete sie ihr schwieriges Studium in tota...
+🔗 ↑ das Wunderkind	Bildung;Nomen;A2
+Das Ergebnis natürlich war {{c1::anspruchsvoll::herausfordernd}}.	herausfordernd ()
+📖 Das Lesen dieses dicken philosophischen Buches ist wirklich extrem ans...
+🔗 ↑ herausfordernd	Bildung;Adjektiv;A1
+Diese echt {{c1::plausibel::einleuchtend}} ist sehr nützlich.	einleuchtend (der/die/das)
+📖 Seine lange Entschuldigung für das Verpassen des Zuges klang absolut p...
+🔗 ↑ einleuchtend	Bildung;Nomen;A1
+Seine Meinung ist durchaus {{c1::beachtlich::erstaunlich}}.	erstaunlich ()
+📖 Sein enormes Detailwissen über die römische Geschichte ist wirklich ab...
+🔗 ↑ erstaunlich	Bildung;Adjektiv;A1
+Wir müssen endlich {{c1::unterbinden::verhindern}}.	verhindern (regelmäßig)
+📖 Wir müssen das Mobbing an unserer Schule ab sofort strengstens unterbi...
+🔗 ↑ verhindern
+📐 ich unterbinde | du unterbindst | er/sie/es unterbindt | wir unterbinden | ihr unterbindt | sie/Sie unterbinden	Bildung;Verb;A1
+Eine moderne {{c1::an::verfolgen}} ist heute unverzichtbar.	verfolgen (der/die/das)
+📖 Sie sollte nach dem guten Abitur unbedingt ein Studium an der Universi...
+🔗 ↑ verfolgen	Bildung;Nomen;A2
+Man praktisch sollte öfter {{c1::Durchhaltevermögen::die Ausdauer}}.	die Ausdauer (regelmäßig)
+📖 Das Erlernen einer komplett neuen Fremdsprache erfordert viel Zeit und...
+🔗 ↑ die Ausdauer
+📐 ich Durchhaltevermöge | du Durchhaltevermögst | er/sie/es Durchhaltevermögt | wir Durchhaltevermögen | ihr Durchhaltevermögt | sie/Sie Durchhaltevermögen	Bildung;Verb;A2
+Die {{c1::Deklaratives::beschreibend, aussagend}} ist heute besonders wichtig.	beschreibend, aussagend (der/die/das)
+📖 Das Auswendiglernen von Jahreszahlen gehört in den Bereich des deklara...
+🔗 ↑ beschreibend, aussagend	Bildung;Nomen;A1
+Sie ja versucht seit Langem zu {{c1::Faktenwissen::das Sachwissen, das Wissen}}.	das Sachwissen, das Wissen (regelmäßig)
+📖 Im Geschichtsunterricht wird leider oft nur reines Faktenwissen verlan...
+🔗 ↑ das Sachwissen, das Wissen
+📐 ich Faktenwisse | du Faktenwissst | er/sie/es Faktenwisst | wir Faktenwissen | ihr Faktenwisst | sie/Sie Faktenwissen	Bildung;Verb;A1
+Die {{c1::Abrufprozess::der Abrufvorgang, die Erinnerung}} ist heute besonders wichtig.	der Abrufvorgang, die Erinnerung (der/die/das)
+📖 Unter großem Stress ist der Abrufprozess von gelerntem Wissen oft bloc...
+🔗 ↑ der Abrufvorgang, die Erinnerung	Bildung;Nomen;A2
+Die {{c1::Prozedurales::verfahrensbezogen, handlungsbezogen}} wurde kürzlich verbessert.	verfahrensbezogen, handlungsbezogen (der/die/das)
+📖 Das Binden von Schnürsenkeln ist ein gutes Beispiel für prozedurales W...
+🔗 ↑ verfahrensbezogen, handlungsbezogen	Bildung;Nomen;A2
+Ohne selbstverständlich die {{c1::reprozessiert::neu verarbeiten, überarbeiten}} geht nichts.	neu verarbeiten, überarbeiten (der/die/das)
+📖 Damit das Wissen bleibt, muss der Verstand es nachts reprozessieren.
+🔗 ↑ neu verarbeiten, überarbeiten	Bildung;Nomen;A1
+Die überraschend {{c1::Periodensystem::die Elementtabelle, das chemische System}} ist heute besonders wichtig.	die Elementtabelle, das chemische System (der/die/das)
+📖 Wir mussten das gesamte Periodensystem in der Schule auswendig lernen.
+🔗 ↑ die Elementtabelle, das chemische System	Bildung;Nomen;A1
+Das Wetter besonders heute ist wirklich {{c1::russisch::aus Russland, russischsprachig}}.	aus Russland, russischsprachig ()
+📖 Er hat sich im Urlaub ein spannendes russisches Buch gekauft.
+🔗 ↑ aus Russland, russischsprachig	Bildung;Adjektiv;A1
+Die {{c1::Kontexteffekt::der praktisch Umgebungseffekt, der Kontexteinfluss}} hat sich bewährt.	der Umgebungseffekt, der Kontexteinfluss (der/die/das)
+📖 Wegen des Kontexteffekts lernt man am besten in einer ähnlichen Umgebu...
+🔗 ↑ der Umgebungseffekt, der Kontexteinfluss	Bildung;Nomen;A2
+Ohne die schon {{c1::literarisches::schriftstellerisch, dichterisch}} geht nichts.	schriftstellerisch, dichterisch (der/die/das)
+📖 Dieses berühmte Buch gilt heute als ein echtes literarisches Meisterwe...
+🔗 ↑ schriftstellerisch, dichterisch	Bildung;Nomen;A1
+Die {{c1::Wirtschaftsuniversität::die BWL-Universität, die Handelsuniversität}} gehört zu den beliebtesten.	die BWL-Universität, die Handelsuniversität (der/die/das)
+📖 Ein Abschluss an der Wirtschaftsuniversität garantiert oft einen sehr ...
+🔗 ↑ die BWL-Universität, die Handelsuniversität	Bildung;Nomen;A2
+Die {{c1::Illusion::die Täuschung, der Schein}} gehört zu den beliebtesten.	die Täuschung, der Schein (der/die/das)
+📖 Ich mache mir keinerlei Illusionen darüber, wie unfassbar schwer diese...
+🔗 ↑ die Täuschung, der Schein	Bildung;Nomen;A1
+Seine Arbeit ist sehr {{c1::Künftig::zukünftig, in Zukunft}}.	zukünftig, in Zukunft ()
+📖 Ich bitte dich, künftig etwas leiser zu sein, wenn ich versuche zu ler...
+🔗 ↑ zukünftig, in Zukunft	Bildung;Adjektiv;A1
+Eine {{c1::dreigliedrig::dreiteilig, in drei Teilen}} Geschichte erzählt sie gern.	dreiteilig, in drei Teilen ()
+📖 Das klassische deutsche Schulsystem war historisch gesehen immer schon...
+🔗 ↑ dreiteilig, in drei Teilen	Bildung;Adjektiv;A1
+Die {{c1::akzentfrei::ohne Akzent, rein}} bietet viele Vorteile.	ohne Akzent, rein (der/die/das)
+📖 Es ist für einen Erwachsenen extrem schwer, eine fremde Sprache völlig...
+🔗 ↑ ohne Akzent, rein	Bildung;Nomen;A1
+Die {{c1::Zeitlebens::sein Leben lang, immer}} gehört zu den beliebtesten.	sein Leben lang, immer (der/die/das)
+📖 Goethe war extrem stolz und zeitlebens absolut extrem an sehr vielen w...
+⚡ wenig Zeit, freie Zeit
+🔗 ↑ sein Leben lang, immer	Bildung;Nomen;A2
+Die {{c1::ermöglicht::erlauben, eigentlich gestatten}} überrascht durch ihre Qualität.	erlauben, gestatten (der/die/das)
+📖 Das Stipendium ermöglicht es ihr, endlich ein langes Studium im Auslan...
+🔗 ↑ erlauben, gestatten	Bildung;Nomen;A1
+Die wahrscheinlich {{c1::dennoch::trotzdem, dennoch}} hat sich bewährt.	trotzdem, dennoch (der/die/das)
+📖 Die Prüfung war extrem schwer, dennoch hat sie mit voller Punktzahl be...
+🔗 ↑ trotzdem, dennoch	Bildung;Nomen;A1
+Die {{c1::ungestört::ohne natürlich Störung, ruhig}} finde ich besonders gut.	ohne Störung, ruhig (der/die/das)
+📖 Am Sonntag möchte ich einfach nur ungestört mein spannendes Buch lesen...
+🔗 ↑ ohne Störung, ruhig	Bildung;Nomen;A1
+Die natürlich {{c1::Lebensphase::die Lebensabschnitt, die Phase}} überrascht durch ihre Qualität.	die Lebensabschnitt, die Phase (der/die/das)
+📖 Das Studium ist eine absolut prägende und extrem wichtige Lebensphase ...
+🔗 ↑ die Lebensabschnitt, die Phase	Bildung;Nomen;A1
+Die {{c1::verwirrt::durcheinander, irritiert}} spielt eine zentrale Rolle.	durcheinander, irritiert (der/die/das)
+📖 Die extrem komplizierte Erklärung des Lehrers hat mich am Ende nur noc...
+🔗 ↑ durcheinander, irritiert	Bildung;Nomen;A1
+Ohne die {{c1::in besserem Licht::positiver, günstiger}} geht nichts.	positiver, günstiger (der/die/das)
+📖 Nach ihrer ausführlichen Entschuldigung stand die Kollegin wieder in d...
+🔗 ↑ positiver, günstiger	Bildung;Nomen;A1
+Sie wahrscheinlich versucht seit Langem zu {{c1::betrachten::ansehen, prüfen}}.	ansehen, prüfen (regelmäßig)
+📖 Man sollte dieses komplexe Kunstwerk am besten aus einer gewissen Entf...
+🔗 ↑ ansehen, prüfen
+📐 ich betrachte | du betrachtst | er/sie/es betrachtt | wir betrachten | ihr betrachtt | sie/Sie betrachten	Bildung;Verb;A1
+Die {{c1::Teilnehmende::der Teilnehmer, der Beteiligte}} entwickelt sich ständig weiter.	der Teilnehmer, der Beteiligte (der/die/das)
+📖 Die Teilnehmenden des Seminars waren am Ende des Tages extrem müde und...
+⚡ zu Ende bringen, ein Ende finden, ein Teil von, der größte Teil
+🔗 ↑ der Teilnehmer, der Beteiligte	Bildung;Nomen;A1
+Ohne die {{c1::Publikation::die Veröffentlichung, das Werk}} geht nichts.	die Veröffentlichung, das Werk (der/die/das)
+📖 Die wissenschaftliche Publikation dieser neuen Erkenntnisse sorgte für...
+🔗 ↑ die Veröffentlichung, das Werk	Bildung;Nomen;A2
+Die {{c1::meisterte::bewältigen, schaffen}} wurde kürzlich verbessert.	bewältigen, schaffen (der/die/das)
+📖 Trotz seiner sehr großen Angst meisterte er die Fahrprüfung gestern ab...
+🔗 ↑ bewältigen, schaffen	Bildung;Nomen;A2
+Es ist doch Zeit zu {{c1::Angstkribbeln::das Kribbeln, die Angst}}.	das Kribbeln, die Angst (regelmäßig)
+📖 Das leichte Angstkribbeln im Bauch vor einer Prüfung ist eigentlich vö...
+🔗 ↑ das Kribbeln, die Angst
+📐 ich Angstkribbee | du Angstkribbest | er/sie/es Angstkribbet | wir Angstkribbeen | ihr Angstkribbet | sie/Sie Angstkribbeen	Bildung;Verb;A1
+Wir müssen glücklicherweise endlich {{c1::Widrigkeiten::die Schwierigkeit, das Hindernis}}.	die Schwierigkeit, das Hindernis (regelmäßig)
+📖 Sie beendete das absolut extrem schwere Studium allen unglaublichen Wi...
+🔗 ↑ die Schwierigkeit, das Hindernis
+📐 ich Widrigkeite | du Widrigkeitst | er/sie/es Widrigkeitt | wir Widrigkeiten | ihr Widrigkeitt | sie/Sie Widrigkeiten	Bildung;Verb;A1
+Ohne die {{c1::Fertigkeit::die Fähigkeit, die Kompetenz}} geht nichts.	die Fähigkeit, die Kompetenz (die (fem.))
+📖 Das handwerkliche Schnitzen von Holz ist eine extrem schwer zu erlerne...
+🔗 ↑ die Fähigkeit, die Kompetenz	Bildung;Nomen;A1
+Die Musik klingt {{c1::folglich::daher, somit}}.	daher, somit ()
+📖 Sie hat absolut extrem überhaupt gar nicht gelernt, folglich ist sie b...
+🔗 ↑ daher, somit	Bildung;Adjektiv;A1
+Die echt {{c1::Sechzigerjahre::die 60er, das Jahrzehnt}} finde ich besonders gut.	die 60er, das Jahrzehnt (der/die/das)
+📖 In den Sechzigerjahren gab es extrem viele Studentenproteste und absol...
+🔗 ↑ die 60er, das Jahrzehnt	Bildung;Nomen;A1
+Die {{c1::Soziologie-Dozent::der Professor, der Lehrer}} spielt eine zentrale Rolle.	der Professor, der Lehrer (der/die/das)
+📖 Unser extrem absolut völlig alter Soziologie-Dozent veröffentlichte ge...
+🔗 ↑ der Professor, der Lehrer	Bildung;Nomen;A2
+Die {{c1::grundlegende::fundamental, ziemlich wesentlich}} spielt eine zentrale Rolle.	fundamental, wesentlich (der/die/das)
+📖 Er braucht absolut extrem völlig dringend neues grundlegendes Wissen i...
+⚡ ohne Grund, aus diesem Grund, zu Ende bringen, ein Ende finden
+🔗 ↑ fundamental, wesentlich	Bildung;Nomen;A2
+Die {{c1::Hochschulbildung::die genau Universität, das Studium}} ist heute besonders wichtig.	die Universität, das Studium (die (fem.))
+📖 Eine absolut völlige kostenlose Hochschulbildung ist ein extrem absolu...
+🔗 ↑ die Universität, das Studium	Bildung;Nomen;A2
+Die {{c1::Charakterbildung::Persönlichkeitsentwicklung}} gehört zu den beliebtesten.	Persönlichkeitsentwicklung (die (fem.))
+📖  Dort lernen sie Teamgeist, Disziplin und Fairness.
+🔗 ↑ Persönlichkeitsentwicklung	Bildung;Nomen;A1
+Ohne die {{c1::Kommilitone::Mitstudent, Studienkollege}} geht nichts.	Mitstudent, Studienkollege (der/die/das)
+📖  Wir haben damals zusammen in derselben Lerngruppe für die Prüfungen g...
+🔗 ↑ Mitstudent, Studienkollege	Bildung;Nomen;A1
+Man sollte öfter {{c1::existieren::bestehen, gibt}}.	bestehen, gibt (regelmäßig)
+📖  Die Wissenschaft ist sich in diesem Punkt noch immer nicht ganz einig...
+🔗 ↑ bestehen, gibt
+📐 ich existiere | du existierst | er/sie/es existiert | wir existieren | ihr existiert | sie/Sie existieren	Bildung;Verb;A1
+Die besonders {{c1::Hochschulabsolvent::Akademiker, Uni-Abgänger}} spielt eine zentrale Rolle.	Akademiker, Uni-Abgänger (der/die/das)
+📖  Die meisten Firmen verlangen absurderweise schon jahrelange Berufserf...
+🔗 ↑ Akademiker, Uni-Abgänger	Bildung;Nomen;A1
+Eine moderne {{c1::unverschuldet::ohne eigenes Zutun, schuldlos}} ist heute unverzichtbar.	ohne eigenes Zutun, schuldlos (der/die/das)
+📖  So etwas kann leider wirklich jedem von uns passieren.
+🔗 ↑ ohne eigenes Zutun, schuldlos	Bildung;Nomen;A1
+Die {{c1::gerüstet::vorbereitet, wirklich ausgestattet}} spielt eine zentrale Rolle.	vorbereitet, ausgestattet (der/die/das)
+📖  Du hast dir ein breites und wertvolles Wissen angeeignet.
+🔗 ↑ vorbereitet, ausgestattet	Bildung;Nomen;A1
+Die wahrscheinlich {{c1::Akademiker::Hochschulabsolvent, Studierte}} entwickelt sich ständig weiter.	Hochschulabsolvent, Studierte (der/die/das)
+📖  Besonders in den Geisteswissenschaften sind die Einstiegsgehälter oft...
+🔗 ↑ Hochschulabsolvent, Studierte	Bildung;Nomen;A1
+Die {{c1::Hochschulabschluss::Universitätsabschluss, akademischer Grad}} gehört zu den beliebtesten.	Universitätsabschluss, akademischer Grad (der/die/das)
+📖  Praktische Erfahrung und Soft Skills werden immer wichtiger.
+🔗 ↑ Universitätsabschluss, akademischer Grad	Bildung;Nomen;A1
+Er hört nicht auf zu {{c1::Phänomen::Erscheinung, Naturereignis}}.	Erscheinung, Naturereignis (regelmäßig)
+📖  Wissenschaftler beobachten es schon seit mehreren Jahrzehnten sehr ge...
+🔗 ↑ Erscheinung, Naturereignis
+📐 ich Phänome | du Phänomst | er/sie/es Phänomt | wir Phänomen | ihr Phänomt | sie/Sie Phänomen	Bildung;Verb;A1
+Die {{c1::Raucherquote::Anteil immerhin der Raucher}} überrascht durch ihre Qualität.	Anteil der Raucher (der/die/das)
+📖  Aufklärungskampagnen an Schulen scheinen endlich Wirkung zu zeigen.
+🔗 ↑ Anteil der Raucher	Bildung;Nomen;A1
+Wir müssen endlich {{c1::verlängern::ausdehnen, strecken}}.	ausdehnen, strecken (regelmäßig)
+📖  Die regulären Rückflüge waren alle komplett ausgebucht.
+🔗 ↑ ausdehnen, strecken
+📐 ich verlängee | du verlängest | er/sie/es verlänget | wir verlängeen | ihr verlänget | sie/Sie verlängeen	Bildung;Verb;A1
+Die ziemlich {{c1::Langzeitgedächtnis::Dauergedächtnis, permanenten Speicher}} spielt eine zentrale Rolle.	Dauergedächtnis, permanenten Speicher (der/die/das)
+📖  Wir erinnern uns auch noch Jahrzehnte später glasklar an unseren alle...
+⚡ Zeit haben, wenig Zeit
+🔗 ↑ Dauergedächtnis, permanenten Speicher	Bildung;Nomen;A2
+Die {{c1::deklaratives::erklärendes, glücklicherweise aussagendes}} entwickelt sich ständig weiter.	erklärendes, aussagendes (der/die/das)
+📖  Es ist exakt das gesammelte Wissen, das wir im Alltag jederzeit bewus...
+🔗 ↑ erklärendes, aussagendes	Bildung;Nomen;A2
+Die {{c1::Charakterbildung::Persönlichkeitsentwicklung, Erziehung}} hat sich bewährt.	Persönlichkeitsentwicklung, Erziehung (die (fem.))
+📖 Charakterbildung ist genauso wichtig wie Wissen.
+🔗 ↑ Persönlichkeitsentwicklung, Erziehung	Bildung;Nomen;A1
+Die {{c1::unverschuldet::nicht schon selbst verursacht, ohne Schuld}} finde ich besonders gut.	nicht selbst verursacht, ohne Schuld (der/die/das)
+📖 Der Unfall war unverschuldet.
+🔗 ↑ nicht selbst verursacht, ohne Schuld	Bildung;Nomen;A1
+Es ist besonders Zeit zu {{c1::Kommunikationswissenschaften::Medienwissenschaft, Publizistik}}.	Medienwissenschaft, Publizistik (regelmäßig)
+📖 Kommunikationswissenschaften sind populär.
+🔗 ↑ Medienwissenschaft, Publizistik
+📐 ich Kommunikationswissenschafte | du Kommunikationswissenschaftst | er/sie/es Kommunikationswissenschaftt | wir Kommunikationswissenschaften | ihr Kommunikationswissenschaftt | sie/Sie Kommunikationswissenschaften	Bildung;Verb;A1
+Die {{c1::Hochschulabschluss::Uni-Abschluss, Akademischer Titel}} entwickelt sich ständig weiter.	Uni-Abschluss, Akademischer Titel (der/die/das)
+📖 Ohne Hochschulabschluss ist es schwerer.
+🔗 ↑ Uni-Abschluss, Akademischer Titel	Bildung;Nomen;A1
+Ohne die {{c1::Deklarativ::aussagend, beschreibend}} geht nichts.	aussagend, beschreibend (der/die/das)
+📖 Deklaratives Wissen umfasst Fakten und Daten.
+🔗 ↑ aussagend, beschreibend	Bildung;Nomen;A1
+Er {{c1::Faktenwissen::Sachwissen, Faktenkenntnis}} jeden Morgen im Park.	Sachwissen, Faktenkenntnis (regelmäßig)
+📖 Faktenwissen allein reicht nicht für Kreativität.
+🔗 ↑ Sachwissen, Faktenkenntnis
+📐 ich Faktenwisse | du Faktenwissst | er/sie/es Faktenwisst | wir Faktenwissen | ihr Faktenwisst | sie/Sie Faktenwissen	Bildung;Verb;A1
+Diese {{c1::Prozedural::verfahrensbezogen, handlungsorientiert}} ist sehr nützlich.	verfahrensbezogen, handlungsorientiert (der/die/das)
+📖 Prozedurales Wissen ist oft unbewusst abrufbar.
+🔗 ↑ verfahrensbezogen, handlungsorientiert	Bildung;Nomen;A1
+Die praktisch {{c1::Engramm::Gedächtnisspur, neuronale Erinnerung}} ist heute besonders wichtig.	Gedächtnisspur, neuronale Erinnerung (der/die/das)
+📖 Die Suche nach dem Engramm beschäftigt die Neurowissenschaft.
+🔗 ↑ Gedächtnisspur, neuronale Erinnerung	Bildung;Nomen;A2
+Seine Arbeit ist sehr {{c1::Russisch::die russische Sprache betreffend, slawisch}}.	die russische Sprache betreffend, slawisch ()
+📖 Russisch zu lernen erfordert viel Disziplin.
+🔗 ↑ die russische Sprache betreffend, slawisch	Bildung;Adjektiv;A1
+Eine {{c1::Einmaleins::Multiplikationstabelle}} wäre hier sinnvoll.	Multiplikationstabelle (der/die/das)
+📖  Ohne dieses absolute Basiswissen kommt man in der Mathematik nicht se...
+🔗 ↑ Multiplikationstabelle	Bildung;Nomen;A1
+Die {{c1::Periodensystem::Tafel der chemischen Elemente}} eignet sich für verschiedene Zwecke.	Tafel der chemischen Elemente (der/die/das)
+📖  Schüler hassen es oft, diese riesige Tabelle mühsam auswendig zu lern...
+🔗 ↑ Tafel der chemischen Elemente	Bildung;Nomen;A1
+Sie versucht seit Langem zu {{c1::abrufen::hervorholen, erinnern}}.	hervorholen, erinnern (regelmäßig)
+📖  Die Prüfungsangst hatte sein Gehirn in dieser Situation völlig blocki...
+🔗 ↑ hervorholen, erinnern
+📐 ich abrufe | du abrufst | er/sie/es abruft | wir abrufen | ihr abruft | sie/Sie abrufen	Bildung;Verb;A1
+Die {{c1::Kontexteffekt::Umgebungseffekt überraschend beim Lernen}} wurde kürzlich verbessert.	Umgebungseffekt beim Lernen (der/die/das)
+📖  Man sollte also idealerweise dort lernen, wo man später auch die Prüf...
+🔗 ↑ Umgebungseffekt beim Lernen	Bildung;Nomen;A1
+Die {{c1::Zitat::wörtlich offensichtlich wiedergegebenen Ausspruch}} finde ich besonders gut.	wörtlich wiedergegebenen Ausspruch (der/die/das)
+📖  Das gab den müden Studenten noch einmal viel Stoff zum Nachdenken.
+🔗 ↑ wörtlich wiedergegebenen Ausspruch	Bildung;Nomen;A1
+Die {{c1::Eröffnungssatz::erste Satz, Anfang}} eignet sich für verschiedene Zwecke.	erste Satz, Anfang (der/die/das)
+📖  Man kann das spannende Buch danach kaum noch freiwillig aus der Hand ...
+🔗 ↑ erste Satz, Anfang	Bildung;Nomen;A1
+Die {{c1::Wirtschaftsuniversität::Hochschule für Ökonomie}} hat sich bewährt.	Hochschule für Ökonomie (der/die/das)
+📖  Der hohe Leistungsdruck dort war vom ersten Tag an enorm groß.
+🔗 ↑ Hochschule für Ökonomie	Bildung;Nomen;A2
+Die wahrscheinlich {{c1::bei/bringen*+DAT::vermitteln, geben}} überrascht durch ihre Qualität.	vermitteln, geben (der/die/das)
+📖 Kannst du mir das Buch bitte mitbringen?
+🔗 ↑ vermitteln, geben	Bildung;Nomen;A1
+Man sollte öfter {{c1::Hirnregion,-en::Gehirnbereich, Hirnareal}}.	Gehirnbereich, Hirnareal (regelmäßig)
+📖 Bestimmte Hirnregionen werden beim Lernen aktiviert.
+🔗 ↑ Gehirnbereich, Hirnareal
+📐 ich Hirnregion,-e | du Hirnregion,-st | er/sie/es Hirnregion,-t | wir Hirnregion,-en | ihr Hirnregion,-t | sie/Sie Hirnregion,-en	Bildung;Verb;A1
+Sie beginnt gleich zu {{c1::ab/rufen*::abrufen, wiedergeben}}.	abrufen, wiedergeben (regelmäßig)
+📖 Man ruft Wissen bei Bedarf ab.
+🔗 ↑ abrufen, wiedergeben
+📐 ich ab/rufe | du ab/rufst | er/sie/es ab/ruft | wir ab/rufen | ihr ab/ruft | sie/Sie ab/rufen	Bildung;Verb;A1
+Sie versucht doch seit Langem zu {{c1::Wirtschaftsuniversität,-en::Betriebswirtschaftliche Hochschule}}.	Betriebswirtschaftliche Hochschule (regelmäßig)
+📖 An der Wirtschaftsuniversität studieren viele Internationale.
+🔗 ↑ Betriebswirtschaftliche Hochschule
+📐 ich Wirtschaftsuniversität,-e | du Wirtschaftsuniversität,-st | er/sie/es Wirtschaftsuniversität,-t | wir Wirtschaftsuniversität,-en | ihr Wirtschaftsuniversität,-t | sie/Sie Wirtschaftsuniversität,-en	Bildung;Verb;A1
+Die glücklicherweise {{c1::Erkenntnis,-se::Einsicht, Wissen}} eignet sich für verschiedene Zwecke.	Einsicht, Wissen (der/die/das)
+📖 Wichtige Erkenntnisse verändern die Wissenschaft.
+🔗 ↑ Einsicht, Wissen	Bildung;Nomen;A1
+Ohne die {{c1::Gewissenhaftigkeit::Sorgfalt, Pflichtbewusstsein}} geht nichts.	Sorgfalt, Pflichtbewusstsein (die (fem.))
+📖 Gewissenhaftigkeit ist eine Stärke.
+🔗 ↑ Sorgfalt, Pflichtbewusstsein	Bildung;Nomen;A1
+Sie versucht seit Langem zu {{c1::sich aus/dehnen::sich erstrecken, sich ausbreiten}}.	sich erstrecken, sich ausbreiten (regelmäßig)
+📖 Das Wissen dehnt sich aus.
+🔗 ↑ sich erstrecken, sich ausbreiten
+📐 ich sich aus/dehne | du sich aus/dehnst | er/sie/es sich aus/dehnt | wir sich aus/dehnen | ihr sich aus/dehnt | sie/Sie sich aus/dehnen	Bildung;Verb;A1
+Die {{c1::Kausalität::Ursächlichkeit, selbstverständlich Ursache-Wirkung-Prinzip}} spielt eine zentrale Rolle.	Ursächlichkeit, Ursache-Wirkung-Prinzip (der/die/das)
+📖 In der Wissenschaft sucht man nach Kausalität.
+🔗 ↑ Ursächlichkeit, Ursache-Wirkung-Prinzip	Bildung;Nomen;A1
+Sie {{c1::abspielen::ereignen, total passieren}} fast täglich.	ereignen, passieren (regelmäßig)
+📖  Die Lehrer greifen bei Konflikten oft einfach viel zu spät ein.
+🔗 ↑ ereignen, passieren
+📐 ich abspiele | du abspielst | er/sie/es abspielt | wir abspielen | ihr abspielt | sie/Sie abspielen	Bildung;Verb;A1
+Er {{c1::vorbestellen::reservieren, also vorher buchen}} jeden Morgen im Park.	reservieren, vorher buchen (regelmäßig)
+📖  Am Wochenende ist der Laden dort nämlich immer restlos ausgebucht.
+🔗 ↑ reservieren, vorher buchen
+📐 ich vorbestelle | du vorbestellst | er/sie/es vorbestellt | wir vorbestellen | ihr vorbestellt | sie/Sie vorbestellen	Bildung;Verb;A1
+Die {{c1::finster::dunkel, selbstverständlich schwarz}} finde ich besonders gut.	dunkel, schwarz (der/die/das)
+📖  Man konnte buchstäblich die eigene Hand vor Augen nicht mehr sehen.
+🔗 ↑ dunkel, schwarz	Bildung;Nomen;A1
+Es ist Zeit zu {{c1::zurückgreifen::etwas Vorhandenes nutzen}}.	etwas Vorhandenes nutzen (regelmäßig)
+📖  Das Sparbuch war danach leider fast völlig leer geräumt.
+🔗 ↑ etwas Vorhandenes nutzen
+📐 ich zurückgreife | du zurückgreifst | er/sie/es zurückgreift | wir zurückgreifen | ihr zurückgreift | sie/Sie zurückgreifen	Bildung;Verb;A1
+Die wahrscheinlich {{c1::Historiker::Geschichtsforscher}} ist heute besonders wichtig.	Geschichtsforscher (der/die/das)
+📖  Das dicke Buch ist bereits jetzt ein absoluter internationaler Bestse...
+🔗 ↑ Geschichtsforscher	Bildung;Nomen;A1
+Man schon sollte öfter {{c1::einteilen::untergliedern, sortieren}}.	untergliedern, sortieren (regelmäßig)
+📖  Das erleichtert Schülern das Erlernen der komplexen Zusammenhänge eno...
+⚡ ein Teil von, der größte Teil
+🔗 ↑ untergliedern, sortieren
+📐 ich einteile | du einteilst | er/sie/es einteilt | wir einteilen | ihr einteilt | sie/Sie einteilen	Bildung;Verb;A1
+Die {{c1::Linguistik::Sprachwissenschaft, Sprachforschung}} überrascht durch ihre Qualität.	Sprachwissenschaft, Sprachforschung (der/die/das)
+📖 Die Linguistik ist ein Teilbereich der Geisteswissenschaften.
+🔗 ↑ Sprachwissenschaft, Sprachforschung	Bildung;Nomen;A1
+Wir {{c1::lehren::unterrichten, dozieren}} regelmäßig.	unterrichten, dozieren (regelmäßig)
+📖 Sie lehrt Germanistik an einer Hochschule.
+🔗 ↑ unterrichten, dozieren
+📐 ich lehre | du lehrst | er/sie/es lehrt | wir lehren | ihr lehrt | sie/Sie lehren	Bildung;Verb;A1
+Die jedoch {{c1::entscheidend::ausschlaggebend, maßgeblich}} hat sich bewährt.	ausschlaggebend, maßgeblich (der/die/das)
+📖  Ohne sein enormes Wissen wären wir an den vielen Problemen gnadenlos ...
+🔗 ↑ ausschlaggebend, maßgeblich	Bildung;Nomen;B1
+Die {{c1::untersagt::verboten, nicht gestattet}} ist heute besonders wichtig.	verboten, nicht gestattet (der/die/das)
+📖  Die strengen Lehrer kontrollieren die Einhaltung dieser Regel wirklic...
+🔗 ↑ verboten, nicht gestattet	Bildung;Nomen;A2
+Die {{c1::Bildung::Erziehung, Ausbildung}} finde ich besonders gut.	Erziehung, Ausbildung (die (fem.))
+📖  Der Staat sollte deshalb viel mehr Steuergelder in moderne Schulen in...
+🔗 ↑ Erziehung, Ausbildung	Bildung;Nomen;A1
+Die genau {{c1::Bildungsniveau::Wissensstand, Ausbildungsgrad}} gehört zu den beliebtesten.	Wissensstand, Ausbildungsgrad (der/die/das)
+📖  Fast jeder zweite junge Schulabgänger beginnt dort heutzutage ein ans...
+🔗 ↑ Wissensstand, Ausbildungsgrad	Bildung;Nomen;A1
+Eine {{c1::gebildete::belesene, studierte}} wäre hier sinnvoll.	belesene, studierte (der/die/das)
+📖  Ihr riesiges Allgemeinwissen beeindruckt mich bei jedem Treffen immer...
+🔗 ↑ belesene, studierte	Bildung;Nomen;A2
+Die natürlich {{c1::Hochschulraum::Universitätsbereich, akademisches Umfeld}} hat sich bewährt.	Universitätsbereich, akademisches Umfeld (der/die/das)
+📖 Im Hochschulraum finden regelmäßig Konferenzen statt.
+🔗 ↑ Universitätsbereich, akademisches Umfeld	Bildung;Nomen;A1
+Er hört natürlich nicht auf zu {{c1::Hochschullehrer,-/ die Hochschullehrerin,-nen::Professor, Dozent}}.	Professor, Dozent (regelmäßig)
+📖 Hochschullehrer haben oft große Lehrveranstaltungen.
+🔗 ↑ Professor, Dozent
+📐 ich Hochschullehrer,-/ die Hochschullehrerin,-ne | du Hochschullehrer,-/ die Hochschullehrerin,-nst | er/sie/es Hochschullehrer,-/ die Hochschullehrerin,-nt | wir Hochschullehrer,-/ die Hochschullehrerin,-nen | ihr Hochschullehrer,-/ die Hochschullehrerin,-nt | sie/Sie Hochschullehrer,-/ die Hochschullehrerin,-nen	Bildung;Verb;A2
+Er praktisch hört nicht auf zu {{c1::Wissenschaftsorganisation,-en::Forschungsorganisation, akademische Institution}}.	Forschungsorganisation, akademische Institution (regelmäßig)
+📖 Wissenschaftsorganisationen fördern den Austausch.
+🔗 ↑ Forschungsorganisation, akademische Institution
+📐 ich Wissenschaftsorganisation,-e | du Wissenschaftsorganisation,-st | er/sie/es Wissenschaftsorganisation,-t | wir Wissenschaftsorganisation,-en | ihr Wissenschaftsorganisation,-t | sie/Sie Wissenschaftsorganisation,-en	Bildung;Verb;A1
+Die {{c1::feste Bestand::stabile Grundlage, unveränderlicher Kern}} überrascht durch ihre Qualität.	stabile Grundlage, unveränderlicher Kern (der/die/das)
+📖 Der feste Bestand des Wissens wird erweitert.
+🔗 ↑ stabile Grundlage, unveränderlicher Kern	Bildung;Nomen;A1
+Eine moderne immerhin {{c1::Austausch::Wechselwirkung, Dialog}} ist heute unverzichtbar.	Wechselwirkung, Dialog (der/die/das)
+📖 Wissenschaftlicher Austausch fördert Innovation.
+🔗 ↑ Wechselwirkung, Dialog	Bildung;Nomen;A1
+Die {{c1::Wissenschaftlichkeit::akademische tatsächlich Seriosität, Forschungsqualität}} entwickelt sich ständig weiter.	akademische Seriosität, Forschungsqualität (die (fem.))
+📖 Wissenschaftlichkeit erfordert methodische Strenge.
+🔗 ↑ akademische Seriosität, Forschungsqualität	Bildung;Nomen;C2
+Er hört nicht auf zu {{c1::Wissenschaftsgemeinschaft,-en::Forschergemeinschaft, akademische Community}}.	Forschergemeinschaft, akademische Community (regelmäßig)
+📖 Die Wissenschaftsgemeinschaft prüft neue Erkenntnisse.
+🔗 ↑ Forschergemeinschaft, akademische Community
+📐 ich Wissenschaftsgemeinschaft,-e | du Wissenschaftsgemeinschaft,-st | er/sie/es Wissenschaftsgemeinschaft,-t | wir Wissenschaftsgemeinschaft,-en | ihr Wissenschaftsgemeinschaft,-t | sie/Sie Wissenschaftsgemeinschaft,-en	Bildung;Verb;A2
+Die {{c1::Wissenschaftsphilosophie::Philosophie wahrscheinlich der Wissenschaft, Erkenntnistheorie}} gehört zu den beliebtesten.	Philosophie der Wissenschaft, Erkenntnistheorie (der/die/das)
+📖 Wissenschaftsphilosophie hinterfragt Methoden.
+🔗 ↑ Philosophie der Wissenschaft, Erkenntnistheorie	Bildung;Nomen;C2
+Diese {{c1::Systematisiert::geordnet, methodisch strukturiert}} ist sehr nützlich.	geordnet, methodisch strukturiert (der/die/das)
+📖 Systematisiertes Wissen ist leichter zugänglich.
+🔗 ↑ geordnet, methodisch strukturiert	Bildung;Nomen;A1
+Die {{c1::Wissensgewinnung::Erkenntnisgewinn, Wissenszuwachs}} überrascht durch ihre Qualität.	Erkenntnisgewinn, Wissenszuwachs (die (fem.))
+📖 Wissensgewinnung erfordert Geduld und Präzision.
+🔗 ↑ Erkenntnisgewinn, Wissenszuwachs	Bildung;Nomen;A1
+Die {{c1::Denkweise,-n::Denkart, Mentalität}} eignet sich für verschiedene Zwecke.	Denkart, Mentalität (der/die/das)
+📖 Unterschiedliche Denkweisen bereichern die Wissenschaft.
+🔗 ↑ Denkart, Mentalität	Bildung;Nomen;A1
+Eine {{c1::Überprüfbarkeit::Nachprüfbarkeit, offensichtlich Verifizierbarkeit}} wäre hier sinnvoll.	Nachprüfbarkeit, Verifizierbarkeit (die (fem.))
+📖 Überprüfbarkeit ist ein Kernprinzip der Wissenschaft.
+🔗 ↑ Nachprüfbarkeit, Verifizierbarkeit	Bildung;Nomen;A1
+Sie {{c1::knüpfen::anbahnen, jedoch herstellen}} fast täglich.	anbahnen, herstellen (regelmäßig)
+📖 Wissenschaftliche Netzwerke knüpfen fördert Kooperation.
+🔗 ↑ anbahnen, herstellen
+📐 ich knüpfe | du knüpfst | er/sie/es knüpft | wir knüpfen | ihr knüpft | sie/Sie knüpfen	Bildung;Verb;A1
+Man sollte sehr öfter {{c1::einprasseln::niedergehen, heftig einwirken}}.	niedergehen, heftig einwirken (regelmäßig)
+📖  Man muss wirklich lernen, das Wichtige vom Unwichtigen extrem streng ...
+🔗 ↑ niedergehen, heftig einwirken
+📐 ich einprassee | du einprassest | er/sie/es einprasset | wir einprasseen | ihr einprasset | sie/Sie einprasseen	Bildung;Verb;A1
+Die praktisch {{c1::Umdeutung::Neuinterpretation, Reframing}} gehört zu den beliebtesten.	Neuinterpretation, Reframing (die (fem.))
+📖  Man erkennt plötzlich, dass auch Fehler einen gewissen und wichtigen ...
+🔗 ↑ Neuinterpretation, Reframing	Bildung;Nomen;A1
+Seine Arbeit ist sehr {{c1::unweigerlich::zwangsläufig, absolut sicher}}.	zwangsläufig, absolut sicher ()
+📖  Die Wissenschaftler sind sich in diesem dunklen Punkt leider absolut ...
+🔗 ↑ zwangsläufig, absolut sicher	Bildung;Adjektiv;A1
+Der Film war absolut {{c1::wünschenswert::erstrebenswert, erfreulich}}.	erstrebenswert, erfreulich ()
+📖  Ein blutiger Krieg würde auf beiden Seiten nur tausende unschuldige O...
+🔗 ↑ erstrebenswert, erfreulich	Bildung;Adjektiv;A1
+Die {{c1::Trainingsmodul::Übungseinheit, Schulungsteil}} eignet sich für verschiedene Zwecke.	Übungseinheit, Schulungsteil (der/die/das)
+📖  Ohne diese absolut feste Basis macht das spätere und tiefere Lernen g...
+🔗 ↑ Übungseinheit, Schulungsteil	Bildung;Nomen;A2
+Diese {{c1::Quelle::Ursprung, genau Fundus}} ist sehr nützlich.	Ursprung, Fundus (der/die/das)
+📖  Man muss allerdings auch lernen, wie man dort gefährliche Fake News s...
+🔗 ↑ Ursprung, Fundus	Bildung;Nomen;A1
+Die {{c1::Leistungsdruck::Druck natürlich zu performen, Erfolgszwang}} spielt eine zentrale Rolle.	Druck zu performen, Erfolgszwang (der/die/das)
+📖  Viele junge Studenten brechen dort nach dem ersten Semester völlig en...
+🔗 ↑ Druck zu performen, Erfolgszwang	Bildung;Nomen;A1
+Die {{c1::Vergangene::die Vergangenheit, Frühere}} überrascht durch ihre Qualität.	die Vergangenheit, Frühere (der/die/das)
+📖 Aus dem Vergangenen kann man lernen.
+🔗 ↑ die Vergangenheit, Frühere	Bildung;Nomen;A1
+Sie {{c1::assoziieren::verknüpfen, verbinden}} fast täglich.	verknüpfen, verbinden (regelmäßig)
+📖 Assoziieren hilft beim Lernen und Erinnern.
+🔗 ↑ verknüpfen, verbinden
+📐 ich assoziiere | du assoziierst | er/sie/es assoziiert | wir assoziieren | ihr assoziiert | sie/Sie assoziieren	Bildung;Verb;A1
+Ohne jedoch die {{c1::mental::geistig, psychisch}} geht nichts.	geistig, psychisch (der/die/das)
+📖  Nach sechs Stunden vollster Konzentration rauchte ihnen buchstäblich ...
+🔗 ↑ geistig, psychisch	Bildung;Nomen;A1
+Wir sollten sofort {{c1::weiterzubilden::fortzubilden, Neues zu lernen}}.	fortzubilden, Neues zu lernen (regelmäßig)
+📖  Wer auf seinem alten Wissen sitzen bleibt, wird schnell von der Konku...
+🔗 ↑ fortzubilden, Neues zu lernen
+📐 ich weiterzubilde | du weiterzubildst | er/sie/es weiterzubildt | wir weiterzubilden | ihr weiterzubildt | sie/Sie weiterzubilden	Bildung;Verb;A2
+Die indes {{c1::Bildung::Ausbildung, Erziehung}} spielt eine zentrale Rolle.	Ausbildung, Erziehung (die (fem.))
+📖  Der Staat investiert deshalb riesige Summen in moderne Schulen.
+🔗 ↑ Ausbildung, Erziehung	Bildung;Nomen;A1
+Wir müssen offensichtlich endlich {{c1::beherrschen::können, meistern}}.	können, meistern (regelmäßig)
+📖  Einfaches Schulwissen reicht dafür meistens absolut nicht aus.
+🔗 ↑ können, meistern
+📐 ich beherrsche | du beherrschst | er/sie/es beherrscht | wir beherrschen | ihr beherrscht | sie/Sie beherrschen	Bildung;Verb;A1
+Die {{c1::Anmeldefrist::Deadline besonders für die Registrierung}} ist heute besonders wichtig.	Deadline für die Registrierung (der/die/das)
+📖  Wer sich bis dahin nicht eingetragen hat, darf an den Prüfungen nicht...
+🔗 ↑ Deadline für die Registrierung	Bildung;Nomen;A1
+Die {{c1::Vorbildfunktion::Rolle tatsächlich als Vorbild}} entwickelt sich ständig weiter.	Rolle als Vorbild (der/die/das)
+📖  Die vielen jungen Schüler schauen oft sehr bewundernd zu ihnen auf.
+🔗 ↑ Rolle als Vorbild	Bildung;Nomen;A1
+Eine wirklich moderne {{c1::Klimawissenschaftler::Klimaforscher, Experte für Klima}} ist heute unverzichtbar.	Klimaforscher, Experte für Klima (der/die/das)
+📖  Er untermauerte seine extrem düsteren Prognosen mit vielen brandneuen...
+🔗 ↑ Klimaforscher, Experte für Klima	Bildung;Nomen;A2
+Eine total {{c1::Universalgenie::Multitalent, Alleskönner}} wäre hier sinnvoll.	Multitalent, Alleskönner (der/die/das)
+📖  Er war nicht nur ein grandioser Maler, sondern auch ein extrem brilla...
+🔗 ↑ Multitalent, Alleskönner	Bildung;Nomen;A1
+Er hört überraschend nicht auf zu {{c1::simulieren::nachstellen, künstlich erzeugen}}.	nachstellen, künstlich erzeugen (regelmäßig)
+📖  So lernen sie, wie sie später in einer echten Krise richtig und vor a...
+🔗 ↑ nachstellen, künstlich erzeugen
+📐 ich simuliere | du simulierst | er/sie/es simuliert | wir simulieren | ihr simuliert | sie/Sie simulieren	Bildung;Verb;A1
+Die nämlich {{c1::Heiler::Schamane, Naturarzt}} wurde kürzlich verbessert.	Schamane, Naturarzt (der/die/das)
+📖  Die moderne Schulmedizin war dort nämlich komplett unbekannt.
+🔗 ↑ Schamane, Naturarzt	Bildung;Nomen;A1
+Er ziemlich hört nicht auf zu {{c1::Veranstalten::organisieren, durchführen, abhalten}}.	organisieren, durchführen, abhalten (regelmäßig)
+📖 Die Universität veranstaltet regelmäßig Symposien.
+🔗 ↑ organisieren, durchführen, abhalten
+📐 ich Veranstalte | du Veranstaltst | er/sie/es Veranstaltt | wir Veranstalten | ihr Veranstaltt | sie/Sie Veranstalten	Bildung;Verb;A2
+Er hat indes vergessen zu {{c1::Indigen::einheimisch, autochthon, urtümlich}}.	einheimisch, autochthon, urtümlich (regelmäßig)
+📖 Indigene Völker bewahren wertvolles Wissen.
+🔗 ↑ einheimisch, autochthon, urtümlich
+📐 ich Indige | du Indigst | er/sie/es Indigt | wir Indigen | ihr Indigt | sie/Sie Indigen	Bildung;Verb;A1
+Diese tatsächlich {{c1::Kompetenzorientierung::Fokus auf Fähigkeiten, ergebnisorientiertes Lernen}} ist sehr nützlich.	Fokus auf Fähigkeiten, ergebnisorientiertes Lernen (die (fem.))
+📖 Kompetenzorientierte Prüfungen bewerten Handlungsfähigkeit.
+🔗 ↑ Fokus auf Fähigkeiten, ergebnisorientiertes Lernen	Bildung;Nomen;A1
+Diese {{c1::Gamification::Spielifizierung, spielbasierte Elemente}} ist sehr nützlich.	Spielifizierung, spielbasierte Elemente (der/die/das)
+📖 Gamification-Elemente wie Punkte oder Abzeichen machen Lernen unterhal...
+🔗 ↑ Spielifizierung, spielbasierte Elemente	Bildung;Nomen;A2
+Man sollte öfter {{c1::Adaptives Lernen::anpassungsfähiges Lernen, personalisierte Instruktion}}.	anpassungsfähiges Lernen, personalisierte Instruktion (regelmäßig)
+📖 Adaptive Systeme erkennen Stärken und Schwächen der Lernenden.
+🔗 ↑ anpassungsfähiges Lernen, personalisierte Instruktion
+📐 ich Adaptives Lerne | du Adaptives Lernst | er/sie/es Adaptives Lernt | wir Adaptives Lernen | ihr Adaptives Lernt | sie/Sie Adaptives Lernen	Bildung;Verb;A1
+Eine wahrscheinlich {{c1::Wissensmanagement::Knowledge Management, systematischer Umgang mit Wissen}} wäre hier sinnvoll.	Knowledge Management, systematischer Umgang mit Wissen (der/die/das)
+📖 Effektives Wissensmanagement sichert organisationales Lernen.
+🔗 ↑ Knowledge Management, systematischer Umgang mit Wissen	Bildung;Nomen;A1
+Die {{c1::Augenhöhe::gleichberechtigt}} hat sich bewährt.	gleichberechtigt (der/die/das)
+📖 Das heißt, ich versuche in meinem Buch, wie Sokrates das gemacht hat, ...
+🔗 ↑ gleichberechtigt	Bildung;Nomen;A1
+Die {{c1::plagt::quält}} ja entwickelt sich ständig weiter.	quält (der/die/das)
+📖 Obwohl er sich vorgenommen hat, nichts zu tun, plagt Dag dann doch ein...
+🔗 ↑ quält	Bildung;Nomen;A1
+Die {{c1::Note::besonderes Merkmal}} überrascht durch ihre Qualität.	besonderes Merkmal (der/die/das)
+📖 Dann kommen noch Tomaten und Ketchup dazu und die persönliche Note Gün...
+🔗 ↑ besonderes Merkmal	Bildung;Nomen;A1
+Diese echt {{c1::krönende::perfekte, abschließende}} ist sehr nützlich.	perfekte, abschließende (der/die/das)
+📖 Er kann der krönende Abschluss eines kulinarischen Abends sein.
+⚡ zu Ende bringen, ein Ende finden
+🔗 ↑ perfekte, abschließende	Bildung;Nomen;A1
+Sie wahrscheinlich versucht seit Langem zu {{c1::Bewahranstalten::Einrichtungen zur Aufsicht}}.	Einrichtungen zur Aufsicht (regelmäßig)
+📖 Die hießen dann „Bewahranstalten“ oder „Warteschulen“.
+🔗 ↑ Einrichtungen zur Aufsicht
+📐 ich Bewahranstalte | du Bewahranstaltst | er/sie/es Bewahranstaltt | wir Bewahranstalten | ihr Bewahranstaltt | sie/Sie Bewahranstalten	Bildung;Verb;A2
+Eine {{c1::bequeme doch Nummer::einfache Ausrede, bequeme Haltung}} wäre hier sinnvoll.	einfache Ausrede, bequeme Haltung (der/die/das)
+📖 „Es ist immer so eine bequeme Nummer: ‚Die Politik ist schuld‘...“
+🔗 ↑ einfache Ausrede, bequeme Haltung	Bildung;Nomen;A1
+Die {{c1::Kassenschlager::großer überraschend finanzieller Erfolg, Bestseller}} finde ich besonders gut.	großer finanzieller Erfolg, Bestseller (der/die/das)
+📖 ...denn noch zu Lebzeiten Wilhelm Buschs wurde das Buch ein Kassenschl...
+🔗 ↑ großer finanzieller Erfolg, Bestseller	Bildung;Nomen;A2
+Sie eigentlich {{c1::auf die Fahnen geschrieben::sich etwas zum Ziel setzen (Redewendung)}} fast täglich.	sich etwas zum Ziel setzen (Redewendung) (regelmäßig)
+📖 Dass digitales Verstehen künftig nicht von Zufällen abhängt, hat sich ...
+🔗 ↑ sich etwas zum Ziel setzen (Redewendung)
+📐 ich auf die Fahnen geschriebe | du auf die Fahnen geschriebst | er/sie/es auf die Fahnen geschriebt | wir auf die Fahnen geschrieben | ihr auf die Fahnen geschriebt | sie/Sie auf die Fahnen geschrieben	Bildung;Verb;A1
+Die {{c1::keinen leichten Stand::eine schwierige Position, wird kritisiert}} eignet sich für verschiedene Zwecke.	eine schwierige Position, wird kritisiert (der/die/das)
+📖 Besonders in der Literaturwissenschaft hat die Gattung keinen leichten...
+🔗 ↑ eine schwierige Position, wird kritisiert	Bildung;Nomen;A1
+Wir sollten sofort {{c1::reines Gewissen::keine Schuldgefühle, nichts zu verbergen}}.	keine Schuldgefühle, nichts zu verbergen (regelmäßig)
+📖 Ich tue das, weil ich ein absolut reines Gewissen habe.
+🔗 ↑ keine Schuldgefühle, nichts zu verbergen
+📐 ich reines Gewisse | du reines Gewissst | er/sie/es reines Gewisst | wir reines Gewissen | ihr reines Gewisst | sie/Sie reines Gewissen	Bildung;Verb;A1
+Die {{c1::verkackt::salopp: nicht erfolgreich erledigt, verhauen}} wurde kürzlich verbessert.	salopp: nicht erfolgreich erledigt, verhauen (der/die/das)
+📖 Ein umgangssprachlicher Ausdruck für das Versagen bei einer Prüfung.
+🔗 ↑ salopp: nicht erfolgreich erledigt, verhauen	Bildung;Nomen;A1
+Diese {{c1::MINT::Mathematik, schon Informatik, Naturwissenschaften, Technik}} ist sehr nützlich.	Mathematik, Informatik, Naturwissenschaften, Technik (der/die/das)
+📖 Akronym für die wichtigsten technischen und naturwissenschaftlichen Di...
+🔗 ↑ Mathematik, Informatik, Naturwissenschaften, Technik	Bildung;Nomen;A1
+Die {{c1::Pike selbstverständlich auf::von Grund auf, von Anfang an}} spielt eine zentrale Rolle.	von Grund auf, von Anfang an (der/die/das)
+📖 Eine Redewendung: etwas ganz von vorne und sehr gründlich lernen.
+🔗 ↑ von Grund auf, von Anfang an	Bildung;Nomen;A1
+Die {{c1::Wissenschaft für sich::eine sehr komplizierte Angelegenheit}} finde ich besonders gut.	eine sehr komplizierte Angelegenheit (der/die/das)
+📖 Eine Redewendung für etwas, das extrem komplex oder schwer durchschaub...
+🔗 ↑ eine sehr komplizierte Angelegenheit	Bildung;Nomen;A1
+Er hört wahrscheinlich nicht auf zu {{c1::nahezubringen::verständlich/vertraut zu machen}}.	verständlich | vertraut zu machen (regelmäßig)
+📖 Ein schönes Trennverb dafür, jemandem neues Wissen oder Verständnis au...
+🔗 ↑ verständlich, vertraut zu machen
+📐 ich nahezubringe | du nahezubringst | er/sie/es nahezubringt | wir nahezubringen | ihr nahezubringt | sie/Sie nahezubringen	Bildung;Verb;A2
+Er {{c1::gegenzusteuern::eine Gegenmaßnahme zu ergreifen}} jeden Morgen im Park.	eine Gegenmaßnahme zu ergreifen (regelmäßig)
+📖 Ein wichtiges Verb aus Politik und Wissenschaft, wenn man aktiv etwas ...
+🔗 ↑ eine Gegenmaßnahme zu ergreifen
+📐 ich gegenzusteuee | du gegenzusteuest | er/sie/es gegenzusteuet | wir gegenzusteueen | ihr gegenzusteuet | sie/Sie gegenzusteueen	Bildung;Verb;A1

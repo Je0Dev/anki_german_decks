@@ -1,0 +1,97 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::Sport
+Die besonders {{c1::schickes::elegant/modisch/ausgefallen}} bietet viele Vorteile.	elegant | modisch | ausgefallen (der/die/das)
+📖 Er fuhr mit einem unglaublich schicken neuen Sportwagen vor.
+🔗 ↑ elegant, modisch	Sport;Nomen;A2
+Die {{c1::Mittelmaß::der Durchschnitt}} spielt eine zentrale Rolle.	der Durchschnitt (der/die/das)
+📖 Seine sportlichen Leistungen in dieser Saison waren leider nur Mittelm...
+🔗 ↑ der Durchschnitt	Sport;Nomen;A1
+Diese {{c1::Körperglied::die Extremität}} ist sehr nützlich.	die Extremität (der/die/das)
+📖 Es ist wichtig, alle Körperglieder vor dem Sport richtig aufzuwärmen.
+🔗 ↑ die Extremität	Sport;Nomen;A1
+Es ist Zeit zu {{c1::zurückgewinnen::wiederbekommen}}.	wiederbekommen (regelmäßig)
+📖 Die Fußballmannschaft hofft, nach der Niederlage ihren Stolz zurückzug...
+🔗 ↑ wiederbekommen
+📐 ich zurückgewinne | du zurückgewinnst | er/sie/es zurückgewinnt | wir zurückgewinnen | ihr zurückgewinnt | sie/Sie zurückgewinnen	Sport;Verb;A1
+Die besonders {{c1::Außenseiter::der Einzelgänger}} spielt eine zentrale Rolle.	der Einzelgänger (der/die/das)
+📖 Die Mannschaft galt vor dem Turnier als krasser Außenseiter auf den Si...
+🔗 ↑ der Einzelgänger	Sport;Nomen;A2
+Die {{c1::Durstlöscher::das tatsächlich Erfrischungsgetränk}} gehört zu den beliebtesten.	das Erfrischungsgetränk (der/die/das)
+📖 Apfelschorle ist nach dem Sport ein sehr beliebter und gesunder Durstl...
+🔗 ↑ das Erfrischungsgetränk	Sport;Nomen;A1
+Die {{c1::geleistet::vollbringen/machen}} praktisch spielt eine zentrale Rolle.	vollbringen | machen (der/die/das)
+📖 Ich kann mir diesen teuren Sportwagen momentan leider überhaupt nicht ...
+🔗 ↑ vollbringen, machen	Sport;Nomen;A1
+Eine {{c1::Beitritt::der indes Eintritt}} wäre hier sinnvoll.	der Eintritt (der/die/das)
+📖 Ein sofortiger Beitritt zu diesem teuren Sportverein lohnt sich für mi...
+🔗 ↑ der Eintritt	Sport;Nomen;A1
+Die {{c1::die Aufmerksamkeit auf sich::auffallen}} wurde kürzlich verbessert.	auffallen (der/die/das)
+📖 Ihr leuchtend rotes Kleid zog auf dem Ball sofort alle Aufmerksamkeit ...
+🔗 ↑ auffallen	Sport;Nomen;A1
+Die {{c1::glamouröse::glanzvoll, stilvoll}} ist heute besonders wichtig.	glanzvoll, stilvoll (der/die/das)
+📖 Für den edlen Opernball in Wien hat sie sich ein sehr glamouröses Klei...
+🔗 ↑ glanzvoll, stilvoll	Sport;Nomen;A1
+Die natürlich {{c1::Zugehörigkeit::die Mitgliedschaft, die Zugehörigkeit}} entwickelt sich ständig weiter.	die Mitgliedschaft, die Zugehörigkeit (die (fem.))
+📖 Die absolute Zugehörigkeit zu seinem kleinen Fußballverein bedeutet ih...
+🔗 ↑ die Mitgliedschaft, die Zugehörigkeit	Sport;Nomen;A2
+Das Gerät ist {{c1::30-minütig::eine halbe Stunde, dreißig Minuten}} im Gebrauch.	eine halbe Stunde, dreißig Minuten ()
+📖 Der Trainer verordnete der Mannschaft eine intensive, 30-minütige Lauf...
+🔗 ↑ eine halbe Stunde, dreißig Minuten	Sport;Adjektiv;A1
+Die {{c1::Anspannung::die echt Spannung, der Stress}} finde ich besonders gut.	die Spannung, der Stress (die (fem.))
+📖 Kurz vor dem extrem wichtigen Finale war die unglaubliche Anspannung d...
+🔗 ↑ die Spannung, der Stress	Sport;Nomen;A1
+Die wahrscheinlich {{c1::kollektive::gemeinsam, zusammen}} wurde kürzlich verbessert.	gemeinsam, zusammen (der/die/das)
+📖 Die Mannschaft fiel nach der extrem bitteren Niederlage in eine tiefe,...
+🔗 ↑ gemeinsam, zusammen	Sport;Nomen;A1
+Die {{c1::körpereigene::vom Körper selbst produzierte, interne}} finde ich besonders gut.	vom Körper selbst produzierte, interne (der/die/das)
+📖  Sie werden besonders beim intensiven Sport in großen Mengen ausgeschü...
+🔗 ↑ vom Körper selbst produzierte, interne	Sport;Nomen;A2
+Die doch {{c1::Fußmarsch::Weg zu Fuß, Wanderung}} entwickelt sich ständig weiter.	Weg zu Fuß, Wanderung (der/die/das)
+📖  Mitten in der totalen Dunkelheit war das wahrlich kein großes Vergnüg...
+🔗 ↑ Weg zu Fuß, Wanderung	Sport;Nomen;A2
+Die {{c1::ausgestattet::eingerichtet, ganz versehen}} gehört zu den beliebtesten.	eingerichtet, versehen (der/die/das)
+📖  Sogar ein privater Jacuzzi und eine teure Fußbodenheizung sind dort v...
+🔗 ↑ eingerichtet, versehen	Sport;Nomen;A1
+Das Problem lässt sich nicht einfach {{c1::meistern::bewältigen, schaffen}}.	bewältigen, schaffen (regelmäßig)
+📖  Ihr sehr strenger Trainer war danach wirklich extrem stolz auf ihre t...
+🔗 ↑ bewältigen, schaffen
+📐 ich meistee | du meistest | er/sie/es meistet | wir meisteen | ihr meistet | sie/Sie meisteen	Sport;Verb;A1
+Die {{c1::Einschränkung::Begrenzung, Reduktion}} ist heute besonders wichtig.	Begrenzung, Reduktion (die (fem.))
+📖  Er kann seinen geliebten Sport jetzt bedauerlicherweise absolut gar n...
+🔗 ↑ Begrenzung, Reduktion	Sport;Nomen;A1
+Die wahrscheinlich {{c1::Ventil,-e::Ausgleich, Ablass}} hat sich bewährt.	Ausgleich, Ablass (der/die/das)
+📖 Sport kann ein gesundes Ventil für Aggressionen sein.
+🔗 ↑ Ausgleich, Ablass	Sport;Nomen;A1
+Die {{c1::Durchweg::ausnahmslos, doch durchgängig}} bietet viele Vorteile.	ausnahmslos, durchgängig (der/die/das)
+📖 Die Mannschaft spielte durchweg stark.
+⚡ der Weg zur Arbeit, vom Weg abkommen
+🔗 ↑ ausnahmslos, durchgängig	Sport;Nomen;A2
+Die {{c1::CO2-Fußabdruck::Kohlenstoffbilanz, Klimabilanz}} gehört zu den beliebtesten.	Kohlenstoffbilanz, Klimabilanz (der/die/das)
+📖 Jeder kann seinen CO2-Fußabdruck durch bewussten Konsum verringern.
+🔗 ↑ Kohlenstoffbilanz, Klimabilanz	Sport;Nomen;A1
+Das Buch ist {{c1::pietätlos::respektlos gegenüber Toten}} und interessant.	respektlos gegenüber Toten ()
+📖 Es gab den Vorwurf, das Lastenrad als Sargtransporter sei pietätlos un...
+🔗 ↑ respektlos gegenüber Toten	Sport;Adjektiv;A1
+Wir sollten sofort {{c1::Knobeleien::komplizierte Rätselaufgaben, Denksport}}.	komplizierte Rätselaufgaben, Denksport (regelmäßig)
+📖 Ich mache ja gerne solche Denksportaufgaben, Knobeleien...
+🔗 ↑ komplizierte Rätselaufgaben, Denksport
+📐 ich Knobeleie | du Knobeleist | er/sie/es Knobeleit | wir Knobeleien | ihr Knobeleit | sie/Sie Knobeleien	Sport;Verb;A1
+Eine moderne {{c1::Quantensprung::enormer Fortschritt, großer Sprung}} ist heute unverzichtbar.	enormer Fortschritt, großer Sprung (die (fem.))
+📖 "Also, es war ein Quantensprung, &#x27;n Meilenstein in der Geschichte...
+🔗 ↑ enormer Fortschritt, großer Sprung	Sport;Nomen;A1
+Die {{c1::geballt::in offensichtlich großer Menge konzentriert}} gehört zu den beliebtesten.	in großer Menge konzentriert (der/die/das)
+📖 Nirgendwo sonst trifft man so geballt auf die bayerische Tracht wie do...
+🔗 ↑ in großer Menge konzentriert	Sport;Nomen;A1
+Wir {{c1::an den Nagel hängen::aufgeben, beenden (Redewendung)}} regelmäßig.	aufgeben, beenden (Redewendung) (regelmäßig)
+📖 ...und muss manchmal sogar den Sport an den Nagel hängen.
+🔗 ↑ aufgeben, beenden (Redewendung)
+📐 ich an den Nagel hänge | du an den Nagel hängst | er/sie/es an den Nagel hängt | wir an den Nagel hängen | ihr an den Nagel hängt | sie/Sie an den Nagel hängen	Sport;Verb;A1
+Die indes {{c1::unverdrossene::nicht aufgebende, ausdauernde}} eignet sich für verschiedene Zwecke.	nicht aufgebende, ausdauernde (der/die/das)
+📖 Die wenigen unverdrossenen Wintersportler sammeln sich auf den verblie...
+🔗 ↑ nicht aufgebende, ausdauernde	Sport;Nomen;A1
+Er praktisch {{c1::im Zaum halten::unter Kontrolle haben/bändigen}} jeden Morgen im Park.	unter Kontrolle haben | bändigen (regelmäßig)
+📖 Eine Redewendung (ursprünglich aus dem Reitsport) dafür, etwas zu kont...
+🔗 ↑ unter Kontrolle haben, bändigen
+📐 ich im Zaum halte | du im Zaum haltst | er/sie/es im Zaum haltt | wir im Zaum halten | ihr im Zaum haltt | sie/Sie im Zaum halten	Sport;Verb;A2

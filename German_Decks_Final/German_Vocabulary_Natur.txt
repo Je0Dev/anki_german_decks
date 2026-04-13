@@ -1,0 +1,347 @@
+#separator:tab
+#html:true
+#tags column:3
+#deck:German Vocabulary::Natur
+Die {{c1::Drang besonders nach::das starke Bedürfnis nach}} ist heute besonders wichtig.	das starke Bedürfnis nach (der/die/das)
+📖 Sie verspürte plötzlich den Drang, nach draußen in die Natur zu gehen.
+🔗 ↑ das starke Bedürfnis nach	Natur;Nomen;A1
+Die leider {{c1::Brand::das Feuer}} hat sich bewährt.	das Feuer (der/die/das)
+📖 Wegen der extremen Trockenheit kam es im Wald schnell zu einem Brand.
+🔗 ↑ das Feuer	Natur;Nomen;A2
+Es ist Zeit zu {{c1::investieren::Geld anlegen in}}.	Geld anlegen in (regelmäßig)
+📖 Es ist wichtig, etwas Zeit in eine gute Planung zu investieren.
+🔗 ↑ Geld anlegen in
+📐 ich investiere | du investierst | er/sie/es investiert | wir investieren | ihr investiert | sie/Sie investieren	Natur;Verb;A2
+Die {{c1::seelische::psychisch}} ist heute besonders wichtig.	psychisch (der/die/das)
+📖 Die schlimmen Nachrichten waren eine große seelische Belastung für ihn...
+🔗 ↑ psychisch	Natur;Nomen;A2
+Es ist Zeit zu {{c1::entkommen::fliehen}}.	fliehen (regelmäßig)
+📖 Die Tiere sind wegen eines kaputten Zauns aus dem Gehege entkommen.
+🔗 ↑ fliehen
+📐 ich entkomme | du entkommst | er/sie/es entkommt | wir entkommen | ihr entkommt | sie/Sie entkommen	Natur;Verb;A2
+Die sehr {{c1::orientieren uns an::sich richten nach}} gehört zu den beliebtesten.	sich richten nach (der/die/das)
+📖 Man sollte sich bei moralischen Entscheidungen an seinen eigenen Werte...
+🔗 ↑ sich richten nach	Natur;Nomen;A1
+Die {{c1::wagt nämlich sich::sich trauen}} bietet viele Vorteile.	sich trauen (der/die/das)
+📖 Kaum jemand wagt sich im Winter ins eiskalte Wasser des Sees.
+🔗 ↑ sich trauen	Natur;Nomen;A2
+Sie {{c1::heilen::gesund machen}} fast täglich.	gesund machen (regelmäßig)
+📖 Die Zeit heilt angeblich alle Wunden, auch die seelischen.
+🔗 ↑ gesund machen
+📐 ich heile | du heilst | er/sie/es heilt | wir heilen | ihr heilt | sie/Sie heilen	Natur;Verb;A2
+Die {{c1::Diktiergerät::der erstaunlicherweise Audiorekorder}} wurde kürzlich verbessert.	der Audiorekorder (der/die/das)
+📖 Er sprach seine spontanen Ideen sofort in sein kleines Diktiergerät ei...
+🔗 ↑ der Audiorekorder	Natur;Nomen;A2
+Wir natürlich müssen endlich {{c1::Rettungsschwimmen::das Schwimmen zur Rettung}}.	das Schwimmen zur Rettung (regelmäßig)
+📖 Die DLRG bietet an diesem See jeden Sommer Kurse im Rettungsschwimmen ...
+🔗 ↑ das Schwimmen zur Rettung
+📐 ich Rettungsschwimme | du Rettungsschwimmst | er/sie/es Rettungsschwimmt | wir Rettungsschwimmen | ihr Rettungsschwimmt | sie/Sie Rettungsschwimmen	Natur;Verb;A1
+Die {{c1::Zertifizierung::die Beglaubigung}} überrascht durch ihre Qualität.	die Beglaubigung (die (fem.))
+📖 Diese Bio-Zertifizierung garantiert, dass die Produkte völlig pestizid...
+🔗 ↑ die Beglaubigung	Natur;Nomen;A1
+Die {{c1::Doppelmord::die zweifache Tötung}} hat sich bewährt.	die zweifache Tötung (der/die/das)
+📖 Die Polizei fand im Wald die Opfer von dem schrecklichen Doppelmord.
+🔗 ↑ die zweifache Tötung	Natur;Nomen;A1
+Die {{c1::Hintergrund::die Basis/die Geschichte dahinter}} entwickelt sich ständig weiter.	die Basis | die Geschichte dahinter (der/die/das)
+📖 Auf dem Foto kann man im Hintergrund ganz schwach die Berge erkennen.
+⚡ ohne Grund, einen Grund haben
+🔗 ↑ die Basis, die Geschichte dahinter	Natur;Nomen;A1
+Eine moderne {{c1::Koffein::der Wachmacher}} ist heute unverzichtbar.	der Wachmacher (der/die/das)
+📖 Kaffee und schwarzer Tee enthalten von Natur aus viel Koffein.
+🔗 ↑ der Wachmacher	Natur;Nomen;A2
+Die {{c1::konfrontiert::gegenüberstellen}} bietet viele Vorteile.	gegenüberstellen (der/die/das)
+📖 Die Polizei konfrontierte den Tatverdächtigen direkt mit den eindeutig...
+🔗 ↑ gegenüberstellen	Natur;Nomen;A1
+Er hat vergessen zu {{c1::Unterfangen::das Vorhaben}}.	das Vorhaben (regelmäßig)
+📖 Die winterliche Bergbesteigung ist ein absolut riskantes Unterfangen.
+🔗 ↑ das Vorhaben
+📐 ich Unterfange | du Unterfangst | er/sie/es Unterfangt | wir Unterfangen | ihr Unterfangt | sie/Sie Unterfangen	Natur;Verb;A1
+Das jedoch Gerät ist {{c1::Auenlandschaft::das Feuchtgebiet}} im Gebrauch.	das Feuchtgebiet ()
+📖 Eine intakte Auenlandschaft ist ein tolles Paradies für viele seltene ...
+🔗 ↑ das Feuchtgebiet	Natur;Adjektiv;A1
+Eine {{c1::Gemeinde::die Kommune}} wäre hier sinnvoll.	die Kommune (der/die/das)
+📖 Die kleine Gemeinde am See veranstaltet jedes Jahr ein großes Sommerfe...
+🔗 ↑ die Kommune	Natur;Nomen;A2
+Wir {{c1::eindämmen::reduzieren}} echt regelmäßig.	reduzieren (regelmäßig)
+📖 Die Feuerwehr konnte den großen Waldbrand glücklicherweise noch sehr s...
+🔗 ↑ reduzieren
+📐 ich eindämme | du eindämmst | er/sie/es eindämmt | wir eindämmen | ihr eindämmt | sie/Sie eindämmen	Natur;Verb;A2
+Eine moderne {{c1::respektvoller::höflich}} ist heute unverzichtbar.	höflich (der/die/das)
+📖 Wir sollten als Gesellschaft immer sehr respektvoll mit der Natur und ...
+🔗 ↑ höflich	Natur;Nomen;A1
+Eine {{c1::Diesjährig::heurig, dieses Jahr}} Geschichte erzählt sie gern.	heurig, dieses Jahr ()
+📖 Unser diesjähriger Urlaub am Mittelmeer war unglaublich warm und entsp...
+🔗 ↑ heurig, dieses Jahr	Natur;Adjektiv;A1
+Ohne die {{c1::Todesfall::der Sterbefall, der Tod}} geht nichts.	der Sterbefall, der Tod (der/die/das)
+📖 Nach diesem tragischen Todesfall im Wald trauerte die ganze kleine Gem...
+🔗 ↑ der Sterbefall, der Tod	Natur;Nomen;A2
+Die {{c1::vorgelagerte::vorherig, erstaunlicherweise vorangehend}} hat sich bewährt.	vorherig, vorangehend (der/die/das)
+📖 Die der Küste vorgelagerte Insel ist ein echtes Paradies für Vögel.
+🔗 ↑ vorherig, vorangehend	Natur;Nomen;A1
+Die {{c1::Langzeitgedächtnis::die Dauerspeicherung, das Dauerhafte Gedächtnis}} wurde kürzlich verbessert.	die Dauerspeicherung, das Dauerhafte Gedächtnis (der/die/das)
+📖 Vokabeln müssen durch viel Wiederholung unbedingt ins Langzeitgedächtn...
+⚡ wenig Zeit, Zeit haben
+🔗 ↑ die Dauerspeicherung, das Dauerhafte Gedächtnis	Natur;Nomen;A2
+Die {{c1::Vielfalt::die Diversität, die Mannigfaltigkeit}} entwickelt sich ständig weiter.	die Diversität, die Mannigfaltigkeit (der/die/das)
+📖 Der alte Wald beeindruckt Biologen durch seine enorme Vielfalt an selt...
+🔗 ↑ die Diversität, die Mannigfaltigkeit	Natur;Nomen;A2
+Seine tatsächlich Meinung ist durchaus {{c1::verwerflich::verachtenswert, unmoralisch}}.	verachtenswert, unmoralisch ()
+📖 Es ist moralisch extrem verwerflich, kleine Tiere aus purem Spaß zu qu...
+🔗 ↑ verachtenswert, unmoralisch	Natur;Adjektiv;A2
+Die {{c1::Rohstoff::der Grundstoff, das Material}} wurde kürzlich verbessert.	der Grundstoff, das Material (der/die/das)
+📖 Das rohstoffarme Land muss fast jeden wichtigen Rohstoff teuer aus dem...
+🔗 ↑ der Grundstoff, das Material	Natur;Nomen;A1
+Eine moderne {{c1::Kapitalismus::das Wirtschaftssystem, die Marktwirtschaft}} ist heute unverzichtbar.	das Wirtschaftssystem, die Marktwirtschaft (der/die/das)
+📖 Kritiker sagen oft, dass der Kapitalismus rücksichtslos die Natur und ...
+🔗 ↑ das Wirtschaftssystem, die Marktwirtschaft	Natur;Nomen;A1
+Die {{c1::unbekannt::nicht ganz bekannt, anonym}} finde ich besonders gut.	nicht bekannt, anonym (der/die/das)
+📖 Dieses mysteriöse Tier aus der Tiefsee ist der Wissenschaft noch völli...
+🔗 ↑ nicht bekannt, anonym	Natur;Nomen;A1
+Sie wahrscheinlich versucht seit Langem zu {{c1::in Einklang bringen::harmonisieren, ausbalancieren}}.	harmonisieren, ausbalancieren (regelmäßig)
+📖 Es ist schwer, den Naturschutz und die Wirtschaft perfekt in Einklang ...
+🔗 ↑ harmonisieren, ausbalancieren
+📐 ich in Einklang bringe | du in Einklang bringst | er/sie/es in Einklang bringt | wir in Einklang bringen | ihr in Einklang bringt | sie/Sie in Einklang bringen	Natur;Verb;A1
+Die {{c1::Erholung::die überraschend Entspannung, die Regeneration}} eignet sich für verschiedene Zwecke.	die Entspannung, die Regeneration (die (fem.))
+📖 Der Kurzurlaub am Meer brachte uns endlich die dringend nötige Erholun...
+🔗 ↑ die Entspannung, die Regeneration	Natur;Nomen;A1
+Die {{c1::Übergang::der leider Wechsel, die Veränderung}} eignet sich für verschiedene Zwecke.	der Wechsel, die Veränderung (der/die/das)
+📖 Der Übergang vom Herbst zum harten Winter passierte dieses Jahr völlig...
+🔗 ↑ der Wechsel, die Veränderung	Natur;Nomen;A1
+Ohne die {{c1::Kohlendioxid::CO2, das Gas}} geht nichts.	CO2, das Gas (der/die/das)
+📖 Pflanzen nehmen Kohlendioxid aus der absolut reinen Luft auf und produ...
+🔗 ↑ CO2, das Gas	Natur;Nomen;A1
+Ohne schon die {{c1::Verhaltensforscher::der Ethologe, der Forscher}} geht nichts.	der Ethologe, der Forscher (der/die/das)
+📖 Als Verhaltensforscher lebt sie oft monatelang absolut völlig allein t...
+🔗 ↑ der Ethologe, der Forscher	Natur;Nomen;A2
+Die {{c1::Anstrengung::Mühe, Einsatz}} bietet viele Vorteile.	Mühe, Einsatz (die (fem.))
+📖  Du hast einfach zu wenig Zeit in die Vorbereitung investiert.
+🔗 ↑ Mühe, Einsatz	Natur;Nomen;A2
+Wir müssen also endlich {{c1::Hantieren::Umgehen, Arbeiten}}.	Umgehen, Arbeiten (regelmäßig)
+📖  Man sollte immer konzentriert bleiben, wenn man kocht.
+🔗 ↑ Umgehen, Arbeiten
+📐 ich Hantiere | du Hantierst | er/sie/es Hantiert | wir Hantieren | ihr Hantiert | sie/Sie Hantieren	Natur;Verb;A1
+Die besonders {{c1::garantiert::mit Sicherheit, bestimmt}} bietet viele Vorteile.	mit Sicherheit, bestimmt (der/die/das)
+📖  Nimm dir unbedingt mal ein paar Tage frei, um dich zu erholen.
+🔗 ↑ mit Sicherheit, bestimmt	Natur;Nomen;A1
+Die {{c1::Übergangszeit::Wechselperiode, glücklicherweise Zwischenzeit}} wurde kürzlich verbessert.	Wechselperiode, Zwischenzeit (der/die/das)
+📖  Früh am Tag ist es eiskalt und nachmittags wird es dann richtig warm.
+⚡ Zeit haben, viel Zeit
+🔗 ↑ Wechselperiode, Zwischenzeit	Natur;Nomen;A2
+Wir ziemlich {{c1::existieren::gibt es, bestehen}} regelmäßig.	gibt es, bestehen (regelmäßig)
+📖 Das Existieren von Fehlern ist menschlich.
+🔗 ↑ gibt es, bestehen
+📐 ich existiere | du existierst | er/sie/es existiert | wir existieren | ihr existiert | sie/Sie existieren	Natur;Verb;A1
+Wir {{c1::Hantieren::Umgang, Arbeiten}} regelmäßig.	Umgang, Arbeiten (regelmäßig)
+📖 Er hantierte geschickt mit dem Messer.
+🔗 ↑ Umgang, Arbeiten
+📐 ich Hantiere | du Hantierst | er/sie/es Hantiert | wir Hantieren | ihr Hantiert | sie/Sie Hantieren	Natur;Verb;A1
+Ohne die {{c1::garantiert::sicher, zugesichert}} geht nichts.	sicher, zugesichert (der/die/das)
+📖 Das ist garantiert die beste Lösung.
+🔗 ↑ sicher, zugesichert	Natur;Nomen;A1
+Die überraschend {{c1::derzeitige::aktuelle, jetzige}} spielt eine zentrale Rolle.	aktuelle, jetzige (der/die/das)
+📖 Der derzeitige Stand ist dokumentiert.
+⚡ viel Zeit, freie Zeit
+🔗 ↑ aktuelle, jetzige	Natur;Nomen;A2
+Ohne die nämlich {{c1::neuronale Netzwerk::Nervenzellengeflecht, Gehirnvernetzung}} geht nichts.	Nervenzellengeflecht, Gehirnvernetzung (der/die/das)
+📖 Künstliche neuronale Netzwerke imitieren das Gehirn.
+🔗 ↑ Nervenzellengeflecht, Gehirnvernetzung	Natur;Nomen;A2
+Seine Meinung ist durchaus {{c1::radelten los::fuhren mit dem Rad los, starteten ihre Radtour}}.	fuhren mit dem Rad los, starteten ihre Radtour ()
+📖 Frisch gestärkt radelten sie zum See.
+🔗 ↑ fuhren mit dem Rad los, starteten ihre Radtour	Natur;Adjektiv;A1
+Die {{c1::Neocortex::Großhirnrinde, höheres Denkzentrum}} hat sich bewährt.	Großhirnrinde, höheres Denkzentrum (der/die/das)
+📖 Der Neocortex unterscheidet den Menschen von vielen Tieren.
+⚡ der richtige Ort, ein schöner Ort
+🔗 ↑ Großhirnrinde, höheres Denkzentrum	Natur;Nomen;A1
+Wir sollten total sofort {{c1::erforschen::untersuchen, studieren}}.	untersuchen, studieren (regelmäßig)
+📖  Bisher kennen wir erst einen winzigen Bruchteil der Tiefsee.
+🔗 ↑ untersuchen, studieren
+📐 ich erforsche | du erforschst | er/sie/es erforscht | wir erforschen | ihr erforscht | sie/Sie erforschen	Natur;Verb;A1
+Eine selbstverständlich moderne {{c1::physiologische::körperliche, biologische}} ist heute unverzichtbar.	körperliche, biologische (der/die/das)
+📖  Es ist ein uralter Schutzmechanismus der menschlichen Natur.
+🔗 ↑ körperliche, biologische	Natur;Nomen;A2
+Die {{c1::lebhafte::sehr genaue, lebendige}} spielt eine zentrale Rolle.	sehr genaue, lebendige (der/die/das)
+📖  Sie kann sogar heute noch den salzigen Geruch des Meeres förmlich rie...
+🔗 ↑ sehr genaue, lebendige	Natur;Nomen;A1
+Die sehr {{c1::schlummerndes::verborgenes, noch nicht erwachtes}} ist heute besonders wichtig.	verborgenes, noch nicht erwachtes (der/die/das)
+📖  Sie müsste einfach nur mal öfter einen feinen Pinsel in die Hand nehm...
+🔗 ↑ verborgenes, noch nicht erwachtes	Natur;Nomen;A1
+Die {{c1::Zitat,-e::wörtliche Übernahme, Ausspruch}} überrascht durch ihre Qualität.	wörtliche Übernahme, Ausspruch (der/die/das)
+📖 Er zitierte ein bekanntes Zitat.
+🔗 ↑ wörtliche Übernahme, Ausspruch	Natur;Nomen;A1
+Es ist selbstverständlich Zeit zu {{c1::Emotion,-en::Gefühl, Regung}}.	Gefühl, Regung (regelmäßig)
+📖 Emotionen beeinflussen Entscheidungen.
+🔗 ↑ Gefühl, Regung
+📐 ich Emotion,-e | du Emotion,-st | er/sie/es Emotion,-t | wir Emotion,-en | ihr Emotion,-t | sie/Sie Emotion,-en	Natur;Verb;A1
+Die nämlich {{c1::erlaubt sein::gestattet sein, zulässig sein}} finde ich besonders gut.	gestattet sein, zulässig sein (der/die/das)
+📖  Wir bitten Sie daher, Ihr Tier draußen anzubinden.
+🔗 ↑ gestattet sein, zulässig sein	Natur;Nomen;A1
+Die {{c1::Reiz,-e::Stimulus, Anreiz}} entwickelt sich ständig weiter.	Stimulus, Anreiz (der/die/das)
+📖 Äußere Reize beeinflussen unser Verhalten.
+🔗 ↑ Stimulus, Anreiz	Natur;Nomen;A2
+Die {{c1::Gesamtbevölkerung::Bevölkerung insgesamt, alle Einwohner}} bietet viele Vorteile.	Bevölkerung insgesamt, alle Einwohner (die (fem.))
+📖 Die Gesamtbevölkerung profitiert von freiem Medienzugang.
+🔗 ↑ Bevölkerung insgesamt, alle Einwohner	Natur;Nomen;A1
+Er hat vergessen zu {{c1::Verteiler,-/ die Verteilerin,-nen::Verteilungsinstanz, Distributor}}.	Verteilungsinstanz, Distributor (regelmäßig)
+📖 Verteiler wie Soziale Medien beeinflussen, was gesehen wird.
+⚡ ein Teil von, der größte Teil
+🔗 ↑ Verteilungsinstanz, Distributor
+📐 ich Verteiler,-/ die Verteilerin,-ne | du Verteiler,-/ die Verteilerin,-nst | er/sie/es Verteiler,-/ die Verteilerin,-nt | wir Verteiler,-/ die Verteilerin,-nen | ihr Verteiler,-/ die Verteilerin,-nt | sie/Sie Verteiler,-/ die Verteilerin,-nen	Natur;Verb;A1
+Das ziemlich Wetter heute ist wirklich {{c1::Medienpolitisch::die Medienpolitik betreffend, medienbezogen}}.	die Medienpolitik betreffend, medienbezogen ()
+📖 Medienpolitische Entscheidungen beeinflussen die Medienlandschaft.
+🔗 ↑ die Medienpolitik betreffend, medienbezogen	Natur;Adjektiv;A1
+Ohne die {{c1::Gesamtbevölkerung::Bevölkerung insgesamt, alle Einwohner}} geht nichts.	Bevölkerung insgesamt, alle Einwohner (die (fem.))
+📖 Die Gesamtbevölkerung profitiert von freiem Medienzugang.
+🔗 ↑ Bevölkerung insgesamt, alle Einwohner	Natur;Nomen;A1
+Man überraschend sollte öfter {{c1::Verteiler,-/ die Verteilerin,-nen::Verteilungsinstanz, Distributor}}.	Verteilungsinstanz, Distributor (regelmäßig)
+📖 Verteiler wie Soziale Medien beeinflussen, was gesehen wird.
+⚡ ein Teil von, der größte Teil
+🔗 ↑ Verteilungsinstanz, Distributor
+📐 ich Verteiler,-/ die Verteilerin,-ne | du Verteiler,-/ die Verteilerin,-nst | er/sie/es Verteiler,-/ die Verteilerin,-nt | wir Verteiler,-/ die Verteilerin,-nen | ihr Verteiler,-/ die Verteilerin,-nt | sie/Sie Verteiler,-/ die Verteilerin,-nen	Natur;Verb;A1
+Eine {{c1::Medienpolitisch::die Medienpolitik betreffend, medienbezogen}} Geschichte erzählt sie gern.	die Medienpolitik betreffend, medienbezogen ()
+📖 Medienpolitische Entscheidungen beeinflussen die Medienlandschaft.
+🔗 ↑ die Medienpolitik betreffend, medienbezogen	Natur;Adjektiv;A1
+Seine indes Arbeit ist sehr {{c1::Leidenschaftlich::mit Leidenschaft, begeistert}}.	mit Leidenschaft, begeistert ()
+📖 Sie diskutierte leidenschaftlich über das Thema.
+🔗 ↑ mit Leidenschaft, begeistert	Natur;Adjektiv;A1
+Es ist Zeit zu {{c1::dokumentieren::festhalten, aufzeichnen}}.	festhalten, aufzeichnen (regelmäßig)
+📖 Die Ergebnisse wurden sorgfältig dokumentiert.
+🔗 ↑ festhalten, aufzeichnen
+📐 ich dokumentiere | du dokumentierst | er/sie/es dokumentiert | wir dokumentieren | ihr dokumentiert | sie/Sie dokumentieren	Natur;Verb;A1
+Die {{c1::Meinungsäußerung::Stellungnahme, natürlich Äußerung}} ist heute besonders wichtig.	Stellungnahme, Äußerung (die (fem.))
+📖 Jede Meinungsäußerung sollte respektiert werden.
+🔗 ↑ Stellungnahme, Äußerung	Natur;Nomen;A1
+Die {{c1::Einflussnahme::Beeinflussung, Einwirkung}} gehört zu den beliebtesten.	Beeinflussung, Einwirkung (der/die/das)
+📖 Einflussnahme auf Forschungsergebnisse ist unethisch.
+🔗 ↑ Beeinflussung, Einwirkung	Natur;Nomen;A1
+Er hat vergessen zu {{c1::selektieren::auswählen, filtern}}.	auswählen, filtern (regelmäßig)
+📖 Nicht alle Quellen sind gleichwertig, man muss selektieren.
+🔗 ↑ auswählen, filtern
+📐 ich selektiere | du selektierst | er/sie/es selektiert | wir selektieren | ihr selektiert | sie/Sie selektieren	Natur;Verb;A1
+Eine moderne doch {{c1::Gewinnorientiert::auf Profit ausgerichtet, kommerziell}} ist heute unverzichtbar.	auf Profit ausgerichtet, kommerziell (der/die/das)
+📖 Gewinnorientiertes Handeln steht manchmal im Konflikt mit Qualität.
+🔗 ↑ auf Profit ausgerichtet, kommerziell	Natur;Nomen;A1
+Er leider hört nicht auf zu {{c1::orientieren::zurechtfinden, den Weg finden}}.	zurechtfinden, den Weg finden (regelmäßig)
+📖 Sich in unbekannten Situationen zu orientieren, ist wichtig.
+🔗 ↑ zurechtfinden, den Weg finden
+📐 ich orientiere | du orientierst | er/sie/es orientiert | wir orientieren | ihr orientiert | sie/Sie orientieren	Natur;Verb;A1
+Die {{c1::Studienergebnis,-se::Forschungsergebnis, Untersuchungsergebnis}} eignet sich für verschiedene Zwecke.	Forschungsergebnis, Untersuchungsergebnis (der/die/das)
+📖 Wichtige Studienergebnisse werden diskutiert.
+🔗 ↑ Forschungsergebnis, Untersuchungsergebnis	Natur;Nomen;A1
+Die {{c1::gebildete::belesene, studierte}} finde ich besonders gut.	belesene, studierte (der/die/das)
+📖  Man kann stundenlang mit ihr über Geschichte und Philosophie diskutie...
+🔗 ↑ belesene, studierte	Natur;Nomen;A1
+Er hat vergessen zu {{c1::pubertierenden::heranwachsenden, in der Pubertät befindlichen}}.	heranwachsenden, in der Pubertät befindlichen (regelmäßig)
+📖  Sie hörten auf ihren Handys laute Musik und schrien wild durcheinande...
+⚡ zu Ende bringen, ein Ende finden
+🔗 ↑ heranwachsenden, in der Pubertät befindlichen
+📐 ich pubertierende | du pubertierendst | er/sie/es pubertierendt | wir pubertierenden | ihr pubertierendt | sie/Sie pubertierenden	Natur;Verb;A1
+Sie {{c1::Sprecher,-/ die Sprecherin,-nen::Redner, Wortführer}} fast täglich.	Redner, Wortführer (regelmäßig)
+📖 Der Sprecher des Teams präsentierte die Ergebnisse.
+🔗 ↑ Redner, Wortführer
+📐 ich Sprecher,-/ die Sprecherin,-ne | du Sprecher,-/ die Sprecherin,-nst | er/sie/es Sprecher,-/ die Sprecherin,-nt | wir Sprecher,-/ die Sprecherin,-nen | ihr Sprecher,-/ die Sprecherin,-nt | sie/Sie Sprecher,-/ die Sprecherin,-nen	Natur;Verb;A1
+Die {{c1::Bezeichnenderweise::charakteristischerweise, typischerweise}} bietet viele Vorteile.	charakteristischerweise, typischerweise (der/die/das)
+📖 Bezeichnenderweise wird das Thema erst jetzt diskutiert.
+⚡ zu Ende bringen, ein Ende finden
+🔗 ↑ charakteristischerweise, typischerweise	Natur;Nomen;A1
+Die {{c1::Südamerika::der südamerikanische Kontinent}} überrascht durch ihre Qualität.	der südamerikanische Kontinent (der/die/das)
+📖 Südamerika beherbergt den Amazonas-Regenwald.
+🔗 ↑ der südamerikanische Kontinent	Natur;Nomen;A1
+Eine ganz moderne {{c1::Respektiert::geachtet, anerkannt, geschätzt}} ist heute unverzichtbar.	geachtet, anerkannt, geschätzt (der/die/das)
+📖 Respektierte Persönlichkeiten haben oft Vorbildfunktion.
+🔗 ↑ geachtet, anerkannt, geschätzt	Natur;Nomen;A1
+Die {{c1::Artenschutz::Spezies-Schutz, Erhalt der Arten}} ist heute besonders wichtig.	Spezies-Schutz, Erhalt der Arten (der/die/das)
+📖 Artenschutzprogramme helfen bedrohten Tier- und Pflanzenarten.
+🔗 ↑ Spezies-Schutz, Erhalt der Arten	Natur;Nomen;A1
+Die erstaunlicherweise {{c1::Filterblase::informatorische Isolation, personalisierte Informationswelt}} eignet sich für verschiedene Zwecke.	informatorische Isolation, personalisierte Informationswelt (der/die/das)
+📖 In einer Filterblase werden Nutzer vorwiegend mit bestätigenden Inhalt...
+🔗 ↑ informatorische Isolation, personalisierte Informationswelt	Natur;Nomen;A2
+Die {{c1::Selbstwirksamkeit::eigene tatsächlich Handlungskompetenz, Glaube an die eigene Wirksamkeit}} eignet sich für verschiedene Zwecke.	eigene Handlungskompetenz, Glaube an die eigene Wirksamkeit (die (fem.))
+📖 Selbstwirksamkeitserwartung beeinflusst, ob Menschen Herausforderungen...
+🔗 ↑ eigene Handlungskompetenz, Glaube an die eigene Wirksamkeit	Natur;Nomen;A1
+Die {{c1::Konflikt,-e::Auseinandersetzung, Meinungsverschiedenheit}} wurde kürzlich verbessert.	Auseinandersetzung, Meinungsverschiedenheit (der/die/das)
+📖 Konfliktmanagement zielt auf lösungsorientierte Kommunikation ab.
+🔗 ↑ Auseinandersetzung, Meinungsverschiedenheit	Natur;Nomen;A1
+Eine moderne {{c1::Lernkultur::Lernumgebung, pädagogisches Klima}} ist heute unverzichtbar.	Lernumgebung, pädagogisches Klima (der/die/das)
+📖 Eine positive Lernkultur fördert Neugier und Experimentierfreude.
+🔗 ↑ Lernumgebung, pädagogisches Klima	Natur;Nomen;A2
+Die {{c1::verunsichert::unsicher gemacht}} gehört zu den beliebtesten.	unsicher gemacht (der/die/das)
+📖 ...dass viele Menschen verunsichert sind und sich eine neue Orientieru...
+🔗 ↑ unsicher gemacht	Natur;Nomen;A2
+Die {{c1::Verwüstung::Zerstörung}} gehört zu den beliebtesten.	Zerstörung (die (fem.))
+📖 Ein starker Orkan „schlägt“ beispielsweise „eine Schneise der Verwüstu...
+🔗 ↑ Zerstörung	Natur;Nomen;A1
+Die {{c1::Vielvölkerstaat::Staat mit vielen Ethnien}} ist heute besonders wichtig.	Staat mit vielen Ethnien (der/die/das)
+📖 Dieser Vielvölkerstaat beherbergte viele unterschiedliche Sprachen...
+🔗 ↑ Staat mit vielen Ethnien	Natur;Nomen;A1
+Eine {{c1::Laune::Willkür, offensichtlich Stimmung}} wäre hier sinnvoll.	Willkür, Stimmung (der/die/das)
+📖 Das heißt: Hier ist allein schon durch die Laune der Natur, wenn man s...
+🔗 ↑ Willkür, Stimmung	Natur;Nomen;A1
+Sie {{c1::angewiesen::abhängig von}} fast täglich.	abhängig von (regelmäßig)
+📖 „Die Bauern waren mehr oder weniger auf Beobachtungen der Natur angewi...
+🔗 ↑ abhängig von
+📐 ich angewiese | du angewiesst | er/sie/es angewiest | wir angewiesen | ihr angewiest | sie/Sie angewiesen	Natur;Verb;A1
+Die {{c1::Etatismus::starker Staatseinfluss}} wurde kürzlich verbessert.	starker Staatseinfluss (der/die/das)
+📖 ...die Welschen, die sind orientiert am französischen Etatismus...
+🔗 ↑ starker Staatseinfluss	Natur;Nomen;A1
+Eine erstaunlicherweise {{c1::eigenverantwortlich::für sich selbst verantwortlich}} Geschichte erzählt sie gern.	für sich selbst verantwortlich ()
+📖 ...und die Deutschschweizer sind eher eigenverantwortlich orientiert.....
+⚡ der richtige Ort, ein schöner Ort
+🔗 ↑ für sich selbst verantwortlich	Natur;Adjektiv;A1
+Die echt {{c1::Vielfältigkeit::Diversität}} überrascht durch ihre Qualität.	Diversität (die (fem.))
+📖 Gleichzeitig loben die Helvetier den „Graben“ aber als Symbol der kult...
+🔗 ↑ Diversität	Natur;Nomen;A2
+Eine moderne {{c1::eine Seele::eine sehr enge Einheit (Redewendung)}} ist heute unverzichtbar.	eine sehr enge Einheit (Redewendung) (der/die/das)
+📖 Weil wir sind ein Team und ein Herz und eine Seele.
+🔗 ↑ eine sehr enge Einheit (Redewendung)	Natur;Nomen;A1
+Wir besonders müssen endlich {{c1::verschwimmen::unklar werden, ineinander übergehen}}.	unklar werden, ineinander übergehen (regelmäßig)
+📖 Wenn aber die Grenzen zwischen Tag und Nacht verschwimmen, hat das Fol...
+🔗 ↑ unklar werden, ineinander übergehen
+📐 ich verschwimme | du verschwimmst | er/sie/es verschwimmt | wir verschwimmen | ihr verschwimmt | sie/Sie verschwimmen	Natur;Verb;A1
+Eine moderne {{c1::anno dazumal::damals, in der guten alten Zeit}} ist heute unverzichtbar.	damals, in der guten alten Zeit (der/die/das)
+📖 Die Lok schnauft gemütlich durch die Natur und vermittelt ein Fahrgefü...
+🔗 ↑ damals, in der guten alten Zeit	Natur;Nomen;A1
+Eine moderne jedoch {{c1::tunlichst::unbedingt (verstärkendes Adverb, oft als Warnung)}} ist heute unverzichtbar.	unbedingt (verstärkendes Adverb, oft als Warnung) (der/die/das)
+📖 ...und man eigentlich tunlichst nichts an den Felsen und der Landschaf...
+🔗 ↑ unbedingt (verstärkendes Adverb, oft als Warnung)	Natur;Nomen;A1
+Eine echt moderne {{c1::Meeresspiegel::Normalnull, Höhe der Meeresoberfläche}} ist heute unverzichtbar.	Normalnull, Höhe der Meeresoberfläche (der/die/das)
+📖 Mit rund 670 Metern über dem Meeresspiegel liegt Winterberg in durchsc...
+🔗 ↑ Normalnull, Höhe der Meeresoberfläche	Natur;Nomen;A1
+Wir sollten sofort {{c1::Unikalen::Einmaligen, Unersetzlichen}}.	Einmaligen, Unersetzlichen (regelmäßig)
+📖 Ein Fremdwort für etwas, das nur ein einziges Mal existiert.
+🔗 ↑ Einmaligen, Unersetzlichen
+📐 ich Unikale | du Unikalst | er/sie/es Unikalt | wir Unikalen | ihr Unikalt | sie/Sie Unikalen	Natur;Verb;A1
+Die {{c1::deportiert::zwangsweise verschleppt}} eignet sich für verschiedene Zwecke.	zwangsweise verschleppt (der/die/das)
+📖 Der Begriff für die staatliche Zwangsverschleppung von Menschen.
+⚡ der richtige Ort, ein schöner Ort
+🔗 ↑ zwangsweise verschleppt	Natur;Nomen;A1
+Eine leider moderne {{c1::Kulisse::Hintergrund, Landschaftsbild}} ist heute unverzichtbar.	Hintergrund, Landschaftsbild (der/die/das)
+📖 Eine Kulisse beschreibt hier die landschaftliche Umgebung.
+🔗 ↑ Hintergrund, Landschaftsbild	Natur;Nomen;A1
+Sie wahrscheinlich beginnt gleich zu {{c1::stehenlassen::hinnehmen, unkommentiert akzeptieren}}.	hinnehmen, unkommentiert akzeptieren (regelmäßig)
+📖 Eine Situation oder Aussage nicht einfach akzeptieren.
+🔗 ↑ hinnehmen, unkommentiert akzeptieren
+📐 ich stehenlasse | du stehenlassst | er/sie/es stehenlasst | wir stehenlassen | ihr stehenlasst | sie/Sie stehenlassen	Natur;Verb;A1
+Eine {{c1::Aushängeschild::Repräsentationsobjekt, Vorzeigeprojekt}} wäre hier sinnvoll.	Repräsentationsobjekt, Vorzeigeprojekt (der/die/das)
+📖 Etwas, womit man sich repräsentiert und worauf man stolz ist.
+🔗 ↑ Repräsentationsobjekt, Vorzeigeprojekt	Natur;Nomen;A1
+Wir sollten sofort {{c1::geflügelten Worten::bekannte, oft zitierte Sprüche}}.	bekannte, oft zitierte Sprüche (regelmäßig)
+📖 Ein Begriff für Zitate oder Redensarten, die in den allgemeinen Sprach...
+⚡ der richtige Ort, ein schöner Ort
+🔗 ↑ bekannte, oft zitierte Sprüche
+📐 ich geflügelten Worte | du geflügelten Wortst | er/sie/es geflügelten Wortt | wir geflügelten Worten | ihr geflügelten Wortt | sie/Sie geflügelten Worten	Natur;Verb;A1
+Die {{c1::zuhauf::in schon großen Mengen, massenhaft}} eignet sich für verschiedene Zwecke.	in großen Mengen, massenhaft (der/die/das)
+📖 Ein gehobenes Wort für „sehr viel“ oder „in Überfluss“.
+🔗 ↑ in großen Mengen, massenhaft	Natur;Nomen;A1
+Sie versucht seit Langem zu {{c1::Frust von der Seele zu reden::über ihre Sorgen und Enttäuschungen zu sprechen, um sich zu erleichtern}}.	über ihre Sorgen und Enttäuschungen zu sprechen, um sich zu erleichtern (regelmäßig)
+📖 Eine Metapher dafür, belastende Gedanken durch Reden loszuwerden.
+🔗 ↑ über ihre Sorgen und Enttäuschungen zu sprechen, um sich zu erleichtern
+📐 ich Frust von der Seele zu rede | du Frust von der Seele zu redst | er/sie/es Frust von der Seele zu redt | wir Frust von der Seele zu reden | ihr Frust von der Seele zu redt | sie/Sie Frust von der Seele zu reden	Natur;Verb;A1
+Die {{c1::Sand am Meer::in unzähliger Menge}} entwickelt sich ständig weiter.	in unzähliger Menge (der/die/das)
+📖 Eine Metapher für etwas, das in unbegrenzter, riesiger Menge vorhanden...
+🔗 ↑ in unzähliger Menge	Natur;Nomen;A1
+Die {{c1::Wogen geglättet::sich beruhigen, ein Konflikt lässt nach}} überrascht durch ihre Qualität.	sich beruhigen, ein Konflikt lässt nach (der/die/das)
+📖 Eine Metapher aus der Seefahrt dafür, dass sich ein Streit, Ärger oder...
+🔗 ↑ sich beruhigen, ein Konflikt lässt nach	Natur;Nomen;A1
+Eine {{c1::anhänglich::sehr liebesbedürftig, suchen ständig Nähe}} Geschichte erzählt sie gern.	sehr liebesbedürftig, suchen ständig Nähe ()
+📖 Ein Adjektiv für Tiere (oder Menschen), die stark an jemanden gebunden...
+🔗 ↑ sehr liebesbedürftig, suchen ständig Nähe	Natur;Adjektiv;A1
